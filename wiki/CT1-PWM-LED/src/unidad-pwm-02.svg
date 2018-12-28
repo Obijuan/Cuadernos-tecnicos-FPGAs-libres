@@ -3521,11 +3521,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="908.73975"
-     inkscape:cy="580.22001"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="936.3061"
+     inkscape:cy="459.65093"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1853"
      inkscape:window-height="1025"
@@ -3814,7 +3814,7 @@
          id="tspan2150-7-3-6-8-6-56-9"
          x="540.58862"
          y="-182.86072"
-         style="fill:#008000;stroke-width:0.21843871">CONT &lt; W2</tspan></text>
+         style="fill:#008000;stroke-width:0.21843871">CONT &gt; W2</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.24341297px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33108529"
