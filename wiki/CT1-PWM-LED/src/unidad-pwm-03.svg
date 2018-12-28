@@ -117,15 +117,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="708.58179"
+     inkscape:cx="207.15322"
      inkscape:cy="330.76175"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1853"
-     inkscape:window-height="1025"
-     inkscape:window-x="67"
-     inkscape:window-y="1051"
+     inkscape:window-width="1280"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -142,7 +142,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -289,6 +289,6 @@
          id="tspan2150-7-3-6-1-6-2"
          x="44.052578"
          y="169.7718"
-         style="fill:#008000;stroke-width:0.52899998;stroke-miterlimit:4;stroke-dasharray:none">Resolución</tspan></text>
+         style="fill:#008000;stroke-width:0.52899998;stroke-miterlimit:4;stroke-dasharray:none">Prescalado</tspan></text>
   </g>
 </svg>
