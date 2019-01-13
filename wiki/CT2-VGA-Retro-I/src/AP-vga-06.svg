@@ -161,11 +161,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="987.26928"
-     inkscape:cy="690.72541"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="407.72162"
+     inkscape:cy="356.17139"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1853"
      inkscape:window-height="1025"
@@ -6925,5 +6925,79 @@ im3H5/8A9Xf/2Q==
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:nodetypes="cc" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.58324957;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2045-2"
+       width="102.17007"
+       height="9.75354"
+       x="11.293812"
+       y="104.99204"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/AP-vga-09.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.71180725px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458341"
+       x="139.87497"
+       y="90.144608"
+       id="text829-3-3-5-6"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/AP-vga-09.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan827-6-6-6-1"
+         x="139.87497"
+         y="90.144608"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458341">GND</tspan><tspan
+         sodipodi:role="line"
+         x="139.87497"
+         y="108.53436"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458341"
+         id="tspan2080-8" /></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.49136889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2045-2-7"
+       width="102.01192"
+       height="16.344282"
+       x="10.525222"
+       y="77.41169"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/AP-vga-09.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.32291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 112.52047,85.055264 H 137.6438"
+       id="path7662"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/AP-vga-09.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 112.52047,108.86776 H 137.6438"
+       id="path7662-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/AP-vga-09.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.71180725px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458341"
+       x="144.02113"
+       y="111.93911"
+       id="text829-3-3-5-2"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/AP-vga-09.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan827-6-6-6-0"
+         x="144.02113"
+         y="111.93911"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458341">Conexión a la</tspan><tspan
+         sodipodi:role="line"
+         x="144.02113"
+         y="130.32887"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458341"
+         id="tspan2080-2">icezum Alhambra</tspan></text>
   </g>
 </svg>
