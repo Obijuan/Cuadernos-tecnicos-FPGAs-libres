@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="486.42813mm"
+   height="210.69061mm"
+   viewBox="0 0 486.42814 210.69061"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="vga-retro-01.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4297"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-3-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4297-6"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-2-9-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6215-9-3-7"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-2-9-69"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6215-9-3-3"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-2-9-6-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6215-9-3-1-2"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-2-9-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6215-9-3-1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-2-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6215-9-3"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6215-9"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6215"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-2-9-6-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6215-9-3-1-0"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.43959526"
+     inkscape:cx="586.50769"
+     inkscape:cy="492.9218"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="back"
+     transform="translate(42.156598,10.680266)"
+     style="display:inline">
+    <rect
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.8081612;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect10161"
+       width="486.42813"
+       height="210.69061"
+       x="-42.156597"
+       y="-10.680267"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline;opacity:1"
+     transform="translate(37.128685,-35.165028)">
+    <rect
+       ry="3.2787335"
+       y="76.090446"
+       x="43.363022"
+       height="115.24912"
+       width="69.017059"
+       id="rect861-7"
+       style="display:inline;opacity:1;fill:#c0dfeb;fill-opacity:1;stroke:#777777;stroke-width:1.00322902;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path865-3-3"
+       d="M 25.755096,133.98677 H 43.223534"
+       style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:1.50161314;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path865-3-6-5"
+       d="M 112.12319,156.70318 H 118.786"
+       style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:1.6461494;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;opacity:1;fill:#fbfbc9;fill-opacity:1;stroke:#777777;stroke-width:0.79539889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect948-6"
+       width="11.578589"
+       height="11.88391"
+       x="14.31551"
+       y="127.84398"
+       ry="2.8086088"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.0028801px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#777777;fill-opacity:1;stroke:none;stroke-width:0.19884972"
+       x="27.004686"
+       y="129.55434"
+       id="text986-8-2"
+       transform="scale(0.99894541,1.0010557)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan984-5-7"
+         x="27.004686"
+         y="129.55434"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#777777;stroke-width:0.19884972">cnt</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#58595a;stroke-width:0.59654921;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 43.488905,128.68911 6.726453,5.33636 -6.726453,5.61722"
+       id="path866-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.0028801px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#777777;fill-opacity:1;stroke:none;stroke-width:0.19884972"
+       x="115.70843"
+       y="151.76456"
+       id="text986-8-0-9"
+       transform="scale(0.99894541,1.0010557)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan984-5-9-3"
+         x="115.70843"
+         y="151.76456"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#777777;stroke-width:0.19884972">visible</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path865-3-6-3-6"
+       d="m 112.12319,179.88453 h 6.04752"
+       style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:2.61046481;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.0028801px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#777777;fill-opacity:1;stroke:none;stroke-width:0.19884972"
+       x="115.88441"
+       y="173.13599"
+       id="text986-8-0-6-0"
+       transform="scale(0.99894541,1.0010557)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan984-5-9-0-6"
+         x="115.88441"
+         y="173.13599"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#777777;stroke-width:0.19884972">vhs[1:0]</tspan></text>
+    <path
+       d="m 74.685374,162.75199 c -0.819424,-1.40975 -2.0897,-2.7901 -4.4968,-4.88598 -1.303967,-1.13518 -2.097195,-1.76562 -6.613333,-5.25435 -3.539568,-2.73506 -5.305614,-4.25241 -7.352282,-6.31761 -2.045416,-2.06523 -3.247733,-3.71015 -4.279171,-5.85479 -0.658517,-1.36973 -1.11126,-2.68942 -1.393124,-4.06038 -0.357322,-1.74186 -0.405968,-2.33166 -0.404097,-4.89661 0.0023,-3.36551 0.113491,-3.92529 1.218524,-6.17064 0.821287,-1.66744 1.444886,-2.54556 2.743851,-3.86462 1.261555,-1.28028 2.080337,-1.86195 3.851378,-2.73757 1.967468,-0.97319 3.390527,-1.22837 6.322087,-1.13393 2.278019,0.0738 3.111778,0.30021 4.917739,1.3397 2.842382,1.63554 5.048085,4.26115 5.658586,6.73603 0.09982,0.40466 0.202661,0.73616 0.228853,0.73616 0.02618,0 0.256307,-0.47346 0.511358,-1.052 0.868052,-1.96703 1.67438,-3.16726 2.955259,-4.40188 3.921831,-3.78143 10.104872,-4.46505 15.104303,-1.67119 2.041658,1.14082 3.702943,2.80199 4.990071,4.9898 1.013337,1.72184 1.531564,4.00911 1.620104,7.15071 0.12785,4.55135 -0.704661,7.70549 -2.920328,11.0666 -0.879287,1.33409 -1.529701,2.14217 -2.749461,3.41556 -1.968095,2.05584 -3.742863,3.5669 -7.93286,6.75356 -2.644083,2.01079 -4.211191,3.30358 -6.479228,5.34754 -1.817811,1.63742 -4.634008,4.48819 -4.905272,4.96478 -0.118488,0.20827 -0.225735,0.3784 -0.238213,0.3784 -0.0125,0 -0.173364,-0.25956 -0.357944,-0.57729 z"
+       id="path8"
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:#008000;stroke:#000000;stroke-width:0.89527726;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       y="137.9949"
+       x="61.013161"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.52945232px;line-height:0%;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0;word-spacing:0;display:inline;fill:#ffffff;stroke-width:0.3183195"
+       font-weight="400"
+       font-size="27.48"
+       letter-spacing="0"
+       word-spacing="0"
+       id="text4204-3-7"
+       transform="scale(0.99852718,1.001475)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:0.3183195"
+         id="tspan857">60Hz</tspan>
+    </text>
+    <text
+       y="176.1226"
+       x="59.137634"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.34108734px;line-height:0%;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0;word-spacing:0;display:inline;fill:#008000;stroke-width:0.31831944"
+       font-weight="400"
+       font-size="27.48"
+       letter-spacing="0"
+       word-spacing="0"
+       id="text4204-3-3"
+       transform="scale(0.99852718,1.001475)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15.05218697px;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#008000;stroke-width:0.31831944"
+         y="176.1226"
+         x="59.137634"
+         font-weight="700"
+         font-size="15.703"
+         id="tspan4206-6-56">Sync</tspan>
+    </text>
+    <text
+       y="111.95139"
+       x="59.729446"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.34108734px;line-height:0%;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0;word-spacing:0;display:inline;fill:#008000;stroke-width:0.31831944"
+       font-weight="400"
+       font-size="27.48"
+       letter-spacing="0"
+       word-spacing="0"
+       id="text4204-3-7-3"
+       transform="scale(0.99852718,1.001475)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15.05218697px;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#008000;stroke-width:0.31831944"
+         y="111.95139"
+         x="59.729446"
+         font-weight="700"
+         font-size="15.703"
+         id="tspan4206-6-5-6">VGA</tspan>
+    </text>
+    <text
+       y="145.5415"
+       x="61.906033"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.8357482px;line-height:0%;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0;word-spacing:0;display:inline;fill:#ffffff;stroke-width:0.3183195"
+       font-weight="400"
+       font-size="27.48"
+       letter-spacing="0"
+       word-spacing="0"
+       id="text4204-3-7-5"
+       transform="scale(0.99852718,1.001475)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:0.3183195"
+         id="tspan857-3">256x240</tspan>
+    </text>
+    <g
+       style="display:inline"
+       id="g992-3-6"
+       transform="matrix(0.54358223,0,0,0.54358223,43.339594,56.264027)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <circle
+         r="14.559162"
+         cy="73.815468"
+         cx="100.60208"
+         id="path992-2-6-1"
+         style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#008000;stroke-width:0.60844254;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path1773-2-3-1-8-9-7-29"
+         d="m 106.97785,82.141683 h -3.35236 V 63.316223 H 97.540294 V 81.99432 h -3.65214"
+         style="fill:none;stroke:#008000;stroke-width:1.52110636;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path865-3-6-3-6-3"
+       d="m 112.12319,133.64201 h 6.60691"
+       style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:2.72852683;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path865-3-6-3-6-3-1"
+       d="m 112.12319,110.27214 h 6.60691"
+       style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:2.72852683;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path865-3-6-5-9"
+       d="M 112.12319,87.090784 H 118.786"
+       style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:1.64614952;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.0028801px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#777777;fill-opacity:1;stroke:none;stroke-width:0.19884972"
+       x="115.88441"
+       y="127.19059"
+       id="text986-8-0-6-0-4"
+       transform="scale(0.99894541,1.0010557)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan984-5-9-0-6-7"
+         x="115.88441"
+         y="127.19059"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#777777;stroke-width:0.19884972">hpos[7:0]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.0028801px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#777777;fill-opacity:1;stroke:none;stroke-width:0.19884972"
+       x="115.88441"
+       y="103.59701"
+       id="text986-8-0-6-0-4-8"
+       transform="scale(0.99894541,1.0010557)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan984-5-9-0-6-7-4"
+         x="115.88441"
+         y="103.59701"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#777777;stroke-width:0.19884972">vpos[7:0]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.0028801px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#777777;fill-opacity:1;stroke:none;stroke-width:0.19884972"
+       x="115.45954"
+       y="82.72229"
+       id="text986-8-0-9-5"
+       transform="scale(0.99894541,1.0010557)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan984-5-9-3-0"
+         x="115.45954"
+         y="82.72229"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#777777;stroke-width:0.19884972">endframe</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.19235706px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="244.55812"
+       y="64.414925"
+       id="text1488"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="244.55812"
+         y="64.414925"
+         style="stroke-width:0.26458332"
+         id="tspan1490">Tic de fin de frame</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 123.70321,180.84362 45.75121,34.36283 34.22337,-0.39872 v 0"
+       id="path1492"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.19235706px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="3.6203988"
+       y="73.652557"
+       id="text1488-3"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1486-5"
+         x="4.794909"
+         y="73.652557"
+         style="stroke-width:0.26458332">Reloj del </tspan><tspan
+         sodipodi:role="line"
+         x="3.6203988"
+         y="86.393005"
+         style="stroke-width:0.26458332"
+         id="tspan1490-6">sistema</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-2)"
+       d="M 2.5403141,90.242762 14.764304,119.48775"
+       id="path1492-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-2-9)"
+       d="m 142.51401,156.55016 28.52021,-3.1538"
+       id="path1492-1-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-2-9-6)"
+       d="m 160.81198,102.10956 28.07458,-8.231284"
+       id="path1492-1-6-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-2-9-6-0)"
+       d="M 164.04383,81.113336 193.08041,63.022724"
+       id="path1492-1-6-8-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.19235706px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="302.87927"
+       y="97.474297"
+       id="text1488-3-0-7-0"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="302.87927"
+         y="97.474297"
+         style="stroke-width:0.26458332"
+         id="tspan1490-6-2-2-3">Posición vertical (y) del haz VGA. Valor: 0 - 239</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-2-9-6-2)"
+       d="m 160.62732,126.39123 26.37221,-3.97535"
+       id="path1492-1-6-8-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.19235706px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="307.08405"
+       y="125.14454"
+       id="text1488-3-0-7-0-1"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="307.08405"
+         y="125.14454"
+         style="stroke-width:0.26458332"
+         id="tspan1490-6-2-2-3-5">Posición horizontal (x) del haz VGA. Valor: 0 - 255</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.19235706px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="183.31111"
+       y="155.78053"
+       id="text1488-3-0-5"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="183.31111"
+         y="155.78053"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332"
+         id="tspan1490-6-2-7">Indica si el haz está en zona visible:</tspan><tspan
+         sodipodi:role="line"
+         x="183.31111"
+         y="168.52098"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332"
+         id="tspan5898">0: En zona no visible</tspan><tspan
+         sodipodi:role="line"
+         x="183.31111"
+         y="181.26143"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332"
+         id="tspan5900">1: En zona visible</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.19235706px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="215.45682"
+       y="216.6571"
+       id="text1488-65"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="215.45682"
+         y="216.6571"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332"
+         id="tspan1490-69">Señales de sincronismo vertical y horizontal</tspan><tspan
+         sodipodi:role="line"
+         x="215.45682"
+         y="229.39755"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332"
+         id="tspan6352">(VS y HS)</tspan></text>
+  </g>
+</svg>
