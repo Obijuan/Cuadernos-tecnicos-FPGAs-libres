@@ -366,6 +366,38 @@
             "width": 88,
             "height": 32
           }
+        },
+        {
+          "id": "55435491-9019-4a19-bbff-640a8c983476",
+          "type": "basic.info",
+          "data": {
+            "info": "## Plantilla\n\nPlantilla con los elementos necesarios para  \nempezar nuestros proyectos VGA-RETRO  \nConfigurado para la placa **AP-VGA** en una **Alhambra-II**",
+            "readonly": true
+          },
+          "position": {
+            "x": 392,
+            "y": 16
+          },
+          "size": {
+            "width": 488,
+            "height": 104
+          }
+        },
+        {
+          "id": "7e1447c5-ee9e-40b0-ae79-62274995a4c6",
+          "type": "basic.info",
+          "data": {
+            "info": "**Bit del canal verde**:  \n0: Pixel negro (apagado)  \n1: Pixel verde (Máxima intensidad)",
+            "readonly": true
+          },
+          "position": {
+            "x": 624,
+            "y": 184
+          },
+          "size": {
+            "width": 264,
+            "height": 64
+          }
         }
       ],
       "wires": [
@@ -424,13 +456,7 @@
           "target": {
             "block": "f9e78ec2-6bbe-4277-8ce3-0d31c36a8e39",
             "port": "cf3b4c7c-042a-45f7-b958-990d7157f928"
-          },
-          "vertices": [
-            {
-              "x": 728,
-              "y": 320
-            }
-          ]
+          }
         }
       ]
     }
