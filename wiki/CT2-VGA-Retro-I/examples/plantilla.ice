@@ -447,16 +447,6 @@
           },
           "vertices": [],
           "size": 2
-        },
-        {
-          "source": {
-            "block": "101ee247-8fc8-40f6-98b0-5d689a03848e",
-            "port": "d344f875-437c-4f2b-bda9-841f321f5930"
-          },
-          "target": {
-            "block": "f9e78ec2-6bbe-4277-8ce3-0d31c36a8e39",
-            "port": "cf3b4c7c-042a-45f7-b958-990d7157f928"
-          }
         }
       ]
     }
