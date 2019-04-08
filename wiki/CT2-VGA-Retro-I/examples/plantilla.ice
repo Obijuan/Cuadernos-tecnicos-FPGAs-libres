@@ -398,6 +398,22 @@
             "width": 264,
             "height": 64
           }
+        },
+        {
+          "id": "566a311e-18d7-4127-90a9-a84061ccc07e",
+          "type": "basic.info",
+          "data": {
+            "info": "**Canales Azul y Rojo desactivados**",
+            "readonly": true
+          },
+          "position": {
+            "x": 880,
+            "y": 328
+          },
+          "size": {
+            "width": 288,
+            "height": 32
+          }
         }
       ],
       "wires": [
