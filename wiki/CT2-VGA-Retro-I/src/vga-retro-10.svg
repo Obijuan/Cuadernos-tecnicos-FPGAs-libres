@@ -461,18 +461,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="513.62353"
-     inkscape:cy="430.47059"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="1101.7419"
+     inkscape:cy="359.90258"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1853"
-     inkscape:window-height="1025"
-     inkscape:window-x="67"
-     inkscape:window-y="1051"
+     inkscape:window-width="1280"
+     inkscape:window-height="996"
+     inkscape:window-x="320"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
      fit-margin-top="0"
@@ -503,7 +503,7 @@
        height="235.57977"
        x="6.949008"
        y="18.060358"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
   </g>
@@ -520,7 +520,7 @@
        height="160.6689"
        x="24.234989"
        y="41.410557"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
   </g>
@@ -534,7 +534,7 @@
        d="M -5.1108354,2.9865172 H 160.74736"
        id="path827"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -543,7 +543,7 @@
        x="58.782291"
        y="-2.2366669"
        id="text1197"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -556,7 +556,7 @@
        d="M -6.7729652,-0.19145883 V 11.926211"
        id="path1203-3"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -564,7 +564,7 @@
        d="M 171.98081,165.81767 V 18.87523"
        id="path827-5"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <circle
@@ -573,7 +573,7 @@
        cx="-4.6048861"
        cy="169.93307"
        r="2.456845"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -582,7 +582,7 @@
        id="path2527-8-7-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -590,7 +590,7 @@
        d="M 163.82909,1.4121693 V 11.926222"
        id="path1203-3-6"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -598,7 +598,7 @@
        d="m 186.9479,11.926222 -23.34299,1e-5"
        id="path1203-3-9-7"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -606,7 +606,7 @@
        d="m 187.17207,172.59509 -23.34299,1e-5"
        id="path1203-3-9-7-5"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -616,7 +616,7 @@
        y="182.51288"
        id="text1197-6-3"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -629,7 +629,7 @@
        d="M 78.528015,13.64821 V 200.2394"
        id="path1203-3-62"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -637,7 +637,7 @@
        d="M -4.9195952,27.368728 H 76.838805"
        id="path827-0"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -646,7 +646,7 @@
        x="26.709965"
        y="23.410074"
        id="text1197-9"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -659,7 +659,7 @@
        d="M 80.339385,27.368724 H 162.09779"
        id="path827-0-1"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -668,7 +668,7 @@
        x="111.96893"
        y="22.654116"
        id="text1197-9-8"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -682,7 +682,7 @@
        x="-17.17947"
        y="181.37352"
        id="text1197-9-9"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -696,7 +696,7 @@
        cx="74.959106"
        cy="169.93307"
        r="2.456845"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <circle
@@ -705,7 +705,7 @@
        cx="82.140656"
        cy="169.93307"
        r="2.456845"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <circle
@@ -714,7 +714,7 @@
        cx="160.98517"
        cy="169.93307"
        r="2.456845"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -723,7 +723,7 @@
        x="41.784794"
        y="182.12946"
        id="text1197-9-9-5"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -737,7 +737,7 @@
        x="81.094299"
        y="182.12946"
        id="text1197-9-9-5-2"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -751,7 +751,7 @@
        x="-21.715206"
        y="192.33481"
        id="text1197-9-9-8"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -767,7 +767,7 @@
        x="41.784763"
        y="192.33481"
        id="text1197-9-9-8-3"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -783,7 +783,7 @@
        x="81.094299"
        y="192.33481"
        id="text1197-9-9-8-3-1"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -799,7 +799,7 @@
        x="144.18909"
        y="180.68633"
        id="text1197-9-9-5-2-9"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -813,7 +813,7 @@
        x="-2.7406282"
        y="139.1071"
        id="text821-9-9-1"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -829,7 +829,7 @@
        x="21.412022"
        y="152.58104"
        id="text821-9-9-1-4"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -845,7 +845,7 @@
        id="path2527-8-7-1-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -854,7 +854,7 @@
        x="23.137119"
        y="54.841061"
        id="text1197-9-9-8-36"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -868,7 +868,7 @@
        x="8.9211149"
        y="73.151459"
        id="text1197-9-9-0"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -882,7 +882,7 @@
        x="86.42926"
        y="73.151459"
        id="text1197-9-9-0-3"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -896,7 +896,7 @@
        x="107.05975"
        y="54.841061"
        id="text1197-9-9-8-36-0"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -924,7 +924,7 @@
        x="9.5713835"
        y="87.704185"
        id="text1197-9-9-0-5"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -938,7 +938,7 @@
        x="90.836243"
        y="87.704185"
        id="text1197-9-9-0-5-7"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -952,7 +952,7 @@
        x="19.934513"
        y="102.06728"
        id="text1197-9-9-0-5-5"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -966,7 +966,7 @@
        x="99.6875"
        y="102.82323"
        id="text1197-9-9-0-5-5-3"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -980,7 +980,7 @@
        x="143.83832"
        y="190.97948"
        id="text1197-9-9-8-3-1-4"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -996,7 +996,7 @@
        id="path2527-8-7-1-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -1005,7 +1005,7 @@
        x="82.037323"
        y="138.09174"
        id="text821-9-9-1-7"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -1021,7 +1021,7 @@
        id="path2527-8-7-1-0-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -1030,7 +1030,7 @@
        x="98.667603"
        y="151.69888"
        id="text821-9-9-1-4-7"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-07.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT2-VGA-Retro-I/vga-retro-20.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
