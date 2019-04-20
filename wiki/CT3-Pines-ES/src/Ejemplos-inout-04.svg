@@ -712,7 +712,7 @@
      inkscape:cx="712.26372"
      inkscape:cy="389.60818"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1853"
      inkscape:window-height="1025"
@@ -740,8 +740,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="back"
-     transform="translate(75.458931,67.931221)"
-     sodipodi:insensitive="true">
+     transform="translate(75.458931,67.931221)">
     <rect
        style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79575282;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect10161"
@@ -749,7 +748,7 @@
        height="221.8631"
        x="-75.458931"
        y="-67.931221"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT3-Pines-ES/inout-06.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT3-Pines-ES/inout-07.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
   </g>
