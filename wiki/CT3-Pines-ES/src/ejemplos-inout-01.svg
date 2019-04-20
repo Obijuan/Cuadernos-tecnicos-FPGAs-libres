@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.3591689"
-     inkscape:cx="917.60778"
-     inkscape:cy="480.53168"
+     inkscape:zoom="0.50794153"
+     inkscape:cx="433.58843"
+     inkscape:cy="514.37238"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -5166,7 +5166,7 @@ EC1VEyitRGmoPl5lbMdiALP/2Q==
     </g>
     <g
        id="g1537"
-       transform="translate(298.94388,-59.549171)"
+       transform="translate(288.99905,-60.101662)"
        inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT3-Pines-ES/inout-02.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -5415,5 +5415,76 @@ EC1VEyitRGmoPl5lbMdiALP/2Q==
          x="429.13388"
          sodipodi:role="line"
          id="tspan1001-5-9-3-1-9">D12</tspan></text>
+    <g
+       id="g1537-2"
+       transform="translate(185.49911,40.267493)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT3-Pines-ES/inout-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g1720"
+         transform="translate(188.58352,36.464391)">
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT1-PWM-LED/bloque-ej-02.png"
+           sodipodi:nodetypes="cccccccc"
+           inkscape:connector-curvature="0"
+           id="rect4653-9-3-5-3-6-2-6-5-0"
+           d="m 43.100908,111.07205 4.8586,7.71161 h 16.245051 v 10.61431 H 22.213457 v -10.61431 h 16.950321 z"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.52899998;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT1-PWM-LED/bloque-ej-02.png"
+           id="text4657-1-6-3-5-7-7-3-2"
+           y="125.46625"
+           x="24.035189"
+           style="font-style:normal;font-weight:normal;font-size:5.83581543px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332"
+             y="125.46625"
+             x="24.035189"
+             sodipodi:role="line"
+             id="tspan1001-5-0-5-3">Protoboard</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.83581543px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="27.71846"
+         y="123.6672"
+         id="text4657-1-6-3-5-7-7-3-3-7"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT1-PWM-LED/bloque-ej-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           id="tspan1001-5-0-5-6-5"
+           sodipodi:role="line"
+           x="27.71846"
+           y="128.83052"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332" /></text>
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT3-Pines-ES/inout-02.png"
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect4653-9-3-5-3-6-6-0-2-9"
+         d="m 202.2767,29.02792 -9.30193,-7.702026 h -12.39824 v -9.015118 h 19.30982 v 9.015118 0 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5498113;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT3-Pines-ES/inout-02.png"
+         id="text4657-1-6-3-5-7-2-9-6-2"
+         y="18.873592"
+         x="182.04189"
+         style="font-style:normal;font-weight:normal;font-size:5.83581543px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332"
+           y="18.873592"
+           x="182.04189"
+           sodipodi:role="line"
+           id="tspan1001-5-9-3-1-2">LED7</tspan></text>
+    </g>
   </g>
 </svg>
