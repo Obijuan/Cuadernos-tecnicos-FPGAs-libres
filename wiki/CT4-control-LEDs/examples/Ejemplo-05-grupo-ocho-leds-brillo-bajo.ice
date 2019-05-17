@@ -71,7 +71,7 @@
           "type": "basic.constant",
           "data": {
             "name": "Nivel Brillo",
-            "value": "10",
+            "value": "20",
             "local": false
           },
           "position": {
