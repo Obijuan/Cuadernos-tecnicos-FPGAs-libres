@@ -194,6 +194,22 @@
             "width": 216,
             "height": 40
           }
+        },
+        {
+          "id": "8b1d6c7c-9e9b-4436-a50c-6250d5aff88c",
+          "type": "basic.info",
+          "data": {
+            "info": "Consigna de  \nbrillo",
+            "readonly": true
+          },
+          "position": {
+            "x": -96,
+            "y": 136
+          },
+          "size": {
+            "width": 128,
+            "height": 48
+          }
         }
       ],
       "wires": [
