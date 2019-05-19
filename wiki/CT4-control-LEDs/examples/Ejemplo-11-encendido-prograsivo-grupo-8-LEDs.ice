@@ -178,6 +178,22 @@
             "width": 160,
             "height": 48
           }
+        },
+        {
+          "id": "8a2a520a-d2a4-44bf-beff-9bc8ac11c84b",
+          "type": "basic.info",
+          "data": {
+            "info": "**Bloque brillo-gradual**",
+            "readonly": true
+          },
+          "position": {
+            "x": 56,
+            "y": 248
+          },
+          "size": {
+            "width": 216,
+            "height": 40
+          }
         }
       ],
       "wires": [
