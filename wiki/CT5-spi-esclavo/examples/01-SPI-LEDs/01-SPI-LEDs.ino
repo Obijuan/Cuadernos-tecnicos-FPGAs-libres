@@ -7,7 +7,7 @@ void setup() {
 
   //-- Inicializar SPI
   SPI.begin();
-  SPI.beginTransaction (SPISettings (4000000, MSBFIRST, SPI_MODE0));
+  SPI.beginTransaction (SPISettings (2000000, MSBFIRST, SPI_MODE0));
 
 }
 
