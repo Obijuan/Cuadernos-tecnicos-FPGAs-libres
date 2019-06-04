@@ -1,5 +1,5 @@
 [General]
-decode_signals=1
+decode_signals=2
 views=1
 
 [D0]
@@ -68,6 +68,7 @@ channel1\name=MISO
 channel2\assigned_signal_name=MOSI
 channel2\initial_pin_state=2
 channel2\name=MOSI
+channel3\assigned_signal_name=SS
 channel3\initial_pin_state=2
 channel3\name=CS#
 channels=4
@@ -75,10 +76,33 @@ color=4281510450
 conv_options=0
 conversion_type=0
 decoder0\id=spi
-decoder0\options=0
+decoder0\option0\name=cpha
+decoder0\option0\type=x
+decoder0\option0\value=@ByteArray(\0\0\0\0\0\0\0\0)
+decoder0\options=1
 decoders=1
 enabled=true
 name=SPI
+
+[decode_signal1]
+channel0\assigned_signal_name=SCLK
+channel0\initial_pin_state=2
+channel0\name=Data
+channels=1
+color=4286722730
+conv_options=0
+conversion_type=0
+decoder0\id=timing
+decoder0\option0\name=avg_period
+decoder0\option0\type=x
+decoder0\option0\value=@ByteArray(\0\0\0\0\0\0\0\0)
+decoder0\option1\name=edge
+decoder0\option1\type=s
+decoder0\option1\value=@ByteArray(rising\0)
+decoder0\options=2
+decoders=1
+enabled=true
+name=Timing
 
 [view0]
 D0\trace_height=30
@@ -89,8 +113,8 @@ D4\trace_height=30
 D5\trace_height=30
 D6\trace_height=30
 D7\trace_height=30
-offset=22 serialization::archive 10 0 0 0 0 315 87166382 73708040 87952410 59927150 4546700 -8 1 0 6
-scale=3.54911981828507e-08
+offset=22 serialization::archive 10 0 0 0 0 143 85497897 20742326 39099348 82097407 36402230 -8 0 0 6
+scale=3.11582535487303e-09
 segment_display_mode=1
-splitter_state=@ByteArray(\0\0\0\xff\0\0\0\x1\0\0\0\x2\0\0\0S\0\0\x3N\x1\0\0\0\x1\x1\0\0\0\x1\0)
-v_offset=-16
+splitter_state=@ByteArray(\0\0\0\xff\0\0\0\x1\0\0\0\x2\0\0\0S\0\0\x2\xbb\x1\0\0\0\x1\x1\0\0\0\x1\0)
+v_offset=-12
