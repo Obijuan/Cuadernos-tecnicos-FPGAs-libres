@@ -12,26 +12,6 @@
     "graph": {
       "blocks": [
         {
-          "id": "9825c300-6b90-42a0-938a-216cb9fbcbdc",
-          "type": "basic.input",
-          "data": {
-            "name": "MOSI",
-            "pins": [
-              {
-                "index": "0",
-                "name": "D11",
-                "value": "21"
-              }
-            ],
-            "virtual": false,
-            "clock": false
-          },
-          "position": {
-            "x": 464,
-            "y": 112
-          }
-        },
-        {
           "id": "6eb027bd-91e5-4fe0-bca4-708d3c38061b",
           "type": "basic.output",
           "data": {
@@ -47,7 +27,7 @@
           },
           "position": {
             "x": 840,
-            "y": 112
+            "y": 184
           }
         },
         {
@@ -103,6 +83,26 @@
           "position": {
             "x": 1952,
             "y": 192
+          }
+        },
+        {
+          "id": "9825c300-6b90-42a0-938a-216cb9fbcbdc",
+          "type": "basic.input",
+          "data": {
+            "name": "MOSI",
+            "pins": [
+              {
+                "index": "0",
+                "name": "D11",
+                "value": "21"
+              }
+            ],
+            "virtual": false,
+            "clock": false
+          },
+          "position": {
+            "x": 464,
+            "y": 200
           }
         },
         {
@@ -294,8 +294,8 @@
             "readonly": true
           },
           "position": {
-            "x": 448,
-            "y": 72
+            "x": 464,
+            "y": 168
           },
           "size": {
             "width": 152,
@@ -311,7 +311,7 @@
           },
           "position": {
             "x": 848,
-            "y": 64
+            "y": 152
           },
           "size": {
             "width": 136,
@@ -517,12 +517,7 @@
             "block": "1c5d60bd-6c76-4c67-9759-4c49c225d39f",
             "port": "a67ea242-3ff4-49eb-8647-32d838646f4f"
           },
-          "vertices": [
-            {
-              "x": 600,
-              "y": 160
-            }
-          ]
+          "vertices": []
         },
         {
           "source": {
