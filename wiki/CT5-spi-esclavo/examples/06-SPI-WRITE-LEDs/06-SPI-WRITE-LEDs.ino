@@ -28,17 +28,6 @@ void write_LEDs(uint8_t value)
   digitalWrite(SS, HIGH);
 }
 
-void falso(uint8_t value)
-{
-  digitalWrite(SS, LOW);
-
-  //-- Enviar el codigo de comando
-  SPI.transfer(0x20);
-
-  //-- Enviar el valor para los LEDs
-  SPI.transfer(value); 
-  digitalWrite(SS, HIGH);
-}
 
 void loop() {
 
@@ -50,8 +39,7 @@ void loop() {
   write_LEDs(0x55);
   delay(500);
 
-  //-- Enviar un comando falso
-  falso(0x40);
+  //-- Sacar 0x0F por los LEDs
   write_LEDs(0x0F);
   delay(500);
 }
