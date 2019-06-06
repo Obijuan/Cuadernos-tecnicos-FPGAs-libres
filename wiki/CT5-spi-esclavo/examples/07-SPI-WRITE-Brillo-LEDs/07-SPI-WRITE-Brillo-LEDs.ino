@@ -6,6 +6,9 @@
 //-- Comando WRITE_LEDS
 #define WLEDS 0x40
 
+//-- Comando BRILLO_LEDS  
+#define BLEDS 0x50
+
 void setup() {
 
   //-- Inicializar SPI
@@ -29,18 +32,39 @@ void write_LEDs(uint8_t value)
   digitalWrite(SS, HIGH);
 }
 
+void brillo_LEDs(uint8_t value)
+{
+  digitalWrite(SS, LOW);
 
-void loop() {
+  //-- Enviar el codigo de comando
+  SPI.transfer(BLEDS);
+
+  //-- Enviar el valor para los LEDs
+  SPI.transfer(value);
+   
+  digitalWrite(SS, HIGH);
+}
+
+
+void loop() 
+{
+
+  write_LEDs(0xFF);
+  brillo_LEDs(255);
+  delay(500);
 
   //-- Sacar valor 0xAA por los LEDs
-  write_LEDs(0xAA);
+  write_LEDs(0x3F);
+  brillo_LEDs(100);
   delay(500);
 
   //-- Sacar valor 0x55 por los LEDs
-  write_LEDs(0x55);
+  write_LEDs(0x0F);
+  brillo_LEDs(20);
   delay(500);
 
   //-- Sacar 0x0F por los LEDs
-  write_LEDs(0x0F);
+  write_LEDs(0x03);
+  brillo_LEDs(5);
   delay(500);
 }
