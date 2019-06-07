@@ -39,7 +39,7 @@ void brillo_LEDs(uint8_t value)
   //-- Enviar el codigo de comando
   SPI.transfer(BLEDS);
 
-  //-- Enviar el valor para los LEDs
+  //-- Enviar el valor del brillo
   SPI.transfer(value);
    
   digitalWrite(SS, HIGH);
