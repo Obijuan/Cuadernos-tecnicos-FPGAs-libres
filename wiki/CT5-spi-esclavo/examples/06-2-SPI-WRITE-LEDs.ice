@@ -324,18 +324,6 @@
           }
         },
         {
-          "id": "94c3e234-d2c4-4354-b28f-17631f6ad498",
-          "type": "e3350037376249696e5c5a0e5bf7fcd1f07814d2",
-          "position": {
-            "x": 976,
-            "y": 304
-          },
-          "size": {
-            "width": 96,
-            "height": 128
-          }
-        },
-        {
           "id": "f926e7eb-f46f-4cb6-938a-f09eba18cd89",
           "type": "basic.info",
           "data": {
@@ -349,6 +337,18 @@
           "size": {
             "width": 144,
             "height": 40
+          }
+        },
+        {
+          "id": "aa664145-de35-47a4-8ecb-ba02f1ec4673",
+          "type": "51d7d07fa5d5d9893e43ba0ff825abce26cc5840",
+          "position": {
+            "x": 976,
+            "y": 304
+          },
+          "size": {
+            "width": 96,
+            "height": 128
           }
         }
       ],
@@ -417,13 +417,13 @@
             "port": "constant-out"
           },
           "target": {
-            "block": "94c3e234-d2c4-4354-b28f-17631f6ad498",
+            "block": "aa664145-de35-47a4-8ecb-ba02f1ec4673",
             "port": "c875d3e9-7fed-4f53-b957-cc01ef8b80a5"
           }
         },
         {
           "source": {
-            "block": "94c3e234-d2c4-4354-b28f-17631f6ad498",
+            "block": "aa664145-de35-47a4-8ecb-ba02f1ec4673",
             "port": "cab46ae9-c5bb-4707-8644-4796547e9c08"
           },
           "target": {
@@ -434,7 +434,7 @@
         },
         {
           "source": {
-            "block": "94c3e234-d2c4-4354-b28f-17631f6ad498",
+            "block": "aa664145-de35-47a4-8ecb-ba02f1ec4673",
             "port": "daa587f6-62ec-4a44-b6a7-127bd228c4dd"
           },
           "target": {
@@ -448,7 +448,7 @@
             "port": "9c4e6a55-2e25-4664-b90a-6fa81c8113f1"
           },
           "target": {
-            "block": "94c3e234-d2c4-4354-b28f-17631f6ad498",
+            "block": "aa664145-de35-47a4-8ecb-ba02f1ec4673",
             "port": "7adc16cc-9f3a-4913-83eb-b3cf1eeef5e8"
           }
         },
@@ -458,7 +458,7 @@
             "port": "523e9aa1-6794-4f8f-9a0d-87d8d873d4bd"
           },
           "target": {
-            "block": "94c3e234-d2c4-4354-b28f-17631f6ad498",
+            "block": "aa664145-de35-47a4-8ecb-ba02f1ec4673",
             "port": "002c97c8-d9f6-4efc-902c-1a0b5dbfbeac"
           },
           "vertices": [
@@ -475,7 +475,7 @@
             "port": "8d26e193-496e-4cc4-b293-ffb161b40213"
           },
           "target": {
-            "block": "94c3e234-d2c4-4354-b28f-17631f6ad498",
+            "block": "aa664145-de35-47a4-8ecb-ba02f1ec4673",
             "port": "beaaf064-47fc-404a-bda5-e7d9dd8bc935"
           },
           "vertices": [
@@ -4090,7 +4090,7 @@
         }
       }
     },
-    "e3350037376249696e5c5a0e5bf7fcd1f07814d2": {
+    "51d7d07fa5d5d9893e43ba0ff825abce26cc5840": {
       "package": {
         "name": "cmd8",
         "version": "0.1",
@@ -4148,7 +4148,7 @@
                 "size": 8
               },
               "position": {
-                "x": 568,
+                "x": 480,
                 "y": 192
               }
             },
@@ -4159,8 +4159,8 @@
                 "name": "tic"
               },
               "position": {
-                "x": 1480,
-                "y": 208
+                "x": 1488,
+                "y": 224
               }
             },
             {
@@ -4171,7 +4171,7 @@
                 "clock": false
               },
               "position": {
-                "x": 568,
+                "x": 480,
                 "y": 296
               }
             },
@@ -4184,7 +4184,7 @@
                 "local": false
               },
               "position": {
-                "x": 808,
+                "x": 720,
                 "y": 96
               }
             },
@@ -4192,7 +4192,7 @@
               "id": "f5c15680-9fd8-4d77-bf00-2264c9ce4808",
               "type": "ca73164c83e3f1cf6728c52cd70327629263bb51",
               "position": {
-                "x": 808,
+                "x": 720,
                 "y": 192
               },
               "size": {
@@ -4204,8 +4204,8 @@
               "id": "c0b8cd0a-5e6e-4fa3-a943-b3b6e047caca",
               "type": "b959c256104d1064a5ef7b38632ffb6eed3b396f",
               "position": {
-                "x": 1088,
-                "y": 176
+                "x": 1080,
+                "y": 192
               },
               "size": {
                 "width": 96,
@@ -4216,8 +4216,8 @@
               "id": "ba622b6b-6bf4-44e4-ba24-97afc59276ae",
               "type": "b2090f68ef94fd3c5c0eaea93eb6ba7e80aff0b6",
               "position": {
-                "x": 1280,
-                "y": 208
+                "x": 1288,
+                "y": 224
               },
               "size": {
                 "width": 96,
@@ -4248,8 +4248,8 @@
                 "readonly": true
               },
               "position": {
-                "x": 1272,
-                "y": 152
+                "x": 1280,
+                "y": 168
               },
               "size": {
                 "width": 256,
@@ -4267,6 +4267,34 @@
                 "width": 96,
                 "height": 64
               }
+            },
+            {
+              "id": "21fb73c9-931d-4c12-a922-35ff47d96342",
+              "type": "b2090f68ef94fd3c5c0eaea93eb6ba7e80aff0b6",
+              "position": {
+                "x": 872,
+                "y": 208
+              },
+              "size": {
+                "width": 96,
+                "height": 64
+              }
+            },
+            {
+              "id": "bdcab636-7639-44e4-b0f0-511dfa96e243",
+              "type": "basic.info",
+              "data": {
+                "info": "Solo se comprueba  \nel comando cuando  \nllega un tic",
+                "readonly": true
+              },
+              "position": {
+                "x": 848,
+                "y": 128
+              },
+              "size": {
+                "width": 168,
+                "height": 72
+              }
             }
           ],
           "wires": [
@@ -4278,16 +4306,6 @@
               "target": {
                 "block": "f5c15680-9fd8-4d77-bf00-2264c9ce4808",
                 "port": "bde24908-c5bf-4286-b7e3-e42a11ca5c68"
-              }
-            },
-            {
-              "source": {
-                "block": "f5c15680-9fd8-4d77-bf00-2264c9ce4808",
-                "port": "0344dacc-8583-456b-b377-8cb4ab97cf94"
-              },
-              "target": {
-                "block": "c0b8cd0a-5e6e-4fa3-a943-b3b6e047caca",
-                "port": "3ae2d46d-7981-497a-899f-b60bfae0f43e"
               }
             },
             {
@@ -4310,22 +4328,6 @@
                 "port": "66770249-8f14-4f0c-b645-56f2f2ffc1b2"
               },
               "size": 8
-            },
-            {
-              "source": {
-                "block": "7adc16cc-9f3a-4913-83eb-b3cf1eeef5e8",
-                "port": "out"
-              },
-              "target": {
-                "block": "c0b8cd0a-5e6e-4fa3-a943-b3b6e047caca",
-                "port": "86eb8c81-17fc-4371-bd21-51f429191f3c"
-              },
-              "vertices": [
-                {
-                  "x": 944,
-                  "y": 136
-                }
-              ]
             },
             {
               "source": {
@@ -4358,7 +4360,7 @@
               },
               "vertices": [
                 {
-                  "x": 1008,
+                  "x": 1032,
                   "y": -32
                 }
               ]
@@ -4401,11 +4403,57 @@
               },
               "vertices": [
                 {
-                  "x": 720,
+                  "x": 632,
                   "y": 56
                 }
               ],
               "size": 8
+            },
+            {
+              "source": {
+                "block": "f5c15680-9fd8-4d77-bf00-2264c9ce4808",
+                "port": "0344dacc-8583-456b-b377-8cb4ab97cf94"
+              },
+              "target": {
+                "block": "21fb73c9-931d-4c12-a922-35ff47d96342",
+                "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
+              }
+            },
+            {
+              "source": {
+                "block": "21fb73c9-931d-4c12-a922-35ff47d96342",
+                "port": "664caf9e-5f40-4df4-800a-b626af702e62"
+              },
+              "target": {
+                "block": "c0b8cd0a-5e6e-4fa3-a943-b3b6e047caca",
+                "port": "3ae2d46d-7981-497a-899f-b60bfae0f43e"
+              }
+            },
+            {
+              "source": {
+                "block": "7adc16cc-9f3a-4913-83eb-b3cf1eeef5e8",
+                "port": "out"
+              },
+              "target": {
+                "block": "c0b8cd0a-5e6e-4fa3-a943-b3b6e047caca",
+                "port": "86eb8c81-17fc-4371-bd21-51f429191f3c"
+              },
+              "vertices": [
+                {
+                  "x": 992,
+                  "y": 152
+                }
+              ]
+            },
+            {
+              "source": {
+                "block": "beaaf064-47fc-404a-bda5-e7d9dd8bc935",
+                "port": "out"
+              },
+              "target": {
+                "block": "21fb73c9-931d-4c12-a922-35ff47d96342",
+                "port": "97b51945-d716-4b6c-9db9-970d08541249"
+              }
             }
           ]
         }
