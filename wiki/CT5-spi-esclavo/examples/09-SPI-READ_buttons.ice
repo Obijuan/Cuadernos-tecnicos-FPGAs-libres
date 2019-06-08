@@ -495,26 +495,6 @@
           }
         },
         {
-          "id": "c6114ea9-2591-4c11-afe5-103db94007e6",
-          "type": "basic.outputLabel",
-          "data": {
-            "blockColor": "fuchsia",
-            "name": "ss",
-            "pins": [
-              {
-                "index": "0",
-                "name": "",
-                "value": ""
-              }
-            ],
-            "virtual": true
-          },
-          "position": {
-            "x": 1120,
-            "y": 680
-          }
-        },
-        {
           "id": "28b67cb1-d579-4437-98a5-4523bcc3a29e",
           "type": "basic.outputLabel",
           "data": {
@@ -566,8 +546,8 @@
             "virtual": true
           },
           "position": {
-            "x": 1120,
-            "y": 744
+            "x": 1112,
+            "y": 784
           }
         },
         {
@@ -587,8 +567,8 @@
             "oldBlockColor": "fuchsia"
           },
           "position": {
-            "x": 1472,
-            "y": 760
+            "x": 1600,
+            "y": 800
           }
         },
         {
@@ -607,8 +587,8 @@
             "virtual": true
           },
           "position": {
-            "x": 1120,
-            "y": 808
+            "x": 1112,
+            "y": 856
           }
         },
         {
@@ -647,7 +627,7 @@
           },
           "position": {
             "x": 1296,
-            "y": 584
+            "y": 672
           }
         },
         {
@@ -1037,34 +1017,6 @@
           }
         },
         {
-          "id": "4b13908e-fc87-4dd1-8603-3b78b65dd2d9",
-          "type": "51d7d07fa5d5d9893e43ba0ff825abce26cc5840",
-          "position": {
-            "x": 1296,
-            "y": 696
-          },
-          "size": {
-            "width": 96,
-            "height": 128
-          }
-        },
-        {
-          "id": "1f9f0075-792b-44b4-9844-797e3488198d",
-          "type": "basic.info",
-          "data": {
-            "info": "El valor recibido es basura:  \nse ignora",
-            "readonly": true
-          },
-          "position": {
-            "x": 1480,
-            "y": 672
-          },
-          "size": {
-            "width": 240,
-            "height": 48
-          }
-        },
-        {
           "id": "2d3b9928-e425-4706-8425-820f07be8e9e",
           "type": "basic.info",
           "data": {
@@ -1072,8 +1024,8 @@
             "readonly": true
           },
           "position": {
-            "x": 1440,
-            "y": 568
+            "x": 1256,
+            "y": 584
           },
           "size": {
             "width": 392,
@@ -1089,11 +1041,51 @@
           },
           "position": {
             "x": 1600,
-            "y": 768
+            "y": 864
           },
           "size": {
             "width": 240,
             "height": 48
+          }
+        },
+        {
+          "id": "2f185f89-9956-4021-92a6-ecbae260947b",
+          "type": "ca73164c83e3f1cf6728c52cd70327629263bb51",
+          "position": {
+            "x": 1296,
+            "y": 784
+          },
+          "size": {
+            "width": 96,
+            "height": 64
+          }
+        },
+        {
+          "id": "c10297ad-a75b-43d1-a2c8-17145000fe24",
+          "type": "b2090f68ef94fd3c5c0eaea93eb6ba7e80aff0b6",
+          "position": {
+            "x": 1456,
+            "y": 800
+          },
+          "size": {
+            "width": 96,
+            "height": 64
+          }
+        },
+        {
+          "id": "74dc0c95-c236-46be-8296-f62e183eaa79",
+          "type": "basic.info",
+          "data": {
+            "info": "Este comando no tiene argumentos adicionales:  \nen cuanto se recibe el código de comando,  \nse usa el tic recibido para cargar el estado  \nde los pulsadores en el registro de transmisión  \ndel SPI para que se envíe en la próxima transacción  ",
+            "readonly": true
+          },
+          "position": {
+            "x": 1456,
+            "y": 640
+          },
+          "size": {
+            "width": 400,
+            "height": 96
           }
         }
       ],
@@ -1512,70 +1504,6 @@
         },
         {
           "source": {
-            "block": "e96df772-9b6a-47f3-b304-8b0163174741",
-            "port": "constant-out"
-          },
-          "target": {
-            "block": "4b13908e-fc87-4dd1-8603-3b78b65dd2d9",
-            "port": "c875d3e9-7fed-4f53-b957-cc01ef8b80a5"
-          },
-          "vertices": []
-        },
-        {
-          "source": {
-            "block": "28b67cb1-d579-4437-98a5-4523bcc3a29e",
-            "port": "outlabel"
-          },
-          "target": {
-            "block": "4b13908e-fc87-4dd1-8603-3b78b65dd2d9",
-            "port": "002c97c8-d9f6-4efc-902c-1a0b5dbfbeac"
-          },
-          "vertices": [],
-          "size": 8
-        },
-        {
-          "source": {
-            "block": "c6114ea9-2591-4c11-afe5-103db94007e6",
-            "port": "outlabel"
-          },
-          "target": {
-            "block": "4b13908e-fc87-4dd1-8603-3b78b65dd2d9",
-            "port": "7adc16cc-9f3a-4913-83eb-b3cf1eeef5e8"
-          },
-          "vertices": [
-            {
-              "x": 1240,
-              "y": 712
-            },
-            {
-              "x": 1240,
-              "y": 728
-            }
-          ]
-        },
-        {
-          "source": {
-            "block": "5e275aad-d19e-461e-b96f-bfbd6d635bab",
-            "port": "outlabel"
-          },
-          "target": {
-            "block": "4b13908e-fc87-4dd1-8603-3b78b65dd2d9",
-            "port": "beaaf064-47fc-404a-bda5-e7d9dd8bc935"
-          },
-          "vertices": []
-        },
-        {
-          "source": {
-            "block": "4b13908e-fc87-4dd1-8603-3b78b65dd2d9",
-            "port": "daa587f6-62ec-4a44-b6a7-127bd228c4dd"
-          },
-          "target": {
-            "block": "fef9819f-f513-4f97-b91c-c2025a501789",
-            "port": "inlabel"
-          }
-        },
-        {
-          "source": {
             "block": "6fb64822-42d6-45b8-a82e-0f82fe0d9461",
             "port": "outlabel"
           },
@@ -1589,6 +1517,57 @@
               "y": 512
             }
           ]
+        },
+        {
+          "source": {
+            "block": "e96df772-9b6a-47f3-b304-8b0163174741",
+            "port": "constant-out"
+          },
+          "target": {
+            "block": "2f185f89-9956-4021-92a6-ecbae260947b",
+            "port": "bde24908-c5bf-4286-b7e3-e42a11ca5c68"
+          }
+        },
+        {
+          "source": {
+            "block": "28b67cb1-d579-4437-98a5-4523bcc3a29e",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "2f185f89-9956-4021-92a6-ecbae260947b",
+            "port": "66770249-8f14-4f0c-b645-56f2f2ffc1b2"
+          },
+          "size": 8
+        },
+        {
+          "source": {
+            "block": "2f185f89-9956-4021-92a6-ecbae260947b",
+            "port": "0344dacc-8583-456b-b377-8cb4ab97cf94"
+          },
+          "target": {
+            "block": "c10297ad-a75b-43d1-a2c8-17145000fe24",
+            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
+          }
+        },
+        {
+          "source": {
+            "block": "5e275aad-d19e-461e-b96f-bfbd6d635bab",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "c10297ad-a75b-43d1-a2c8-17145000fe24",
+            "port": "97b51945-d716-4b6c-9db9-970d08541249"
+          }
+        },
+        {
+          "source": {
+            "block": "c10297ad-a75b-43d1-a2c8-17145000fe24",
+            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
+          },
+          "target": {
+            "block": "fef9819f-f513-4f97-b91c-c2025a501789",
+            "port": "inlabel"
+          }
         }
       ]
     }
