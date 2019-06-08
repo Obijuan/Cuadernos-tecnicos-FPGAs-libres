@@ -491,7 +491,7 @@
           },
           "position": {
             "x": -88,
-            "y": 616
+            "y": 624
           }
         },
         {
@@ -680,7 +680,7 @@
           "id": "5a7b23cc-52e9-43b4-83fd-e722bb9e0f54",
           "type": "basic.info",
           "data": {
-            "info": "### Ejemplo 9: Comandos WRITE_LEDs, Brillo-LEDs y READ_Buttons\n\nImplementación de 3 comandos: Dos para escribir en los LEDs y  \nmodificar su brillo. Un tercero para leer el estado de los pulsadores",
+            "info": "### Ejemplo 9: Comando READ_Buttons\n\nImplementación de 3 comandos: Dos para escribir en los LEDs y  \nmodificar su brillo. Un tercero para leer el estado de los pulsadores",
             "readonly": true
           },
           "position": {
@@ -945,7 +945,7 @@
           "type": "2107ac7691a91a762c2d0be100faaabd6189973a",
           "position": {
             "x": 72,
-            "y": 600
+            "y": 608
           },
           "size": {
             "width": 96,
@@ -985,7 +985,7 @@
           },
           "position": {
             "x": 216,
-            "y": 624
+            "y": 632
           },
           "size": {
             "width": 112,
