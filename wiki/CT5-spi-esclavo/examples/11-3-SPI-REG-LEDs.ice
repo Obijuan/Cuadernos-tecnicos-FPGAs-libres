@@ -1146,6 +1146,22 @@
             "width": 184,
             "height": 32
           }
+        },
+        {
+          "id": "0391fe2d-9dcf-4b4c-bc0f-c8fcb9f7db68",
+          "type": "basic.info",
+          "data": {
+            "info": "**BUS de control** ",
+            "readonly": true
+          },
+          "position": {
+            "x": 1432,
+            "y": 432
+          },
+          "size": {
+            "width": 176,
+            "height": 32
+          }
         }
       ],
       "wires": [
