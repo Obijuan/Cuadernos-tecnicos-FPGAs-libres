@@ -712,7 +712,7 @@
             "virtual": true
           },
           "position": {
-            "x": 1168,
+            "x": 1152,
             "y": 768
           }
         },
@@ -1887,7 +1887,7 @@
             "readonly": true
           },
           "position": {
-            "x": 1160,
+            "x": 1152,
             "y": 832
           },
           "size": {
@@ -2023,8 +2023,8 @@
             "readonly": true
           },
           "position": {
-            "x": 1176,
-            "y": 720
+            "x": 1160,
+            "y": 728
           },
           "size": {
             "width": 160,
