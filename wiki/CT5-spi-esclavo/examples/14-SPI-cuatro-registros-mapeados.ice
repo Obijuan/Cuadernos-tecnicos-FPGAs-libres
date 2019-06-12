@@ -2462,6 +2462,38 @@
             "width": 192,
             "height": 56
           }
+        },
+        {
+          "id": "8ce86eb1-7c3d-4b4b-8aae-ef1d627a7dc0",
+          "type": "basic.info",
+          "data": {
+            "info": "Detectar accesos a su dirección",
+            "readonly": true
+          },
+          "position": {
+            "x": 592,
+            "y": 1464
+          },
+          "size": {
+            "width": 248,
+            "height": 32
+          }
+        },
+        {
+          "id": "c6d5d1f7-bba9-4c51-94c4-50e2aa179bf2",
+          "type": "basic.info",
+          "data": {
+            "info": "Dirección de  \nmapeo",
+            "readonly": true
+          },
+          "position": {
+            "x": 768,
+            "y": 1296
+          },
+          "size": {
+            "width": 144,
+            "height": 48
+          }
         }
       ],
       "wires": [
