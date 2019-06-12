@@ -5990,7 +5990,10 @@ feELQreWGtIJNY4gEcneO8q6yUgVq6wXleTAM0oOssa1Y2gXG7EC2PvOcVbNm/OOghqDeM2g0YFw
 "
        preserveAspectRatio="none"
        height="238.125"
-       width="317.5" />
+       width="317.5"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/vga-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -6000,7 +6003,7 @@ feELQreWGtIJNY4gEcneO8q6yUgVq6wXleTAM0oOssa1Y2gXG7EC2PvOcVbNm/OOghqDeM2g0YFw
     <g
        id="g895"
        transform="translate(4.1577388,-6.8035712)"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-09.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/vga-02.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -6044,7 +6047,7 @@ feELQreWGtIJNY4gEcneO8q6yUgVq6wXleTAM0oOssa1Y2gXG7EC2PvOcVbNm/OOghqDeM2g0YFw
     <g
        id="g853"
        transform="translate(19.276786,49.136904)"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-09.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/vga-02.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -6087,7 +6090,10 @@ feELQreWGtIJNY4gEcneO8q6yUgVq6wXleTAM0oOssa1Y2gXG7EC2PvOcVbNm/OOghqDeM2g0YFw
     </g>
     <g
        id="g881"
-       transform="translate(-3.7797619,12.284226)">
+       transform="translate(-3.7797619,12.284226)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/vga-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -6123,7 +6129,7 @@ feELQreWGtIJNY4gEcneO8q6yUgVq6wXleTAM0oOssa1Y2gXG7EC2PvOcVbNm/OOghqDeM2g0YFw
        id="rect4653-9-3-5-3-6-6-0-2-2-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT4-control-LEDs/brillo-14.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/vga-02.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -6132,7 +6138,7 @@ feELQreWGtIJNY4gEcneO8q6yUgVq6wXleTAM0oOssa1Y2gXG7EC2PvOcVbNm/OOghqDeM2g0YFw
        x="71.935394"
        y="153.15312"
        id="text4657-1-6-3-5-7-2-9-7-61-7"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT4-control-LEDs/brillo-14.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/vga-02.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          id="tspan1329-7-3"
@@ -6143,7 +6149,7 @@ feELQreWGtIJNY4gEcneO8q6yUgVq6wXleTAM0oOssa1Y2gXG7EC2PvOcVbNm/OOghqDeM2g0YFw
     <g
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-09.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/vga-02.png"
        transform="translate(20.032737,55.184515)"
        id="g1089">
       <path
@@ -6176,7 +6182,7 @@ feELQreWGtIJNY4gEcneO8q6yUgVq6wXleTAM0oOssa1Y2gXG7EC2PvOcVbNm/OOghqDeM2g0YFw
        id="rect4653-3-6-1-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-09.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/vga-02.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -6185,7 +6191,7 @@ feELQreWGtIJNY4gEcneO8q6yUgVq6wXleTAM0oOssa1Y2gXG7EC2PvOcVbNm/OOghqDeM2g0YFw
        x="57.94466"
        y="91.196838"
        id="text4657-6-2-2-9"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-09.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/vga-02.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -6198,7 +6204,7 @@ feELQreWGtIJNY4gEcneO8q6yUgVq6wXleTAM0oOssa1Y2gXG7EC2PvOcVbNm/OOghqDeM2g0YFw
        inkscape:transform-center-x="-0.93546205"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-09.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/vga-02.png"
        sodipodi:nodetypes="cccccccc"
        inkscape:connector-curvature="0"
        id="rect4653-9-3-5-3-6-6-0-6-1"
@@ -6207,7 +6213,7 @@ feELQreWGtIJNY4gEcneO8q6yUgVq6wXleTAM0oOssa1Y2gXG7EC2PvOcVbNm/OOghqDeM2g0YFw
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-09.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/vga-02.png"
        id="text4657-1-6-3-5-7-2-9-2-2"
        y="66.279289"
        x="137.00168"
@@ -6229,7 +6235,7 @@ feELQreWGtIJNY4gEcneO8q6yUgVq6wXleTAM0oOssa1Y2gXG7EC2PvOcVbNm/OOghqDeM2g0YFw
        id="rect4653-9-3-5-3-6-6-0-2-2-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT4-control-LEDs/brillo-14.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/vga-02.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -6238,7 +6244,7 @@ feELQreWGtIJNY4gEcneO8q6yUgVq6wXleTAM0oOssa1Y2gXG7EC2PvOcVbNm/OOghqDeM2g0YFw
        x="217.9783"
        y="142.88194"
        id="text4657-1-6-3-5-7-2-9-7-61-6"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT4-control-LEDs/brillo-14.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/vga-02.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          id="tspan1001-5-9-3-0-8-2"
