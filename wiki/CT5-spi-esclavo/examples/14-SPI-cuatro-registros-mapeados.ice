@@ -1702,7 +1702,7 @@
           "id": "682df07d-85df-4f94-8d9b-d84b9e6f54f9",
           "type": "basic.constant",
           "data": {
-            "name": "CODIGO",
+            "name": "ID",
             "value": "'h50",
             "local": false
           },
@@ -2413,6 +2413,54 @@
           "size": {
             "width": 168,
             "height": 40
+          }
+        },
+        {
+          "id": "ff32cbef-f502-4406-ab1e-41e13cf0279b",
+          "type": "basic.info",
+          "data": {
+            "info": "Número que identifica  \na este periférico",
+            "readonly": true
+          },
+          "position": {
+            "x": 2256,
+            "y": 1256
+          },
+          "size": {
+            "width": 192,
+            "height": 48
+          }
+        },
+        {
+          "id": "5c16be3d-0aee-4cd0-8e32-272c6d93fb82",
+          "type": "basic.info",
+          "data": {
+            "info": "Detectar accesos a su dirección",
+            "readonly": true
+          },
+          "position": {
+            "x": 1824,
+            "y": 1432
+          },
+          "size": {
+            "width": 248,
+            "height": 32
+          }
+        },
+        {
+          "id": "4c66048c-7513-4688-9390-7e58d07e1b91",
+          "type": "basic.info",
+          "data": {
+            "info": "Dirección donde está  \nmapeada la constante",
+            "readonly": true
+          },
+          "position": {
+            "x": 1976,
+            "y": 1264
+          },
+          "size": {
+            "width": 192,
+            "height": 56
           }
         }
       ],
