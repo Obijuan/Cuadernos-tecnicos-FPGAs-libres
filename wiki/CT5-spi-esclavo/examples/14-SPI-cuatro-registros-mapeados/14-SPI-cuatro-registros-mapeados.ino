@@ -133,5 +133,4 @@ void loop()
     brillo_leds = 255; //-- Brillo máximo
   else
     brillo_leds = 20;  //-- Brillo bajo
-  
 }
