@@ -1722,7 +1722,7 @@
           "id": "a3e0b0b8-8455-4548-b15b-423ed9dbc88a",
           "type": "basic.info",
           "data": {
-            "info": "Valor a deolver cuando  \nno hay ningun registro  \nseleccionado",
+            "info": "Valor a devolver cuando  \nno hay ningun registro  \nseleccionado",
             "readonly": true
           },
           "position": {
