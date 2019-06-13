@@ -69,13 +69,13 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.40538441"
-     inkscape:cx="789.04125"
-     inkscape:cy="168.97319"
+     inkscape:zoom="0.57330013"
+     inkscape:cx="923.0381"
+     inkscape:cy="271.81234"
      inkscape:window-x="67"
      inkscape:window-y="1051"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -37234,6 +37234,34 @@
          x="751.70111"
          y="75.557541"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#ffff00;stroke:none;stroke-width:1.67392957">SS2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.78287315px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.67392957"
+       x="802.88135"
+       y="445.59927"
+       id="text9892-7-2"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan9890-11-8"
+         x="802.88135"
+         y="445.59927"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#ff0000;stroke-width:1.67392957">VCC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.78287315px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.67392957"
+       x="898.93323"
+       y="497.92786"
+       id="text9892-7-2-8"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan9890-11-8-7"
+         x="898.93323"
+         y="497.92786"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#000000;stroke-width:1.67392957">GND</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
