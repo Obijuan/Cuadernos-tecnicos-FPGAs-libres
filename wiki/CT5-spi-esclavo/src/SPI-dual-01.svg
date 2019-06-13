@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1200pt"
+   height="908.28595pt"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="SPI-dual-01.svg"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart"
+       style="overflow:visible">
+      <path
+         id="path2570"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(0.6,0,0,0.6,-3,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInL"
+       style="overflow:visible">
+      <path
+         id="path2502"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(-0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path2493"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lstart"
+       style="overflow:visible">
+      <path
+         id="path2576"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,-5.5,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         id="path3298"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,5.5,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path3316"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(-0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3319"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInL-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2502-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2585" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2588" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2493-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,5.5,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path3298-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3316-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3319-7" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="758.19275"
+     inkscape:cy="646.70632"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="1051"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(618.08878,310.31357)">
+    <g
+       id="layer3"
+       inkscape:label="back"
+       transform="matrix(1,0,0,2.5766977,-562.08878,-125.00939)"
+       style="fill:#ffffff"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10.45516682;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect949"
+         width="1600"
+         height="470"
+         x="-56"
+         y="-71.915375"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(618.08878,310.31357)">
+    <g
+       id="g2202"
+       transform="matrix(4.4387471,0,0,4.4387471,-611.20629,-325.46032)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.96824229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 131.25,25 v 0.96875 c 44.82915,0 67.26146,0 78.46875,0 5.60364,0 8.41159,0 9.8125,0 0.70046,0 1.04364,0 1.21875,0 0.0876,0 0.13436,0 0.15625,0 V 25.5 25 c 0,0 0.002,0 -89.65625,0 z"
+         id="path3144"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.7745938pt;marker-start:none"
+         d="M 225.38904,25.497581 218.6888,29.37055 V 21.624612 Z"
+         id="path2208"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g2210"
+       transform="matrix(4.4387471,0,0,4.4387471,-611.20629,-325.46032)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.96824229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 131.25,40.625 v 0.96875 c 44.82915,-10e-7 67.26146,0 78.46875,0 5.60364,0 8.41159,0 9.8125,0 0.70046,0 1.04364,0 1.21875,0 0.0876,0 0.13436,0 0.15625,0 v -0.5 -0.46875 c 0,0 0.002,-2e-6 -89.65625,0 z"
+         id="path3330"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.7745938pt;marker-start:none"
+         d="m 225.38904,41.101164 -6.70024,3.872969 v -7.745938 z"
+         id="path2216"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g2226"
+       transform="matrix(4.4387471,0,0,4.4387471,-611.20629,-325.46032)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.96824229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 131.25,71.8125 v 0.96875 c 44.82915,0 67.26146,0 78.46875,0 5.60364,0 8.41159,0 9.8125,0 0.70046,0 1.04364,0 1.21875,0 0.0876,0 0.13436,0 0.15625,0 v -0.46875 -0.5 c 0,0 0.002,0 -89.65625,0 z"
+         id="path3334"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.7745938pt;marker-start:none"
+         d="m 225.38904,72.308296 -6.70024,3.872969 v -7.745938 z"
+         id="path2232"
+         inkscape:connector-curvature="0" />
+    </g>
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke-width:4.43874693"
+       id="path2607"
+       cx="265.72363"
+       cy="-212.19048"
+       r="8.6000729"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke-width:4.43874693"
+       id="path2609"
+       cx="214.69029"
+       cy="-143.23232"
+       r="8.6000729"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g2254"
+       transform="matrix(4.4387471,0,0,4.4387471,-611.20629,-325.46032)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.02442479px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 131.03125,85.34375 V 86.375 h 31.5 v 76 0.5 h 0.5 H 220.5 v -1.03125 H 163.53125 V 85.875 85.34375 h -0.5 z"
+         id="path2677"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.81953984pt;marker-start:none"
+         d="m 225.21856,162.36218 -7.08901,4.0977 v -8.1954 z"
+         id="path2260"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g2262"
+       transform="matrix(4.4387471,0,0,4.4387471,-611.20629,-325.46032)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.0245285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 131.03125,100.46875 V 101.5 H 145.9375 V 252.46875 253 h 0.5 74.21875 v -1.03125 H 146.9375 v -151 -0.5 h -0.5 z"
+         id="path2679"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.81962281pt;marker-start:none"
+         d="m 225.38937,252.47886 -7.08973,4.09811 v -8.19622 z"
+         id="path2268"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g2242"
+       transform="matrix(4.4387471,0,0,4.4387471,-611.20629,-325.46032)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.0321871px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 185.625,41.0625 v 91.375 0.53125 h 0.53125 34.625 v -1.03125 h -34.125 v -90.875 z"
+         id="path2687"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.8257497pt;marker-start:none"
+         d="m 225.55987,132.44748 -7.14274,4.12875 v -8.2575 z"
+         id="path2248"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g2234"
+       transform="matrix(4.4387471,0,0,4.4387471,-611.20629,-325.46032)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.04614723px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 197.09375,25.5 v 91.90625 0.53125 h 0.53125 23.03125 v -1.03125 h -22.5 V 25.5 Z"
+         id="path2689"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.83691779pt;marker-start:none"
+         d="m 225.48174,117.42146 -7.23934,4.18459 v -8.36918 z"
+         id="path2240"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.43874693px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 162.24535,-75.225946 v 406.145326 2.2194 h 2.2194 229.7051 v -4.4387 H 166.68415 V -75.225946 Z"
+       id="path2691"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.42831564px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 162.24535,333.13878 v 402.8163 2.2194 h 2.2194 230.8148 v -4.4388 h -228.5954 v -400.5969 z"
+       id="path2693"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke-width:4.43874693"
+       id="path2695"
+       cx="164.52953"
+       cy="-74.181595"
+       r="8.6000729"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke-width:4.43874693"
+       id="path2697"
+       cx="165.01952"
+       cy="331.97241"
+       r="8.6000729"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g2274"
+       transform="matrix(4.4387471,0,0,4.4387471,-611.20629,-325.46032)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.02505863px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 185.6875,132.28125 V 223.5 224 h 0.5 34.375 v -1.03125 h -33.84375 v -90.6875 z"
+         id="path2699"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.82004687pt;marker-start:none"
+         d="m 225.28696,223.48748 -7.09341,4.10023 v -8.20046 z"
+         id="path2280"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g2282"
+       transform="matrix(4.4387471,0,0,4.4387471,-611.20629,-325.46032)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03560543px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 197.1875,117.25 v 90.84375 0.53125 h 0.5 22.75 v -1.03125 H 198.21875 V 117.25 Z"
+         id="path2701"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.82848439pt;marker-start:none"
+         d="m 225.22445,208.10791 -7.16638,4.14242 v -8.28484 z"
+         id="path2288"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g2218"
+       transform="matrix(4.4387471,0,0,4.4387471,-611.20629,-325.46032)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.98819256px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 136.71875,56.375 v 1 c 45.05559,0 67.57985,0 78.84375,0 5.63195,0 8.43576,0 9.84375,0 0.70399,0 1.04275,0 1.21875,0 0.088,0 0.13425,0 0.15625,0 0.011,0 0.0285,0 0.0312,0 v -0.5 -0.5 c 0,0 0.0174,0 -90.09375,0 z"
+         id="path2789"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.79055402pt;marker-start:none"
+         d="m 132.14357,56.869228 6.8383,-3.95277 v 7.90554 z"
+         id="path2224"
+         inkscape:connector-curvature="0" />
+    </g>
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke-width:4.43874693"
+       id="path2567"
+       cx="215.14622"
+       cy="262.60913"
+       r="8.6000729"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke-width:4.43874693"
+       id="path2569"
+       cx="266.07532"
+       cy="196.01048"
+       r="8.6000729"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffc2a1;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.93558121px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect1307"
+       width="525.02887"
+       height="447.82288"
+       x="-554.13092"
+       y="-268.12302"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:53.26496506px;line-height:0%;font-family:'Bitstream Vera Sans';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.43874693px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-78.556625"
+       y="-189.08211"
+       id="text3061"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:53.26496506px;line-height:1.25;stroke-width:4.43874693px"
+         sodipodi:role="line"
+         id="tspan3063"
+         x="-78.556625"
+         y="-189.08211">SCLK</tspan><tspan
+         style="font-size:53.26496506px;line-height:1.25;stroke-width:4.43874693px"
+         sodipodi:role="line"
+         x="-78.556633"
+         y="-122.5009"
+         id="tspan3065">MOSI</tspan><tspan
+         style="font-size:53.26496506px;line-height:1.25;stroke-width:4.43874693px"
+         sodipodi:role="line"
+         x="-78.556633"
+         y="-55.919693"
+         id="tspan3067">MISO</tspan><tspan
+         style="font-size:53.26496506px;line-height:1.25;stroke-width:4.43874693px"
+         sodipodi:role="line"
+         x="-78.556625"
+         y="10.661511"
+         id="tspan3069">SS1</tspan><tspan
+         style="font-size:53.26496506px;line-height:1.25;stroke-width:4.43874693px"
+         sodipodi:role="line"
+         x="-78.556625"
+         y="77.242722"
+         id="tspan2673">SS2</tspan><tspan
+         style="font-size:53.26496506px;line-height:1.25;stroke-width:4.43874693px"
+         sodipodi:role="line"
+         x="-78.556625"
+         y="143.82393"
+         id="tspan2675">SS3</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:4.43874693px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -176.7149,-38.785676 h 91.057334"
+       id="path2341"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:4.43874693px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -176.7149,29.284144 h 91.057334"
+       id="path2624"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:4.43874693px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -176.7149,97.354054 h 91.057334"
+       id="path2626"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#b9e179;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.32902813px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3084"
+       width="525.02887"
+       height="320.42282"
+       x="395.76093"
+       y="-268.78485"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:53.26496506px;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.43874693px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="436.33801"
+       y="-189.08211"
+       id="text3092"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:53.26496506px;line-height:1.25;stroke-width:4.43874693px"
+         sodipodi:role="line"
+         id="tspan3094"
+         x="436.33801"
+         y="-189.08211">SCLK</tspan><tspan
+         style="font-size:53.26496506px;line-height:1.25;stroke-width:4.43874693px"
+         sodipodi:role="line"
+         x="436.33801"
+         y="-122.5009"
+         id="tspan3096">MOSI</tspan><tspan
+         style="font-size:53.26496506px;line-height:1.25;stroke-width:4.43874693px"
+         sodipodi:role="line"
+         x="436.33801"
+         y="-55.919693"
+         id="tspan3098">MISO</tspan><tspan
+         style="font-size:53.26496506px;line-height:1.25;stroke-width:4.43874693px"
+         sodipodi:role="line"
+         x="436.33801"
+         y="10.661511"
+         id="tspan3100">SS</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:4.43874693px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 440.43002,-36.386916 h 58.67466"
+       id="path2694"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#8fbbdf;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.32902813px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect1462"
+       width="525.02887"
+       height="320.42282"
+       x="395.84015"
+       y="133.78984"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:53.26496506px;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.43874693px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="436.4173"
+       y="213.4926"
+       id="text1470"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:53.26496506px;line-height:1.25;stroke-width:4.43874693px"
+         sodipodi:role="line"
+         id="tspan1472"
+         x="436.4173"
+         y="213.4926">SCLK</tspan><tspan
+         style="font-size:53.26496506px;line-height:1.25;stroke-width:4.43874693px"
+         sodipodi:role="line"
+         x="436.4173"
+         y="280.07379"
+         id="tspan1474">MOSI</tspan><tspan
+         style="font-size:53.26496506px;line-height:1.25;stroke-width:4.43874693px"
+         sodipodi:role="line"
+         x="436.4173"
+         y="346.655"
+         id="tspan1476">MISO</tspan><tspan
+         style="font-size:53.26496506px;line-height:1.25;stroke-width:4.43874693px"
+         sodipodi:role="line"
+         x="436.4173"
+         y="413.23621"
+         id="tspan1478">SS</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:4.43874693px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 440.56873,364.48748 h 58.67465"
+       id="path2696"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#bfa1d1;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.32902813px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect1482"
+       width="525.02887"
+       height="320.42282"
+       x="395.84015"
+       y="536.36438"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:53.26496506px;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.43874693px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="436.4173"
+       y="616.06714"
+       id="text1490"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:53.26496506px;line-height:1.25;stroke-width:4.43874693px"
+         sodipodi:role="line"
+         id="tspan1492"
+         x="436.4173"
+         y="616.06714">SCLK</tspan><tspan
+         style="font-size:53.26496506px;line-height:1.25;stroke-width:4.43874693px"
+         sodipodi:role="line"
+         x="436.4173"
+         y="682.64832"
+         id="tspan1494">MOSI</tspan><tspan
+         style="font-size:53.26496506px;line-height:1.25;stroke-width:4.43874693px"
+         sodipodi:role="line"
+         x="436.4173"
+         y="749.22955"
+         id="tspan1496">MISO</tspan><tspan
+         style="font-size:53.26496506px;line-height:1.25;stroke-width:4.43874693px"
+         sodipodi:role="line"
+         x="436.4173"
+         y="815.81073"
+         id="tspan1498">SS</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:4.43874693px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 438.9042,766.47148 h 58.67468"
+       id="path2698"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       id="text2182-6"
+       y="-75.981705"
+       x="-389.78918"
+       style="font-style:normal;font-weight:normal;font-size:53.97780609px;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.49815035px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="-75.981705"
+         x="-389.78918"
+         id="tspan2184-1"
+         sodipodi:role="line"
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815035px">SPI</tspan><tspan
+         id="tspan2186-8"
+         y="-8.5094471"
+         x="-389.78918"
+         sodipodi:role="line"
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815035px">Maestro</tspan></text>
+    <text
+       id="text3086-5"
+       y="-121.85005"
+       x="765.65637"
+       style="font-style:normal;font-weight:normal;font-size:53.97780609px;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.49815083px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="-121.85005"
+         x="765.65637"
+         id="tspan3088-9"
+         sodipodi:role="line"
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815083px">SPI</tspan><tspan
+         id="tspan3090-2"
+         y="-54.377792"
+         x="765.65637"
+         sodipodi:role="line"
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815083px">Esclavo</tspan></text>
+    <text
+       id="text3086-5-6"
+       y="276.95819"
+       x="765.65637"
+       style="font-style:normal;font-weight:normal;font-size:53.97780609px;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.49815083px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="276.95819"
+         x="765.65637"
+         id="tspan3088-9-1"
+         sodipodi:role="line"
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815083px">SPI</tspan><tspan
+         id="tspan3090-2-2"
+         y="344.43045"
+         x="765.65637"
+         sodipodi:role="line"
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815083px">Esclavo</tspan></text>
+    <text
+       id="text3086-5-6-9"
+       y="692.73694"
+       x="765.65637"
+       style="font-style:normal;font-weight:normal;font-size:53.97780609px;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.49815083px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-dual-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="692.73694"
+         x="765.65637"
+         id="tspan3088-9-1-3"
+         sodipodi:role="line"
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815083px">SPI</tspan><tspan
+         id="tspan3090-2-2-1"
+         y="760.20917"
+         x="765.65637"
+         sodipodi:role="line"
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815083px">Esclavo</tspan></text>
+  </g>
+</svg>
