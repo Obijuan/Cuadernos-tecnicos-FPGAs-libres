@@ -25,8 +25,13 @@ void setup() {
   SPI.begin();
   SPI.beginTransaction (SPISettings (2000000, MSBFIRST, SPI_MODE0));
 
+  //-- Pines de seleccion de esclavos: son de salida
   pinMode(SS1, OUTPUT);
   pinMode(SS2, OUTPUT);
+
+  //-- Inicialmente no hay esclavos seleccionados
+  digitalWrite(SS1, HIGH);
+  digitalWrite(SS2, HIGH);
 
   //-- Puerto serie
   Serial.begin(9600);
@@ -35,8 +40,7 @@ void setup() {
   pinMode(LED1, OUTPUT);
   pinMode(LED2, OUTPUT);
 
-  digitalWrite(SS1, HIGH);
-  digitalWrite(SS2, HIGH);
+  
 }
 
 //-- Comando generico
