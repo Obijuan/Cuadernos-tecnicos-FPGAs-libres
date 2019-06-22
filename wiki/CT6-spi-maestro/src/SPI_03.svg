@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1393.0402pt"
+   height="742.82294pt"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="SPI_03.svg"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInL"
+       style="overflow:visible">
+      <path
+         id="path2502"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(-0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         id="path2585"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(-0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path2588"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path2493"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         id="path3298"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,5.5,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path3316"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(-0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3319"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="833.34507"
+     inkscape:cy="460.67971"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="1051"
+     showgrid="false"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="back"
+     transform="translate(56,1109.9481)">
+    <rect
+       style="opacity:1;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:16.35254097;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect949"
+       width="1857.3868"
+       height="990.43054"
+       x="-56"
+       y="-1109.9481"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(34.69854,1091.222)">
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-03.png"
+       style="fill:#deaa87;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.77099729px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3084-6-2"
+       width="480.44089"
+       height="242.60739"
+       x="271.29065"
+       y="-966.39661" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-03.png"
+       style="fill:#ffdd55;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.77099729px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3084-6"
+       width="480.44089"
+       height="242.60739"
+       x="271.29065"
+       y="-723.78918" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-03.png"
+       style="fill:#ffeeaa;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.98888946px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3084"
+       width="480.22299"
+       height="282.3895"
+       x="271.50861"
+       y="-481.18176" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-03.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:53.97780609px;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.49815083px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="491.59058"
+       y="-401.2699"
+       id="text3086"><tspan
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815083px"
+         sodipodi:role="line"
+         id="tspan3088"
+         x="491.59058"
+         y="-387.24832" /><tspan
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815083px"
+         sodipodi:role="line"
+         x="491.59058"
+         y="-353.51218"
+         id="tspan3090">Nivel físico</tspan><tspan
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815083px"
+         sodipodi:role="line"
+         x="491.59058"
+         y="-286.03995"
+         id="tspan988">BITS</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-03.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:53.97780609px;line-height:0%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.49815083px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="829.54352"
+       y="-471.74332"
+       id="text3086-3"><tspan
+         style="font-size:53.97780609px;line-height:1.25;text-align:start;text-anchor:start;stroke-width:4.49815083px"
+         sodipodi:role="line"
+         id="tspan3088-6"
+         x="829.54352"
+         y="-457.72174" /><tspan
+         style="font-size:53.97780609px;line-height:1.25;text-align:start;text-anchor:start;stroke-width:4.49815083px"
+         sodipodi:role="line"
+         x="829.54352"
+         y="-423.9856"
+         id="tspan3090-7">8 bits de datos</tspan><tspan
+         style="font-size:53.97780609px;line-height:1.25;text-align:start;text-anchor:start;stroke-width:4.49815083px"
+         sodipodi:role="line"
+         x="829.54352"
+         y="-356.51337"
+         id="tspan980">Primero el bit MSB</tspan><tspan
+         style="font-size:53.97780609px;line-height:1.25;text-align:start;text-anchor:start;stroke-width:4.49815083px"
+         sodipodi:role="line"
+         x="829.54352"
+         y="-289.04111"
+         id="tspan982">velocidad: 2MHZ</tspan><tspan
+         style="font-size:53.97780609px;line-height:1.25;text-align:start;text-anchor:start;stroke-width:4.49815083px"
+         sodipodi:role="line"
+         x="829.54352"
+         y="-221.56883"
+         id="tspan984">Modo 0: CPOL=0, CPHA=0</tspan><tspan
+         style="font-size:53.97780609px;line-height:1.25;text-align:start;text-anchor:start;stroke-width:4.49815083px"
+         sodipodi:role="line"
+         x="829.54352"
+         y="-187.8327"
+         id="tspan986" /></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-03.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:53.97780609px;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.49815083px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="510.11542"
+       y="-659.47943"
+       id="text3086-5"><tspan
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815083px"
+         sodipodi:role="line"
+         id="tspan3088-3"
+         x="510.11542"
+         y="-645.45782" /><tspan
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815083px"
+         sodipodi:role="line"
+         x="510.11542"
+         y="-645.45782"
+         id="tspan988-6"></tspan><tspan
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815083px"
+         sodipodi:role="line"
+         x="510.11542"
+         y="-645.45782"
+         id="tspan1058"></tspan><tspan
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815083px"
+         sodipodi:role="line"
+         x="510.11542"
+         y="-611.72174"
+         id="tspan1060">Nivel de</tspan><tspan
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815083px"
+         sodipodi:role="line"
+         x="510.11542"
+         y="-544.24945"
+         id="tspan1062">Comandos</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-03.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:53.97780609px;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.49815083px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="977.11694"
+       y="-640.82391"
+       id="text3086-5-2"><tspan
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815083px"
+         sodipodi:role="line"
+         id="tspan3088-3-9"
+         x="977.11694"
+         y="-626.80231" /><tspan
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815083px"
+         sodipodi:role="line"
+         x="977.11694"
+         y="-593.06622"
+         id="tspan988-6-1">Acciones</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-03.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:53.97780609px;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.49815083px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="513.11694"
+       y="-902.82391"
+       id="text3086-5-27"><tspan
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815083px"
+         sodipodi:role="line"
+         id="tspan3088-3-0"
+         x="513.11694"
+         y="-888.80231" /><tspan
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815083px"
+         sodipodi:role="line"
+         x="513.11694"
+         y="-855.06622"
+         id="tspan988-6-9">Nivel de</tspan><tspan
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815083px"
+         sodipodi:role="line"
+         x="513.11694"
+         y="-787.59393"
+         id="tspan1064">registros</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-03.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:53.97780609px;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.49815083px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1044.4216"
+       y="-878.82391"
+       id="text3086-5-2-3"><tspan
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815083px"
+         sodipodi:role="line"
+         id="tspan3088-3-9-6"
+         x="1044.4216"
+         y="-864.80231" /><tspan
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815083px"
+         sodipodi:role="line"
+         x="1044.4216"
+         y="-831.06622"
+         id="tspan988-6-1-0">Acceso a datos</tspan></text>
+  </g>
+</svg>
