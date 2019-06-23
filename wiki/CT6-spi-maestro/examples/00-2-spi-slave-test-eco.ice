@@ -194,8 +194,8 @@
           }
         },
         {
-          "id": "67058630-99ae-4e6d-839d-b7e62300045a",
-          "type": "5e1ba5f4666750d64e607c335b3e565414c34217",
+          "id": "d33c218b-2a49-4e77-ada8-b5b362f966b5",
+          "type": "94d8322a572c8de2ba05c68687cabf10a48a4530",
           "position": {
             "x": 784,
             "y": 384
@@ -213,7 +213,7 @@
             "port": "out"
           },
           "target": {
-            "block": "67058630-99ae-4e6d-839d-b7e62300045a",
+            "block": "d33c218b-2a49-4e77-ada8-b5b362f966b5",
             "port": "4d60d290-9ad9-4c5b-a5ae-25f3183083ae"
           }
         },
@@ -223,7 +223,7 @@
             "port": "out"
           },
           "target": {
-            "block": "67058630-99ae-4e6d-839d-b7e62300045a",
+            "block": "d33c218b-2a49-4e77-ada8-b5b362f966b5",
             "port": "08e53de8-dbd7-4cfa-bfd5-3a6ba85908fb"
           }
         },
@@ -233,13 +233,13 @@
             "port": "out"
           },
           "target": {
-            "block": "67058630-99ae-4e6d-839d-b7e62300045a",
+            "block": "d33c218b-2a49-4e77-ada8-b5b362f966b5",
             "port": "231368b5-0784-4674-b034-76f0c4a08140"
           }
         },
         {
           "source": {
-            "block": "67058630-99ae-4e6d-839d-b7e62300045a",
+            "block": "d33c218b-2a49-4e77-ada8-b5b362f966b5",
             "port": "f75f523d-9076-4fae-bc1a-71d5e5987a39"
           },
           "target": {
@@ -249,7 +249,7 @@
         },
         {
           "source": {
-            "block": "67058630-99ae-4e6d-839d-b7e62300045a",
+            "block": "d33c218b-2a49-4e77-ada8-b5b362f966b5",
             "port": "01819d7d-d588-4b46-a7c9-fc11836de9a2"
           },
           "target": {
@@ -262,7 +262,7 @@
     }
   },
   "dependencies": {
-    "5e1ba5f4666750d64e607c335b3e565414c34217": {
+    "94d8322a572c8de2ba05c68687cabf10a48a4530": {
       "package": {
         "name": "spi-slave-test-echo",
         "version": "0.1",
@@ -277,7 +277,7 @@
               "id": "8bf78dc7-4eb5-4d20-bdad-541066177db1",
               "type": "basic.input",
               "data": {
-                "name": "clk",
+                "name": "",
                 "clock": true
               },
               "position": {
