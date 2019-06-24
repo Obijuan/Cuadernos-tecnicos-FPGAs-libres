@@ -178,7 +178,7 @@
           "id": "253698a4-74cf-4b1c-b696-7416ef1df1a4",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 0-1: Probando el bloque spi-slave-test-echo-id\n\nTodo lo recibido por el spi se saca por los LEDs. En cada transacción se  \ndevuelve el valor constante 0xA5  ",
+            "info": "# Ejemplo 0-1: Probando el bloque spi-slave-test-id\n\nTodo lo recibido por el spi se saca por los LEDs. En cada transacción se  \ndevuelve el valor constante 0xA5  ",
             "readonly": true
           },
           "position": {
@@ -207,23 +207,7 @@
           }
         },
         {
-          "id": "ae109814-ce57-4fb8-a828-42017e84c265",
-          "type": "basic.info",
-          "data": {
-            "info": "",
-            "readonly": true
-          },
-          "position": {
-            "x": 1624,
-            "y": -8
-          },
-          "size": {
-            "width": 192,
-            "height": 128
-          }
-        },
-        {
-          "id": "b4909c23-c48f-4529-9bba-6a4e79099fb1",
+          "id": "692f4230-f638-420e-8b9d-3ea918cdde4c",
           "type": "1d858dfe0703982e3a7e64156d37e3c2db0685a7",
           "position": {
             "x": 784,
@@ -242,7 +226,7 @@
             "port": "out"
           },
           "target": {
-            "block": "b4909c23-c48f-4529-9bba-6a4e79099fb1",
+            "block": "692f4230-f638-420e-8b9d-3ea918cdde4c",
             "port": "4d60d290-9ad9-4c5b-a5ae-25f3183083ae"
           }
         },
@@ -252,7 +236,7 @@
             "port": "out"
           },
           "target": {
-            "block": "b4909c23-c48f-4529-9bba-6a4e79099fb1",
+            "block": "692f4230-f638-420e-8b9d-3ea918cdde4c",
             "port": "08e53de8-dbd7-4cfa-bfd5-3a6ba85908fb"
           }
         },
@@ -262,13 +246,13 @@
             "port": "out"
           },
           "target": {
-            "block": "b4909c23-c48f-4529-9bba-6a4e79099fb1",
+            "block": "692f4230-f638-420e-8b9d-3ea918cdde4c",
             "port": "231368b5-0784-4674-b034-76f0c4a08140"
           }
         },
         {
           "source": {
-            "block": "b4909c23-c48f-4529-9bba-6a4e79099fb1",
+            "block": "692f4230-f638-420e-8b9d-3ea918cdde4c",
             "port": "f75f523d-9076-4fae-bc1a-71d5e5987a39"
           },
           "target": {
@@ -278,7 +262,7 @@
         },
         {
           "source": {
-            "block": "b4909c23-c48f-4529-9bba-6a4e79099fb1",
+            "block": "692f4230-f638-420e-8b9d-3ea918cdde4c",
             "port": "01819d7d-d588-4b46-a7c9-fc11836de9a2"
           },
           "target": {
@@ -293,7 +277,7 @@
             "port": "constant-out"
           },
           "target": {
-            "block": "b4909c23-c48f-4529-9bba-6a4e79099fb1",
+            "block": "692f4230-f638-420e-8b9d-3ea918cdde4c",
             "port": "19619aa8-60f1-4c70-a378-035b0c9d094b"
           }
         }
