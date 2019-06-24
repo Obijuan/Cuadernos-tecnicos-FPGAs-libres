@@ -173,8 +173,8 @@
             "y": 48
           },
           "size": {
-            "width": 688,
-            "height": 80
+            "width": 880,
+            "height": 88
           }
         },
         {
