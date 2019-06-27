@@ -127,8 +127,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.25"
-     inkscape:cx="1918.0112"
-     inkscape:cy="385.71903"
+     inkscape:cx="1590.0112"
+     inkscape:cy="369.71903"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      inkscape:window-width="1853"
@@ -168,7 +168,7 @@
        height="1014"
        x="-2048"
        y="-383.91537"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
   </g>
@@ -184,7 +184,10 @@
        height="642.05298"
        x="-1901.4604"
        y="-191.30112"
-       ry="39.179798" />
+       ry="39.179798"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1120"
@@ -192,11 +195,14 @@
        height="124.45079"
        x="-1757.2108"
        y="32.144661"
-       ry="39.179798" />
+       ry="39.179798"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g1994"
        transform="matrix(4.4981505,0,0,4.4981505,-74.515713,-65.506686)"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -213,7 +219,7 @@
     <g
        id="g2002"
        transform="matrix(4.4981505,0,0,4.4981505,-74.515713,-65.506686)"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -230,7 +236,7 @@
     <g
        id="g2018"
        transform="matrix(4.4981505,0,0,4.4981505,-74.515713,-65.506686)"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -247,7 +253,7 @@
     <g
        id="g2010"
        transform="matrix(4.4981505,0,0,4.4981505,-74.515713,-65.506686)"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -268,7 +274,7 @@
        height="324.71103"
        x="22.988251"
        y="20.41288"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -277,7 +283,7 @@
        x="175.31676"
        y="82.858322"
        id="text2182"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.97780609px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';stroke-width:4.49815035px"
@@ -296,7 +302,7 @@
        x="342.99368"
        y="101.1823"
        id="text3061"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815035px"
@@ -324,13 +330,13 @@
        style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:4.49815035px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 347.46703,254.14313 h 59.45993"
        id="path2341"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-01.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
        style="fill:#b9e179;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.37357998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect3084"
        width="532.0553"
@@ -340,7 +346,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-01.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:53.97780609px;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.49815083px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1026.7125"
@@ -369,7 +375,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-01.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
        inkscape:connector-curvature="0"
        style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:4.49815083px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1029.2883,254.14314 h 59.4599"
@@ -380,7 +386,7 @@
        x="-175.13336"
        y="-95.381126"
        id="text2182-3"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:126.74066925px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';fill:#0000ff;stroke-width:4.49815035px"
@@ -394,7 +400,7 @@
        x="1346.1141"
        y="106.11623"
        id="text2182-3-5"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.97780609px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';fill:#0000ff;stroke-width:4.49815035px"
@@ -425,7 +431,7 @@
        height="324.71103"
        x="-884.93683"
        y="20.412876"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -434,7 +440,7 @@
        x="-540.27533"
        y="85.686752"
        id="text2182-6"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.97780609px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';stroke-width:4.49815035px"
@@ -453,7 +459,7 @@
        x="-850.6026"
        y="157.75084"
        id="text3061-3"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815035px"
@@ -469,7 +475,10 @@
     <g
        id="g1021"
        transform="matrix(3.016888,0,0,3.016888,-284.30486,90.328098)"
-       style="fill:#666666;stroke:#000000">
+       style="fill:#666666;stroke:#000000"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          id="path1019"
          pointer-events="none"
@@ -486,20 +495,26 @@
        height="771.81226"
        x="-970.73376"
        y="-239.21021"
-       ry="31.819225" />
+       ry="31.819225"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <circle
        style="opacity:1;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path1058"
        cx="811.5929"
        cy="184.48901"
-       r="83.438599" />
+       r="83.438599"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.97780609px;line-height:0%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.49815035px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="811.21716"
        y="173.81573"
        id="text2182-2"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.97780609px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';stroke-width:4.49815035px"
@@ -515,7 +530,7 @@
     <g
        id="g1994-3"
        transform="matrix(4.4981505,0,0,4.4981505,-1946.9345,64.600961)"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -532,7 +547,7 @@
     <g
        id="g1994-3-6"
        transform="matrix(-4.4981505,0,0,4.4981505,-257.70609,-1.3927084)"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -551,7 +566,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:141.89942932px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.4097023"
        x="-1703.0701"
        y="-36.98455"
-       id="text1114"><tspan
+       id="text1114"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan1112"
          x="-1703.0701"
@@ -562,7 +580,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.40656281px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="-1693.0275"
        y="119.619"
-       id="text1118"><tspan
+       id="text1118"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan1116"
          x="-1693.0275"
@@ -575,13 +596,19 @@
        height="124.45079"
        x="-1757.2108"
        y="201.85028"
-       ry="39.179798" />
+       ry="39.179798"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.40656281px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
        x="-1709.9979"
        y="283.66772"
-       id="text1118-8"><tspan
+       id="text1118-8"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/serial-spi-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan1116-7"
          x="-1709.9979"
