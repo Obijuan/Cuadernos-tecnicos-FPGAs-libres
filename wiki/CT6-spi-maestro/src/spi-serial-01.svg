@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2733pt"
+   height="760.5pt"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="spi-serial-01.svg"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInL"
+       style="overflow:visible">
+      <path
+         id="path2502"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(-0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         id="path2585"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(-0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path2588"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path2493"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         id="path3298"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,5.5,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path3316"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(-0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3319"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.25"
+     inkscape:cx="1918.0112"
+     inkscape:cy="385.71903"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="1051"
+     showgrid="false"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="back"
+     transform="translate(2048,383.91537)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10.45516586;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect949"
+       width="3644"
+       height="1014"
+       x="-2048"
+       y="-383.91537"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(2026.6985,365.18928)">
+    <rect
+       style="opacity:1;fill:#d5f6ff;fill-opacity:1;stroke:#000000;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1143"
+       width="585.48444"
+       height="642.05298"
+       x="-1901.4604"
+       y="-191.30112"
+       ry="39.179798" />
+    <rect
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1120"
+       width="404.46509"
+       height="124.45079"
+       x="-1757.2108"
+       y="32.144661"
+       ry="39.179798" />
+    <g
+       id="g1994"
+       transform="matrix(4.4981505,0,0,4.4981505,-74.515713,-65.506686)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.96931434px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 140.09375,31.34375 v 0.96875 c 44.92846,0 67.39288,0 78.625,0 5.61606,0 8.40849,0 9.8125,0 0.70201,0 1.04325,0 1.21875,0 0.0877,0 0.13431,0 0.15625,0 0.011,0 0.0285,0 0.0312,0 v -0.46875 -0.5 c 0,0 0.0132,1e-6 -89.84375,0 z"
+         id="path3144"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.77545148pt;marker-start:none"
+         d="m 234.41172,31.830319 -6.70765,3.877257 v -7.754514 z"
+         id="path2000"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g2002"
+       transform="matrix(4.4981505,0,0,4.4981505,-74.515713,-65.506686)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.96867871px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 140.09375,46.9375 v 0.96875 c 44.86956,0 67.28261,0 78.5,0 5.6087,0 8.41033,0 9.8125,0 0.70109,0 1.07473,0 1.25,0 0.0876,0 0.13434,0 0.15625,0 v -0.46875 -0.5 c 0,0 0.0204,-10e-7 -89.71875,0 z"
+         id="path3330"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.77494302pt;marker-start:none"
+         d="m 234.29035,47.433902 -6.70326,3.874715 v -7.74943 z"
+         id="path2008"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g2018"
+       transform="matrix(4.4981505,0,0,4.4981505,-74.515713,-65.506686)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.96931434px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 140.09375,78.15625 V 79.125 c 44.92846,-10e-7 67.39288,0 78.625,0 5.61606,0 8.40849,0 9.8125,0 0.70201,0 1.04325,0 1.21875,0 0.0877,0 0.13431,0 0.15625,0 0.011,0 0.0285,0 0.0312,0 v -0.46875 -0.5 c 0,0 0.0132,-3e-6 -89.84375,0 z"
+         id="path3334"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.77545148pt;marker-start:none"
+         d="m 234.41172,78.641034 -6.70765,3.877257 v -7.754514 z"
+         id="path2024"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g2010"
+       transform="matrix(4.4981505,0,0,4.4981505,-74.515713,-65.506686)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00844264px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 145.75,63.4375 v 1.03125 c 44.85367,10e-7 67.28658,0 78.5,0 5.60671,0 8.41082,0 9.8125,0 0.70084,0 1.04354,0 1.21875,0 0.0876,0 0.13435,0 0.15625,0 0.011,0 0.0285,0 0.0312,0 v -0.53125 -0.5 c 0,0 -0.0114,10e-7 -89.71875,0 z"
+         id="path2783"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.80675411pt;marker-start:none"
+         d="m 141.09578,63.949224 6.97842,-4.033771 v 8.067542 z"
+         id="path2016"
+         inkscape:connector-curvature="0" />
+    </g>
+    <rect
+       style="fill:#ffc2a1;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.37358022px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect1307"
+       width="532.0553"
+       height="324.71103"
+       x="22.988251"
+       y="20.41288"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.97780609px;line-height:0%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.49815035px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="175.31676"
+       y="82.858322"
+       id="text2182"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.97780609px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';stroke-width:4.49815035px"
+         sodipodi:role="line"
+         id="tspan2184"
+         x="175.31676"
+         y="82.858322">SPI</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.97780609px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';stroke-width:4.49815035px"
+         sodipodi:role="line"
+         x="175.31676"
+         y="150.33058"
+         id="tspan2186">Maestro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:53.97780609px;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.49815035px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="342.99368"
+       y="101.1823"
+       id="text3061"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815035px"
+         sodipodi:role="line"
+         id="tspan3063"
+         x="342.99368"
+         y="101.1823">SCLK</tspan><tspan
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815035px"
+         sodipodi:role="line"
+         x="342.99368"
+         y="168.65456"
+         id="tspan3065">MOSI</tspan><tspan
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815035px"
+         sodipodi:role="line"
+         x="342.99368"
+         y="236.12682"
+         id="tspan3067">MISO</tspan><tspan
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815035px"
+         sodipodi:role="line"
+         x="342.99368"
+         y="303.59906"
+         id="tspan3069">SS</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:4.49815035px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 347.46703,254.14313 h 59.45993"
+       id="path2341"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-01.png"
+       style="fill:#b9e179;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.37357998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3084"
+       width="532.0553"
+       height="324.711"
+       x="985.59247"
+       y="20.412886" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-01.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:53.97780609px;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.49815083px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1026.7125"
+       y="101.1823"
+       id="text3092"><tspan
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815083px"
+         sodipodi:role="line"
+         id="tspan3094"
+         x="1026.7125"
+         y="101.1823">SCLK</tspan><tspan
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815083px"
+         sodipodi:role="line"
+         x="1026.7125"
+         y="168.65456"
+         id="tspan3096">MOSI</tspan><tspan
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815083px"
+         sodipodi:role="line"
+         x="1026.7125"
+         y="236.12682"
+         id="tspan3098">MISO</tspan><tspan
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815083px"
+         sodipodi:role="line"
+         x="1026.7125"
+         y="303.59906"
+         id="tspan3100">SS</tspan></text>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-01.png"
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:4.49815083px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1029.2883,254.14314 h 59.4599"
+       id="path2343" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:126.74066925px;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:4.49815035px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-175.13336"
+       y="-95.381126"
+       id="text2182-3"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:126.74066925px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';fill:#0000ff;stroke-width:4.49815035px"
+         sodipodi:role="line"
+         x="-175.13336"
+         y="-95.381126"
+         id="tspan2186-7">FPGA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:53.97780609px;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:4.49815035px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1346.1141"
+       y="106.11623"
+       id="text2182-3-5"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.97780609px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';fill:#0000ff;stroke-width:4.49815035px"
+         sodipodi:role="line"
+         x="1346.1141"
+         y="106.11623"
+         id="tspan2186-7-3">Periférico</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.97780609px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';fill:#0000ff;stroke-width:4.49815035px"
+         sodipodi:role="line"
+         x="1346.1141"
+         y="173.58849"
+         id="tspan957">SPI</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot949"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-34.69854,-53.189284)"><flowRegion
+         id="flowRegion951"><rect
+           id="rect953"
+           width="183.84776"
+           height="90.509666"
+           x="158.39192"
+           y="116.44661" /></flowRegion><flowPara
+         id="flowPara955"></flowPara></flowRoot>    <rect
+       style="fill:#ffeeaa;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.37358022px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect1307-3"
+       width="532.0553"
+       height="324.71103"
+       x="-884.93683"
+       y="20.412876"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.97780609px;line-height:0%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.49815035px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-540.27533"
+       y="85.686752"
+       id="text2182-6"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.97780609px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';stroke-width:4.49815035px"
+         sodipodi:role="line"
+         id="tspan2184-7"
+         x="-540.27533"
+         y="85.686752">Puerto</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.97780609px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';stroke-width:4.49815035px"
+         sodipodi:role="line"
+         x="-540.27533"
+         y="153.15901"
+         id="tspan2186-5">Serie</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:53.97780609px;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.49815035px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-850.6026"
+       y="157.75084"
+       id="text3061-3"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815035px"
+         sodipodi:role="line"
+         id="tspan3063-5"
+         x="-850.6026"
+         y="157.75084">TX</tspan><tspan
+         style="font-size:53.97780609px;line-height:1.25;stroke-width:4.49815035px"
+         sodipodi:role="line"
+         x="-850.6026"
+         y="225.2231"
+         id="tspan3069-9">RX</tspan></text>
+    <g
+       id="g1021"
+       transform="matrix(3.016888,0,0,3.016888,-284.30486,90.328098)"
+       style="fill:#666666;stroke:#000000">
+      <path
+         id="path1019"
+         pointer-events="none"
+         stroke-miterlimit="10"
+         d="M -21.563221,30 -1.5632214,0 V 21 H 80 V 0 L 100,30 80,60 V 39 H -1.5632214 v 21 z"
+         inkscape:connector-curvature="0"
+         style="fill:#666666;stroke:#000000;stroke-miterlimit:10"
+         sodipodi:nodetypes="ccccccccccc" />
+    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.84830427;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1031"
+       width="1665.5953"
+       height="771.81226"
+       x="-970.73376"
+       y="-239.21021"
+       ry="31.819225" />
+    <circle
+       style="opacity:1;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1058"
+       cx="811.5929"
+       cy="184.48901"
+       r="83.438599" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.97780609px;line-height:0%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.49815035px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="811.21716"
+       y="173.81573"
+       id="text2182-2"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.97780609px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';stroke-width:4.49815035px"
+         sodipodi:role="line"
+         x="811.21716"
+         y="173.81573"
+         id="tspan2186-9">BUS</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.97780609px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';stroke-width:4.49815035px"
+         sodipodi:role="line"
+         x="811.21716"
+         y="241.28799"
+         id="tspan1056">SPI</tspan></text>
+    <g
+       id="g1994-3"
+       transform="matrix(4.4981505,0,0,4.4981505,-1946.9345,64.600961)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.96931434px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 140.09375,31.34375 v 0.96875 c 44.92846,0 67.39288,0 78.625,0 5.61606,0 8.40849,0 9.8125,0 0.70201,0 1.04325,0 1.21875,0 0.0877,0 0.13431,0 0.15625,0 0.011,0 0.0285,0 0.0312,0 v -0.46875 -0.5 c 0,0 0.0132,1e-6 -89.84375,0 z"
+         id="path3144-6"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.77545148pt;marker-start:none"
+         d="m 234.41172,31.830319 -6.70765,3.877257 v -7.754514 z"
+         id="path2000-0"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g1994-3-6"
+       transform="matrix(-4.4981505,0,0,4.4981505,-257.70609,-1.3927084)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.96931434px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 140.09375,31.34375 v 0.96875 c 44.92846,0 67.39288,0 78.625,0 5.61606,0 8.40849,0 9.8125,0 0.70201,0 1.04325,0 1.21875,0 0.0877,0 0.13431,0 0.15625,0 0.011,0 0.0285,0 0.0312,0 v -0.46875 -0.5 c 0,0 0.0132,1e-6 -89.84375,0 z"
+         id="path3144-6-2"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.77545148pt;marker-start:none"
+         d="m 234.41172,31.830319 -6.70765,3.877257 v -7.754514 z"
+         id="path2000-0-6"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:141.89942932px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.4097023"
+       x="-1703.0701"
+       y="-36.98455"
+       id="text1114"><tspan
+         sodipodi:role="line"
+         id="tspan1112"
+         x="-1703.0701"
+         y="-36.98455"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:11.4097023">PC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.40656281px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="-1693.0275"
+       y="119.619"
+       id="text1118"><tspan
+         sodipodi:role="line"
+         id="tspan1116"
+         x="-1693.0275"
+         y="119.619"
+         style="stroke-width:1">Terminal</tspan></text>
+    <rect
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1120-1"
+       width="404.46509"
+       height="124.45079"
+       x="-1757.2108"
+       y="201.85028"
+       ry="39.179798" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.40656281px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="-1709.9979"
+       y="283.66772"
+       id="text1118-8"><tspan
+         sodipodi:role="line"
+         id="tspan1116-7"
+         x="-1709.9979"
+         y="283.66772"
+         style="stroke-width:1">Programa</tspan></text>
+  </g>
+</svg>
