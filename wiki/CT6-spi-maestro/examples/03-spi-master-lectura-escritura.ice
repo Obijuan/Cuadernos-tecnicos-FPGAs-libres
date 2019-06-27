@@ -545,7 +545,7 @@
           "id": "e3b1dafc-679d-4fa3-9b0a-9283080357ec",
           "type": "basic.info",
           "data": {
-            "info": "# MAESTRO",
+            "info": "# MAESTRO\n\nCada 100ms se envía el valor del contador al  \nesclavo y se incrementa",
             "readonly": true
           },
           "position": {
@@ -553,8 +553,8 @@
             "y": -120
           },
           "size": {
-            "width": 400,
-            "height": 72
+            "width": 384,
+            "height": 88
           }
         },
         {
@@ -758,7 +758,7 @@
           },
           "position": {
             "x": 264,
-            "y": 64
+            "y": 112
           },
           "size": {
             "width": 240,
