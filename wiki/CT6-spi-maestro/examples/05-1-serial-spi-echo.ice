@@ -551,6 +551,22 @@
             "width": 168,
             "height": 32
           }
+        },
+        {
+          "id": "eef64a23-d753-4fbb-8cf5-2db67d190a55",
+          "type": "basic.info",
+          "data": {
+            "info": "Datos enviados \nhacia el PC",
+            "readonly": true
+          },
+          "position": {
+            "x": 704,
+            "y": 128
+          },
+          "size": {
+            "width": 144,
+            "height": 48
+          }
         }
       ],
       "wires": [
