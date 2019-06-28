@@ -31,6 +31,25 @@
           }
         },
         {
+          "id": "78f7ea6b-2784-4a2f-8f7c-f6eb0ab3c5be",
+          "type": "basic.output",
+          "data": {
+            "name": "MOSI",
+            "pins": [
+              {
+                "index": "0",
+                "name": "D11",
+                "value": "21"
+              }
+            ],
+            "virtual": false
+          },
+          "position": {
+            "x": 400,
+            "y": -8
+          }
+        },
+        {
           "id": "ba279b7a-5084-4cee-8796-fb974c840abb",
           "type": "basic.input",
           "data": {
@@ -106,22 +125,42 @@
           }
         },
         {
-          "id": "78f7ea6b-2784-4a2f-8f7c-f6eb0ab3c5be",
+          "id": "5b305823-1adf-4703-9ebe-55d4f38de35b",
           "type": "basic.output",
           "data": {
-            "name": "MOSI",
+            "name": "SCLK",
             "pins": [
               {
                 "index": "0",
-                "name": "D11",
-                "value": "21"
+                "name": "D13",
+                "value": "64"
               }
             ],
             "virtual": false
           },
           "position": {
-            "x": 408,
-            "y": 48
+            "x": 400,
+            "y": 88
+          }
+        },
+        {
+          "id": "2c4fc550-50c2-4afb-bb45-d24f513c1ca4",
+          "type": "basic.input",
+          "data": {
+            "name": "MISO",
+            "pins": [
+              {
+                "index": "0",
+                "name": "D12",
+                "value": "63"
+              }
+            ],
+            "virtual": false,
+            "clock": false
+          },
+          "position": {
+            "x": 40,
+            "y": 104
           }
         },
         {
@@ -145,42 +184,22 @@
           }
         },
         {
-          "id": "5b305823-1adf-4703-9ebe-55d4f38de35b",
+          "id": "4370bc55-4672-43d0-b681-905c1bb5b483",
           "type": "basic.output",
           "data": {
-            "name": "SCLK",
+            "name": "ss",
             "pins": [
               {
                 "index": "0",
-                "name": "D13",
-                "value": "64"
+                "name": "D10",
+                "value": "22"
               }
             ],
             "virtual": false
           },
           "position": {
-            "x": 408,
-            "y": 144
-          }
-        },
-        {
-          "id": "2c4fc550-50c2-4afb-bb45-d24f513c1ca4",
-          "type": "basic.input",
-          "data": {
-            "name": "MISO",
-            "pins": [
-              {
-                "index": "0",
-                "name": "D12",
-                "value": "63"
-              }
-            ],
-            "virtual": false,
-            "clock": false
-          },
-          "position": {
-            "x": 48,
-            "y": 160
+            "x": 400,
+            "y": 168
           }
         },
         {
@@ -204,25 +223,6 @@
           }
         },
         {
-          "id": "4370bc55-4672-43d0-b681-905c1bb5b483",
-          "type": "basic.output",
-          "data": {
-            "name": "ss",
-            "pins": [
-              {
-                "index": "0",
-                "name": "D10",
-                "value": "22"
-              }
-            ],
-            "virtual": false
-          },
-          "position": {
-            "x": 408,
-            "y": 224
-          }
-        },
-        {
           "id": "4dfe712c-0edc-4d16-9d9d-3b409c99346a",
           "type": "basic.output",
           "data": {
@@ -237,8 +237,8 @@
             "virtual": false
           },
           "position": {
-            "x": 400,
-            "y": 344
+            "x": 392,
+            "y": 288
           }
         },
         {
@@ -257,8 +257,8 @@
             "clock": false
           },
           "position": {
-            "x": 48,
-            "y": 344
+            "x": 40,
+            "y": 288
           }
         },
         {
@@ -281,16 +281,16 @@
           "id": "e3b1dafc-679d-4fa3-9b0a-9283080357ec",
           "type": "basic.info",
           "data": {
-            "info": "# MAESTRO\n\nTodo lo recibido por el puerto seríe se envía al  \nesclavo. Todo los recibido del esclavo se envía  \nde por el puerto serie",
+            "info": "# MAESTRO\n",
             "readonly": true
           },
           "position": {
-            "x": 0,
-            "y": -128
+            "x": 8,
+            "y": -104
           },
           "size": {
-            "width": 400,
-            "height": 88
+            "width": 416,
+            "height": 48
           }
         },
         {
@@ -329,8 +329,8 @@
             "readonly": true
           },
           "position": {
-            "x": 56,
-            "y": 296
+            "x": 48,
+            "y": 240
           },
           "size": {
             "width": 144,
@@ -345,8 +345,8 @@
             "readonly": true
           },
           "position": {
-            "x": 408,
-            "y": 296
+            "x": 400,
+            "y": 240
           },
           "size": {
             "width": 144,
@@ -357,8 +357,8 @@
           "id": "c22b011c-7db2-497c-ad9c-fb62be6bf96b",
           "type": "f4608dd2f905306fdf2a24dac9b34f61a1e835d7",
           "position": {
-            "x": 232,
-            "y": 128
+            "x": 224,
+            "y": 72
           },
           "size": {
             "width": 96,
@@ -488,8 +488,8 @@
           },
           "vertices": [
             {
-              "x": 352,
-              "y": 288
+              "x": 344,
+              "y": 232
             }
           ]
         }
