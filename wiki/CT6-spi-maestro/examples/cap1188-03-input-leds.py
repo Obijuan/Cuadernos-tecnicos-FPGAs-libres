@@ -107,7 +107,7 @@ with serial.Serial(SERIAL_PORT, 115200) as sp:
     print("MANUID: {:02X}".format(manuid))
     print("REVID: {:02X}".format(revid))
 
-    #------- Configuracio
+    #------- Configuracion
     #-- Permitir el funcionamiento todas las entradas a la vez
     write_reg(sp, CAP1188_MTBLK, 0x00)
     #-- Aumentar la velocidad de muestreo
