@@ -82,12 +82,12 @@
      id="namedview6087"
      showgrid="false"
      inkscape:zoom="0.89392637"
-     inkscape:cx="364.60358"
-     inkscape:cy="245.34263"
+     inkscape:cx="442.23049"
+     inkscape:cy="308.31481"
      inkscape:window-x="67"
      inkscape:window-y="1107"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      inkscape:snap-global="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -39216,5 +39216,37 @@ w/LEDs</title>
          x="228.19086"
          y="186.24472"
          style="stroke-width:0.75000042">GND</tspan></text>
+    <g
+       transform="translate(0.29142194,0.07612634)"
+       partID="854140120"
+       id="g6089"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-cap1188-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#8c0000;stroke-width:3.20000005;stroke-linecap:round"
+         inkscape:connector-curvature="0"
+         d="M 392.519,228.398 C 373.451,178.908 162.58,199.36 173.193,169.113"
+         id="path6085" />
+      <path
+         style="fill:none;stroke:#cc1414;stroke-width:1.60000002;stroke-linecap:round"
+         inkscape:connector-curvature="0"
+         d="M 392.519,228.398 C 373.451,178.908 162.58,199.36 173.193,169.113"
+         id="path6087" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000668px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000042"
+       x="129.30676"
+       y="190.06717"
+       id="text45874-4-7-6"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT6-spi-maestro/spi-cap1188-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan45872-4-6-2"
+         x="129.30676"
+         y="190.06717"
+         style="stroke-width:0.75000042">Vcc (+5v)</tspan></text>
   </g>
 </svg>
