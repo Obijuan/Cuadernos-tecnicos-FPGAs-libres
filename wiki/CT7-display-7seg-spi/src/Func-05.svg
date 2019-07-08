@@ -1,0 +1,1476 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="668.20752mm"
+   height="782.48151mm"
+   viewBox="0 0 668.20752 782.48152"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="Func-05.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2645"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2643"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path906"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Send"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path912"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path906-6"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path906-3"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2645-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2643-2"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path906-2"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path906-36"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-92"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path906-0"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2645-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2643-28"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2645-62"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2643-6"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-9-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path906-36-8"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path906-9"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Send-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path967" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-15"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path961" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Send-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path967-9"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Send-6-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path967-0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path906-6-7"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-4-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path906-6-7-5"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-4-4-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path906-6-7-5-6"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path906-6-5"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-7-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path906-6-5-2"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-7-1-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path906-6-5-2-4"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.16611608"
+     inkscape:cx="1564.5491"
+     inkscape:cy="1475.4862"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="back"
+     transform="translate(157.47092,401.41174)"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.8855778;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect866"
+       width="668.20752"
+       height="782.48151"
+       x="-157.47092"
+       y="-401.41174"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="segments"
+     transform="translate(157.47092,401.41174)"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#8a7a7a;fill-opacity:1;stroke:#000000;stroke-width:0.34449574;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect863-0"
+       width="73.880577"
+       height="99.83844"
+       x="-46.928112"
+       y="-265.96155"
+       ry="0.95497584"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -33.132754,-224.36953 c -0.32328,-1.05144 5.10753,-28.63857 5.5038,-28.99104 0.39628,-0.35248 1.93735,-1.27773 2.33362,-1.23367 0.39628,0.0441 5.01948,5.11089 5.1956,5.68367 0.17613,0.57276 -3.9903,25.41374 -4.40305,26.08311 -0.3091,0.50128 -3.03811,3.39257 -4.05081,3.30445 -1.01269,-0.0881 -4.25589,-3.79509 -4.57916,-4.84652 z"
+       id="path827-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zcccscz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -23.710234,-255.16701 3.91872,4.75841 27.5630697,-0.30841 c 0,0 6.3844303,-4.84653 5.9881503,-5.94802 -0.39627,-1.10148 -2.02541,-1.89454 -2.02541,-1.89454 0,0 -31.04148,-0.2203 -32.71464,0.35247 -1.67316,0.57276 -2.90601,1.80643 -2.90601,2.20297 0,0.39653 0.17612,0.83712 0.17612,0.83712 z"
+       id="path829-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 4.3020757,-222.1481 c -0.54927,-1.43782 4.38994,-27.44724 4.63902,-27.88341 0.24906,-0.43616 5.5107503,-4.64204 6.3202503,-4.54858 0.80948,0.0935 2.2728,1.27734 2.49073,1.93159 0.21795,0.65425 -4.20312,28.28842 -4.48332,28.94267 -0.28022,0.65424 -4.1408703,4.42396 -5.1682903,4.51742 -1.02743,0.0935 -3.2491,-1.52188 -3.79839,-2.95969 z"
+       id="path831-75"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zccccsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -23.282864,-221.96118 c 1.2362,-0.32828 24.3350897,-0.27213 25.5141397,-0.0132 1.17905,0.25901 3.69098,2.60475 3.73504,4.03742 0.0441,1.43268 -2.5978,3.21634 -3.65454,3.87722 -1.05673,0.66089 -25.1854297,0.57278 -25.9779797,0.17624 -0.79255,-0.39654 -3.96275,-3.30444 -3.96275,-4.27375 0,-0.96931 3.10988,-3.47572 4.34609,-3.804 z"
+       id="path852-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzzzcsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -35.246224,-212.47352 c 0.59379,-1.17401 4.6232,-4.31781 5.85606,-4.36187 1.23285,-0.0441 2.72989,1.89455 2.90601,2.90791 0.17612,1.01336 -4.6232,28.72669 -5.28365,29.78411 -0.66046,1.05742 -4.84336,4.84653 -5.90009,4.89058 -1.05674,0.0441 -2.90602,-2.11484 -3.03811,-3.17227 -0.13209,-1.05742 4.866,-28.87446 5.45978,-30.04846 z"
+       id="path854-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzsccsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -30.314804,-183.79089 c 1.61542,-0.75825 27.6143497,-0.94786 28.5757797,-0.52872 0.96143002,0.41913 4.49111,3.78911 4.57917,5.15494 0.0881,1.36585 -2.37763998,3.21633 -3.39033998,3.39257 -1.01271002,0.17624 -33.59526972,1.23366 -34.51990972,0.66088 -0.92463,-0.57276 -1.84928,-1.7183 -1.93734,-2.51138 -0.0881,-0.79305 5.07722,-5.41005 6.69264,-6.16829 z"
+       id="path856-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzccssz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1.4308143,-186.831 c -0.60536,-1.7833 4.02051,-25.2853 4.39413,-26.03301 0.3736,-0.74772 2.56716,-3.49309 3.98519,-3.3647 1.41802,0.12838 3.7361003,2.7416 4.1719803,3.92548 0.43588,1.18388 -3.1489603,32.34785 -5.7042003,32.42351 -2.55526,0.0757 -6.24172998,-5.16795 -6.8471,-6.95128 z"
+       id="path858-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zczczz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -23.282864,-221.96114 c 1.2362,-0.32828 24.3350897,-0.27214 25.5141397,-0.0132 1.17905,0.25901 3.69098,2.60476 3.73504,4.03743 0.0441,1.43267 -2.5978,3.21633 -3.65454,3.87722 -1.05673,0.66088 -25.1854297,0.57277 -25.9779797,0.17623 -0.79255,-0.39654 -3.96275,-3.30445 -3.96275,-4.27375 0,-0.96931 3.10988,-3.47572 4.34609,-3.804 z"
+       id="path852-9-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzzzcsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;fill:#8a7a7a;fill-opacity:1;stroke:#000000;stroke-width:0.34449574;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect863-0-3"
+       width="73.880577"
+       height="99.83844"
+       x="26.952475"
+       y="-265.96155"
+       ry="0.95497584"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 40.747826,-224.36952 c -0.32328,-1.05144 5.10753,-28.63857 5.5038,-28.99104 0.39628,-0.35248 1.93735,-1.27773 2.33362,-1.23367 0.39628,0.0441 5.01948,5.11089 5.1956,5.68367 0.17613,0.57276 -3.9903,25.41374 -4.40305,26.08311 -0.3091,0.50128 -3.03811,3.39257 -4.05081,3.30445 -1.01269,-0.0881 -4.25589,-3.79509 -4.57916,-4.84652 z"
+       id="path827-2-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zcccscz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 50.170346,-255.167 3.91872,4.75841 27.56307,-0.30841 c 0,0 6.38443,-4.84653 5.98815,-5.94802 -0.39627,-1.10149 -2.02541,-1.89454 -2.02541,-1.89454 0,0 -31.04148,-0.2203 -32.71464,0.35247 -1.67316,0.57276 -2.90601,1.80642 -2.90601,2.20297 0,0.39652 0.17612,0.83712 0.17612,0.83712 z"
+       id="path829-3-75"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 78.182656,-222.14809 c -0.54927,-1.43782 4.38994,-27.44724 4.63902,-27.88341 0.24906,-0.43616 5.51075,-4.64204 6.32025,-4.54858 0.80948,0.0935 2.2728,1.27734 2.49073,1.93159 0.21795,0.65425 -4.20312,28.28842 -4.48332,28.94267 -0.28022,0.65424 -4.14087,4.42396 -5.16829,4.51742 -1.02743,0.0935 -3.2491,-1.52188 -3.79839,-2.95969 z"
+       id="path831-75-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zccccsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 50.597716,-221.96117 c 1.2362,-0.32828 24.33509,-0.27213 25.51414,-0.0132 1.17905,0.25901 3.69098,2.60475 3.73504,4.03742 0.0441,1.43268 -2.5978,3.21634 -3.65454,3.87722 -1.05673,0.66089 -25.18543,0.57279 -25.97798,0.17624 -0.79255,-0.39654 -3.96275,-3.30444 -3.96275,-4.27374 0,-0.96932 3.10988,-3.47573 4.34609,-3.80401 z"
+       id="path852-9-56"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzzzcsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 38.634356,-212.47351 c 0.59379,-1.17401 4.6232,-4.31781 5.85606,-4.36187 1.23285,-0.0441 2.72989,1.89455 2.90601,2.90791 0.17612,1.01336 -4.6232,28.72669 -5.28365,29.78411 -0.66046,1.05742 -4.84336,4.84653 -5.90009,4.89058 -1.05674,0.0441 -2.90602,-2.11484 -3.03811,-3.17227 -0.13209,-1.05742 4.866,-28.87446 5.45978,-30.04846 z"
+       id="path854-2-29"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzsccsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 43.565776,-183.79088 c 1.61542,-0.75825 27.61435,-0.94786 28.57578,-0.52872 0.96143,0.41913 4.49111,3.78911 4.57917,5.15494 0.0881,1.36585 -2.37764,3.21633 -3.39034,3.39257 -1.01271,0.17624 -33.59527,1.23366 -34.51991,0.66088 -0.92463,-0.57276 -1.84928,-1.7183 -1.93734,-2.51138 -0.0881,-0.79305 5.07722,-5.41005 6.69264,-6.16829 z"
+       id="path856-2-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzccssz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;fill-opacity:1;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 72.449766,-186.83099 c -0.60536,-1.7833 4.02051,-25.2853 4.39413,-26.03301 0.3736,-0.74772 2.56716,-3.49309 3.98519,-3.3647 1.41802,0.12838 3.7361,2.7416 4.17198,3.92548 0.43588,1.18388 -3.14896,32.34785 -5.7042,32.42351 -2.55526,0.0757 -6.24173,-5.16795 -6.8471,-6.95128 z"
+       id="path858-8-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zczczz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;fill:#8a7a7a;fill-opacity:1;stroke:#000000;stroke-width:0.34449574;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect863-0-93"
+       width="73.880577"
+       height="99.83844"
+       x="100.83306"
+       y="-265.96155"
+       ry="0.95497584"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 114.62842,-224.36954 c -0.32328,-1.05144 5.10753,-28.63857 5.5038,-28.99104 0.39628,-0.35248 1.93735,-1.27773 2.33362,-1.23367 0.39628,0.0441 5.01948,5.11089 5.1956,5.68367 0.17613,0.57276 -3.9903,25.41374 -4.40305,26.08311 -0.3091,0.50128 -3.03811,3.39257 -4.05081,3.30445 -1.01269,-0.0881 -4.25589,-3.79509 -4.57916,-4.84652 z"
+       id="path827-2-60"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zcccscz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 124.05094,-255.16702 3.91872,4.75841 27.56307,-0.30841 c 0,0 6.38443,-4.84653 5.98815,-5.94802 -0.39627,-1.10148 -2.02541,-1.89454 -2.02541,-1.89454 0,0 -31.04148,-0.2203 -32.71464,0.35247 -1.67316,0.57276 -2.90601,1.80643 -2.90601,2.20297 0,0.39653 0.17612,0.83712 0.17612,0.83712 z"
+       id="path829-3-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 152.06325,-222.14811 c -0.54927,-1.43782 4.38994,-27.44724 4.63902,-27.88341 0.24906,-0.43616 5.51075,-4.64204 6.32025,-4.54858 0.80948,0.0935 2.2728,1.27734 2.49073,1.93159 0.21795,0.65425 -4.20312,28.28842 -4.48332,28.94267 -0.28022,0.65424 -4.14087,4.42396 -5.16829,4.51742 -1.02743,0.0935 -3.2491,-1.52188 -3.79839,-2.95969 z"
+       id="path831-75-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zccccsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 124.47831,-221.96119 c 1.2362,-0.32828 24.33509,-0.27213 25.51414,-0.0132 1.17905,0.25902 3.69098,2.60476 3.73504,4.03742 0.0441,1.43268 -2.5978,3.21635 -3.65454,3.87722 -1.05673,0.66089 -25.18543,0.57279 -25.97798,0.17625 -0.79255,-0.39655 -3.96275,-3.30445 -3.96275,-4.27375 0,-0.96931 3.10988,-3.47573 4.34609,-3.804 z"
+       id="path852-9-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzzzcsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 112.51495,-212.47353 c 0.59379,-1.17401 4.6232,-4.31781 5.85606,-4.36187 1.23285,-0.0441 2.72989,1.89455 2.90601,2.90791 0.17612,1.01336 -4.6232,28.72669 -5.28365,29.78411 -0.66046,1.05742 -4.84336,4.84653 -5.90009,4.89058 -1.05674,0.0441 -2.90602,-2.11484 -3.03811,-3.17227 -0.13209,-1.05742 4.866,-28.87446 5.45978,-30.04846 z"
+       id="path854-2-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzsccsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 117.44637,-183.7909 c 1.61542,-0.75825 27.61435,-0.94786 28.57578,-0.52872 0.96143,0.41913 4.49111,3.78911 4.57917,5.15494 0.0881,1.36585 -2.37764,3.21633 -3.39034,3.39257 -1.01271,0.17624 -33.59527,1.23366 -34.51991,0.66088 -0.92463,-0.57276 -1.84928,-1.7183 -1.93734,-2.51138 -0.0881,-0.79305 5.07722,-5.41005 6.69264,-6.16829 z"
+       id="path856-2-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzccssz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;fill-opacity:1;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 146.33036,-186.83101 c -0.60536,-1.7833 4.02051,-25.2853 4.39413,-26.03301 0.3736,-0.74772 2.56716,-3.49309 3.98519,-3.3647 1.41802,0.12838 3.7361,2.7416 4.17198,3.92548 0.43588,1.18388 -3.14896,32.34785 -5.7042,32.42351 -2.55526,0.0757 -6.24173,-5.16795 -6.8471,-6.95128 z"
+       id="path858-8-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zczczz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;fill:#8a7a7a;fill-opacity:1;stroke:#000000;stroke-width:0.34449574;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect863-0-3-0"
+       width="73.880577"
+       height="99.83844"
+       x="174.71364"
+       y="-265.96155"
+       ry="0.95497584"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 188.509,-224.36953 c -0.32328,-1.05144 5.10753,-28.63857 5.5038,-28.99104 0.39628,-0.35248 1.93735,-1.27773 2.33362,-1.23367 0.39628,0.0441 5.01948,5.11089 5.1956,5.68367 0.17613,0.57276 -3.9903,25.41374 -4.40305,26.08311 -0.3091,0.50128 -3.03811,3.39257 -4.05081,3.30445 -1.01269,-0.0881 -4.25589,-3.79509 -4.57916,-4.84652 z"
+       id="path827-2-6-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zcccscz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 197.93152,-255.16701 3.91872,4.75841 27.56307,-0.30841 c 0,0 6.38443,-4.84653 5.98814,-5.94802 -0.39627,-1.10149 -2.0254,-1.89454 -2.0254,-1.89454 0,0 -31.04148,-0.2203 -32.71464,0.35247 -1.67316,0.57276 -2.90601,1.80642 -2.90601,2.20297 0,0.39652 0.17612,0.83712 0.17612,0.83712 z"
+       id="path829-3-75-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 225.94383,-222.1481 c -0.54927,-1.43782 4.38994,-27.44724 4.63902,-27.88341 0.24906,-0.43616 5.51075,-4.64204 6.32024,-4.54858 0.80949,0.0935 2.2728,1.27734 2.49074,1.93159 0.21794,0.65425 -4.20312,28.28842 -4.48332,28.94267 -0.28022,0.65424 -4.14087,4.42396 -5.16829,4.51742 -1.02743,0.0935 -3.2491,-1.52188 -3.79839,-2.95969 z"
+       id="path831-75-3-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zccccsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 198.35889,-221.96118 c 1.2362,-0.32828 24.33509,-0.27213 25.51414,-0.0132 1.17905,0.259 3.69098,2.60474 3.73504,4.03742 0.0441,1.43267 -2.5978,3.21633 -3.65454,3.87722 -1.05673,0.66088 -25.18543,0.57278 -25.97798,0.17623 -0.79255,-0.39653 -3.96275,-3.30444 -3.96275,-4.27374 0,-0.96932 3.10988,-3.47572 4.34609,-3.80401 z"
+       id="path852-9-56-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzzzcsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 186.39553,-212.47352 c 0.59379,-1.17401 4.6232,-4.31781 5.85606,-4.36187 1.23285,-0.0441 2.72989,1.89455 2.90601,2.90791 0.17612,1.01336 -4.6232,28.72669 -5.28365,29.78411 -0.66046,1.05742 -4.84336,4.84653 -5.90009,4.89058 -1.05674,0.0441 -2.90602,-2.11484 -3.03811,-3.17227 -0.13209,-1.05742 4.866,-28.87446 5.45978,-30.04846 z"
+       id="path854-2-29-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzsccsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 191.32695,-183.79089 c 1.61542,-0.75825 27.61435,-0.94786 28.57578,-0.52872 0.96143,0.41913 4.49111,3.78911 4.57917,5.15494 0.0881,1.36585 -2.37764,3.21633 -3.39034,3.39257 -1.01271,0.17624 -33.59527,1.23366 -34.51991,0.66088 -0.92463,-0.57276 -1.84928,-1.7183 -1.93734,-2.51138 -0.0881,-0.79305 5.07722,-5.41005 6.69264,-6.16829 z"
+       id="path856-2-1-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzccssz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;fill-opacity:1;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 220.21094,-186.831 c -0.60536,-1.7833 4.02051,-25.2853 4.39413,-26.03301 0.3736,-0.74772 2.56716,-3.49309 3.98519,-3.3647 1.41802,0.12838 3.7361,2.7416 4.17198,3.92548 0.43588,1.18388 -3.14896,32.34785 -5.7042,32.42351 -2.55526,0.0757 -6.24173,-5.16795 -6.8471,-6.95128 z"
+       id="path858-8-2-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zczczz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;fill:#8a7a7a;fill-opacity:1;stroke:#000000;stroke-width:0.34449574;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect863-0-36"
+       width="73.880577"
+       height="99.83844"
+       x="-46.928112"
+       y="-9.3114109"
+       ry="0.95497584"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -33.13276,32.280613 c -0.32328,-1.051428 5.10753,-28.6385584 5.5038,-28.9910284 0.39628,-0.35248 1.93735,-1.27773 2.33362,-1.23367 0.39628,0.0441 5.01948,5.11089 5.1956,5.68367 0.17613,0.57276 -3.9903,25.4137384 -4.40305,26.0831084 -0.3091,0.50128 -3.03811,3.39257 -4.05081,3.30445 -1.01269,-0.0881 -4.25589,-3.79509 -4.57916,-4.84653 z"
+       id="path827-2-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zcccscz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -23.71024,1.4831446 3.918721,4.75841 27.5630694,-0.30841 c 0,0 6.3844306,-4.84653 5.9881506,-5.94802003 -0.396269,-1.10147997 -2.025409,-1.89453997 -2.025409,-1.89453997 0,0 -31.041481,-0.2203 -32.714642,0.35247 -1.67316,0.57275997 -2.90601,1.80642997 -2.90601,2.20296997 0,0.39653003 0.17612,0.83712003 0.17612,0.83712003 z"
+       id="path829-3-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 4.3020694,34.502053 c -0.54927,-1.43782 4.38994,-27.4472384 4.639022,-27.8834084 0.24906,-0.43616 5.5107486,-4.64204 6.3202496,-4.54858 0.809479,0.0935 2.2728,1.27734 2.490729,1.93159 0.217951,0.65425 -4.20312,28.2884184 -4.483319,28.9426684 -0.280221,0.65424 -4.1408696,4.42396 -5.1682916,4.51742 -1.02743,0.0935 -3.249099,-1.52188 -3.79839,-2.95969 z"
+       id="path831-75-35"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zccccsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -23.28287,34.688973 c 1.2362,-0.32828 24.3350914,-0.27213 25.5141414,-0.0132 1.179049,0.25901 3.690979,2.60475 3.73504,4.03742 0.0441,1.43268 -2.5978,3.21634 -3.654541,3.87722 -1.05673,0.66089 -25.1854304,0.57278 -25.9779804,0.17624 -0.79255,-0.39654 -3.96275,-3.30444 -3.96275,-4.27375 0,-0.96931 3.10988,-3.47572 4.34609,-3.804 z"
+       id="path852-9-62"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzzzcsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -35.246226,44.176633 c 0.59379,-1.17401 4.623196,-4.31781 5.856056,-4.36187 1.23285,-0.0441 2.72989,1.89455 2.90601,2.90791 0.17612,1.01336 -4.6232,28.72669 -5.28365,29.78411 -0.66046,1.05742 -4.843356,4.84653 -5.900086,4.89058 -1.05674,0.0441 -2.90602,-2.11484 -3.03811,-3.17227 -0.13209,-1.05742 4.866,-28.87446 5.45978,-30.04846 z"
+       id="path854-2-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzsccsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -30.31481,72.859263 c 1.61542,-0.75825 27.6143504,-0.94786 28.5757804,-0.52872 0.96142997,0.41913 4.491109,3.78911 4.57917,5.15494 0.0881,1.36585 -2.37764103,3.21633 -3.39033903,3.39257 -1.01271097,0.17624 -33.59527137,1.23366 -34.51990737,0.66088 -0.92463,-0.57276 -1.84928,-1.7183 -1.93734,-2.51138 -0.0881,-0.79305 5.077216,-5.41005 6.692636,-6.16829 z"
+       id="path856-2-12"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzccssz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1.4308186,69.819153 c -0.605362,-1.7833 4.02051,-25.2853 4.394128,-26.03301 0.373602,-0.74772 2.567162,-3.49309 3.985191,-3.3647 1.418022,0.12838 3.7360996,2.7416 4.1719786,3.92548 0.43588,1.18388 -3.1489586,32.34785 -5.7041986,32.42351 -2.555259,0.0757 -6.24173003,-5.16795 -6.847099,-6.95128 z"
+       id="path858-8-70"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zczczz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -23.28287,34.689013 c 1.2362,-0.32828 24.3350914,-0.27214 25.5141414,-0.0132 1.179049,0.25901 3.690979,2.60476 3.73504,4.03743 0.0441,1.43267 -2.5978,3.21633 -3.654541,3.87722 -1.05673,0.66088 -25.1854304,0.57277 -25.9779804,0.17623 -0.79255,-0.39654 -3.96275,-3.30445 -3.96275,-4.27375 0,-0.96931 3.10988,-3.47572 4.34609,-3.804 z"
+       id="path852-9-5-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzzzcsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;fill:#8a7a7a;fill-opacity:1;stroke:#000000;stroke-width:0.34449574;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect863-0-3-3"
+       width="73.880577"
+       height="99.83844"
+       x="26.952473"
+       y="-9.3114109"
+       ry="0.95497584"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 40.74782,32.280633 c -0.323279,-1.051438 5.10753,-28.6385684 5.503802,-28.9910384 0.396279,-0.35248 1.93735,-1.27773 2.333619,-1.23367 0.39628,0.0441 5.01948,5.11089 5.195599,5.68367 0.176131,0.57276 -3.9903,25.4137384 -4.40305,26.0831084 -0.309099,0.50128 -3.03811,3.39257 -4.05081,3.30445 -1.012688,-0.0881 -4.255889,-3.79509 -4.57916,-4.84652 z"
+       id="path827-2-6-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zcccscz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 50.170342,1.4831546 3.91872,4.75841 27.563069,-0.30841 c 0,0 6.38443,-4.84653 5.98815,-5.94802003 -0.396269,-1.10148997 -2.025409,-1.89453997 -2.025409,-1.89453997 0,0 -31.04148,-0.2203 -32.714642,0.35247 -1.673158,0.57275997 -2.906008,1.80641997 -2.906008,2.20296997 0,0.39652003 0.17612,0.83712003 0.17612,0.83712003 z"
+       id="path829-3-75-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 78.182652,34.502063 c -0.54927,-1.43782 4.38994,-27.4472384 4.639019,-27.8834084 0.24906,-0.43616 5.51075,-4.64204 6.32025,-4.54858 0.80948,0.0935 2.2728,1.27734 2.49073,1.93159 0.21795,0.65425 -4.203121,28.2884184 -4.48332,28.9426684 -0.28022,0.65424 -4.140869,4.42396 -5.168289,4.51742 -1.02743,0.0935 -3.249102,-1.52188 -3.79839,-2.95969 z"
+       id="path831-75-3-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zccccsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 50.59771,34.688983 c 1.236202,-0.32829 24.335092,-0.27213 25.514141,-0.0132 1.17905,0.25901 3.69098,2.60475 3.735041,4.03742 0.0441,1.43268 -2.597801,3.21634 -3.654541,3.87722 -1.05673,0.66089 -25.185431,0.57279 -25.97798,0.17624 -0.792549,-0.39654 -3.962749,-3.30444 -3.962749,-4.27374 0,-0.96932 3.109878,-3.47573 4.346088,-3.80401 z"
+       id="path852-9-56-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzzzcsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 38.634352,44.176643 c 0.593789,-1.17401 4.6232,-4.31781 5.85606,-4.36187 1.23285,-0.0441 2.729889,1.89455 2.906009,2.90791 0.17612,1.01336 -4.6232,28.72669 -5.28365,29.78411 -0.660461,1.05742 -4.843359,4.84653 -5.900089,4.89058 -1.056741,0.0441 -2.906022,-2.11484 -3.03811,-3.17227 -0.132091,-1.05742 4.866,-28.87446 5.45978,-30.04846 z"
+       id="path854-2-29-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzsccsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 43.56577,72.859273 c 1.615422,-0.75825 27.614351,-0.94786 28.575781,-0.52872 0.96143,0.41913 4.491111,3.78911 4.57917,5.15494 0.0881,1.36585 -2.377638,3.21633 -3.390339,3.39257 -1.012711,0.17624 -33.595271,1.23366 -34.51991,0.66088 -0.924631,-0.57276 -1.849281,-1.7183 -1.93734,-2.51138 -0.0881,-0.79305 5.077219,-5.41005 6.692638,-6.16829 z"
+       id="path856-2-1-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzccssz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;fill-opacity:1;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 72.449761,69.819163 c -0.605358,-1.7833 4.020511,-25.2853 4.394131,-26.03301 0.3736,-0.74772 2.56716,-3.49309 3.985189,-3.3647 1.418021,0.12838 3.736099,2.7416 4.171982,3.92548 0.435879,1.18388 -3.148963,32.34785 -5.704203,32.42351 -2.555258,0.0757 -6.241729,-5.16795 -6.847099,-6.95128 z"
+       id="path858-8-2-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zczczz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;fill:#8a7a7a;fill-opacity:1;stroke:#000000;stroke-width:0.34449574;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect863-0-93-7"
+       width="73.880577"
+       height="99.83844"
+       x="100.83306"
+       y="-9.3114109"
+       ry="0.95497584"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 114.62842,32.280613 c -0.32328,-1.051438 5.10753,-28.6385684 5.5038,-28.9910384 0.39628,-0.35248 1.93735,-1.27773 2.33362,-1.23367 0.39628,0.0441 5.01948,5.11089 5.1956,5.68367 0.17613,0.57276 -3.9903,25.4137384 -4.40305,26.0831084 -0.3091,0.50127 -3.03811,3.39257 -4.05081,3.30445 -1.01269,-0.0881 -4.25589,-3.79509 -4.57916,-4.84652 z"
+       id="path827-2-60-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zcccscz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 124.05094,1.4831346 3.91872,4.75841 27.56307,-0.30841 c 0,0 6.38443,-4.84653 5.98815,-5.94802003 -0.39627,-1.10147997 -2.02541,-1.89453997 -2.02541,-1.89453997 0,0 -31.04148,-0.2203 -32.71464,0.35247 -1.67316,0.57275997 -2.90601,1.80642997 -2.90601,2.20296997 0,0.39653003 0.17612,0.83712003 0.17612,0.83712003 z"
+       id="path829-3-6-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 152.06325,34.502043 c -0.54927,-1.43782 4.38994,-27.4472384 4.63902,-27.8834084 0.24906,-0.43616 5.51075,-4.64204 6.32025,-4.54858 0.80948,0.0935 2.2728,1.27734 2.49073,1.93159 0.21795,0.65425 -4.20312,28.2884184 -4.48332,28.9426684 -0.28022,0.65424 -4.14087,4.42396 -5.16829,4.51742 -1.02743,0.0935 -3.2491,-1.52188 -3.79839,-2.95969 z"
+       id="path831-75-2-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zccccsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 124.47831,34.688963 c 1.2362,-0.32828 24.33509,-0.27213 25.51414,-0.0132 1.17905,0.25902 3.69098,2.60476 3.73504,4.03742 0.0441,1.43268 -2.5978,3.21635 -3.65454,3.87722 -1.05673,0.66089 -25.18543,0.57279 -25.97798,0.17625 -0.79255,-0.39655 -3.96275,-3.30445 -3.96275,-4.27375 0,-0.96931 3.10988,-3.47573 4.34609,-3.804 z"
+       id="path852-9-6-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzzzcsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 112.51495,44.176623 c 0.59378,-1.17401 4.6232,-4.31781 5.85606,-4.36187 1.23285,-0.0441 2.72989,1.89455 2.90601,2.90791 0.17611,1.01336 -4.6232,28.72669 -5.28365,29.78411 -0.66046,1.05742 -4.84336,4.84653 -5.90009,4.89058 -1.05674,0.0441 -2.90602,-2.11484 -3.03811,-3.17227 -0.13209,-1.05742 4.866,-28.87446 5.45978,-30.04846 z"
+       id="path854-2-1-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzsccsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 117.44637,72.859253 c 1.61542,-0.75825 27.61435,-0.94786 28.57578,-0.52872 0.96143,0.41913 4.49111,3.78911 4.57917,5.15494 0.0881,1.36585 -2.37764,3.21633 -3.39034,3.39257 -1.01271,0.17624 -33.59527,1.23366 -34.51991,0.66088 -0.92464,-0.57276 -1.84929,-1.7183 -1.93734,-2.51138 -0.0881,-0.79305 5.07722,-5.41005 6.69264,-6.16829 z"
+       id="path856-2-8-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzccssz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;fill-opacity:1;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 146.33036,69.819143 c -0.60536,-1.7833 4.02051,-25.2853 4.39413,-26.03301 0.3736,-0.74772 2.56716,-3.49309 3.98519,-3.3647 1.41802,0.12838 3.7361,2.7416 4.17198,3.92548 0.43588,1.18388 -3.14896,32.34785 -5.7042,32.42351 -2.55526,0.0757 -6.24173,-5.16795 -6.8471,-6.95128 z"
+       id="path858-8-7-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zczczz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;fill:#8a7a7a;fill-opacity:1;stroke:#000000;stroke-width:0.34449574;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect863-0-3-0-9"
+       width="73.880577"
+       height="99.83844"
+       x="174.71364"
+       y="-9.3114109"
+       ry="0.95497584"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 188.50899,32.280613 c -0.32328,-1.051428 5.10753,-28.6385584 5.5038,-28.9910284 0.39628,-0.35248 1.93735,-1.27773 2.33362,-1.23367 0.39628,0.0441 5.01948,5.11089 5.1956,5.68367 0.17613,0.57276 -3.9903,25.4137384 -4.40305,26.0831084 -0.3091,0.50128 -3.03811,3.39257 -4.05081,3.30445 -1.01269,-0.0881 -4.25589,-3.79509 -4.57916,-4.84653 z"
+       id="path827-2-6-2-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zcccscz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 197.93151,1.4831446 3.91872,4.75841 27.56306,-0.30841 c 0,0 6.38445,-4.84653 5.98816,-5.94802003 -0.39627,-1.10148997 -2.02542,-1.89453997 -2.02542,-1.89453997 0,0 -31.04147,-0.2203 -32.71463,0.35247 -1.67316,0.57275997 -2.90601,1.80641997 -2.90601,2.20296997 0,0.39652003 0.17612,0.83712003 0.17612,0.83712003 z"
+       id="path829-3-75-3-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 225.94384,34.502053 c -0.54928,-1.43782 4.38994,-27.4472384 4.63901,-27.8834084 0.24906,-0.43616 5.51075,-4.64204 6.32024,-4.54858 0.80949,0.0935 2.2728,1.27734 2.49073,1.93159 0.21794,0.65425 -4.20311,28.2884184 -4.48331,28.9426684 -0.28022,0.65424 -4.14089,4.42396 -5.16829,4.51742 -1.02743,0.0935 -3.24911,-1.52188 -3.79838,-2.95969 z"
+       id="path831-75-3-7-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zccccsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 198.35888,34.688973 c 1.2362,-0.32828 24.3351,-0.27213 25.51414,-0.0132 1.17906,0.259 3.69099,2.60474 3.73504,4.03742 0.0441,1.43267 -2.59781,3.21633 -3.65453,3.87722 -1.05674,0.66088 -25.18544,0.57278 -25.97799,0.17623 -0.79255,-0.39653 -3.96275,-3.30444 -3.96275,-4.27374 0,-0.96932 3.10988,-3.47572 4.34609,-3.80401 z"
+       id="path852-9-56-5-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzzzcsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 186.39552,44.176633 c 0.59379,-1.17401 4.6232,-4.31781 5.85606,-4.36187 1.23285,-0.0441 2.72989,1.89455 2.90601,2.90791 0.17612,1.01336 -4.6232,28.72669 -5.28365,29.78411 -0.66046,1.05742 -4.84336,4.84653 -5.90009,4.89058 -1.05674,0.0441 -2.90602,-2.11484 -3.03811,-3.17227 -0.13209,-1.05742 4.866,-28.87446 5.45978,-30.04846 z"
+       id="path854-2-29-9-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzsccsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 191.32694,72.859263 c 1.61542,-0.75825 27.61435,-0.94786 28.57577,-0.52872 0.96144,0.41913 4.49112,3.78911 4.57917,5.15494 0.0881,1.36585 -2.37762,3.21633 -3.39032,3.39257 -1.01272,0.17624 -33.59528,1.23366 -34.51992,0.66088 -0.92463,-0.57276 -1.84928,-1.7183 -1.93734,-2.51138 -0.0881,-0.79305 5.07722,-5.41005 6.69264,-6.16829 z"
+       id="path856-2-1-2-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzccssz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;fill-opacity:1;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 220.21092,69.819153 c -0.60534,-1.7833 4.02053,-25.2853 4.39415,-26.03301 0.37359,-0.74772 2.56715,-3.49309 3.98518,-3.3647 1.41804,0.12838 3.7361,2.7416 4.17198,3.92548 0.43587,1.18388 -3.14897,32.34785 -5.70421,32.42351 -2.55524,0.0757 -6.24173,-5.16795 -6.8471,-6.95128 z"
+       id="path858-8-2-2-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zczczz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.61302567px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32040823"
+       x="-57.761066"
+       y="-348.88385"
+       id="text875-6-3"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan873-5-6"
+         x="-57.761066"
+         y="-348.88385"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.32040823">Situación inicial:</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-3-7)"
+       d="M 133.0313,-302.93499 H 69.719028 v 25.39445"
+       id="path1295"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.61302567px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32040823"
+       x="140.33237"
+       y="-296.59869"
+       id="text875-6-3-3"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan873-5-6-5"
+         x="140.33237"
+         y="-296.59869"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.32040823">Cursor (Posición 1)</tspan></text>
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1848"
+       cx="-79.425575"
+       cy="-355.56876"
+       r="4.778285"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.61302567px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32040823"
+       x="-57.667519"
+       y="-89.839912"
+       id="text875-6-3-6"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan873-5-6-2"
+         x="-57.667519"
+         y="-89.839912"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.32040823">Comando LOCATE 3 <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+   id="tspan1202">(0x79 0x03)</tspan></tspan></text>
+    <circle
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1848-9"
+       cx="-79.332031"
+       cy="-96.524818"
+       r="4.778285"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-3-7-1)"
+       d="m 274.91153,-43.377545 h -63.31226 v 25.39445"
+       id="path1295-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.61302567px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32040823"
+       x="317.60358"
+       y="-38.634007"
+       id="text875-6-3-3-0"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan873-5-6-5-9"
+         x="317.60358"
+         y="-38.634007"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.32040823">Cursor</tspan><tspan
+         sodipodi:role="line"
+         x="317.60358"
+         y="-16.617725"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.32040823"
+         id="tspan1200">(Posición 3)</tspan></text>
+    <rect
+       style="display:inline;fill:#8a7a7a;fill-opacity:1;stroke:#000000;stroke-width:0.34449574;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect863-0-36-7"
+       width="73.880577"
+       height="99.83844"
+       x="-46.928108"
+       y="251.9792"
+       ry="0.95497584"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -33.132757,293.57122 c -0.323279,-1.05143 5.107529,-28.63856 5.503799,-28.99103 0.396282,-0.35248 1.93735,-1.27773 2.333622,-1.23367 0.39628,0.0441 5.019479,5.11089 5.195599,5.68367 0.176131,0.57276 -3.9903,25.41374 -4.40305,26.08311 -0.3091,0.50128 -3.03811,3.39257 -4.050811,3.30445 -1.01269,-0.0881 -4.255889,-3.79509 -4.579159,-4.84653 z"
+       id="path827-2-7-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zcccscz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -23.710236,262.77375 3.91872,4.75841 27.5630693,-0.30841 c 0,0 6.3844307,-4.84653 5.9881507,-5.94802 -0.396269,-1.10148 -2.025409,-1.89454 -2.025409,-1.89454 0,0 -31.041481,-0.2203 -32.714642,0.35247 -1.673159,0.57276 -2.906011,1.80643 -2.906011,2.20297 0,0.39653 0.176122,0.83712 0.176122,0.83712 z"
+       id="path829-3-5-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 4.3020723,295.79266 c -0.54927,-1.43782 4.38994,-27.44724 4.639022,-27.88341 0.24906,-0.43616 5.5107487,-4.64204 6.3202497,-4.54858 0.809479,0.0935 2.2728,1.27734 2.490729,1.93159 0.217951,0.65425 -4.20312,28.28842 -4.483319,28.94267 -0.280221,0.65424 -4.1408697,4.42396 -5.1682917,4.51742 -1.02743,0.0935 -3.249099,-1.52188 -3.79839,-2.95969 z"
+       id="path831-75-35-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zccccsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -23.282868,295.97958 c 1.2362,-0.32828 24.3350923,-0.27213 25.5141423,-0.0132 1.179049,0.25902 3.690979,2.60476 3.735041,4.03742 0.0441,1.43269 -2.597801,3.21635 -3.654542,3.87722 -1.05673,0.6609 -25.1854313,0.57279 -25.9779803,0.17625 -0.792551,-0.39655 -3.962751,-3.30444 -3.962751,-4.27375 0,-0.96931 3.10988,-3.47573 4.34609,-3.804 z"
+       id="path852-9-62-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzzzcsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -35.246223,305.46724 c 0.593789,-1.17401 4.623195,-4.31781 5.856055,-4.36187 1.23285,-0.0441 2.729891,1.89455 2.906011,2.90791 0.17612,1.01336 -4.623199,28.72669 -5.283649,29.78411 -0.660461,1.05742 -4.843357,4.84653 -5.900087,4.89058 -1.056741,0.0441 -2.906019,-2.11484 -3.03811,-3.17227 -0.13209,-1.05742 4.866,-28.87446 5.45978,-30.04846 z"
+       id="path854-2-9-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzsccsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -30.314807,334.14987 c 1.615421,-0.75825 27.6143503,-0.94786 28.5757803,-0.52872 0.96142998,0.41913 4.491109,3.78911 4.57917,5.15494 0.0881,1.36585 -2.37764102,3.21633 -3.39033902,3.39257 -1.01271098,0.17624 -33.59527028,1.23366 -34.51990728,0.66088 -0.924631,-0.57276 -1.849281,-1.7183 -1.93734,-2.51138 -0.0881,-0.79305 5.077217,-5.41005 6.692636,-6.16829 z"
+       id="path856-2-12-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzccssz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1.4308157,331.10976 c -0.605362,-1.7833 4.02051,-25.2853 4.394128,-26.03301 0.373602,-0.74772 2.567162,-3.49309 3.985191,-3.3647 1.418022,0.12838 3.7360997,2.7416 4.1719797,3.92548 0.435879,1.18388 -3.1489597,32.34785 -5.7041997,32.42351 -2.555259,0.0757 -6.24173002,-5.16795 -6.847099,-6.95128 z"
+       id="path858-8-70-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zczczz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -23.282868,295.97962 c 1.2362,-0.32828 24.3350923,-0.27214 25.5141423,-0.0132 1.179049,0.25901 3.690979,2.60476 3.735041,4.03742 0.0441,1.43268 -2.597801,3.21634 -3.654542,3.87722 -1.05673,0.66089 -25.1854313,0.57277 -25.9779803,0.17624 -0.792551,-0.39654 -3.962751,-3.30445 -3.962751,-4.27376 0,-0.9693 3.10988,-3.47572 4.34609,-3.80399 z"
+       id="path852-9-5-9-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzzzcsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;fill:#8a7a7a;fill-opacity:1;stroke:#000000;stroke-width:0.34449574;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect863-0-3-3-6"
+       width="73.880577"
+       height="99.83844"
+       x="26.952473"
+       y="251.9792"
+       ry="0.95497584"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 40.747823,293.57124 c -0.323278,-1.05144 5.10753,-28.63857 5.503802,-28.99104 0.396279,-0.35248 1.93735,-1.27773 2.333619,-1.23367 0.39628,0.0441 5.01948,5.11089 5.1956,5.68367 0.17613,0.57276 -3.990301,25.41374 -4.403051,26.08311 -0.309099,0.50128 -3.03811,3.39257 -4.05081,3.30445 -1.012688,-0.0881 -4.255889,-3.79509 -4.57916,-4.84652 z"
+       id="path827-2-6-6-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zcccscz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 50.170345,262.77376 3.91872,4.75841 27.563069,-0.30841 c 0,0 6.38443,-4.84653 5.98815,-5.94802 -0.396269,-1.10149 -2.025409,-1.89454 -2.025409,-1.89454 0,0 -31.04148,-0.2203 -32.714642,0.35247 -1.673158,0.57276 -2.906008,1.80642 -2.906008,2.20297 0,0.39652 0.17612,0.83712 0.17612,0.83712 z"
+       id="path829-3-75-0-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 78.182655,295.79267 c -0.549269,-1.43782 4.38994,-27.44724 4.639019,-27.88341 0.24906,-0.43616 5.51075,-4.64204 6.32025,-4.54858 0.80948,0.0935 2.2728,1.27734 2.490732,1.93159 0.217948,0.65425 -4.203123,28.28842 -4.483322,28.94267 -0.28022,0.65424 -4.140869,4.42396 -5.168289,4.51742 -1.02743,0.0935 -3.249102,-1.52188 -3.79839,-2.95969 z"
+       id="path831-75-3-6-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zccccsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 50.597713,295.97959 c 1.236202,-0.32829 24.335094,-0.27213 25.514141,-0.0132 1.179052,0.25901 3.69098,2.60475 3.735041,4.03742 0.0441,1.43268 -2.597801,3.21634 -3.654539,3.87722 -1.05673,0.66088 -25.185433,0.57279 -25.977982,0.17624 -0.792549,-0.39654 -3.962749,-3.30445 -3.962749,-4.27374 0,-0.96932 3.109878,-3.47573 4.346088,-3.80401 z"
+       id="path852-9-56-2-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzzzcsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 38.634355,305.46725 c 0.593789,-1.17401 4.6232,-4.31781 5.85606,-4.36187 1.23285,-0.0441 2.729889,1.89455 2.906009,2.90791 0.17612,1.01336 -4.6232,28.72669 -5.28365,29.78411 -0.660461,1.05742 -4.843359,4.84653 -5.900089,4.89058 -1.05674,0.0441 -2.906022,-2.11484 -3.03811,-3.17227 -0.13209,-1.05742 4.866,-28.87446 5.45978,-30.04846 z"
+       id="path854-2-29-6-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzsccsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 43.565773,334.14988 c 1.615422,-0.75825 27.614351,-0.94786 28.575781,-0.52872 0.961432,0.41913 4.491111,3.78911 4.57917,5.15494 0.0881,1.36585 -2.377636,3.21633 -3.390339,3.39257 -1.012709,0.17624 -33.595271,1.23366 -34.51991,0.66088 -0.924631,-0.57276 -1.849281,-1.7183 -1.93734,-2.51138 -0.0881,-0.79305 5.077219,-5.41005 6.692638,-6.16829 z"
+       id="path856-2-1-1-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzccssz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;fill-opacity:1;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 72.449764,331.10977 c -0.605356,-1.7833 4.020513,-25.2853 4.394131,-26.03301 0.3736,-0.74772 2.56716,-3.49309 3.985189,-3.3647 1.418021,0.12838 3.736099,2.7416 4.171984,3.92548 0.435878,1.18388 -3.148965,32.34785 -5.704205,32.42351 -2.555258,0.0757 -6.241727,-5.16795 -6.847099,-6.95128 z"
+       id="path858-8-2-8-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zczczz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;fill:#8a7a7a;fill-opacity:1;stroke:#000000;stroke-width:0.34449574;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect863-0-93-7-4"
+       width="73.880577"
+       height="99.83844"
+       x="100.83306"
+       y="251.9792"
+       ry="0.95497584"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 114.62843,293.57122 c -0.32329,-1.05144 5.10753,-28.63857 5.50379,-28.99104 0.39628,-0.35248 1.93735,-1.27773 2.33362,-1.23367 0.39629,0.0441 5.01949,5.11089 5.19561,5.68367 0.17613,0.57276 -3.9903,25.41374 -4.40305,26.08311 -0.3091,0.50127 -3.03811,3.39257 -4.05082,3.30445 -1.01269,-0.0881 -4.25588,-3.79509 -4.57915,-4.84652 z"
+       id="path827-2-60-9-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zcccscz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 124.05094,262.77374 3.91872,4.75841 27.56308,-0.30841 c 0,0 6.38443,-4.84653 5.98815,-5.94802 -0.39627,-1.10148 -2.02541,-1.89454 -2.02541,-1.89454 0,0 -31.04149,-0.2203 -32.71464,0.35247 -1.67317,0.57276 -2.90602,1.80643 -2.90602,2.20297 0,0.39653 0.17612,0.83712 0.17612,0.83712 z"
+       id="path829-3-6-2-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 152.06326,295.79265 c -0.54927,-1.43782 4.38994,-27.44724 4.63902,-27.88341 0.24906,-0.43616 5.51075,-4.64204 6.32025,-4.54858 0.80948,0.0935 2.2728,1.27734 2.49073,1.93159 0.21795,0.65425 -4.20312,28.28842 -4.48332,28.94267 -0.28022,0.65424 -4.14087,4.42396 -5.16829,4.51742 -1.02743,0.0935 -3.2491,-1.52188 -3.79839,-2.95969 z"
+       id="path831-75-2-0-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zccccsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 124.47832,295.97957 c 1.23619,-0.32828 24.33509,-0.27213 25.51414,-0.0132 1.17905,0.25902 3.69098,2.60476 3.73504,4.03742 0.0441,1.43268 -2.5978,3.21635 -3.65454,3.87722 -1.05673,0.66089 -25.18544,0.57279 -25.97798,0.17625 -0.79256,-0.39655 -3.96276,-3.30445 -3.96276,-4.27375 0,-0.96931 3.10988,-3.47574 4.3461,-3.804 z"
+       id="path852-9-6-2-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzzzcsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 112.51495,305.46723 c 0.59379,-1.17401 4.6232,-4.31781 5.85606,-4.36187 1.23285,-0.0441 2.7299,1.89455 2.90602,2.90791 0.17611,1.01336 -4.62321,28.72669 -5.28365,29.78411 -0.66046,1.05742 -4.84337,4.84653 -5.9001,4.89058 -1.05674,0.0441 -2.90601,-2.11484 -3.03811,-3.17227 -0.13209,-1.05742 4.866,-28.87446 5.45978,-30.04846 z"
+       id="path854-2-1-3-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzsccsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 117.44638,334.14986 c 1.61541,-0.75825 27.61435,-0.94786 28.57578,-0.52872 0.96143,0.41913 4.49111,3.78911 4.57917,5.15494 0.0881,1.36585 -2.37764,3.21633 -3.39034,3.39257 -1.01271,0.17624 -33.59528,1.23366 -34.51992,0.66088 -0.92463,-0.57276 -1.84928,-1.7183 -1.93734,-2.51138 -0.0881,-0.79305 5.07722,-5.41005 6.69265,-6.16829 z"
+       id="path856-2-8-7-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzccssz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;fill-opacity:1;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 146.33037,331.10975 c -0.60536,-1.7833 4.02051,-25.2853 4.39413,-26.03301 0.3736,-0.74772 2.56716,-3.49309 3.98519,-3.3647 1.41802,0.12838 3.7361,2.7416 4.17198,3.92548 0.43588,1.18388 -3.14896,32.34785 -5.7042,32.42351 -2.55526,0.0757 -6.24173,-5.16795 -6.8471,-6.95128 z"
+       id="path858-8-7-5-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zczczz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;fill:#8a7a7a;fill-opacity:1;stroke:#000000;stroke-width:0.34449574;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect863-0-3-0-9-4"
+       width="73.880577"
+       height="99.83844"
+       x="174.71365"
+       y="251.9792"
+       ry="0.95497584"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 188.509,293.57122 c -0.32329,-1.05143 5.10752,-28.63856 5.50381,-28.99103 0.39627,-0.35248 1.93733,-1.27773 2.3336,-1.23367 0.39629,0.0441 5.01949,5.11089 5.19562,5.68367 0.17611,0.57276 -3.99031,25.41374 -4.40306,26.08311 -0.30909,0.50128 -3.03811,3.39257 -4.0508,3.30445 -1.01269,-0.0881 -4.2559,-3.79509 -4.57917,-4.84653 z"
+       id="path827-2-6-2-2-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zcccscz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 197.93153,262.77375 3.91872,4.75841 27.56304,-0.30841 c 0,0 6.38445,-4.84653 5.98816,-5.94802 -0.39627,-1.10149 -2.02541,-1.89454 -2.02541,-1.89454 0,0 -31.04147,-0.2203 -32.71462,0.35247 -1.67317,0.57276 -2.90603,1.80642 -2.90603,2.20297 0,0.39652 0.17614,0.83712 0.17614,0.83712 z"
+       id="path829-3-75-3-2-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 225.94384,295.79266 c -0.54928,-1.43782 4.38994,-27.44724 4.63902,-27.88341 0.24905,-0.43616 5.51074,-4.64204 6.32023,-4.54858 0.80949,0.0935 2.2728,1.27734 2.49074,1.93159 0.21793,0.65425 -4.20312,28.28842 -4.48332,28.94267 -0.28022,0.65424 -4.14088,4.42396 -5.16829,4.51742 -1.02743,0.0935 -3.24911,-1.52188 -3.79838,-2.95969 z"
+       id="path831-75-3-7-8-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zccccsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 198.35888,295.97958 c 1.23622,-0.32828 24.33511,-0.27213 25.51414,-0.0132 1.17907,0.25901 3.69099,2.60475 3.73505,4.03742 0.0441,1.43268 -2.59781,3.21634 -3.65453,3.87722 -1.05675,0.66089 -25.18545,0.57279 -25.97799,0.17624 -0.79255,-0.39654 -3.96274,-3.30444 -3.96274,-4.27374 0,-0.96932 3.10986,-3.47573 4.34607,-3.80401 z"
+       id="path852-9-56-5-9-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzzzcsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 186.39554,305.46724 c 0.59377,-1.17401 4.62319,-4.31781 5.85605,-4.36187 1.23285,-0.0441 2.72989,1.89455 2.90602,2.90791 0.17611,1.01336 -4.62322,28.72669 -5.28365,29.78411 -0.66048,1.05742 -4.84338,4.84653 -5.9001,4.89058 -1.05675,0.0441 -2.90603,-2.11484 -3.03811,-3.17227 -0.1321,-1.05742 4.86601,-28.87446 5.45979,-30.04846 z"
+       id="path854-2-29-9-7-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzsccsz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#9e8f88;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 191.32695,334.14987 c 1.61541,-0.75825 27.61435,-0.94786 28.57576,-0.52872 0.96145,0.41913 4.49112,3.78911 4.57917,5.15494 0.0881,1.36585 -2.37762,3.21633 -3.39031,3.39257 -1.01272,0.17624 -33.59529,1.23366 -34.51993,0.66088 -0.92461,-0.57276 -1.84928,-1.7183 -1.93733,-2.51138 -0.0881,-0.79305 5.07722,-5.41005 6.69264,-6.16829 z"
+       id="path856-2-1-2-3-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzccssz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.34449574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 220.21093,331.10976 c -0.60534,-1.7833 4.02053,-25.2853 4.39414,-26.03301 0.3736,-0.74772 2.56715,-3.49309 3.98518,-3.3647 1.41804,0.12838 3.73611,2.7416 4.17198,3.92548 0.43588,1.18388 -3.14896,32.34785 -5.7042,32.42351 -2.55524,0.0757 -6.24174,-5.16795 -6.8471,-6.95128 z"
+       id="path858-8-2-2-6-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zczczz"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.61302567px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32040823"
+       x="-57.667519"
+       y="171.4507"
+       id="text875-6-3-6-3"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan873-5-6-2-0"
+         x="-57.667519"
+         y="171.4507"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.32040823">Envío del número 1</tspan></text>
+    <circle
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1848-9-8"
+       cx="-79.332031"
+       cy="164.76579"
+       r="4.778285"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-3-7-1-9)"
+       d="M 61.481476,217.91306 H -1.8308035 v 25.39445"
+       id="path1295-7-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.61302567px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32040823"
+       x="154.85487"
+       y="222.6566"
+       id="text875-6-3-3-0-8"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="154.85487"
+         y="222.6566"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.32040823"
+         id="tspan1200-4">Cursor (Posición 0)</tspan></text>
+  </g>
+</svg>
