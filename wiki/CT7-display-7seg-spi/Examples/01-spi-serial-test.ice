@@ -50,26 +50,6 @@
           }
         },
         {
-          "id": "2c4fc550-50c2-4afb-bb45-d24f513c1ca4",
-          "type": "basic.input",
-          "data": {
-            "name": "MISO",
-            "pins": [
-              {
-                "index": "0",
-                "name": "D12",
-                "value": "63"
-              }
-            ],
-            "virtual": false,
-            "clock": false
-          },
-          "position": {
-            "x": 464,
-            "y": 176
-          }
-        },
-        {
           "id": "4370bc55-4672-43d0-b681-905c1bb5b483",
           "type": "basic.output",
           "data": {
@@ -141,8 +121,8 @@
             "readonly": true
           },
           "position": {
-            "x": 392,
-            "y": -264
+            "x": 312,
+            "y": -224
           },
           "size": {
             "width": 584,
@@ -164,6 +144,54 @@
             "width": 256,
             "height": 56
           }
+        },
+        {
+          "id": "c4c6f609-164b-43e5-8c7f-f9070bf87ab6",
+          "type": "basic.info",
+          "data": {
+            "info": "Datos recibidos desde el PC  \npor el puerto serie para  \nenviarlos al display",
+            "readonly": true
+          },
+          "position": {
+            "x": 320,
+            "y": 256
+          },
+          "size": {
+            "width": 224,
+            "height": 64
+          }
+        },
+        {
+          "id": "40515ff4-ba65-4211-91a7-05ba697a8c16",
+          "type": "basic.info",
+          "data": {
+            "info": "Del display no se recibe  \nnada. No conectamos MISO",
+            "readonly": true
+          },
+          "position": {
+            "x": 384,
+            "y": 168
+          },
+          "size": {
+            "width": 208,
+            "height": 48
+          }
+        },
+        {
+          "id": "ceb98c53-5af4-4e16-849f-5b5076dc2ea2",
+          "type": "basic.info",
+          "data": {
+            "info": "No hay que enviar nada  \nal PC de vuelta. No  \nconectamos TX",
+            "readonly": true
+          },
+          "position": {
+            "x": 760,
+            "y": 272
+          },
+          "size": {
+            "width": 224,
+            "height": 64
+          }
         }
       ],
       "wires": [
@@ -175,16 +203,6 @@
           "target": {
             "block": "2b0dd133-96f8-41b0-9ef5-d002128d143d",
             "port": "a4c9cdb8-c1f1-40d0-8f16-2cbb67295b68"
-          }
-        },
-        {
-          "source": {
-            "block": "2c4fc550-50c2-4afb-bb45-d24f513c1ca4",
-            "port": "out"
-          },
-          "target": {
-            "block": "2b0dd133-96f8-41b0-9ef5-d002128d143d",
-            "port": "2c4fc550-50c2-4afb-bb45-d24f513c1ca4"
           }
         },
         {
