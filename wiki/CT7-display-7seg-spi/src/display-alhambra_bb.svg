@@ -13,9 +13,9 @@
    version="1.2"
    x="0in"
    y="0in"
-   width="5.7971206in"
-   height="3.4471278in"
-   viewBox="0 0 417.39271 248.19309"
+   width="18.594671in"
+   height="11.056905in"
+   viewBox="0 0 1338.8164 796.09678"
    id="svg38"
    sodipodi:docname="display-alhambra_bb.svg"
    inkscape:version="0.92.4 (unknown)">
@@ -87,9 +87,9 @@
      id="namedview40"
      showgrid="false"
      inkscape:snap-global="false"
-     inkscape:zoom="1.0406036"
-     inkscape:cx="246.42562"
-     inkscape:cy="275.47804"
+     inkscape:zoom="0.36790892"
+     inkscape:cx="514.14807"
+     inkscape:cy="568.05218"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -102,23 +102,29 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="back"
-     transform="translate(26.50112,19.111378)">
+     transform="translate(26.50112,19.111361)">
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.24999952;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:4.49999904, 8.99999804;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.21703148;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:14.43406362, 28.86812709;stroke-dashoffset:0;stroke-opacity:1"
        id="rect8962"
-       width="417.39261"
-       height="248.19316"
+       width="1338.8162"
+       height="796.09705"
        x="-26.50112"
-       y="-19.111378" />
+       y="-19.111361"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="boards"
-     transform="translate(24.267709,-246.17455)">
+     transform="translate(24.267709,-246.17457)">
     <g
        id="g1833"
-       transform="translate(247.34269,414.27862)">
+       transform="matrix(3.2075703,0,0,3.2075703,846.94175,785.38021)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          id="path8-3"
          gorn="0.4"
@@ -1633,37 +1639,37 @@
                style="fill:none;stroke:#9a916c;stroke-width:0.48980001" />
             <polygon
                id="polygon201"
-               points="203.716,86.511 1.779,86.512 0,84.186 0,20.913 201.732,20.912 203.716,22.692 "
+               points="201.732,20.912 203.716,22.692 203.716,86.511 1.779,86.512 0,84.186 0,20.913 "
                gorn="0.72.0.0.14"
                style="fill:#323232" />
             <polygon
                id="polygon203"
-               points="37.955,33.027 18.765,33.027 15.818,28.598 17.293,27.125 39.433,27.125 40.909,28.598 "
+               points="39.433,27.125 40.909,28.598 37.955,33.027 18.765,33.027 15.818,28.598 17.293,27.125 "
                gorn="0.72.0.0.15"
                style="fill:#646464" />
             <polygon
                id="polygon205"
-               points="37.955,52.216 35.006,49.267 37.955,34.501 42.386,30.073 43.861,33.027 40.909,49.267 "
+               points="43.861,33.027 40.909,49.267 37.955,52.216 35.006,49.267 37.955,34.501 42.386,30.073 "
                gorn="0.72.0.0.16"
                style="fill:#e51c1c" />
             <polygon
                id="polygon207"
-               points="33.529,75.833 30.577,72.881 33.529,58.123 37.955,53.691 39.433,56.641 36.481,72.881 "
+               points="39.433,56.641 36.481,72.881 33.529,75.833 30.577,72.881 33.529,58.123 37.955,53.691 "
                gorn="0.72.0.0.17"
                style="fill:#e51c1c" />
             <polygon
                id="polygon209"
-               points="9.91,72.881 29.102,72.881 32.052,77.308 30.577,78.785 8.435,78.785 6.958,77.304 "
+               points="8.435,78.785 6.958,77.304 9.91,72.881 29.102,72.881 32.052,77.308 30.577,78.785 "
                gorn="0.72.0.0.18"
                style="fill:#646464" />
             <polygon
                id="polygon211"
-               points="9.91,53.691 12.86,56.641 9.91,71.402 5.481,75.833 4.007,72.881 6.958,56.641 "
+               points="4.007,72.881 6.958,56.641 9.91,53.691 12.86,56.641 9.91,71.402 5.481,75.833 "
                gorn="0.72.0.0.19"
                style="fill:#e51c1c" />
             <polygon
                id="polygon213"
-               points="14.337,30.073 17.293,33.027 14.337,47.79 9.91,52.216 8.435,49.267 11.389,33.027 "
+               points="8.435,49.267 11.389,33.027 14.337,30.073 17.293,33.027 14.337,47.79 9.91,52.216 "
                gorn="0.72.0.0.20"
                style="fill:#e51c1c" />
             <polyline
@@ -1680,32 +1686,32 @@
                style="fill:#646464" />
             <polygon
                id="polygon219"
-               points="89.183,33.027 69.993,33.027 67.046,28.598 68.521,27.125 90.661,27.125 92.136,28.598 "
+               points="90.661,27.125 92.136,28.598 89.183,33.027 69.993,33.027 67.046,28.598 68.521,27.125 "
                gorn="0.72.0.0.23"
                style="fill:#e51c1c" />
             <polygon
                id="polygon221"
-               points="89.183,52.215 86.234,49.267 89.183,34.501 93.613,30.073 95.089,33.027 92.137,49.267 "
+               points="95.089,33.027 92.137,49.267 89.183,52.215 86.234,49.267 89.183,34.501 93.613,30.073 "
                gorn="0.72.0.0.24"
                style="fill:#e51c1c" />
             <polygon
                id="polygon223"
-               points="84.757,75.833 81.805,72.881 84.757,58.123 89.183,53.691 90.661,56.641 87.709,72.881 "
+               points="90.661,56.641 87.709,72.881 84.757,75.833 81.805,72.881 84.757,58.123 89.183,53.691 "
                gorn="0.72.0.0.25"
                style="fill:#e51c1c" />
             <polygon
                id="polygon225"
-               points="61.138,72.881 80.33,72.881 83.28,77.308 81.805,78.785 59.663,78.785 58.186,77.304 "
+               points="59.663,78.785 58.186,77.304 61.138,72.881 80.33,72.881 83.28,77.308 81.805,78.785 "
                gorn="0.72.0.0.26"
                style="fill:#646464" />
             <polygon
                id="polygon227"
-               points="61.138,53.691 64.088,56.641 61.138,71.402 56.709,75.833 55.235,72.881 58.186,56.641 "
+               points="55.235,72.881 58.186,56.641 61.138,53.691 64.088,56.641 61.138,71.402 56.709,75.833 "
                gorn="0.72.0.0.27"
                style="fill:#e51c1c" />
             <polygon
                id="polygon229"
-               points="65.565,30.073 68.521,33.027 65.565,47.79 61.138,52.215 59.663,49.267 62.617,33.027 "
+               points="59.663,49.267 62.617,33.027 65.565,30.073 68.521,33.027 65.565,47.79 61.138,52.215 "
                gorn="0.72.0.0.28"
                style="fill:#e51c1c" />
             <polyline
@@ -1743,32 +1749,32 @@
                style="fill:#646464" />
             <polygon
                id="polygon241"
-               points="140.432,33.027 121.242,33.027 118.293,28.598 119.768,27.125 141.911,27.125 143.386,28.598 "
+               points="141.911,27.125 143.386,28.598 140.432,33.027 121.242,33.027 118.293,28.598 119.768,27.125 "
                gorn="0.72.0.0.34"
                style="fill:#646464" />
             <polygon
                id="polygon243"
-               points="140.432,52.215 137.483,49.267 140.432,34.501 144.861,30.073 146.338,33.027 143.386,49.267 "
+               points="146.338,33.027 143.386,49.267 140.432,52.215 137.483,49.267 140.432,34.501 144.861,30.073 "
                gorn="0.72.0.0.35"
                style="fill:#646464" />
             <polygon
                id="polygon245"
-               points="136.005,75.833 133.054,72.881 136.004,58.123 140.432,53.691 141.911,56.641 138.958,72.881 "
+               points="141.911,56.641 138.958,72.881 136.005,75.833 133.054,72.881 136.004,58.123 140.432,53.691 "
                gorn="0.72.0.0.36"
                style="fill:#646464" />
             <polygon
                id="polygon247"
-               points="112.387,72.881 131.577,72.881 134.528,77.308 133.054,78.785 110.912,78.785 109.435,77.304 "
+               points="110.912,78.785 109.435,77.304 112.387,72.881 131.577,72.881 134.528,77.308 133.054,78.785 "
                gorn="0.72.0.0.37"
                style="fill:#e51c1c" />
             <polygon
                id="polygon249"
-               points="112.387,53.691 115.338,56.641 112.387,71.402 107.958,75.833 106.485,72.881 109.435,56.641 "
+               points="106.485,72.881 109.435,56.641 112.387,53.691 115.338,56.641 112.387,71.402 107.958,75.833 "
                gorn="0.72.0.0.38"
                style="fill:#e51c1c" />
             <polygon
                id="polygon251"
-               points="116.814,30.073 119.768,33.027 116.814,47.79 112.387,52.215 110.912,49.267 113.866,33.027 "
+               points="110.912,49.267 113.866,33.027 116.814,30.073 119.768,33.027 116.814,47.79 112.387,52.215 "
                gorn="0.72.0.0.39"
                style="fill:#e51c1c" />
             <polyline
@@ -1785,32 +1791,32 @@
                style="fill:#646464" />
             <polygon
                id="polygon257"
-               points="191.815,33.027 172.625,33.027 169.676,28.598 171.151,27.125 193.293,27.125 194.769,28.598 "
+               points="193.293,27.125 194.769,28.598 191.815,33.027 172.625,33.027 169.676,28.598 171.151,27.125 "
                gorn="0.72.0.0.42"
                style="fill:#e51c1c" />
             <polygon
                id="polygon259"
-               points="191.815,52.215 188.866,49.267 191.815,34.501 196.244,30.073 197.721,33.027 194.769,49.267 "
+               points="197.721,33.027 194.769,49.267 191.815,52.215 188.866,49.267 191.815,34.501 196.244,30.073 "
                gorn="0.72.0.0.43"
                style="fill:#e51c1c" />
             <polygon
                id="polygon261"
-               points="187.387,75.833 184.437,72.881 187.387,58.123 191.815,53.691 193.293,56.641 190.341,72.881 "
+               points="193.293,56.641 190.341,72.881 187.387,75.833 184.437,72.881 187.387,58.123 191.815,53.691 "
                gorn="0.72.0.0.44"
                style="fill:#e51c1c" />
             <polygon
                id="polygon263"
-               points="163.77,72.881 182.96,72.881 185.91,77.308 184.437,78.785 162.295,78.785 160.818,77.304 "
+               points="162.295,78.785 160.818,77.304 163.77,72.881 182.96,72.881 185.91,77.308 184.437,78.785 "
                gorn="0.72.0.0.45"
                style="fill:#e51c1c" />
             <polygon
                id="polygon265"
-               points="163.77,53.691 166.72,56.641 163.77,71.402 159.341,75.833 157.867,72.881 160.818,56.641 "
+               points="157.867,72.881 160.818,56.641 163.77,53.691 166.72,56.641 163.77,71.402 159.341,75.833 "
                gorn="0.72.0.0.46"
                style="fill:#e51c1c" />
             <polygon
                id="polygon267"
-               points="168.197,30.073 171.151,33.027 168.197,47.79 163.77,52.215 162.295,49.267 165.249,33.027 "
+               points="162.295,49.267 165.249,33.027 168.197,30.073 171.151,33.027 168.197,47.79 163.77,52.215 "
                gorn="0.72.0.0.47"
                style="fill:#e51c1c" />
             <polyline
@@ -1841,7 +1847,10 @@
     </g>
     <g
        id="g8958"
-       transform="matrix(0.79999983,0,0,0.79999983,-3.435881,259.61664)">
+       transform="matrix(2.5660557,0,0,2.5660557,42.551844,289.29102)"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-240.01932,-422.40111)"
          id="layer5"
@@ -20190,11 +20199,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="wires"
-     transform="translate(24.267709,-246.17455)">
+     transform="translate(24.267709,-246.17457)">
     <g
-       transform="translate(-3.2766134e-6,-3.4357403e-6)"
+       transform="matrix(3.2075703,0,0,3.2075703,53.572664,-543.44764)"
        partID="854160150"
-       id="g12">
+       id="g12"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          style="fill:none;stroke:#000000;stroke-width:3.20000005;stroke-linecap:round"
          inkscape:connector-curvature="0"
@@ -20208,18 +20220,27 @@
     </g>
     <path
        id="path14"
-       d="M 294.421,417.625 C 287.345,381.905 175.534,390.218 175.534,390.218"
+       d="M 997.94875,796.11394 C 975.25197,681.53952 616.61033,708.20406 616.61033,708.20406"
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#8c0000;stroke-width:3.20000005;stroke-linecap:round" />
+       style="fill:none;stroke:#8c0000;stroke-width:10.26422501;stroke-linecap:round"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        id="path16"
-       d="M 294.421,417.625 C 287.345,381.905 175.534,390.218 175.534,390.218"
+       d="M 997.94875,796.11394 C 975.25197,681.53952 616.61033,708.20406 616.61033,708.20406"
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#cc1414;stroke-width:1.60000002;stroke-linecap:round" />
+       style="fill:none;stroke:#cc1414;stroke-width:5.1321125;stroke-linecap:round"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
-       transform="translate(-3.2766134e-6,-3.4357403e-6)"
+       transform="matrix(3.2075703,0,0,3.2075703,53.572664,-543.44764)"
        partID="854160290"
-       id="g24">
+       id="g24"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          style="fill:none;stroke:#1b5bb3;stroke-width:3.20000005;stroke-linecap:round"
          inkscape:connector-curvature="0"
@@ -20232,9 +20253,12 @@
          id="path22" />
     </g>
     <g
-       transform="translate(-3.2766134e-6,-3.4357403e-6)"
+       transform="matrix(3.2075703,0,0,3.2075703,53.572664,-543.44764)"
        partID="854160360"
-       id="g30">
+       id="g30"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          style="fill:none;stroke:#7a3a73;stroke-width:3.20000005;stroke-linecap:round"
          inkscape:connector-curvature="0"
@@ -20247,9 +20271,12 @@
          id="path28" />
     </g>
     <g
-       transform="translate(-3.2766134e-6,-3.4357403e-6)"
+       transform="matrix(3.2075703,0,0,3.2075703,53.572664,-543.44764)"
        partID="854160430"
-       id="g36">
+       id="g36"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          style="fill:none;stroke:#666666;stroke-width:3.20000005;stroke-linecap:round"
          inkscape:connector-curvature="0"
@@ -20263,63 +20290,81 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.00626183px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.74999982"
-       x="204.93335"
-       y="408.85727"
-       id="text8966"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.09579086px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.40567732"
+       x="710.91083"
+       y="767.99084"
+       id="text8966"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan8964"
-         x="204.93335"
-         y="408.85727"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:0.74999982">GND</tspan></text>
+         x="710.91083"
+         y="767.99084"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:2.40567732">GND</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.00626183px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#cc1414;fill-opacity:1;stroke:none;stroke-width:0.74999982"
-       x="204.43872"
-       y="385.62634"
-       id="text8966-9"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.09579086px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#cc1414;fill-opacity:1;stroke:none;stroke-width:2.40567732"
+       x="709.32422"
+       y="693.47601"
+       id="text8966-9"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan8964-1"
-         x="204.43872"
-         y="385.62634"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#cc1414;stroke-width:0.74999982">VCC</tspan></text>
+         x="709.32422"
+         y="693.47601"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#cc1414;stroke-width:2.40567732">VCC</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.00626183px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.74999982"
-       x="239.35475"
-       y="386.12589"
-       id="text8966-9-2"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.09579086px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:2.40567732"
+       x="821.31989"
+       y="695.07831"
+       id="text8966-9-2"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan8964-1-7"
-         x="239.35475"
-         y="386.12589"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#0000ff;stroke-width:0.74999982">SCK</tspan></text>
+         x="821.31989"
+         y="695.07831"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#0000ff;stroke-width:2.40567732">SCK</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.00626183px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.74999982"
-       x="310.96936"
-       y="386.48627"
-       id="text8966-9-2-0"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.09579086px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2.40567732"
+       x="1051.0288"
+       y="696.23425"
+       id="text8966-9-2-0"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan8964-1-7-9"
-         x="310.96936"
-         y="386.48627"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#666666;stroke-width:0.74999982">SS</tspan></text>
+         x="1051.0288"
+         y="696.23425"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#666666;stroke-width:2.40567732">SS</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.00626183px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ab37c8;fill-opacity:1;stroke:none;stroke-width:0.74999982"
-       x="251.05006"
-       y="348.28726"
-       id="text8966-9-2-0-3"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.09579086px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ab37c8;fill-opacity:1;stroke:none;stroke-width:2.40567732"
+       x="858.83344"
+       y="573.70831"
+       id="text8966-9-2-0-3"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan8964-1-7-9-6"
-         x="251.05006"
-         y="348.28726"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#ab37c8;stroke-width:0.74999982">MOSI</tspan></text>
+         x="858.83344"
+         y="573.70831"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#ab37c8;stroke-width:2.40567732">MOSI</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.74999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
-       d="m 254.65692,349.86024 0.36036,17.29765"
+       style="fill:none;stroke:#000000;stroke-width:2.40567732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 870.40267,578.75372 1.15588,55.48343"
        id="path9058"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/func-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
