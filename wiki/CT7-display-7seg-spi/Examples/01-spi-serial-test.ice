@@ -109,25 +109,6 @@
           }
         },
         {
-          "id": "67e78e6d-4a37-492e-a6ad-ec442d0d17de",
-          "type": "basic.output",
-          "data": {
-            "name": "Serial",
-            "pins": [
-              {
-                "index": "0",
-                "name": "TX",
-                "value": "61"
-              }
-            ],
-            "virtual": false
-          },
-          "position": {
-            "x": 784,
-            "y": 288
-          }
-        },
-        {
           "id": "edc912af-5961-4d5e-8c94-b28189370e9f",
           "type": "basic.constant",
           "data": {
@@ -244,16 +225,6 @@
           "target": {
             "block": "2b0dd133-96f8-41b0-9ef5-d002128d143d",
             "port": "e78bc5b0-1700-4428-87a3-e9648fbb883a"
-          }
-        },
-        {
-          "source": {
-            "block": "2b0dd133-96f8-41b0-9ef5-d002128d143d",
-            "port": "4dfe712c-0edc-4d16-9d9d-3b409c99346a"
-          },
-          "target": {
-            "block": "67e78e6d-4a37-492e-a6ad-ec442d0d17de",
-            "port": "in"
           }
         }
       ]
