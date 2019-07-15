@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="1199.7892"
-     inkscape:cy="318.63658"
+     inkscape:cx="925.40914"
+     inkscape:cy="729.63894"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1853"
-     inkscape:window-height="1025"
-     inkscape:window-x="67"
-     inkscape:window-y="1107"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1887,19 +1887,19 @@
        inkscape:export-ydpi="90" />
     <polygon
        id="polygon211"
-       points="9.91,71.402 5.481,75.833 4.007,72.881 6.958,56.641 9.91,53.691 12.86,56.641 "
+       points="5.481,75.833 4.007,72.881 6.958,56.641 9.91,53.691 12.86,56.641 9.91,71.402 "
        gorn="0.72.0.0.19"
        style="fill:#646464"
-       transform="matrix(0.63264646,0,0,0.63264646,184.02607,56.534978)"
+       transform="matrix(0.63264646,0,0,0.63264646,184.02607,63.338549)"
        inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/controller-02.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <polygon
        id="polygon213"
-       points="14.337,47.79 9.91,52.216 8.435,49.267 11.389,33.027 14.337,30.073 17.293,33.027 "
+       points="9.91,52.216 8.435,49.267 11.389,33.027 14.337,30.073 17.293,33.027 14.337,47.79 "
        gorn="0.72.0.0.20"
        style="fill:#646464"
-       transform="matrix(0.63264646,0,0,0.63264646,184.02607,56.534978)"
+       transform="matrix(0.63264646,0,0,0.63264646,184.02607,63.338549)"
        inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT7-display-7seg-spi/controller-02.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
