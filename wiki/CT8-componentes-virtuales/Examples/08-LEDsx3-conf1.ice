@@ -548,66 +548,6 @@
       "wires": [
         {
           "source": {
-            "block": "b98820a6-2ea2-48c5-80c0-c529adaa8a71",
-            "port": "79bc7ba1-7425-460c-864b-6b19f991d053",
-            "size": 18
-          },
-          "target": {
-            "block": "493c368b-7b75-41e2-ae4b-17a73763e3b2",
-            "port": "inlabel"
-          },
-          "size": 18
-        },
-        {
-          "source": {
-            "block": "f06dc73a-347a-44f5-95b9-fa93d8bfc9be",
-            "port": "outlabel"
-          },
-          "target": {
-            "block": "2d2e3d96-d3ae-4635-98b9-b5c749b2e9f9",
-            "port": "25c8342d-8733-4a23-96f6-0f609d44aae4",
-            "size": 18
-          },
-          "size": 18
-        },
-        {
-          "source": {
-            "block": "8c11837e-3030-4197-817d-11413dd44f98",
-            "port": "2124c987-5d1b-4335-858f-502559b11a26",
-            "size": 3
-          },
-          "target": {
-            "block": "9c08393a-0880-4376-bd8e-076bc1636b0a",
-            "port": "inlabel"
-          },
-          "size": 3
-        },
-        {
-          "source": {
-            "block": "d96b0c15-15c6-493d-a91c-4bff4fe52a68",
-            "port": "outlabel"
-          },
-          "target": {
-            "block": "1a235659-e1e7-4b20-ad7e-bb0523d383f6",
-            "port": "in",
-            "size": 3
-          },
-          "size": 3
-        },
-        {
-          "source": {
-            "block": "411d96c9-3716-49cf-9a0b-8f0a70ccb9ee",
-            "port": "outlabel"
-          },
-          "target": {
-            "block": "bbd61235-6d24-49e7-b1dd-6ef57f7d3fcd",
-            "port": "fd3449b1-bc90-4312-8654-0a9d34f90f72",
-            "size": 3
-          },
-          "size": 3
-        },
-        {
-          "source": {
             "block": "dd84f032-1ef0-4596-a8db-513929d15133",
             "port": "constant-out"
           },
@@ -635,6 +575,17 @@
             "block": "16cf1ffe-0518-43c1-a651-c9bd9c036ca5",
             "port": "in"
           }
+        },
+        {
+          "source": {
+            "block": "b98820a6-2ea2-48c5-80c0-c529adaa8a71",
+            "port": "79bc7ba1-7425-460c-864b-6b19f991d053"
+          },
+          "target": {
+            "block": "493c368b-7b75-41e2-ae4b-17a73763e3b2",
+            "port": "inlabel"
+          },
+          "size": 18
         },
         {
           "source": {
@@ -680,6 +631,17 @@
         },
         {
           "source": {
+            "block": "f06dc73a-347a-44f5-95b9-fa93d8bfc9be",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "2d2e3d96-d3ae-4635-98b9-b5c749b2e9f9",
+            "port": "25c8342d-8733-4a23-96f6-0f609d44aae4"
+          },
+          "size": 18
+        },
+        {
+          "source": {
             "block": "44df87ac-cbbe-4fbc-b07a-cfe2d73ba171",
             "port": "constant-out"
           },
@@ -687,6 +649,39 @@
             "block": "2d2e3d96-d3ae-4635-98b9-b5c749b2e9f9",
             "port": "76643420-03aa-46b7-ac59-ca819ac7b626"
           }
+        },
+        {
+          "source": {
+            "block": "8c11837e-3030-4197-817d-11413dd44f98",
+            "port": "2124c987-5d1b-4335-858f-502559b11a26"
+          },
+          "target": {
+            "block": "9c08393a-0880-4376-bd8e-076bc1636b0a",
+            "port": "inlabel"
+          },
+          "size": 3
+        },
+        {
+          "source": {
+            "block": "d96b0c15-15c6-493d-a91c-4bff4fe52a68",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "1a235659-e1e7-4b20-ad7e-bb0523d383f6",
+            "port": "in"
+          },
+          "size": 3
+        },
+        {
+          "source": {
+            "block": "411d96c9-3716-49cf-9a0b-8f0a70ccb9ee",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "bbd61235-6d24-49e7-b1dd-6ef57f7d3fcd",
+            "port": "fd3449b1-bc90-4312-8654-0a9d34f90f72"
+          },
+          "size": 3
         },
         {
           "source": {
