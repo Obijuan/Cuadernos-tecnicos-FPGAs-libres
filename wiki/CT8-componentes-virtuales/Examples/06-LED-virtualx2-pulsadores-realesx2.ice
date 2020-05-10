@@ -116,8 +116,8 @@
               },
               {
                 "index": "0",
-                "name": "LED0",
-                "value": "45"
+                "name": "LED6",
+                "value": "38"
               }
             ],
             "virtual": false
@@ -316,7 +316,7 @@
           }
         },
         {
-          "id": "2fc972c7-e29a-4714-9277-805502a950bc",
+          "id": "d115b92b-4547-4dd6-8003-9508062ab9ab",
           "type": "d53885b55d0fc39597c6a454d24e5410fe4decc7",
           "position": {
             "x": 544,
@@ -335,7 +335,7 @@
             "port": "constant-out"
           },
           "target": {
-            "block": "2fc972c7-e29a-4714-9277-805502a950bc",
+            "block": "d115b92b-4547-4dd6-8003-9508062ab9ab",
             "port": "e612eb65-dc78-40e4-a0cb-c6de9bcedbe1"
           }
         },
@@ -356,13 +356,13 @@
             "port": "constant-out"
           },
           "target": {
-            "block": "2fc972c7-e29a-4714-9277-805502a950bc",
+            "block": "d115b92b-4547-4dd6-8003-9508062ab9ab",
             "port": "c3fb04d4-c4be-4ef5-83bc-88a65e6d4b28"
           }
         },
         {
           "source": {
-            "block": "2fc972c7-e29a-4714-9277-805502a950bc",
+            "block": "d115b92b-4547-4dd6-8003-9508062ab9ab",
             "port": "a2703755-3bb0-4a21-92de-df2a2e0b40fd"
           },
           "target": {
@@ -376,7 +376,7 @@
             "port": "outlabel"
           },
           "target": {
-            "block": "2fc972c7-e29a-4714-9277-805502a950bc",
+            "block": "d115b92b-4547-4dd6-8003-9508062ab9ab",
             "port": "42813c05-dbc6-4471-b86f-2e4dbddcea86"
           },
           "size": 2
