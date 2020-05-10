@@ -137,7 +137,7 @@
           "id": "c997060e-8767-4bac-af0e-109c0cb18cdb",
           "type": "basic.constant",
           "data": {
-            "name": "",
+            "name": "Hz",
             "value": "1",
             "local": false
           },
@@ -248,8 +248,8 @@
             "readonly": true
           },
           "position": {
-            "x": 536,
-            "y": -16
+            "x": 528,
+            "y": -8
           },
           "size": {
             "width": 168,
@@ -266,6 +266,38 @@
           "size": {
             "width": 96,
             "height": 64
+          }
+        },
+        {
+          "id": "7d4f57aa-727f-49e2-88b4-d2372fa2e0d6",
+          "type": "basic.info",
+          "data": {
+            "info": "Un bit y su negado",
+            "readonly": true
+          },
+          "position": {
+            "x": 184,
+            "y": 176
+          },
+          "size": {
+            "width": 176,
+            "height": 40
+          }
+        },
+        {
+          "id": "f141e67b-4bfd-489e-9465-776d912cac3d",
+          "type": "basic.info",
+          "data": {
+            "info": "i[1]: Variable a  \ni[0]: Variable b  ",
+            "readonly": true
+          },
+          "position": {
+            "x": 376,
+            "y": 32
+          },
+          "size": {
+            "width": 176,
+            "height": 48
           }
         }
       ],
