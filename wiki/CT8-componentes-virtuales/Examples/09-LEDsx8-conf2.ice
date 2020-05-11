@@ -380,7 +380,7 @@
           "id": "700d7098-4b10-4c23-b578-e36ad1b410d6",
           "type": "basic.constant",
           "data": {
-            "name": "",
+            "name": "Hz",
             "value": "4",
             "local": false
           },
@@ -581,14 +581,125 @@
             "width": 128,
             "height": 96
           }
+        },
+        {
+          "id": "613fa510-8287-45e1-8255-19cc5d6b717f",
+          "type": "basic.info",
+          "data": {
+            "info": "**LEDx4-bus**",
+            "readonly": true
+          },
+          "position": {
+            "x": 824,
+            "y": 400
+          },
+          "size": {
+            "width": 128,
+            "height": 40
+          }
+        },
+        {
+          "id": "d1690857-9e0c-4226-b819-93381add1aca",
+          "type": "basic.info",
+          "data": {
+            "info": "**LEDx4-tx**",
+            "readonly": true
+          },
+          "position": {
+            "x": 1248,
+            "y": 400
+          },
+          "size": {
+            "width": 128,
+            "height": 40
+          }
+        },
+        {
+          "id": "5ec9742a-3e30-47e5-ab70-7e727a1cfae0",
+          "type": "basic.info",
+          "data": {
+            "info": "**8 LEDs virtuales**",
+            "readonly": true
+          },
+          "position": {
+            "x": 936,
+            "y": 64
+          },
+          "size": {
+            "width": 192,
+            "height": 40
+          }
+        },
+        {
+          "id": "5a5777a8-d109-49b4-ad8e-056ce0bf4288",
+          "type": "basic.info",
+          "data": {
+            "info": "Registro de desplazamiento  \nhacia la izquierda",
+            "readonly": true
+          },
+          "position": {
+            "x": -40,
+            "y": 64
+          },
+          "size": {
+            "width": 224,
+            "height": 56
+          }
+        },
+        {
+          "id": "7cf08e90-4827-42d8-8085-c8f334eefe5f",
+          "type": "basic.info",
+          "data": {
+            "info": "El bit de mayor peso se  \nintroduce por el de menor  \n(rotación)",
+            "readonly": true
+          },
+          "position": {
+            "x": 304,
+            "y": 160
+          },
+          "size": {
+            "width": 208,
+            "height": 80
+          }
+        },
+        {
+          "id": "2c1988be-2150-40fe-9222-42f36562db7a",
+          "type": "basic.info",
+          "data": {
+            "info": "Valocidad del  \ndesplazamiento",
+            "readonly": true
+          },
+          "position": {
+            "x": -80,
+            "y": 248
+          },
+          "size": {
+            "width": 144,
+            "height": 56
+          }
+        },
+        {
+          "id": "1ddfd078-269e-4f43-b683-9267419f821b",
+          "type": "basic.info",
+          "data": {
+            "info": "**8 LEDs reales**",
+            "readonly": true
+          },
+          "position": {
+            "x": 1192,
+            "y": 520
+          },
+          "size": {
+            "width": 192,
+            "height": 40
+          }
         }
       ],
       "wires": [
         {
           "source": {
             "block": "42a3ac7d-9751-4ff4-842f-f27921ace9fa",
-            "port": "11970bc6-b974-46cf-8826-a6ac2d327920",
-            "size": 18
+            "port": "11970bc6-b974-46cf-8826-a6ac2d327920"
           },
           "target": {
             "block": "033f47ca-840f-483f-a09d-be973581bb50",
@@ -599,8 +710,7 @@
         {
           "source": {
             "block": "b2ea24ae-6f50-429d-9b44-19fdab511524",
-            "port": "90654ccb-afdd-41ec-aaf8-b9be5b51253b",
-            "size": 8
+            "port": "90654ccb-afdd-41ec-aaf8-b9be5b51253b"
           },
           "target": {
             "block": "60ad4e33-c1dc-4f27-96af-25bf174dffe8",
@@ -615,8 +725,7 @@
           },
           "target": {
             "block": "c1a7568e-4413-4545-9bc3-32d5933a1329",
-            "port": "in",
-            "size": 8
+            "port": "in"
           },
           "size": 8
         },
@@ -627,8 +736,7 @@
           },
           "target": {
             "block": "fb70fb3e-6970-47fd-8ebf-95dab61d5514",
-            "port": "1f5c81aa-ebb1-4cd7-87fd-b9092de9a34f",
-            "size": 8
+            "port": "1f5c81aa-ebb1-4cd7-87fd-b9092de9a34f"
           },
           "size": 8
         },
@@ -639,8 +747,7 @@
           },
           "target": {
             "block": "da5945c8-b106-493e-a75a-4bdccd14dffb",
-            "port": "463d4c61-e971-4525-8f3d-98928db6f437",
-            "size": 18
+            "port": "463d4c61-e971-4525-8f3d-98928db6f437"
           },
           "vertices": [],
           "size": 18
