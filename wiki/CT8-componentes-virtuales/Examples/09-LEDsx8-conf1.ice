@@ -193,8 +193,8 @@
             "virtual": false
           },
           "position": {
-            "x": 1016,
-            "y": 464
+            "x": 824,
+            "y": 472
           }
         },
         {
@@ -249,15 +249,15 @@
             "virtual": true
           },
           "position": {
-            "x": 864,
-            "y": 576
+            "x": 672,
+            "y": 584
           }
         },
         {
           "id": "700d7098-4b10-4c23-b578-e36ad1b410d6",
           "type": "basic.constant",
           "data": {
-            "name": "",
+            "name": "Hz",
             "value": "4",
             "local": false
           },
@@ -433,6 +433,86 @@
           "size": {
             "width": 256,
             "height": 64
+          }
+        },
+        {
+          "id": "169c8807-6130-43f6-8c73-137190f5318f",
+          "type": "basic.info",
+          "data": {
+            "info": "Registro de desplazamiento  \nhacia la izquierda",
+            "readonly": true
+          },
+          "position": {
+            "x": 336,
+            "y": 128
+          },
+          "size": {
+            "width": 224,
+            "height": 56
+          }
+        },
+        {
+          "id": "f1560cdc-2eab-4440-9bc1-30e2ec981d26",
+          "type": "basic.info",
+          "data": {
+            "info": "Valocidad del  \ndesplazamiento",
+            "readonly": true
+          },
+          "position": {
+            "x": 160,
+            "y": 304
+          },
+          "size": {
+            "width": 144,
+            "height": 56
+          }
+        },
+        {
+          "id": "68dbe9d9-0e00-41bc-85bc-a0bb4825fb19",
+          "type": "basic.info",
+          "data": {
+            "info": "El bit de mayor peso se  \nintroduce por el de menor  \n(rotación)",
+            "readonly": true
+          },
+          "position": {
+            "x": 504,
+            "y": 208
+          },
+          "size": {
+            "width": 208,
+            "height": 80
+          }
+        },
+        {
+          "id": "69d01d08-a1bc-4a0b-b96b-fca44357200c",
+          "type": "basic.info",
+          "data": {
+            "info": "**8 LEDs virtuales**",
+            "readonly": true
+          },
+          "position": {
+            "x": 1016,
+            "y": 416
+          },
+          "size": {
+            "width": 192,
+            "height": 40
+          }
+        },
+        {
+          "id": "fbc774a8-b40b-495b-a243-ecdde54dfb6f",
+          "type": "basic.info",
+          "data": {
+            "info": "**8 LEDs reales**",
+            "readonly": true
+          },
+          "position": {
+            "x": 672,
+            "y": 448
+          },
+          "size": {
+            "width": 192,
+            "height": 40
           }
         }
       ],
@@ -1453,7 +1533,8 @@
             {
               "source": {
                 "block": "4c14fe4a-4dfa-4499-b0c8-ad911c39ef53",
-                "port": "11970bc6-b974-46cf-8826-a6ac2d327920"
+                "port": "11970bc6-b974-46cf-8826-a6ac2d327920",
+                "size": 18
               },
               "target": {
                 "block": "4b7fe774-132c-486d-b623-fb3af1c21551",
@@ -1469,7 +1550,8 @@
               },
               "target": {
                 "block": "4c14fe4a-4dfa-4499-b0c8-ad911c39ef53",
-                "port": "248e7e64-2cbf-4e0b-95b9-c084ea8b4c13"
+                "port": "248e7e64-2cbf-4e0b-95b9-c084ea8b4c13",
+                "size": 8
               },
               "vertices": [],
               "size": 8
@@ -1481,7 +1563,8 @@
               },
               "target": {
                 "block": "4c14fe4a-4dfa-4499-b0c8-ad911c39ef53",
-                "port": "463d4c61-e971-4525-8f3d-98928db6f437"
+                "port": "463d4c61-e971-4525-8f3d-98928db6f437",
+                "size": 18
               },
               "vertices": [],
               "size": 18
@@ -1489,7 +1572,8 @@
             {
               "source": {
                 "block": "9f1ada9f-236f-4991-bf42-86ba15e18bda",
-                "port": "out"
+                "port": "out",
+                "size": 8
               },
               "target": {
                 "block": "15cd14d2-4ea6-42ee-baf7-4660ce39af0a",
