@@ -349,7 +349,7 @@
           "id": "45ddadc2-a575-420d-bcb2-140e52d45116",
           "type": "basic.info",
           "data": {
-            "info": "**LED virtuales**",
+            "info": "**LEDs virtuales**",
             "readonly": true
           },
           "position": {
