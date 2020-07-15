@@ -1,0 +1,16 @@
+.Label-blank {
+  display:inline-block;
+  width: 30px;
+  height: 75px;
+  cursor: pointer;
+  background-image: url(img/label-blank.png);
+  background-repeat: no-repeat;
+
+  /* Avoid the activation of the selection when the
+     doble click is done on this element */
+  user-select: none; /* standard syntax */
+  -webkit-user-select: none; /* webkit (safari, chrome) browsers */
+  -moz-user-select: none; /* mozilla browsers */
+  -khtml-user-select: none; /* webkit (konqueror) browsers */
+  -ms-user-select: none; /* IE10+ */
+}
