@@ -227,16 +227,16 @@
           "id": "292f48bb-db23-46a9-bf9b-1df6ee99acca",
           "type": "basic.info",
           "data": {
-            "info": "## Ejemplo 3: Prueba del registro de 2 Bits\n\n",
+            "info": "## Ejemplo 3: Prueba del registro de 2 Bits\n\nCon el pulsador 1 se incrementa el dato que queremos  \ncaptura (que inicialmente es 0). Con el pulsador 2  \nse realiza la captura. La salida del registro se  \nmuestra en los LEDs 1 y 0, y el dato a capturar se  \nve en los LEDs 7 y 6",
             "readonly": true
           },
           "position": {
-            "x": -360,
-            "y": -232
+            "x": -432,
+            "y": -240
           },
           "size": {
-            "width": 416,
-            "height": 104
+            "width": 488,
+            "height": 144
           }
         },
         {
@@ -403,42 +403,6 @@
         },
         {
           "source": {
-            "block": "77de26e4-a07e-4445-9608-7ba627874fc1",
-            "port": "7a982450-c842-4aa2-8e77-43cc628266e0",
-            "size": 2
-          },
-          "target": {
-            "block": "f8e426ab-17cb-4d37-b29c-2041a796e573",
-            "port": "inlabel"
-          },
-          "size": 2
-        },
-        {
-          "source": {
-            "block": "3496a8c8-943a-40e8-a9df-94f69577c6bb",
-            "port": "outlabel"
-          },
-          "target": {
-            "block": "0c23c055-2c71-4af1-bab1-b6237940df86",
-            "port": "0dfd20c3-5515-445d-a983-ab5eb463a643",
-            "size": 2
-          },
-          "size": 2
-        },
-        {
-          "source": {
-            "block": "2b33f9ac-8a28-420c-be48-267c85851947",
-            "port": "outlabel"
-          },
-          "target": {
-            "block": "8df47021-5c0c-4044-89e5-c442f9784450",
-            "port": "in",
-            "size": 2
-          },
-          "size": 2
-        },
-        {
-          "source": {
             "block": "fdf80ee6-907c-4002-9d74-9003b2c4d9ce",
             "port": "out"
           },
@@ -493,6 +457,39 @@
               "y": 32
             }
           ]
+        },
+        {
+          "source": {
+            "block": "77de26e4-a07e-4445-9608-7ba627874fc1",
+            "port": "7a982450-c842-4aa2-8e77-43cc628266e0"
+          },
+          "target": {
+            "block": "f8e426ab-17cb-4d37-b29c-2041a796e573",
+            "port": "inlabel"
+          },
+          "size": 2
+        },
+        {
+          "source": {
+            "block": "3496a8c8-943a-40e8-a9df-94f69577c6bb",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "0c23c055-2c71-4af1-bab1-b6237940df86",
+            "port": "0dfd20c3-5515-445d-a983-ab5eb463a643"
+          },
+          "size": 2
+        },
+        {
+          "source": {
+            "block": "2b33f9ac-8a28-420c-be48-267c85851947",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "8df47021-5c0c-4044-89e5-c442f9784450",
+            "port": "in"
+          },
+          "size": 2
         }
       ]
     }
