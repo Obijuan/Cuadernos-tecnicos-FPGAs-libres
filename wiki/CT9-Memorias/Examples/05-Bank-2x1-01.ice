@@ -212,7 +212,7 @@
           "id": "26558133-de79-4ae0-b5ac-eee4e6a651a7",
           "type": "basic.input",
           "data": {
-            "name": "Data",
+            "name": "ADDR",
             "pins": [
               {
                 "index": "0",
