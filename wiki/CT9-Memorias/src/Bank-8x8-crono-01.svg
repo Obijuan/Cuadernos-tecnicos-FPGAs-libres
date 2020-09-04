@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="252.17651mm"
+   height="166.87384mm"
+   viewBox="0 0 252.17651 166.87384"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (b51213c273, 2020-08-10)"
+   sodipodi:docname="Bank-8x8-crono-01.svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker2256"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2254" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path995" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path995-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-5-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path995-6-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-5-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path995-6-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-5-7-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path995-6-5-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2095-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2093-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path995-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-5-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path995-6-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-5-7-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path995-6-5-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-5-2-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path995-6-8-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-5-7-9-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path995-6-5-7-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2095"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2093" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2095-5-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2093-2-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2256-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2254-6" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.65784774"
+     inkscape:cx="497.65759"
+     inkscape:cy="345.98956"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer5"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="1107"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(11.126407,16.122058)">
+    <rect
+       style="fill:#292929;fill-opacity:1;stroke:#000000;stroke-width:0.28316;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2337"
+       width="251.89336"
+       height="166.59068"
+       x="-10.984827"
+       y="-15.980478"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="time-marks"
+     style="display:inline"
+     transform="translate(4.214573e-8,6.1069959)">
+    <path
+       style="fill:none;stroke:#cccccc;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529167, 1.5875;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 43.753743,9.4334202 V 144.76579"
+       id="path2388"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529167, 1.5875;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 82.87428,9.4334192 V 144.76579"
+       id="path2388-4"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529167, 1.5875;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 121.99481,27.455082 V 144.76579"
+       id="path2388-4-7"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529167, 1.5875;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 161.11534,27.455082 V 144.76579"
+       id="path2388-4-7-4"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529167, 1.5875;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 200.23587,27.455082 V 144.76579"
+       id="path2388-4-7-4-4"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529167, 1.5875;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 239.3564,27.455082 V 144.76579"
+       id="path2388-4-7-4-4-3"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="data"
+     style="display:inline"
+     transform="translate(4.214573e-8,6.1069959)">
+    <path
+       style="display:inline;fill:none;stroke:#00ffff;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 31.920999,99.56647 h 50.95328 m 0,9.08992 H 31.920998"
+       id="path1314-0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       id="path1399-9"
+       style="display:inline;fill:none;stroke:#00ffff;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 82.874279,99.56647 h 3.655409 l 3.2727,9.08992 h 32.192422"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       id="path1399-9-0"
+       style="display:inline;fill:none;stroke:#00ffff;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 121.99481,99.56647 h 3.65541 l 3.2727,9.08992 h 32.19243"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       id="path1399-9-0-0"
+       style="display:inline;fill:none;stroke:#00ffff;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 161.11535,99.56647 h 3.6554 l 3.2727,9.08992 h 32.19243"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       id="path1399-9-0-0-5"
+       style="display:inline;fill:none;stroke:#00ffff;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 200.23586,99.56647 h 3.65542 l 3.2727,9.08992 h 32.19242"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 43.753746,59.758448 v -9.08991 h 19.46577 v 9.08991 h 19.654763"
+       id="path1262"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:#00ff00;stroke:#00ff00;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 31.920998,75.135354 h 50.953281 m 0,9.089922 H 31.920997"
+       id="path1314"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 82.874282,59.758448 v -9.08991 h 19.465768 v 9.08991 h 19.65476"
+       id="path1262-2"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:none;stroke:#00ff00;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 82.874279,75.135354 3.2727,9.089922 v 0 h 35.847831"
+       id="path1399"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       id="path1399-9-3"
+       style="display:inline;fill:none;stroke:#00ffff;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 82.874279,108.65639 h 3.655412 l 3.2727,-9.089922 h 32.192419"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 43.753745,34.805982 v 0 l 3.2727,-9.089922 h 35.847837"
+       id="path1399-1-8"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 43.753745,34.805982 H 31.560132"
+       id="path1555"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 82.874282,25.71606 3.2727,9.089923 v 0 H 239.35639"
+       id="path1399-7"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 121.99481,59.758448 v -9.08991 h 19.46577 v 9.08991 h 19.65476"
+       id="path1262-2-9"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 161.11534,59.758448 v -9.08991 h 19.46577 v 9.08991 h 19.65476"
+       id="path1262-2-3"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 200.23587,59.758448 v -9.08991 h 19.46577 v 9.08991 h 19.65476"
+       id="path1262-2-9-1"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:none;stroke:#00ff00;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 121.99481,75.135354 3.2727,9.089922 v 0 h 35.84783"
+       id="path1399-3"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:none;stroke:#00ff00;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 161.11534,75.135354 3.2727,9.089922 v 0 h 35.84783"
+       id="path1399-3-7"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:none;stroke:#00ff00;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 200.23586,75.135354 3.2727,9.089922 v 0 h 35.84783"
+       id="path1399-3-7-0"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       id="path1399-9-3-6"
+       style="display:inline;fill:none;stroke:#00ffff;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 121.99481,108.65639 h 3.65541 l 3.2727,-9.089922 h 32.19242"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       id="path1399-9-3-6-6"
+       style="display:inline;fill:none;stroke:#00ffff;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 161.11534,108.65639 h 3.65541 l 3.2727,-9.089922 h 32.19242"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       id="path1399-9-3-6-6-4"
+       style="display:inline;fill:none;stroke:#00ffff;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 200.23586,108.65639 h 3.65541 l 3.2727,-9.089922 h 32.19242"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 31.921,59.758447 H 43.753748"
+       id="path1288"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:none;stroke:#00ff00;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 82.874279,84.225275 v 0 l 3.2727,-9.089922 h 35.847831"
+       id="path1399-1"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:none;stroke:#00ff00;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 121.99481,84.225276 v 0 l 3.2727,-9.089922 h 35.84783"
+       id="path1399-1-1"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:none;stroke:#00ff00;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 161.11534,84.225276 v 0 l 3.2727,-9.089922 h 35.84784"
+       id="path1399-1-1-8"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:none;stroke:#00ff00;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 200.23587,84.225276 v 0 l 3.2727,-9.089922 h 35.84783"
+       id="path1399-1-1-8-3"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:none;stroke:#ffff00;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 82.874281,121.08109 3.2727,9.08992 v 0 H 239.35639"
+       id="path1399-7-8"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:none;stroke:#ffff00;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 31.920998,121.08109 H 82.874284"
+       id="path1399-1-8-9"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+  </g>
+  <g
+     inkscape:label="text"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(8.4129718,33.168236)"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="3.1374748"
+       y="101.47824"
+       id="text111"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256"><tspan
+         sodipodi:role="line"
+         id="tspan109"
+         x="3.1374748"
+         y="101.47824"
+         style="font-size:7.05556px;fill:#ffff00;stroke-width:0.264583">Write</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="5.3209081"
+       y="31.020288"
+       id="text111-3"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256"><tspan
+         sodipodi:role="line"
+         id="tspan109-6"
+         x="5.3209081"
+         y="31.020288"
+         style="font-size:7.05556px;fill:#ffffff;stroke-width:0.264583">clk</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="2.658314"
+       y="55.67786"
+       id="text111-7"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256"><tspan
+         sodipodi:role="line"
+         id="tspan109-5"
+         x="2.658314"
+         y="55.67786"
+         style="font-size:7.05556px;fill:#00ff00;stroke-width:0.264583">Addr</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="2.6583138"
+       y="79.661278"
+       id="text111-7-2"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256"><tspan
+         sodipodi:role="line"
+         id="tspan109-5-7"
+         x="2.6583138"
+         y="79.661278"
+         style="font-size:7.05556px;fill:#00ffff;stroke-width:0.264583">Data</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="47.47068"
+       y="54.889034"
+       id="text111-6"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256"><tspan
+         sodipodi:role="line"
+         id="tspan109-0"
+         x="47.47068"
+         y="54.889034"
+         style="font-size:7.05556px;fill:#00ff00;stroke-width:0.264583">xxx</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="47.47068"
+       y="79.206841"
+       id="text111-6-6"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256"><tspan
+         sodipodi:role="line"
+         id="tspan109-0-2"
+         x="47.47068"
+         y="79.206841"
+         style="font-size:7.05556px;fill:#00ffff;stroke-width:0.264583">xxx</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="5.6677957"
+       y="7.9771795"
+       id="text111-3-6"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256"><tspan
+         sodipodi:role="line"
+         id="tspan109-6-1"
+         x="5.6677957"
+         y="7.9771795"
+         style="font-size:7.05556px;fill:#ffffff;stroke-width:0.264583">rst</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="95.716293"
+       y="55.110264"
+       id="text111-6-9"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256"><tspan
+         sodipodi:role="line"
+         id="tspan109-0-20"
+         x="95.716293"
+         y="55.110264"
+         style="font-size:7.05556px;fill:#00ff00;stroke-width:0.264583">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="95.716293"
+       y="80.014923"
+       id="text111-6-9-2"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256"><tspan
+         sodipodi:role="line"
+         id="tspan109-0-20-3"
+         x="95.716293"
+         y="80.014923"
+         style="font-size:7.05556px;fill:#00ffff;stroke-width:0.264583">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="134.83682"
+       y="55.110264"
+       id="text111-6-9-9"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256"><tspan
+         sodipodi:role="line"
+         id="tspan109-0-20-4"
+         x="134.83682"
+         y="55.110264"
+         style="font-size:7.05556px;fill:#00ff00;stroke-width:0.264583">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="173.95735"
+       y="55.110264"
+       id="text111-6-9-9-4"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256"><tspan
+         sodipodi:role="line"
+         id="tspan109-0-20-4-5"
+         x="173.95735"
+         y="55.110264"
+         style="font-size:7.05556px;fill:#00ff00;stroke-width:0.264583">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="213.07787"
+       y="55.110264"
+       id="text111-6-9-9-4-6"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256"><tspan
+         sodipodi:role="line"
+         id="tspan109-0-20-4-5-1"
+         x="213.07787"
+         y="55.110264"
+         style="font-size:7.05556px;fill:#00ff00;stroke-width:0.264583">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="134.83682"
+       y="80.014923"
+       id="text111-6-9-2-3"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256"><tspan
+         sodipodi:role="line"
+         id="tspan109-0-20-3-2"
+         x="134.83682"
+         y="80.014923"
+         style="font-size:7.05556px;fill:#00ffff;stroke-width:0.264583">9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="173.95735"
+       y="80.014923"
+       id="text111-6-9-2-3-1"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256"><tspan
+         sodipodi:role="line"
+         id="tspan109-0-20-3-2-5"
+         x="173.95735"
+         y="80.014923"
+         style="font-size:7.05556px;fill:#00ffff;stroke-width:0.264583">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="213.07787"
+       y="80.014923"
+       id="text111-6-9-2-3-1-7"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256"><tspan
+         sodipodi:role="line"
+         id="tspan109-0-20-3-2-5-6"
+         x="213.07787"
+         y="80.014923"
+         style="font-size:7.05556px;fill:#00ffff;stroke-width:0.264583">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="47.315895"
+       y="100.67562"
+       id="text111-6-9-5"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256"><tspan
+         sodipodi:role="line"
+         id="tspan109-0-20-6"
+         x="47.315895"
+         y="100.67562"
+         style="font-size:7.05556px;fill:#ffff00;stroke-width:0.264583">xxx</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="91.777252"
+       y="5.9045572"
+       id="text111-6-9-5-9"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256"><tspan
+         sodipodi:role="line"
+         id="tspan109-0-20-6-3"
+         x="91.777252"
+         y="5.9045572"
+         style="font-size:7.05556px;fill:#ffffff;stroke-width:0.264583">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="53.564919"
+       y="5.7825727"
+       id="text111-6-9-9-7"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256"><tspan
+         sodipodi:role="line"
+         id="tspan109-0-20-4-4"
+         x="53.564919"
+         y="5.7825727"
+         style="font-size:7.05556px;fill:#ffffff;stroke-width:0.264583">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="83.432327"
+       y="112.20472"
+       id="text111-2-4"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256"><tspan
+         sodipodi:role="line"
+         id="tspan109-66-9"
+         x="83.432327"
+         y="112.20472"
+         style="font-size:7.05556px;fill:#ffffff;stroke-width:0.264583">Ciclo</tspan><tspan
+         sodipodi:role="line"
+         x="83.432327"
+         y="121.02417"
+         style="font-size:7.05556px;fill:#ffffff;stroke-width:0.264583"
+         id="tspan3560">lectura</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="121.17406"
+       y="112.20472"
+       id="text111-2-4-5"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256"><tspan
+         sodipodi:role="line"
+         id="tspan109-66-9-0"
+         x="121.17406"
+         y="112.20472"
+         style="font-size:7.05556px;fill:#ffffff;stroke-width:0.264583">Ciclo</tspan><tspan
+         sodipodi:role="line"
+         x="121.17406"
+         y="121.02417"
+         style="font-size:7.05556px;fill:#ffffff;stroke-width:0.264583"
+         id="tspan3560-4">lectura</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="161.09491"
+       y="112.20472"
+       id="text111-2-4-5-8"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256"><tspan
+         sodipodi:role="line"
+         id="tspan109-66-9-0-7"
+         x="161.09491"
+         y="112.20472"
+         style="font-size:7.05556px;fill:#ffffff;stroke-width:0.264583">Ciclo</tspan><tspan
+         sodipodi:role="line"
+         x="161.09491"
+         y="121.02417"
+         style="font-size:7.05556px;fill:#ffffff;stroke-width:0.264583"
+         id="tspan3560-4-1">lectura</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="201.58923"
+       y="112.20472"
+       id="text111-2-4-5-8-7"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256"><tspan
+         sodipodi:role="line"
+         id="tspan109-66-9-0-7-2"
+         x="201.58923"
+         y="112.20472"
+         style="font-size:7.05556px;fill:#ffffff;stroke-width:0.264583">Ciclo</tspan><tspan
+         sodipodi:role="line"
+         x="201.58923"
+         y="121.02417"
+         style="font-size:7.05556px;fill:#ffffff;stroke-width:0.264583"
+         id="tspan3560-4-1-7">lectura</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="92.774757"
+       y="100.33458"
+       id="text111-6-9-5-9-2"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256"><tspan
+         sodipodi:role="line"
+         id="tspan109-0-20-6-3-2"
+         x="92.774757"
+         y="100.33458"
+         style="font-size:7.05556px;fill:#ffff00;stroke-width:0.264583">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="92.100716"
+       y="-17.893541"
+       id="text111-2-4-6"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256"><tspan
+         sodipodi:role="line"
+         x="92.100716"
+         y="-17.893541"
+         style="font-size:7.05556px;fill:#ffffff;stroke-width:0.264583"
+         id="tspan3560-0">Comienza </tspan><tspan
+         sodipodi:role="line"
+         x="92.100716"
+         y="-9.074091"
+         style="font-size:7.05556px;fill:#ffffff;stroke-width:0.264583"
+         id="tspan3666">la captura</tspan></text>
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2256)"
+       d="M 89.757196,-13.896616 H 76.550495"
+       id="path3668"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="clk-rising"
+     style="display:inline"
+     transform="translate(4.214573e-8,6.1069959)">
+    <path
+       style="display:inline;fill:#0000ff;stroke:#0000ff;stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-0)"
+       d="M 43.753743,59.758448 V 50.668539"
+       id="path143"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:#0000ff;stroke:#0000ff;stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-5-8)"
+       d="M 82.874279,59.758448 V 50.668539"
+       id="path143-9"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:#0000ff;stroke:#0000ff;stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-5-7-8)"
+       d="M 121.99481,59.758448 V 50.668539"
+       id="path143-9-2"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:#0000ff;stroke:#0000ff;stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-5-2-4)"
+       d="M 161.11534,59.758448 V 50.668539"
+       id="path143-9-6"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:#0000ff;stroke:#0000ff;stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-5-7-9-1)"
+       d="M 200.23588,59.758448 V 50.668539"
+       id="path143-9-2-2"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="transitions"
+     style="display:inline"
+     transform="translate(4.214573e-8,6.1069959)">
+    <path
+       style="display:inline;fill:none;stroke:#ff00ff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2095)"
+       d="m 84.192005,48.625459 c 0,0 2.75883,-2.09104 2.714658,-6.533706 -0.04417,-4.442665 -3.241561,-6.93343 -3.241561,-6.93343"
+       id="path2091"
+       sodipodi:nodetypes="czc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:none;stroke:#ff00ff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2095-5-9)"
+       d="m 84.192004,59.298979 c 0,0 2.75883,2.091039 2.714658,6.533706 -0.04417,4.442663 -3.241561,6.93343 -3.241561,6.93343"
+       id="path2091-5"
+       sodipodi:nodetypes="czc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:none;stroke:#ff00ff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2256-0)"
+       d="m 84.835403,84.420293 c 0,0 2.5731,2.804676 3.361904,6.370871 0.788805,3.566194 0.289455,7.80737 0.289455,7.80737"
+       id="path2252"
+       sodipodi:nodetypes="czc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Bank-8x8-crono-02.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+  </g>
+</svg>
