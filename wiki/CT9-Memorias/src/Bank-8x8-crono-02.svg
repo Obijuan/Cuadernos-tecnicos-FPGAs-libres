@@ -422,7 +422,7 @@
      inkscape:cx="696.14004"
      inkscape:cy="512.83728"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
@@ -445,7 +445,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2021,7 +2021,7 @@
          id="tspan109-0-20-6-8-5-6-8-3-9-7-8-9"
          x="369.36041"
          y="207.99557"
-         style="font-size:7.05556px;fill:#00ffff;stroke-width:0.264583">4</tspan></text>
+         style="font-size:7.05556px;fill:#00ffff;stroke-width:0.264583">0</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
