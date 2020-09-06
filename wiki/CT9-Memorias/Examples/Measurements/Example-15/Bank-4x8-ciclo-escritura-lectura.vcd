@@ -1,0 +1,29 @@
+$date Sun Sep  6 10:49:25 2020 $end
+$version libsigrok 0.6.0-git-d7df9dc $end
+$comment
+  Acquisition with 8/8 channels at 12 MHz
+$end
+$timescale 100 ps $end
+$scope module libsigrok $end
+$var wire 1 ! dout0 $end
+$var wire 1 " dout1 $end
+$var wire 1 # din0 $end
+$var wire 1 $ din1 $end
+$var wire 1 % write $end
+$var wire 1 & A0 $end
+$var wire 1 ' A1 $end
+$var wire 1 ( Trig $end
+$upscope $end
+$enddefinitions $end
+
+#0  0! 0" 1# 0$ 0% 0& 0' 1(
+#833  1% 0(
+#1667  1! 0%
+#2500  0! 0# 1$ 1% 1&
+#3333  1" 0%
+#4167  0" 1# 1% 0& 1'
+#5000  1! 1" 0%
+#5833  0! 0" 0# 0$ 1% 1&
+#6667  0%
+#7500  1! 1# 0& 0'
+#13333
