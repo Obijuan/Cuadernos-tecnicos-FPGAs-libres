@@ -67,26 +67,6 @@
           }
         },
         {
-          "id": "b36f5f3f-2c9c-4a98-9899-8e4148af4a02",
-          "type": "basic.inputLabel",
-          "data": {
-            "blockColor": "fuchsia",
-            "name": "B1",
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ],
-            "virtual": true
-          },
-          "position": {
-            "x": -304,
-            "y": -712
-          }
-        },
-        {
           "id": "2b86a027-acb5-4539-b843-04b6c35cb76e",
           "type": "basic.outputLabel",
           "data": {
@@ -257,31 +237,11 @@
           }
         },
         {
-          "id": "71dfc3a4-5133-487a-aba3-dbfe8b914bd3",
-          "type": "basic.input",
-          "data": {
-            "name": "Boton 1",
-            "pins": [
-              {
-                "index": "0",
-                "name": "SW1",
-                "value": "34"
-              }
-            ],
-            "virtual": false,
-            "clock": false
-          },
-          "position": {
-            "x": -616,
-            "y": -592
-          }
-        },
-        {
-          "id": "aa245b5b-0142-41e6-843d-ab9c4bb00f02",
+          "id": "b36f5f3f-2c9c-4a98-9899-8e4148af4a02",
           "type": "basic.inputLabel",
           "data": {
             "blockColor": "fuchsia",
-            "name": "LB1",
+            "name": "B1",
             "pins": [
               {
                 "index": "0",
@@ -289,12 +249,11 @@
                 "value": "NULL"
               }
             ],
-            "virtual": true,
-            "oldBlockColor": "fuchsia"
+            "virtual": true
           },
           "position": {
-            "x": -304,
-            "y": -584
+            "x": -352,
+            "y": -520
           }
         },
         {
@@ -319,11 +278,31 @@
           }
         },
         {
-          "id": "c149371f-ad5f-4c7c-a9ad-efb0ac7b22f6",
+          "id": "71dfc3a4-5133-487a-aba3-dbfe8b914bd3",
+          "type": "basic.input",
+          "data": {
+            "name": "Boton 1",
+            "pins": [
+              {
+                "index": "0",
+                "name": "SW1",
+                "value": "34"
+              }
+            ],
+            "virtual": false,
+            "clock": false
+          },
+          "position": {
+            "x": -664,
+            "y": -400
+          }
+        },
+        {
+          "id": "aa245b5b-0142-41e6-843d-ab9c4bb00f02",
           "type": "basic.inputLabel",
           "data": {
             "blockColor": "fuchsia",
-            "name": "B2",
+            "name": "LB1",
             "pins": [
               {
                 "index": "0",
@@ -335,8 +314,8 @@
             "oldBlockColor": "fuchsia"
           },
           "position": {
-            "x": -320,
-            "y": -416
+            "x": -352,
+            "y": -392
           }
         },
         {
@@ -382,31 +361,11 @@
           }
         },
         {
-          "id": "03d654fa-8701-437a-b641-1e58f26067d1",
-          "type": "basic.input",
-          "data": {
-            "name": "Boton 2",
-            "pins": [
-              {
-                "index": "0",
-                "name": "SW2",
-                "value": "33"
-              }
-            ],
-            "virtual": false,
-            "clock": false
-          },
-          "position": {
-            "x": -624,
-            "y": -360
-          }
-        },
-        {
-          "id": "12144506-1cb6-44b2-bdf6-5c300c3ce19e",
+          "id": "c149371f-ad5f-4c7c-a9ad-efb0ac7b22f6",
           "type": "basic.inputLabel",
           "data": {
             "blockColor": "fuchsia",
-            "name": "LB2",
+            "name": "B2",
             "pins": [
               {
                 "index": "0",
@@ -418,8 +377,8 @@
             "oldBlockColor": "fuchsia"
           },
           "position": {
-            "x": -320,
-            "y": -352
+            "x": -368,
+            "y": -224
           }
         },
         {
@@ -454,7 +413,27 @@
             "blockColor": "fuchsia"
           },
           "position": {
-            "x": 176,
+            "x": 368,
+            "y": -192
+          }
+        },
+        {
+          "id": "03d654fa-8701-437a-b641-1e58f26067d1",
+          "type": "basic.input",
+          "data": {
+            "name": "Boton 2",
+            "pins": [
+              {
+                "index": "0",
+                "name": "SW2",
+                "value": "33"
+              }
+            ],
+            "virtual": false,
+            "clock": false
+          },
+          "position": {
+            "x": -672,
             "y": -168
           }
         },
@@ -475,8 +454,29 @@
             "oldBlockColor": "fuchsia"
           },
           "position": {
-            "x": -144,
-            "y": -144
+            "x": 48,
+            "y": -168
+          }
+        },
+        {
+          "id": "12144506-1cb6-44b2-bdf6-5c300c3ce19e",
+          "type": "basic.inputLabel",
+          "data": {
+            "blockColor": "fuchsia",
+            "name": "LB2",
+            "pins": [
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ],
+            "virtual": true,
+            "oldBlockColor": "fuchsia"
+          },
+          "position": {
+            "x": -368,
+            "y": -160
           }
         },
         {
@@ -531,8 +531,8 @@
             "virtual": true
           },
           "position": {
-            "x": -144,
-            "y": -64
+            "x": 48,
+            "y": -88
           }
         },
         {
@@ -733,24 +733,24 @@
           "id": "2bf23ef8-e0d9-4c5c-8ee2-1fade460e857",
           "type": "basic.info",
           "data": {
-            "info": "## Ejemplo 16: Prueba de la memoria 16B, con LEDs y pulsadores    \n\n\nCon el pulsador SW2 se incrementa la dirección del registro actual, que se muestra por los LEDs  \nEl pulsador SW1 se incrementa el valor del registro actual:  \n* Con una pulsación corta se incrementa en 1 unidad  \n* Con una pulsación larga se incrementa en 64 unidades",
+            "info": "## Ejemplo 16: Prueba de la memoria 16B, con LEDs y pulsadores    \n\nCon los pulsadores SW1 y SW2 se navega por la memoria, viendo el  \ncontenido de la posición actual en los LEDs:\n* SW1: Ir a la dirección anterior\n* SW2: Ir a la dirección siguiente\n\nPor defecto, el valor grabado en cada posición es igual a su dirección  \n\nMediante pulsaciones largas de SW1 y SW2 se cambia al valor actual:  \n* Long SW1: Incrementar en 1 unidad\n* Long SW2: Incrementar en 64 unidades",
             "readonly": true
           },
           "position": {
-            "x": -528,
-            "y": -968
+            "x": -720,
+            "y": -912
           },
           "size": {
-            "width": 760,
-            "height": 128
+            "width": 704,
+            "height": 192
           }
         },
         {
           "id": "73196e1b-3c6b-4430-a428-cb473aad0d53",
           "type": "55cf39175c1c3fcba5e2c28817660ab37a88eb51",
           "position": {
-            "x": -456,
-            "y": -632
+            "x": -504,
+            "y": -440
           },
           "size": {
             "width": 96,
@@ -765,8 +765,8 @@
             "readonly": true
           },
           "position": {
-            "x": -288,
-            "y": -760
+            "x": -336,
+            "y": -568
           },
           "size": {
             "width": 208,
@@ -781,8 +781,8 @@
             "readonly": true
           },
           "position": {
-            "x": -288,
-            "y": -616
+            "x": -336,
+            "y": -424
           },
           "size": {
             "width": 272,
@@ -797,8 +797,8 @@
             "readonly": true
           },
           "position": {
-            "x": 8,
-            "y": -56
+            "x": 200,
+            "y": -80
           },
           "size": {
             "width": 168,
@@ -813,8 +813,8 @@
             "readonly": true
           },
           "position": {
-            "x": 168,
-            "y": -192
+            "x": 360,
+            "y": -216
           },
           "size": {
             "width": 168,
@@ -993,8 +993,8 @@
           "id": "fb453875-7d17-4b67-abbc-567a2c55ed95",
           "type": "55cf39175c1c3fcba5e2c28817660ab37a88eb51",
           "position": {
-            "x": -464,
-            "y": -400
+            "x": -512,
+            "y": -208
           },
           "size": {
             "width": 96,
@@ -1005,8 +1005,8 @@
           "id": "fe3773d6-220c-4a07-9c14-0e4e6a96fd50",
           "type": "e4b02246e3e3b773ce2e09165a35ebea9e22ff67",
           "position": {
-            "x": 16,
-            "y": -160
+            "x": 208,
+            "y": -184
           },
           "size": {
             "width": 96,
@@ -1021,8 +1021,8 @@
             "readonly": true
           },
           "position": {
-            "x": -312,
-            "y": -472
+            "x": -360,
+            "y": -280
           },
           "size": {
             "width": 240,
@@ -1037,8 +1037,8 @@
             "readonly": true
           },
           "position": {
-            "x": -304,
-            "y": -280
+            "x": -352,
+            "y": -88
           },
           "size": {
             "width": 280,
