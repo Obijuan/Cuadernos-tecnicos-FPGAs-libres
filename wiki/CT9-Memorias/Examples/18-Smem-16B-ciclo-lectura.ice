@@ -428,7 +428,7 @@
           "id": "93e706e5-75d9-46f7-95e8-36952f70ad77",
           "type": "basic.info",
           "data": {
-            "info": "Contador de 3 bits,  \ncon reset",
+            "info": "Contador de 4 bits,  \ncon reset",
             "readonly": true
           },
           "position": {
@@ -460,16 +460,16 @@
           "id": "8cf87fc5-fdce-4759-930d-b19d02cfd574",
           "type": "basic.info",
           "data": {
-            "info": "Banco de 8 registros  \nde 1 byte",
+            "info": "Memoria síncrona  \nde 16 Bytes",
             "readonly": true
           },
           "position": {
-            "x": 816,
+            "x": 824,
             "y": 560
           },
           "size": {
-            "width": 184,
-            "height": 72
+            "width": 160,
+            "height": 56
           }
         },
         {
