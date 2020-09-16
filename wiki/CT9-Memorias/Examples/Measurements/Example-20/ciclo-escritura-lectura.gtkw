@@ -1,0 +1,37 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Wed Sep 16 16:28:44 2020
+[*]
+[dumpfile] "/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Examples/Measurements/Example-20/ciclo-escritura-lectura.vcd"
+[dumpfile_mtime] "Wed Sep 16 16:18:58 2020"
+[dumpfile_size] 601
+[savefile] "/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Examples/Measurements/Example-20/ciclo-escritura-lectura.gtkw"
+[timestart] 0
+[size] 1848 1016
+[pos] -417 -322
+*-17.498573 121200 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 148
+[sst_expanded] 1
+[sst_vpaned_height] 289
+@28
+libsigrok.Trig
+@800022
++{Addr} #{libsigrok.a[0:1]} libsigrok.a0 libsigrok.a1
+@1001202
+-group_end
+@c00022
++{din} #{libsigrok.din[1:0]} libsigrok.din1 libsigrok.din0
+@28
+libsigrok.din0
+libsigrok.din1
+@1401202
+-group_end
+@29
+libsigrok.write
+@800022
++{dout} #{libsigrok.d[1:0]} libsigrok.d1 libsigrok.d0
+@1001202
+-group_end
+[pattern_trace] 1
+[pattern_trace] 0
