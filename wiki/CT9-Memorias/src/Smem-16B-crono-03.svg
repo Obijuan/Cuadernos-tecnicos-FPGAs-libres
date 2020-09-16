@@ -410,6 +410,20 @@
          style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path2254-6-9-7-8-9" />
     </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2256-0-0-9-3-8-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2254-6-9-7-8-9-6" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -418,11 +432,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.65784774"
-     inkscape:cx="870.94514"
-     inkscape:cy="571.95583"
+     inkscape:zoom="1.3156955"
+     inkscape:cx="734.2413"
+     inkscape:cy="795.99409"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer6"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
@@ -436,7 +450,7 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:snap-global="true" />
+     inkscape:snap-global="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -989,6 +1003,14 @@
        style="display:inline;fill:none;stroke:#ff00ff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2256-0-0-9-3-8)"
        d="m 360.32103,124.11735 c 0,0 8.12704,25.19093 7.74351,46.58563 -0.38353,21.39471 -7.43455,35.48564 -7.43455,35.48564"
        id="path2252-6-5-8-6"
+       sodipodi:nodetypes="czc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Smem16B-crono-03.png"
+       inkscape:export-xdpi="92.090256"
+       inkscape:export-ydpi="92.090256" />
+    <path
+       style="display:inline;fill:none;stroke:#ff00ff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2256-0-0-9-3-8-3)"
+       d="m 161.11534,130.1497 c 0,0 8.47983,24.66749 8.17132,53.35447 -0.30851,28.68698 -6.73081,42.8953 -6.73081,42.8953"
+       id="path2252-6-5-8-6-7"
        sodipodi:nodetypes="czc"
        inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/Smem16B-crono-03.png"
        inkscape:export-xdpi="92.090256"
