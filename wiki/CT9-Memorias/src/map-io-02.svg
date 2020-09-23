@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="475.15091mm"
+   height="483.74881mm"
+   viewBox="0 0 475.15091 483.74879"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="map-io-02.svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1852" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-3-9-3-1-0-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path854-6-1-67-2-9-0"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-3-9-35"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path854-6-1-62"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-3-9-3-1-0-6-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path854-6-1-67-2-9-0-3"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-3-9-3-1-0-2-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path854-6-1-67-2-9-3-9"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-3-9-35-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#ff6600;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path854-6-1-62-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-3-9-35-1-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path854-6-1-62-2-0"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-9-35-1-6-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path854-6-1-62-2-0-6"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-9-35-1-62"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path854-6-1-62-2-9"
+         style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:#00ffff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-3-9-3-1-0-2-5-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path854-6-1-67-2-9-3-9-0"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-3-9-3-1-0-2-5-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path854-6-1-67-2-9-3-9-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1852-6" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-9-35-1-6-3-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path854-6-1-62-2-0-6-9"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart-0-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1852-6-9" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-9-35-1-6-3-8-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path854-6-1-62-2-0-6-9-0"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="689.43995"
+     inkscape:cy="963.29574"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:document-rotation="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(85.185257,258.00787)"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.741253;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4528"
+       width="475.15091"
+       height="483.74881"
+       x="-85.185257"
+       y="-258.00787"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(85.185257,258.00787)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.2191px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="143.23517"
+       y="-218.52341"
+       id="text2645-3"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="143.23517"
+         y="-218.52341"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.264583"
+         id="tspan2665">Mapa de memoria</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       style="fill:#d5f6ff;stroke:#000000;stroke-width:0.529166;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect946"
+       width="161.17128"
+       height="97.844536"
+       x="66.183167"
+       y="94.639572" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0"
+       y="188.92719"
+       x="-2.3823969"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.187527"
+         y="188.92719"
+         x="-2.3823972"
+         sodipodi:role="line"
+         id="tspan1013">0x00</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-36-6-2-3"
+       y="142.03302"
+       x="142.40025"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.3906px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.205755"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.205755"
+         y="142.03302"
+         x="142.40025"
+         sodipodi:role="line"
+         id="tspan1009">Memoria ROM</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.205755"
+         y="158.77127"
+         x="142.40025"
+         sodipodi:role="line"
+         id="tspan1315"> 16 Bytes</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-5"
+       y="188.92719"
+       x="39.249569"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.187527"
+         y="188.92719"
+         x="39.249569"
+         sodipodi:role="line"
+         id="tspan1013-6">(000000)</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-2"
+       y="109.40681"
+       x="-2.3823967"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.187527"
+         y="109.40681"
+         x="-2.3823962"
+         sodipodi:role="line"
+         id="tspan1013-9">0x0F</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-5-1"
+       y="109.40681"
+       x="39.249561"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.187527"
+         y="109.40681"
+         x="39.249561"
+         sodipodi:role="line"
+         id="tspan1013-6-2">(001111)</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11667;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -56.217792,94.639577 H 66.183153"
+       id="path1242"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11667;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -56.217792,192.4841 H 66.183158"
+       id="path1242-7"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 66.183169,45.940667 v 24.34946 24.34945"
+       id="path1267"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       style="fill:#d7f4e3;stroke:#000000;stroke-width:0.529166;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect946-0"
+       width="161.17128"
+       height="48.698906"
+       x="66.183174"
+       y="45.940662" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-36-6-2-3-9"
+       y="66.044365"
+       x="141.758"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.3906px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.205755"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;text-anchor:middle;fill:#008000;stroke-width:0.205755"
+         y="66.044365"
+         x="141.758"
+         sodipodi:role="line"
+         id="tspan1009-6">Memoria RAM</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;text-anchor:middle;fill:#008000;stroke-width:0.205755"
+         y="82.782616"
+         x="141.758"
+         sodipodi:role="line"
+         id="tspan1311"> 8 Bytes</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-2-0"
+       y="89.095657"
+       x="-2.3824"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#008000;stroke-width:0.187527"
+         y="89.095657"
+         x="-2.3824003"
+         sodipodi:role="line"
+         id="tspan1013-9-6">0x10</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-5-1-2"
+       y="89.095657"
+       x="39.249557"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#008000;stroke-width:0.187527"
+         y="89.095657"
+         x="39.249557"
+         sodipodi:role="line"
+         id="tspan1013-6-2-6">(010000)</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529166, 2.11667;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -40.723695,45.940663 H 66.183157"
+       id="path1242-1"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-2-0-8"
+       y="60.401508"
+       x="-2.3823993"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#008000;stroke-width:0.187527"
+         y="60.401508"
+         x="-2.3823996"
+         sodipodi:role="line"
+         id="tspan1013-9-6-7">0x17</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-5-1-2-9"
+       y="60.401508"
+       x="39.249557"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#008000;stroke-width:0.187527"
+         y="60.401508"
+         x="39.249557"
+         sodipodi:role="line"
+         id="tspan1013-6-2-6-2">(010111)</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect946-0-0"
+       width="161.17128"
+       height="48.698906"
+       x="66.183182"
+       y="-2.7582474" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-36-6-2-3-9-2"
+       y="27.637615"
+       x="144.00491"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.3906px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.205755"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.205755"
+         y="27.637615"
+         x="144.00491"
+         sodipodi:role="line"
+         id="tspan1311-7">No usado</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-2-0-8-5"
+       y="41.441685"
+       x="-2.3823993"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.187527"
+         y="41.441685"
+         x="-2.3823996"
+         sodipodi:role="line"
+         id="tspan1013-9-6-7-9">0x18</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-5-1-2-9-2"
+       y="41.441685"
+       x="39.249557"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.187527"
+         y="41.441685"
+         x="39.249557"
+         sodipodi:role="line"
+         id="tspan1013-6-2-6-2-2">(011000)</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11667;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -56.217792,-2.7582489 H 66.183158"
+       id="path1242-1-8"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-2-0-8-5-9"
+       y="9.6446047"
+       x="-2.3823993"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.187527"
+         y="9.6446047"
+         x="-2.3823988"
+         sodipodi:role="line"
+         id="tspan1013-9-6-7-9-7">0x1F</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-5-1-2-9-2-3"
+       y="9.6446047"
+       x="39.249557"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.187527"
+         y="9.6446047"
+         x="39.249557"
+         sodipodi:role="line"
+         id="tspan1013-6-2-6-2-2-6">(011111)</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       style="fill:#ffe6d5;stroke:#000000;stroke-width:0.529165;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect946-12"
+       width="161.17128"
+       height="20.484632"
+       x="66.183167"
+       y="-23.24288" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-36-6-2"
+       y="-8.2560844"
+       x="96.152885"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.3906px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.205755"
+       xml:space="preserve"><tspan
+         id="tspan3340-70"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#ff6600;stroke-width:0.205755"
+         y="-8.2560844"
+         x="96.152885"
+         sodipodi:role="line">Puerto de salida</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-2-0-8-5-9-9"
+       y="-10.013311"
+       x="-2.3823984"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#ff6600;stroke-width:0.187527"
+         y="-10.013311"
+         x="-2.3823986"
+         sodipodi:role="line"
+         id="tspan1013-9-6-7-9-7-3">0x20</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-5-1-2-9-2-3-1"
+       y="-10.013311"
+       x="39.249561"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#ff6600;stroke-width:0.187527"
+         y="-10.013311"
+         x="39.249561"
+         sodipodi:role="line"
+         id="tspan1013-6-2-6-2-2-6-9">(100000)</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11667;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -14.668946,-23.24288 H 66.183158"
+       id="path1242-1-8-4"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       style="fill:#ffe6d5;stroke:#000000;stroke-width:0.529164;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect946-12-7"
+       width="161.17128"
+       height="20.484632"
+       x="66.183151"
+       y="-43.727512" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-36-6-2-8"
+       y="-28.740715"
+       x="91.122452"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.3906px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.205755"
+       xml:space="preserve"><tspan
+         id="tspan3340-70-4"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#ff6600;stroke-width:0.205755"
+         y="-28.740715"
+         x="91.122452"
+         sodipodi:role="line">Puerto de entrada</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-2-0-8-5-9-9-5"
+       y="-30.497944"
+       x="-2.3823993"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#ff6600;stroke-width:0.187527"
+         y="-30.497944"
+         x="-2.3823996"
+         sodipodi:role="line"
+         id="tspan1013-9-6-7-9-7-3-0">0x21</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-5-1-2-9-2-3-1-3"
+       y="-30.497944"
+       x="39.249557"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#ff6600;stroke-width:0.187527"
+         y="-30.497944"
+         x="39.249557"
+         sodipodi:role="line"
+         id="tspan1013-6-2-6-2-2-6-9-6">(100001)</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11667;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -14.668958,-43.727514 h 80.85211"
+       id="path1242-1-8-4-1"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529164;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect946-12-7-0"
+       width="161.17128"
+       height="56.875267"
+       x="66.183159"
+       y="-100.60278" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-36-6-2-3-9-2-6"
+       y="-68.398247"
+       x="144.00491"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.3906px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.205755"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.205755"
+         y="-68.398247"
+         x="144.00491"
+         sodipodi:role="line"
+         id="tspan1311-7-3">No usado</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11667;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -56.217792,-100.60278 H 66.183158"
+       id="path1242-1-8-2"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-2-0-8-5-9-0"
+       y="-85.320702"
+       x="-2.3823984"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.187527"
+         y="-85.320702"
+         x="-2.3823979"
+         sodipodi:role="line"
+         id="tspan1013-9-6-7-9-7-6">0x2F</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-5-1-2-9-2-3-15"
+       y="-85.320702"
+       x="39.249561"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.187527"
+         y="-85.320702"
+         x="39.249561"
+         sodipodi:role="line"
+         id="tspan1013-6-2-6-2-2-6-5">(101111)</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect946-4"
+       width="161.17128"
+       height="97.844536"
+       x="66.183159"
+       y="-198.44733" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-36-6-2-3-9-2-6-7"
+       y="-147.98773"
+       x="144.00491"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.3906px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.205755"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.205755"
+         y="-147.98773"
+         x="144.00491"
+         sodipodi:role="line"
+         id="tspan1311-7-3-6">No usado</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-2-0-8-5-9-0-5"
+       y="-106.82716"
+       x="-2.3823984"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.187527"
+         y="-106.82716"
+         x="-2.3823986"
+         sodipodi:role="line"
+         id="tspan1013-9-6-7-9-7-6-6">0x30</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-5-1-2-9-2-3-15-9"
+       y="-106.82716"
+       x="39.249561"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.187527"
+         y="-106.82716"
+         x="39.249561"
+         sodipodi:role="line"
+         id="tspan1013-6-2-6-2-2-6-5-3">(110000)</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11667;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -56.217792,-198.44732 H 66.183158"
+       id="path1242-1-8-2-7"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-2-0-8-5-9-0-5-4"
+       y="-183.72748"
+       x="-2.3823993"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.187527"
+         y="-183.72748"
+         x="-2.3823988"
+         sodipodi:role="line"
+         id="tspan1013-9-6-7-9-7-6-6-5">0x3F</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-5-1-2-9-2-3-15-9-2"
+       y="-183.72748"
+       x="39.249557"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.187527"
+         y="-183.72748"
+         x="39.249557"
+         sodipodi:role="line"
+         id="tspan1013-6-2-6-2-2-6-5-3-5">(111111)</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-5-1-2-9-2-3-15-7"
+       y="144.87276"
+       x="300.77451"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.187527"
+         y="144.87276"
+         x="300.77451"
+         sodipodi:role="line"
+         id="tspan1013-6-2-6-2-2-6-5-4">Bloque 0 (00)</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend-3-9-35-1-6-3)"
+       d="M 236.24513,97.019915 V 191.29092"
+       id="path1826"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-5-1-2-9-2-3-15-7-4"
+       y="-242.57722"
+       x="142.47739"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"
+       transform="rotate(90)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.187527"
+         y="-242.57722"
+         x="142.47739"
+         sodipodi:role="line"
+         id="tspan1013-6-2-6-2-2-6-5-4-3">16 Bytes</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11667;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 227.09163,192.4841 H 349.49258"
+       id="path1242-7-0"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11667;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 227.09163,94.639577 H 349.49258"
+       id="path1242-7-0-7"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11667;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 227.09163,-2.7582389 H 349.49258"
+       id="path1242-7-0-7-8"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11667;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 227.09163,-100.60278 H 349.49258"
+       id="path1242-7-0-7-8-6"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11667;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 227.09163,-198.44732 H 349.49258"
+       id="path1242-7-0-7-8-6-8"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-5-1-2-9-2-3-15-7-8"
+       y="45.658623"
+       x="300.77451"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.187527"
+         y="45.658623"
+         x="300.77451"
+         sodipodi:role="line"
+         id="tspan1013-6-2-6-2-2-6-5-4-4">Bloque 1 (01)</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-5-1-2-9-2-3-15-7-8-3"
+       y="-51.680489"
+       x="300.77451"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.187527"
+         y="-51.680489"
+         x="300.77451"
+         sodipodi:role="line"
+         id="tspan1013-6-2-6-2-2-6-5-4-4-1">Bloque 2 (10)</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-5-1-2-9-2-3-15-7-8-3-4"
+       y="-149.78081"
+       x="300.77451"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.187527"
+         y="-149.78081"
+         x="300.77451"
+         sodipodi:role="line"
+         id="tspan1013-6-2-6-2-2-6-5-4-4-1-9">Bloque 3 (11)</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529166, 2.11667;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 227.09163,46.155655 h 27.64046"
+       id="path1242-7-0-7-2"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.793749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart-0);marker-end:url(#Arrow2Mend-3-9-35-1-6-3-8)"
+       d="M 236.24514,47.702197 V 92.349534"
+       id="path1826-2"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-5-1-2-9-2-3-15-7-4-6"
+       y="-242.57724"
+       x="71.482124"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"
+       transform="rotate(90)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.187527"
+         y="-242.57724"
+         x="71.482124"
+         sodipodi:role="line"
+         id="tspan1013-6-2-6-2-2-6-5-4-3-6">8 Bytes</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart-0-4);marker-end:url(#Arrow2Mend-3-9-35-1-6-3-8-5)"
+       d="M 236.24514,-1.2116969 V 43.435641"
+       id="path1826-2-8"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT9-Memorias/map-io-02.png"
+       id="text2645-3-6-5-2-0-5-1-2-9-2-3-15-7-4-6-7"
+       y="-242.57724"
+       x="22.568233"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.2043px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.187527"
+       xml:space="preserve"
+       transform="rotate(90)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.187527"
+         y="-242.57724"
+         x="22.568233"
+         sodipodi:role="line"
+         id="tspan1013-6-2-6-2-2-6-5-4-3-6-1">8 Bytes</tspan></text>
+  </g>
+</svg>
