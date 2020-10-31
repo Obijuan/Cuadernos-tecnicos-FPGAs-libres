@@ -1061,7 +1061,7 @@
           "id": "2bf23ef8-e0d9-4c5c-8ee2-1fade460e857",
           "type": "basic.info",
           "data": {
-            "info": "## Ejemplo 12: Prueba del banco de 8 registros de 8 bits, con panel web\n\nCon el botón 'R' se incrementa la dirección actual. Esta dirección se muestra en los  \nLEDs virtuales \"f\", \"g\" y \"h\". Con el botón 'Q' se cambia el valor del registro  \nactual (toggle). En los LEDs virtuales \"A\"-\"H\" se muestra el banco de los 8 registros  \nasí como en los LEDs reales (7-0)\n",
+            "info": "## Ejemplo 12: Prueba del banco de 8 registros de 8 bits, con panel web\n\nCon los botones \"S\" y \"T\" se decrementa e incrementa la dirección actual. Esta dirección  \nse muestra en los LEDs virtuales \"f\", \"g\" y \"h\". Con los botones \"Q\" y \"R\" se incrementa  \nel registro actual en 1 ó 64 unidades respectivamente. El dato de salida del banco  \nse muestra por los LEDs virtuales \"A\"-\"H\" y los LEDs reales 7 - 0\n",
             "readonly": true
           },
           "position": {
