@@ -551,7 +551,7 @@
        ry="0.29631406"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-09/src/temp/anim/Button-off.png" />
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/intro-01.png" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -566,7 +566,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-09/src/temp/anim/Button-off.png" />
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/intro-01.png" />
     <ellipse
        style="display:inline;opacity:1;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4192"
@@ -576,11 +576,11 @@
        ry="66.416771"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-09/src/temp/anim/Button-off.png" />
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/intro-01.png" />
     <image
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-09/src/temp/anim/Button-off.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/intro-01.png"
        width="1043.9462"
        height="1028.7891"
        preserveAspectRatio="none"
@@ -593,7 +593,10 @@
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5934"
        xml:space="preserve"
-       transform="translate(1561.4516,-663.03726)"><flowRegion
+       transform="translate(1561.4516,-663.03726)"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/intro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion5936"><rect
            y="612.36218"
            x="52.857143"
@@ -606,7 +609,10 @@
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5934-7"
        xml:space="preserve"
-       transform="translate(1375.2017,-741.78069)"><flowRegion
+       transform="translate(1375.2017,-741.78069)"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/intro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion5936-9"><rect
            y="612.36218"
            x="52.857143"
@@ -619,7 +625,10 @@
        transform="translate(1524.9748,-193.9658)"
        xml:space="preserve"
        id="flowRoot5934-2"
-       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/intro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion5936-3"><rect
            id="rect5938-7"
            width="258.57144"
@@ -632,7 +641,10 @@
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5934-7-1"
        xml:space="preserve"
-       transform="translate(1060.1891,265.81993)"><flowRegion
+       transform="translate(1060.1891,265.81993)"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/intro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion5936-9-9"><rect
            y="612.36218"
            x="52.857143"
@@ -645,7 +657,10 @@
        transform="translate(1527.832,-110.39437)"
        xml:space="preserve"
        id="flowRoot5934-8"
-       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/intro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion5936-8"><rect
            id="rect5938-4"
            width="258.57144"
@@ -658,7 +673,10 @@
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5934-0-0"
        xml:space="preserve"
-       transform="translate(1806.3677,-648.92353)"><flowRegion
+       transform="translate(1806.3677,-648.92353)"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/intro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion5936-6-6"><rect
            y="612.36218"
            x="52.857143"
@@ -671,7 +689,10 @@
        transform="translate(1341.582,-189.1378)"
        xml:space="preserve"
        id="flowRoot5934-7-7"
-       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/intro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion5936-9-1"><rect
            id="rect5938-2-7"
            width="258.57144"
@@ -688,7 +709,7 @@
        sodipodi:nodetypes="ccccccccc"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-09/src/temp/anim/Button-off.png" />
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/intro-01.png" />
     <rect
        style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4962"
@@ -699,7 +720,7 @@
        ry="0.31568068"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-09/src/temp/anim/Button-off.png" />
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/intro-01.png" />
     <path
        style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1149.802,469.36398 h 301.2158"
@@ -707,7 +728,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-09/src/temp/anim/Button-off.png" />
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/intro-01.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -716,7 +737,7 @@
        id="text5131"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-09/src/temp/anim/Button-off.png"><tspan
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/intro-01.png"><tspan
          sodipodi:role="line"
          id="tspan5133"
          x="240.341"
@@ -730,7 +751,7 @@
        id="text5131-6"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-09/src/temp/anim/Button-off.png"><tspan
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/intro-01.png"><tspan
          sodipodi:role="line"
          id="tspan5133-1"
          x="245.7601"
@@ -743,7 +764,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-09/src/temp/anim/Button-off.png" />
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/intro-01.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -752,7 +773,7 @@
        id="text5131-6-3"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-09/src/temp/anim/Button-off.png"><tspan
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/intro-01.png"><tspan
          sodipodi:role="line"
          id="tspan5133-1-6"
          x="1460.4181"
@@ -765,7 +786,10 @@
          id="tspan1166">Pulsador</tspan></text>
     <g
        id="g1196"
-       transform="translate(1397.3958,-1247.6016)">
+       transform="translate(1397.3958,-1247.6016)"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/intro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          style="fill:#cccccc;stroke-width:4.6875"
          id="rect1191"
@@ -796,7 +820,7 @@
        id="text5131-6-5"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-09/src/temp/anim/Button-off.png"><tspan
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/intro-01.png"><tspan
          sodipodi:role="line"
          id="tspan5133-1-62"
          x="354.23138"
@@ -818,11 +842,11 @@
        ry="59.689205"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-09/src/temp/anim/Button-off.png" />
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/intro-01.png" />
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-09/src/temp/anim/Button-off.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/intro-01.png"
        inkscape:connector-curvature="0"
        style="fill:#008000;fill-rule:evenodd"
        id="path4"
@@ -830,7 +854,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-09/src/temp/anim/Button-off.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/intro-01.png"
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#008000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="path6"
@@ -844,7 +868,7 @@
        ry="60.977467"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-09/src/temp/anim/Button-off.png" />
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/intro-01.png" />
     <image
        y="0.67830712"
        x="339.31763"
@@ -856,7 +880,7 @@
        width="383.50259"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-09/src/temp/anim/Button-off.png" />
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/intro-01.png" />
   </g>
   <g
      inkscape:groupmode="layer"
