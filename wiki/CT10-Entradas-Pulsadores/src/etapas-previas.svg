@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="692.65106mm"
+   height="332.20544mm"
+   viewBox="0 0 692.65106 332.20544"
    version="1.1"
    id="svg3093"
    inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
@@ -20,29 +20,29 @@
     <marker
        style="overflow:visible"
        id="marker6975"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow2Mstart"
        inkscape:isstock="true">
       <path
-         transform="scale(0.6) translate(0,0)"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path6973" />
     </marker>
     <marker
        style="overflow:visible"
        id="marker6621"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow2Mstart"
        inkscape:isstock="true">
       <path
-         transform="scale(0.6) translate(0,0)"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path6619" />
     </marker>
     <marker
@@ -61,24 +61,24 @@
          inkscape:connector-curvature="0" />
     </marker>
     <rect
-       x="-68.40051"
+       x="-68.400513"
        y="-36.377285"
-       width="47.188895"
+       width="47.188896"
        height="11.785552"
        id="rect5770" />
     <marker
        style="overflow:visible"
        id="Arrow2Mstart"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow2Mstart"
        inkscape:isstock="true"
        inkscape:collect="always">
       <path
-         transform="scale(0.6) translate(0,0)"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path5423" />
     </marker>
     <marker
@@ -155,6 +155,36 @@
          transform="scale(-0.6)"
          inkscape:connector-curvature="0" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-92-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4180-0-6"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-92-3-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4180-0-6-3"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -163,50 +193,25 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="500.59181"
-     inkscape:cy="359.60625"
+     inkscape:zoom="0.35599868"
+     inkscape:cx="1193.3371"
+     inkscape:cy="714.7403"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1860"
+     inkscape:window-width="1858"
      inkscape:window-height="1016"
-     inkscape:window-x="60"
+     inkscape:window-x="62"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      showguides="true"
-     inkscape:guide-bbox="true">
-    <sodipodi:guide
-       position="15.501632,298.06909"
-       orientation="1,0"
-       id="guide6567" />
-    <sodipodi:guide
-       position="-170.51795,376.64633"
-       orientation="1,0"
-       id="guide6569" />
-    <sodipodi:guide
-       position="112.6369,197.97024"
-       orientation="1,0"
-       id="guide7053" />
-    <sodipodi:guide
-       position="-77.863093,248.61905"
-       orientation="1,0"
-       id="guide7232" />
-    <sodipodi:guide
-       position="191.86144,275.90767"
-       orientation="1,0"
-       id="guide7255" />
-    <sodipodi:guide
-       position="286.52782,362.97821"
-       orientation="1,0"
-       id="guide7319" />
-    <sodipodi:guide
-       position="358.40968,378.14663"
-       orientation="1,0"
-       id="guide7342" />
-  </sodipodi:namedview>
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata3090">
     <rdf:RDF>
@@ -215,33 +220,133 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="back"
+     transform="translate(179.07002,79.503319)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:1.471;stroke-linecap:round"
+       id="rect1622"
+       width="692.65106"
+       height="332.20544"
+       x="-179.07002"
+       y="-79.503319"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     sodipodi:insensitive="true">
+     transform="translate(179.07002,79.503319)"
+     style="display:inline">
     <rect
-       style="fill:#f2f2f2;stroke-width:0.793999"
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.843712;stroke-opacity:1"
        id="rect2978"
-       width="600.60187"
-       height="365.89246"
-       x="-180.86046"
-       y="-50.65456" />
+       width="489.86243"
+       height="297.93185"
+       x="15.501629"
+       y="-55.034828"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.84371;stroke-opacity:1"
+       id="rect1734"
+       width="186.01958"
+       height="297.93185"
+       x="-170.51796"
+       y="-55.034828"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.843714;stroke-opacity:1"
+       id="rect1736"
+       width="489.86246"
+       height="16.157652"
+       x="15.501623"
+       y="-71.192482"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.843716;stroke-opacity:1"
+       id="rect1764"
+       width="186.01958"
+       height="16.157652"
+       x="-170.51796"
+       y="-71.192482"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.38125, 2.38125;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 103.09467,-55.034827 V 242.89703"
+       id="path1770"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.38125, 2.38125;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 191.86144,-55.034827 V 242.89703"
+       id="path1772"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.38125, 2.38125;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 286.52782,-55.034827 V 242.89703"
+       id="path1778"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.38125, 2.38125;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 286.52782,-55.034827 V 242.89703"
+       id="path1780"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.38125, 2.38125;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 381.35009,-55.034827 V 242.89703"
+       id="path1782"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.38125, 2.38125;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -77.863101,-55.034827 V 242.89703"
+       id="path1796"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -170.51796,-18.5455 H 505.36407"
+       id="path1800"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Layer 2">
+     inkscape:label="Layer 2"
+     transform="translate(179.07002,79.503319)">
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -141.04778,194.83474 v 13.9991 H -158.465"
        id="path4586-0"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:nodetypes="cc" />
@@ -250,19 +355,22 @@
        d="m -107.97021,194.83474 v 14.98444 h 17.353258"
        id="path4586-5-9"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-156.67552"
-       y="-25.897659"
-       id="text835"><tspan
+       x="-152.91809"
+       y="-40.73793"
+       id="text835"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="-156.67552"
-         y="-25.897659"
+         x="-152.91809"
+         y="-40.73793"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
          id="tspan2927">Etapa física (0)</tspan></text>
     <text
@@ -270,7 +378,10 @@
        style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-59.8825"
        y="-3.0975149"
-       id="text835-3"><tspan
+       id="text835-3"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan833-6"
          x="-59.8825"
@@ -281,7 +392,10 @@
        style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-143.08383"
        y="-0.24281728"
-       id="text835-7"><tspan
+       id="text835-7"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan833-5"
          x="-143.08383"
@@ -292,7 +406,10 @@
        style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-144.10841"
        y="131.19786"
-       id="text835-7-3"><tspan
+       id="text835-7-3"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan833-5-5"
          x="-144.10841"
@@ -305,7 +422,10 @@
        y="106.8323"
        id="text835-7-6-0-3"
        inkscape:transform-center-x="16.474636"
-       inkscape:transform-center-y="1.5315389"><tspan
+       inkscape:transform-center-y="1.5315389"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan833-5-2-9-6"
          x="-56.002632"
@@ -314,34 +434,43 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-83.233826"
-       y="-68.834602"
-       id="text835-3-2"><tspan
+       x="-76.740685"
+       y="-60.268436"
+       id="text835-3-2"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="-83.233826"
-         y="-68.834602"
-         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="-76.740685"
+         y="-60.268436"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
          id="tspan1035">Exterior FPGA</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="381.76691"
-       y="35.991074"
-       id="text835-3-2-1-2-5"><tspan
+       x="434.69565"
+       y="27.388548"
+       id="text835-3-2-1-2-5"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="381.76691"
-         y="35.991074"
-         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
-         id="tspan1035-7-7-9">Sseñal de</tspan><tspan
+         x="434.69565"
+         y="27.388548"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan1035-7-7-9">Señal de</tspan><tspan
          sodipodi:role="line"
-         x="381.76691"
-         y="44.543198"
-         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="434.69565"
+         y="35.940674"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
          id="tspan7383">estado</tspan></text>
     <g
        transform="matrix(0.11844544,0,0,0.11844544,-176.6506,-10.204126)"
        style="display:inline"
-       id="g4587-4">
+       id="g4587-4"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          inkscape:connector-curvature="0"
          id="path4239-5"
@@ -519,7 +648,7 @@
        preserveAspectRatio="none"
        height="24.489746"
        width="39.881664"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/src/anim-2/anim-6.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -528,7 +657,7 @@
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
        sodipodi:nodetypes="cccccccccc"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -542,7 +671,7 @@
        sodipodi:start="0.030759476"
        sodipodi:end="0.024128479"
        sodipodi:open="true"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:arc-type="arc"
@@ -558,7 +687,7 @@
        sodipodi:start="0.030759508"
        sodipodi:end="0.024128479"
        sodipodi:open="true"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:arc-type="arc"
@@ -574,14 +703,17 @@
        sodipodi:start="0.030759508"
        sodipodi:end="0.024128479"
        sodipodi:open="true"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:arc-type="arc"
        d="m -114.74849,55.629035 a 3.5358782,3.539731 0 0 1 -3.63709,3.429369 3.5358782,3.539731 0 0 1 -3.43166,-3.635364 3.5358782,3.539731 0 0 1 3.62571,-3.441422 3.5358782,3.539731 0 0 1 3.44369,3.623954" />
     <g
        id="g8992"
-       transform="translate(-287.33567,-103.0242)">
+       transform="translate(-287.33567,-103.0242)"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.282222;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4335"
@@ -604,20 +736,20 @@
          inkscape:export-ydpi="90" />
     </g>
     <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.52916667;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -138.4467,55.16912 h -13.65025"
        id="path4586"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.52916667;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -99.10837,55.16912 h -15.35168"
        id="path4586-5"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:nodetypes="cc" />
@@ -632,7 +764,7 @@
        sodipodi:start="0.030759476"
        sodipodi:end="0.024128479"
        sodipodi:open="true"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:arc-type="arc"
@@ -642,7 +774,10 @@
        style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-142.13193"
        y="84.845352"
-       id="text835-7-36"><tspan
+       id="text835-7-36"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan833-5-7"
          x="-142.13193"
@@ -652,21 +787,24 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-40.94809"
-       y="-35.878933"
-       id="text835-5"><tspan
+       y="-41.082642"
+       id="text835-5"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="-40.94809"
-         y="-35.878933"
+         y="-41.082642"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
          id="tspan2927-3">Etapa 1</tspan><tspan
          sodipodi:role="line"
          x="-40.94809"
-         y="-27.326807"
+         y="-32.530518"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
          id="tspan2973">Procesamiento</tspan><tspan
          sodipodi:role="line"
          x="-40.94809"
-         y="-18.774683"
+         y="-23.978392"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
          id="tspan5385"> externo</tspan></text>
     <image
@@ -678,7 +816,7 @@
        preserveAspectRatio="none"
        height="18.793854"
        width="36.86739"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-13/Introduccion-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -692,14 +830,17 @@
        sodipodi:start="0.030759508"
        sodipodi:end="0.024128479"
        sodipodi:open="true"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:arc-type="arc"
        d="m -137.51358,194.94361 a 3.5358782,3.5397313 0 0 1 -3.6371,3.42937 3.5358782,3.5397313 0 0 1 -3.43166,-3.63536 3.5358782,3.5397313 0 0 1 3.62572,-3.44143 3.5358782,3.5397313 0 0 1 3.44368,3.62396" />
     <g
        id="g8992-1"
-       transform="translate(-293.56197,38.786425)">
+       transform="translate(-293.56197,38.786425)"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.282222;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4335-2"
@@ -732,7 +873,7 @@
        sodipodi:start="0.030759508"
        sodipodi:end="0.024128479"
        sodipodi:open="true"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:arc-type="arc"
@@ -742,7 +883,7 @@
        d="M -124.50899,194.83474 V 228.5958"
        id="path4586-5-9-0"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:nodetypes="cc" />
@@ -757,7 +898,7 @@
        sodipodi:start="0.030759508"
        sodipodi:end="0.024128479"
        sodipodi:open="true"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:arc-type="arc"
@@ -765,88 +906,139 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart);marker-end:url(#marker4441)"
        d="m -132.14136,178.16372 h 22.43881"
-       id="path3079" />
+       id="path3079"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        id="text5768"
-       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect5770);" />
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5770);fill:#000000;fill-opacity:1;stroke:none;" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart-6);marker-end:url(#marker4441-6)"
        d="M -107.69651,49.822588 V 38.758522"
-       id="path3079-8" />
+       id="path3079-8"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.793749;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -54.80655,69.585879 h 19.577141"
-       id="path6029" />
+       id="path6029"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -54.787194,69.585879 -55.948651,73.3927"
        id="path6033"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -53.182601,69.585879 -54.344058,73.3927"
        id="path6033-9"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -51.524226,69.585879 -52.685683,73.3927"
        id="path6033-9-2"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -49.562735,69.585879 -50.724192,73.3927"
        id="path6033-9-2-0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -47.66171,69.585879 -48.823167,73.3927"
        id="path6033-9-2-0-2"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -45.748115,69.585879 -46.909572,73.3927"
        id="path6033-3"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -44.143522,69.585879 -45.304979,73.3927"
        id="path6033-9-7"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -42.485147,69.585879 -43.646604,73.3927"
        id="path6033-9-2-5"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -40.523656,69.585879 -41.685112,73.3927"
        id="path6033-9-2-0-9"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -38.622631,69.585879 -39.784088,73.3927"
        id="path6033-9-2-0-2-2"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -36.903853,69.585879 -38.06531,73.3927"
        id="path6033-2"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -35.29926,69.585879 -36.460717,73.3927"
        id="path6033-9-8"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -44.941927,69.191404 V 57.040925 h 11.069617"
        id="path6179"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g8992-19"
        transform="matrix(0.56855533,0,0,0.55558242,-120.11497,-30.143864)"
-       style="stroke-width:1.77926">
+       style="stroke-width:1.77926"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.502146;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4335-4"
@@ -872,7 +1064,10 @@
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -3.1145989,57.040925 H -23.105707"
        id="path6179-5"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.282223;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path5072-9-3-6-5-0"
@@ -884,7 +1079,7 @@
        sodipodi:start="0.030759476"
        sodipodi:end="0.024128479"
        sodipodi:open="true"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:arc-type="arc"
@@ -900,7 +1095,7 @@
        sodipodi:start="0.030759476"
        sodipodi:end="0.024128479"
        sodipodi:open="true"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:arc-type="arc"
@@ -916,7 +1111,7 @@
        sodipodi:start="0.030759476"
        sodipodi:end="0.024128479"
        sodipodi:open="true"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:arc-type="arc"
@@ -932,7 +1127,7 @@
        sodipodi:start="0.030759476"
        sodipodi:end="0.024128479"
        sodipodi:open="true"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:arc-type="arc"
@@ -942,9 +1137,9 @@
        style="display:inline;fill:#eeaaff;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -4.0333409,53.518527 h 6.712612 l 4.0677535,3.585396 -4.0677535,3.585346 h -6.712612 z"
        sodipodi:nodetypes="cccccc"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-computer-2.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -952,7 +1147,10 @@
        y="59.189777"
        id="text835-7-6-0-0"
        inkscape:transform-center-x="16.474636"
-       inkscape:transform-center-y="1.5315389"><tspan
+       inkscape:transform-center-y="1.5315389"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan833-5-2-9-63"
          x="-2.9833753"
@@ -965,7 +1163,10 @@
        y="23.524202"
        id="text835-7-6-0-2"
        inkscape:transform-center-x="16.474636"
-       inkscape:transform-center-y="1.5315389"><tspan
+       inkscape:transform-center-y="1.5315389"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan833-5-2-9-0"
          x="-21.080957"
@@ -978,7 +1179,10 @@
        y="47.026382"
        id="text835-7-6-0-2-6"
        inkscape:transform-center-x="16.474636"
-       inkscape:transform-center-y="1.5315389"><tspan
+       inkscape:transform-center-y="1.5315389"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan833-5-2-9-0-1"
          x="-7.2253904"
@@ -991,7 +1195,10 @@
        y="64.472977"
        id="text835-7-6-0-2-5"
        inkscape:transform-center-x="16.474636"
-       inkscape:transform-center-y="1.5315389"><tspan
+       inkscape:transform-center-y="1.5315389"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan833-5-2-9-0-5"
          x="-66.141335"
@@ -1004,7 +1211,10 @@
        y="33.910423"
        id="text835-7-6-0-3-4"
        inkscape:transform-center-x="16.474636"
-       inkscape:transform-center-y="1.5315389"><tspan
+       inkscape:transform-center-y="1.5315389"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan833-5-2-9-6-7"
          x="-55.511707"
@@ -1016,82 +1226,127 @@
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
        sodipodi:nodetypes="cccccccccc"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -27.265634,161.67214 H -7.6884919"
-       id="path6029-5" />
+       id="path6029-5"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -27.246278,161.67214 -1.161457,3.80682"
        id="path6033-6"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -25.641685,161.67214 -1.161457,3.80682"
        id="path6033-9-9"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -23.98331,161.67214 -1.161457,3.80682"
        id="path6033-9-2-3"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -22.021819,161.67214 -1.161457,3.80682"
        id="path6033-9-2-0-7"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -20.120794,161.67214 -1.161457,3.80682"
        id="path6033-9-2-0-2-4"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -18.207199,161.67214 -1.161457,3.80682"
        id="path6033-3-5"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -16.602606,161.67214 -1.161457,3.80682"
        id="path6033-9-7-2"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -14.944231,161.67214 -1.161457,3.80682"
        id="path6033-9-2-5-5"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -12.98274,161.67214 -1.161456,3.80682"
        id="path6033-9-2-0-9-4"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -11.081715,161.67214 -1.161457,3.80682"
        id="path6033-9-2-0-2-2-7"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -9.3629359,161.67214 -1.1614581,3.80682"
        id="path6033-2-4"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -7.7583439,161.67214 -1.161458,3.80682"
        id="path6033-9-8-4"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -51.619735,124.13342 v 12.15048 h 11.069618"
        id="path6179-3"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g8992-19-0"
        transform="matrix(0.56855532,0,0,0.55558243,-125.29145,49.072507)"
-       style="stroke-width:1.77926">
+       style="stroke-width:1.77926"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.502146;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4335-4-7"
@@ -1117,7 +1372,10 @@
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -8.2910778,136.2573 H -28.282187"
        id="path6179-5-6"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.282223;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path5072-9-3-6-5-0-8"
@@ -1129,7 +1387,7 @@
        sodipodi:start="0.030759476"
        sodipodi:end="0.024128479"
        sodipodi:open="true"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:arc-type="arc"
@@ -1145,7 +1403,7 @@
        sodipodi:start="0.030759476"
        sodipodi:end="0.024128479"
        sodipodi:open="true"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:arc-type="arc"
@@ -1161,7 +1419,7 @@
        sodipodi:start="0.030759476"
        sodipodi:end="0.024128479"
        sodipodi:open="true"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:arc-type="arc"
@@ -1177,7 +1435,7 @@
        sodipodi:start="0.030759476"
        sodipodi:end="0.024128479"
        sodipodi:open="true"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:arc-type="arc"
@@ -1187,9 +1445,9 @@
        style="display:inline;fill:#eeaaff;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -9.2098188,132.7349 h 6.712611 l 4.067755,3.58539 -4.067755,3.58535 h -6.712611 z"
        sodipodi:nodetypes="cccccc"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-computer-2.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1197,7 +1455,10 @@
        y="138.40616"
        id="text835-7-6-0-0-4"
        inkscape:transform-center-x="16.474636"
-       inkscape:transform-center-y="1.5315389"><tspan
+       inkscape:transform-center-y="1.5315389"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan833-5-2-9-63-9"
          x="-8.1598558"
@@ -1210,7 +1471,10 @@
        y="120.22259"
        id="text835-7-6-0-2-2"
        inkscape:transform-center-x="16.474636"
-       inkscape:transform-center-y="1.5315389"><tspan
+       inkscape:transform-center-y="1.5315389"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan833-5-2-9-0-0"
          x="-59.154266"
@@ -1223,7 +1487,10 @@
        y="152.7588"
        id="text835-7-6-0-2-6-6"
        inkscape:transform-center-x="16.474636"
-       inkscape:transform-center-y="1.5315389"><tspan
+       inkscape:transform-center-y="1.5315389"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan833-5-2-9-0-1-8"
          x="-13.885985"
@@ -1236,7 +1503,10 @@
        y="157.79837"
        id="text835-7-6-0-2-5-9"
        inkscape:transform-center-x="16.474636"
-       inkscape:transform-center-y="1.5315389"><tspan
+       inkscape:transform-center-y="1.5315389"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan833-5-2-9-0-5-2"
          x="-41.897144"
@@ -1249,7 +1519,10 @@
        y="197.97289"
        id="text835-7-6-0-3-49"
        inkscape:transform-center-x="16.474636"
-       inkscape:transform-center-y="1.5315389"><tspan
+       inkscape:transform-center-y="1.5315389"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan833-5-2-9-6-5"
          x="-56.002632"
@@ -1259,15 +1532,18 @@
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -53.932844,207.84935 H -6.7523566"
        id="path6179-3-0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        id="rect8602-3-1-4"
        style="display:inline;fill:#eeaaff;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -9.2098187,204.25164 h 6.7126111 l 4.0677554,3.58539 -4.0677554,3.58535 h -6.7126111 z"
        sodipodi:nodetypes="cccccc"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-computer-2.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1275,30 +1551,32 @@
        y="209.9229"
        id="text835-7-6-0-0-4-8"
        inkscape:transform-center-x="16.474636"
-       inkscape:transform-center-y="1.5315389"><tspan
+       inkscape:transform-center-y="1.5315389"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan833-5-2-9-63-9-7"
          x="-8.1598558"
          y="209.9229"
          style="stroke-width:0.264583">In</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker6621);marker-end:url(#marker6575)"
-       d="M -170.51795,-60.270305 H 15.501632"
-       id="path6571" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="59.545628"
-       y="-36.521332"
-       id="text835-5-1"><tspan
+       y="-41.028442"
+       id="text835-5-1"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="59.545628"
-         y="-36.521332"
+         y="-41.028442"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
          id="tspan2927-3-7">Etapa 2</tspan><tspan
          sodipodi:role="line"
          x="59.545628"
-         y="-27.969206"
+         y="-32.476318"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
          id="tspan5385-7">Pull-up interno</tspan></text>
     <text
@@ -1306,7 +1584,10 @@
        style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="40.079536"
        y="-3.0975149"
-       id="text835-3-22"><tspan
+       id="text835-3-22"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan833-6-6"
          x="40.079536"
@@ -1315,13 +1596,16 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="78.882462"
-       y="-68.834602"
-       id="text835-3-2-10"><tspan
+       x="238.51154"
+       y="-59.556904"
+       id="text835-3-2-10"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="78.882462"
-         y="-68.834602"
-         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="238.51154"
+         y="-59.556904"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
          id="tspan1035-6">Interior FPGA</tspan></text>
     <rect
        style="fill:#ffd42a;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
@@ -1329,7 +1613,10 @@
        width="21.415754"
        height="18.721281"
        x="31.215178"
-       y="74.473343" />
+       y="74.473343"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1337,7 +1624,10 @@
        y="81.599159"
        id="text835-7-6-0-0-1"
        inkscape:transform-center-x="16.474636"
-       inkscape:transform-center-y="1.5315389"><tspan
+       inkscape:transform-center-y="1.5315389"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan833-5-2-9-63-5"
          x="40.960335"
@@ -1354,7 +1644,7 @@
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;marker-start:url(#marker6975)"
        sodipodi:nodetypes="cccccccccc"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -1368,7 +1658,7 @@
        sodipodi:start="0.030759476"
        sodipodi:end="0.024128479"
        sodipodi:open="true"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:arc-type="arc"
@@ -1377,14 +1667,20 @@
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 83.93872,82.843076 H 52.584126"
        id="path6179-5-5"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.793749;stroke-dashoffset:0"
        id="rect7003"
        width="18.083832"
        height="39.642811"
        x="55.446827"
-       y="47.651154" />
+       y="47.651154"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1392,46 +1688,51 @@
        y="31.353104"
        id="text835-7-6-0-3-4-9"
        inkscape:transform-center-x="16.474636"
-       inkscape:transform-center-y="1.5315389"><tspan
+       inkscape:transform-center-y="1.5315389"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan833-5-2-9-6-7-7"
          x="49.251938"
          y="31.353104"
          style="fill:#008000;stroke-width:0.264583">Pull-up</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker6621-7);marker-end:url(#marker6575-7)"
-       d="M 18.192661,-60.270306 H 204.21225"
-       id="path6571-6" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="149.30544"
-       y="-36.521332"
-       id="text835-5-1-5"><tspan
+       y="-41.213211"
+       id="text835-5-1-5"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="149.30544"
-         y="-36.521332"
+         y="-41.213211"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
          id="tspan2927-3-7-6">Etapa 3</tspan><tspan
          sodipodi:role="line"
          x="149.30544"
-         y="-27.969206"
+         y="-32.661087"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
          id="tspan5385-7-3">Sincronismo</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="231.47073"
-       y="-36.521332"
-       id="text835-5-1-5-1"><tspan
+       y="-41.287193"
+       id="text835-5-1-5-1"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="231.47073"
-         y="-36.521332"
+         y="-41.287193"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
          id="tspan2927-3-7-6-2">Etapa 4</tspan><tspan
          sodipodi:role="line"
          x="231.47073"
-         y="-27.969206"
+         y="-32.735069"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
          id="tspan5385-7-3-9">Lógica positiva</tspan></text>
     <text
@@ -1439,7 +1740,10 @@
        style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="219.2738"
        y="-3.0975149"
-       id="text835-3-22-3"><tspan
+       id="text835-3-22-3"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan833-6-6-9"
          x="219.2738"
@@ -1448,63 +1752,81 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="313.96066"
-       y="-36.521332"
-       id="text835-5-1-5-1-0"><tspan
+       x="330.81985"
+       y="-41.389523"
+       id="text835-5-1-5-1-0"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="313.96066"
-         y="-36.521332"
+         x="330.81985"
+         y="-41.389523"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
          id="tspan2927-3-7-6-2-8">Etapa 5</tspan><tspan
          sodipodi:role="line"
-         x="313.96066"
-         y="-27.969206"
+         x="330.81985"
+         y="-32.837399"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
          id="tspan5385-7-3-9-8">Antirrebotes</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="297.53452"
-       y="-3.0975149"
-       id="text835-3-22-3-5"><tspan
+       x="312.57626"
+       y="-3.6320539"
+       id="text835-3-22-3-5"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan833-6-6-9-0"
-         x="297.53452"
-         y="-3.0975149"
+         x="312.57626"
+         y="-3.6320539"
          style="stroke-width:0.264583">(Opcional)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="380.52905"
-       y="-36.521332"
-       id="text835-5-1-5-1-0-9"><tspan
+       x="438.2197"
+       y="-41.485535"
+       id="text835-5-1-5-1-0-9"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="380.52905"
-         y="-36.521332"
+         x="438.2197"
+         y="-41.485535"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
          id="tspan2927-3-7-6-2-8-6">Etapa 6</tspan><tspan
          sodipodi:role="line"
-         x="380.52905"
-         y="-27.969206"
+         x="438.2197"
+         y="-32.933411"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
          id="tspan5385-7-3-9-8-3">Lógica</tspan></text>
     <rect
        rx="2.2703352"
        ry="2.2703352"
-       y="114.72958"
+       y="125.22327"
        x="40.188675"
        height="29.85038"
        width="45.055511"
        id="rect861"
-       style="display:inline;fill:#e3e3e3;fill-opacity:1;stroke:#777777;stroke-width:0.265716;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="display:inline;fill:#e3e3e3;fill-opacity:1;stroke:#777777;stroke-width:0.265716;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        inkscape:connector-curvature="0"
        id="path865-2-1-2"
-       d="M 40.076378,129.78511 H 36.208759"
-       style="display:inline;fill:none;stroke:#777777;stroke-width:0.797147;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       d="M 40.076378,140.27879 H 36.208759"
+       style="display:inline;fill:none;stroke:#777777;stroke-width:0.797147;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g279"
-       transform="matrix(0.58723038,0,0,0.58723038,199.67437,-117.32724)">
+       transform="matrix(0.58723038,0,0,0.58723038,199.67437,-106.83356)"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          class="st0"
          d="m -242.5,411.8 v 11.8 h -5.4 v -11.8 h 5.4 m 1,-1 h -7.4 v 13.8 h 7.4 z"
@@ -1516,18 +1838,24 @@
     <path
        inkscape:connector-curvature="0"
        id="path1104"
-       d="M 89.085089,129.78511 H 85.217471"
-       style="display:inline;fill:none;stroke:#777777;stroke-width:0.797147;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       d="M 89.085089,140.27879 H 85.217471"
+       style="display:inline;fill:none;stroke:#777777;stroke-width:0.797147;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.04576px;line-height:1.25;font-family:sans-serif;fill:#767675;fill-opacity:1;stroke:none;stroke-width:0.132858"
-       x="-112.82047"
+       x="-123.31416"
        y="59.695789"
        id="text1108"
-       transform="rotate(-90)"><tspan
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan1106"
-         x="-112.82047"
+         x="-123.31416"
          y="59.695789"
          style="fill:#767675;fill-opacity:1;stroke-width:0.132858">on</tspan></text>
     <text
@@ -1537,7 +1865,10 @@
        y="31.353104"
        id="text1185"
        inkscape:transform-center-x="16.474636"
-       inkscape:transform-center-y="1.5315389"><tspan
+       inkscape:transform-center-y="1.5315389"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan1183"
          x="141.04391"
@@ -1549,17 +1880,26 @@
        width="19.704224"
        height="22.561081"
        x="124.55192"
-       y="57.9669" />
+       y="57.9669"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.322544px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 124.66933,60.810039 3.84927,2.222378 -4.08287,2.357244"
-       id="path1191" />
+       id="path1191"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.76472px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.261606"
        x="127.72469"
        y="71.318214"
-       id="text1195"><tspan
+       id="text1195"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan1193"
          x="127.72469"
@@ -1569,24 +1909,36 @@
        style="fill:none;stroke:#000000;stroke-width:0.64509;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 124.55191,70.034426 h -8.94416"
        id="path1197"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.64509;stroke-linecap:round"
        id="rect1201"
        width="19.704224"
        height="22.561081"
        x="153.2003"
-       y="57.9669" />
+       y="57.9669"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.322544px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 153.3177,60.810039 3.84928,2.222378 -4.08288,2.357244"
-       id="path1203" />
+       id="path1203"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.76472px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.261606"
        x="156.37306"
        y="71.318214"
-       id="text1207"><tspan
+       id="text1207"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan1205"
          x="156.37306"
@@ -1596,58 +1948,88 @@
        style="fill:none;stroke:#000000;stroke-width:0.64509;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 153.20028,70.034426 h -8.94415"
        id="path1209"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.64509;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 181.84867,70.034426 h -8.94416"
        id="path1211"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.64509;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 124.55191,63.108261 H 119.3781 V 56.322628"
        id="path1215"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.64509;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 153.1493,63.108261 h -5.1738 v -6.785633"
        id="path1217"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        rx="2.2703352"
        ry="2.2703352"
-       y="114.72958"
+       y="125.22327"
        x="133.84109"
        height="29.850384"
        width="45.055515"
        id="rect861-6"
-       style="display:inline;opacity:1;fill:#e3e3e3;fill-opacity:1;stroke:#777777;stroke-width:0.264229;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="display:inline;opacity:1;fill:#e3e3e3;fill-opacity:1;stroke:#777777;stroke-width:0.264229;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        inkscape:connector-curvature="0"
        id="path865"
-       d="m 130.33034,136.8579 h 3.57306"
-       style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:0.752561;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       d="m 130.33034,147.35158 h 3.57306"
+       style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:0.752561;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        inkscape:connector-curvature="0"
        id="path865-3"
-       d="m 123.2298,122.11555 h 10.75365"
-       style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:0.770866;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       d="m 123.2298,132.60923 h 10.75365"
+       style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:0.770866;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="display:inline;opacity:1;fill:#fbfbc9;fill-opacity:1;stroke:#777777;stroke-width:0.396343;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect948"
        width="7.537077"
        height="7.8354597"
        x="115.67499"
-       y="118.36327"
-       ry="1.8518096" />
+       y="128.85696"
+       ry="1.8518096"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#58595a;stroke-width:0.452866;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 133.81317,118.29911 4.37859,3.51844 -4.37859,3.70361"
+       d="m 133.81317,128.79279 4.37859,3.51844 -4.37859,3.70361"
        id="path866"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g225"
-       transform="matrix(0.10520181,0,0,0.10520181,144.78928,118.48601)"
-       style="display:inline">
+       transform="matrix(0.10520181,0,0,0.10520181,144.78928,128.97969)"
+       style="display:inline"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <circle
          style="fill:#4d4d4d;fill-opacity:1;stroke-width:1"
          cx="107.22564"
@@ -1663,15 +2045,21 @@
     <path
        inkscape:connector-curvature="0"
        id="path1050"
-       d="m 178.85743,129.49186 h 3.40272"
-       style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:0.7344;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       d="m 178.85743,139.98554 h 3.40272"
+       style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:0.7344;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:70.0307;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="128.02614"
        y="194.66757"
        id="text1247"
-       transform="translate(-103.80365,-23.447674)"><tspan
+       transform="translate(-103.80365,-8.7125085)"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          x="128.02614"
          y="194.66757"><tspan
            style="stroke-width:0.264583">Por la entrada </tspan></tspan><tspan
@@ -1688,7 +2076,10 @@
        x="128.02614"
        y="194.66757"
        id="text1251"
-       transform="translate(-12.506343,-24.1627)"><tspan
+       transform="translate(-18.626449,-8.3191427)"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          x="128.02614"
          y="194.66757"><tspan
            style="stroke-width:0.264583">Evitar el problema de </tspan></tspan><tspan
@@ -1702,7 +2093,10 @@
        x="128.02614"
        y="194.66757"
        id="text1255"
-       transform="translate(68.363582,-23.356824)"><tspan
+       transform="translate(68.363582,-8.6216585)"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          x="128.02614"
          y="194.66757"><tspan
            style="stroke-width:0.264583">Adaptar la señal para </tspan></tspan><tspan
@@ -1713,13 +2107,19 @@
     <path
        inkscape:connector-curvature="0"
        id="path1271"
-       d="m 61.455451,110.79694 v 3.86762"
-       style="display:inline;fill:none;stroke:#777777;stroke-width:0.797147;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       d="m 61.455451,121.29062 v 3.86762"
+       style="display:inline;fill:none;stroke:#777777;stroke-width:0.797147;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="layer3-5"
        inkscape:label="Layer 2"
        style="display:inline;opacity:1"
-       transform="matrix(0.5100778,0,0,0.5100778,189.38003,86.132881)">
+       transform="matrix(0.5100778,0,0,0.5100778,189.38003,96.626565)"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          rx="4.3411016"
          ry="4.4509597"
@@ -1838,7 +2238,10 @@
        y="31.353104"
        id="text1315"
        inkscape:transform-center-x="16.474636"
-       inkscape:transform-center-y="1.5315389"><tspan
+       inkscape:transform-center-y="1.5315389"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan1313"
          x="221.62802"
@@ -1846,7 +2249,10 @@
          style="fill:#008000;stroke-width:0.264583">Pos-logic</tspan></text>
     <g
        id="g1331"
-       transform="matrix(0.13002394,0,0,0.13002394,215.47621,54.416509)">
+       transform="matrix(0.13002394,0,0,0.13002394,215.47621,54.416509)"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          d="M 69.246033,3.9997089 231.10678,97.026509 69.246033,190.05824 Z"
          id="path4-9"
@@ -1890,6 +2296,269 @@
            y="111.73375"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.6751px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Not</tspan></text>
     </g>
+    <g
+       id="g1218"
+       transform="matrix(0.50972164,0,0,0.50972164,290.03539,125.0884)"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         inkscape:label="Layer 1"
+         id="layer1-6"
+         style="display:none"
+         transform="translate(-23.927866,-95.550007)">
+        <image
+           width="154.62654"
+           height="78.804161"
+           preserveAspectRatio="none"
+           xlink:href="data:image/png;base64,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 "
+           id="image843"
+           x="22.80999"
+           y="100.39897"
+           style="stroke-width:0.621133" />
+      </g>
+      <g
+         id="layer2"
+         inkscape:label="Layer 2"
+         style="display:inline;opacity:1"
+         transform="translate(-23.927866,-95.550007)">
+        <rect
+           rx="0"
+           ry="6.6493492"
+           y="95.81459"
+           x="60.156178"
+           height="58.56213"
+           width="87.346428"
+           id="rect861-7"
+           style="display:inline;opacity:1;fill:#e3e3e3;fill-opacity:1;stroke:#777777;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path865-5"
+           d="m 52.805471,139.84256 h 7.15569"
+           style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:1.50714;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path865-3-3"
+           d="m 38.585341,110.31833 h 21.53613"
+           style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:1.5438;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           style="display:inline;opacity:1;fill:#fbfbc9;fill-opacity:1;stroke:#777777;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect948-5"
+           width="15.094369"
+           height="15.691935"
+           x="24.324741"
+           y="103.10769"
+           ry="3.7085862" />
+        <path
+           style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#58595a;stroke-width:0.906947;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 60.342088,102.6752 8.76891,7.04631 -8.76891,7.41717"
+           id="path866-6"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g913"
+           transform="matrix(0.80811502,0,0,0.80811502,270.91134,-214.93467)"
+           style="opacity:1">
+          <path
+             d="m -251.547,436.672 h 22.802 v -30.353 h 5.862 v 30.353 h 5.259 v -30.353 h 3.447 v 30.353 h 2.984 v -30.353 h 3.506 v 30.523 h 6.406 V 405.77 h 38.868"
+             fill="none"
+             stroke="#000000"
+             stroke-width="1.4"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             id="path899" />
+          <path
+             d="m -232.57,403.877 26.946,32.391 m 0,-32.391 -26.946,32.391"
+             fill="none"
+             stroke="#ff0000"
+             stroke-width="3"
+             stroke-linecap="round"
+             id="path901" />
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           id="path919"
+           d="m 147.51035,125.0925 h 7.15569"
+           style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:1.50714;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:92.2739;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="128.02614"
+       y="194.66757"
+       id="text1236"
+       transform="translate(163.54243,-8.6216585)"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         x="128.02614"
+         y="194.66757"><tspan>Eliminar los </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">pulsos </tspan></tspan><tspan
+         x="128.02614"
+         y="203.2197"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">espúreos</tspan><tspan> generados por </tspan></tspan><tspan
+         x="128.02614"
+         y="211.77182"><tspan>los pulsadores mecánicos</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="311.81436"
+       y="31.353104"
+       id="text1242"
+       inkscape:transform-center-x="16.474636"
+       inkscape:transform-center-y="1.5315389"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1240"
+         x="311.81436"
+         y="31.353104"
+         style="fill:#008000;stroke-width:0.264583">Debouncer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="391.27591"
+       y="185.33456"
+       id="text1248"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="391.27591"
+         y="185.33456"
+         style="text-align:start;text-anchor:start;stroke-width:0.264583"
+         id="tspan1246">Señal lógica &quot;Pura&quot;, en </tspan><tspan
+         sodipodi:role="line"
+         x="391.27591"
+         y="193.88669"
+         style="text-align:start;text-anchor:start;stroke-width:0.264583"
+         id="tspan1252">lógica positiva, que indica</tspan><tspan
+         sodipodi:role="line"
+         x="391.27591"
+         y="202.43881"
+         style="text-align:start;text-anchor:start;stroke-width:0.264583"
+         id="tspan1254">el e<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan1615">stado del pulsador</tspan>:</tspan><tspan
+         sodipodi:role="line"
+         x="391.27591"
+         y="210.99094"
+         style="text-align:start;text-anchor:start;stroke-width:0.264583"
+         id="tspan1256"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan1619">0</tspan>: No pulsado</tspan><tspan
+         sodipodi:role="line"
+         x="391.27591"
+         y="219.54306"
+         style="text-align:start;text-anchor:start;stroke-width:0.264583"
+         id="tspan1258"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan1617">1</tspan>: Pulsado</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 387.50488,94.546171 h 25.03065 v -24.8944 h 49.4351 v 24.8944"
+       id="path694"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="display:inline;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 461.97063,94.546171 h 31.11683"
+       id="path4964"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.2938px;line-height:1.25;font-family:sans-serif;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264582"
+       x="392.50903"
+       y="88.751503"
+       id="text835-7-3-9"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="scale(1.0008254,0.99917529)"><tspan
+         sodipodi:role="line"
+         id="tspan833-5-6-1"
+         x="392.50903"
+         y="88.751503"
+         style="fill:#0000ff;stroke-width:0.264582">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.2938px;line-height:1.25;font-family:sans-serif;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264582"
+       x="432.51074"
+       y="88.568214"
+       id="text835-7-3-9-2"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="scale(1.0008254,0.99917529)"><tspan
+         sodipodi:role="line"
+         id="tspan833-5-6-1-7"
+         x="432.51074"
+         y="88.568214"
+         style="fill:#0000ff;stroke-width:0.264582">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.2938px;line-height:1.25;font-family:sans-serif;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264582"
+       x="474.14746"
+       y="88.535645"
+       id="text835-7-3-9-26"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="scale(1.0008254,0.99917529)"><tspan
+         sodipodi:role="line"
+         id="tspan833-5-6-1-1"
+         x="474.14746"
+         y="88.535645"
+         style="fill:#0000ff;stroke-width:0.264582">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="437.16125"
+       y="60.805866"
+       id="text1603"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="437.16125"
+         y="60.805866"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan1601">ON</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="478.38651"
+       y="60.805866"
+       id="text1609"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="478.38651"
+         y="60.805866"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan1607">OFF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="396.25998"
+       y="60.805866"
+       id="text1613"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapas-previas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="396.25998"
+         y="60.805866"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan1611">OFF</tspan></text>
   </g>
   <style
      id="style263">.st0{display:none}.st1{fill:none;stroke:#000;stroke-width:.75;stroke-linejoin:round;stroke-miterlimit:10}.st2{fill:#010002}</style>
