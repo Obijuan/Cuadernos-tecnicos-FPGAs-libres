@@ -118,8 +118,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D13",
-                "value": "64"
+                "name": "D0",
+                "value": "2"
               }
             ],
             "virtual": false,
