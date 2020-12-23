@@ -11,9 +11,9 @@
    version="1.2"
    x="0in"
    y="0in"
-   width="5.3741207in"
+   width="5.8933678in"
    height="4.1873851in"
-   viewBox="0 0 386.93618 301.49209"
+   viewBox="0 0 424.32192 301.49209"
    id="svg1267"
    sodipodi:docname="button-direct-1_bb.svg"
    inkscape:version="1.0.1 (0767f8302a, 2020-10-17)">
@@ -31,6 +31,63 @@
   </metadata>
   <defs
      id="defs1271">
+    <marker
+       style="overflow:visible"
+       id="marker15838"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path15836" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker15772"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path15770" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker15716"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path15714" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path15443" />
+    </marker>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3841-6-2">
@@ -85,8 +142,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.95040925"
-     inkscape:cx="231.77902"
-     inkscape:cy="159.89826"
+     inkscape:cx="455.52946"
+     inkscape:cy="144.01097"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -95,13 +152,14 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:snap-global="false" />
   <rect
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.19092;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect24889"
      width="418.60736"
      height="375.83508"
-     x="372.87857"
+     x="372.87833"
      y="-38.497074"
      inkscape:export-filename="/home/obijuan/develop/videoblog/Video-27-FPGA-La-placa-Alhambra-II/wiki/A2-button-01.png"
      inkscape:export-xdpi="90"
@@ -111,11 +169,11 @@
      id="layer1"
      inkscape:label="back"
      style="display:inline"
-     transform="translate(45.079607,6.1106648)">
+     transform="translate(45.079376,6.1106648)">
     <rect
-       style="fill:#ffffff;stroke:none;stroke-width:4.81679;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffffff;stroke:none;stroke-width:5.04412;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect14585"
-       width="386.93716"
+       width="424.323"
        height="301.4921"
        x="-45.079872"
        y="-6.1106648"
@@ -128,7 +186,7 @@
      id="layer2"
      inkscape:label="layer1"
      style="display:inline"
-     transform="translate(45.079607,6.1106648)">
+     transform="translate(45.079376,6.1106648)">
     <g
        id="g13862"
        transform="matrix(0.7959671,0,0,0.7959671,-2.2142263,128.64203)"
@@ -21447,19 +21505,19 @@
           <g
              id="g1248">
             <polygon
-               points="16.9819,15.4706 16.9819,23.7449 14.8219,23.7449 14.8219,15.4706 "
+               points="14.8219,23.7449 14.8219,15.4706 16.9819,15.4706 16.9819,23.7449 "
                fill="#8c8c8c"
                id="polygon1205" />
             <polygon
-               points="2.58048,0.00072 2.58048,8.27496 0.42192,8.27496 0.42192,0.00072 "
+               points="0.42192,8.27496 0.42192,0.00072 2.58048,0.00072 2.58048,8.27496 "
                fill="#8c8c8c"
                id="polygon1207" />
             <polygon
-               points="16.9819,0 16.9819,8.27568 14.8219,8.27568 14.8219,0 "
+               points="14.8219,8.27568 14.8219,0 16.9819,0 16.9819,8.27568 "
                fill="#8c8c8c"
                id="polygon1209" />
             <polygon
-               points="2.58192,15.4706 2.58192,23.7463 0.42264,23.7463 0.42264,15.4706 "
+               points="0.42264,23.7463 0.42264,15.4706 2.58192,15.4706 2.58192,23.7463 "
                fill="#8c8c8c"
                id="polygon1211" />
             <rect
@@ -21611,5 +21669,97 @@
          d="m 186.11,168.892 c 0,0 59.462,-52.223 -25.486,-100.4357"
          id="path1263" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.750001"
+       x="238.90358"
+       y="50.525867"
+       id="text15412"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan15410"
+         x="238.90358"
+         y="50.525867"
+         style="font-size:14px;stroke-width:0.750001">Pulsador</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 228.46354,46.044522 -58.17113,3.531069"
+       id="path15414"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.750001"
+       x="75.788704"
+       y="118.80986"
+       id="text15700"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan15698"
+         x="75.788704"
+         y="118.80986"
+         style="font-size:14px;stroke-width:0.750001">GND</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker15716)"
+       d="m 111.64916,116.27663 36.40596,-0.34761"
+       id="path15712"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.750001"
+       x="268.82135"
+       y="170.49265"
+       id="text15760"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan15758"
+         x="268.82135"
+         y="170.49265"
+         style="font-size:14px;stroke-width:0.750001">Entrada D0</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker15772)"
+       d="m 259.54593,165.89628 -62.95121,3.81693"
+       id="path15768"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.750001"
+       x="267.4606"
+       y="108.27502"
+       id="text15824"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan15822"
+         x="267.4606"
+         y="108.27502"
+         style="font-size:14px;stroke-width:0.750001">Señal del</tspan><tspan
+         sodipodi:role="line"
+         x="267.4606"
+         y="125.77502"
+         style="font-size:14px;stroke-width:0.750001"
+         id="tspan15826">pulsador</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker15838)"
+       d="m 260.18441,114.45211 -46.07961,2.38147"
+       id="path15834"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
