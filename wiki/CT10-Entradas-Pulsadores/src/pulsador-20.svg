@@ -1,0 +1,2191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="288.5845mm"
+   height="175.45221mm"
+   viewBox="0 0 288.5845 175.45221"
+   version="1.1"
+   id="svg952"
+   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
+   sodipodi:docname="pulsador-20.svg">
+  <defs
+     id="defs946" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="453.14763"
+     inkscape:cy="270.92498"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1860"
+     inkscape:window-height="1016"
+     inkscape:window-x="60"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata949">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(45.876041,-50.001854)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.351449;stroke-linecap:round"
+       id="rect1906"
+       width="288.5845"
+       height="175.45221"
+       x="-45.876041"
+       y="50.001854"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(45.876041,-50.001854)">
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11666;stroke-dashoffset:0"
+       id="path2099"
+       cx="28.150566"
+       cy="104.25589"
+       rx="11.579821"
+       ry="11.579803"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 49.331698,107.402 H 36.837338"
+       id="path1970"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 8.0660889,88.733481 V 107.402 H 20.560452"
+       id="path6179"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g8992-19"
+       transform="matrix(0.64173335,0,0,0.62268908,-75.358983,7.7936179)"
+       style="stroke-width:3.17491"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4335-4"
+         width="29.655748"
+         height="2.1695125"
+         x="145.78461"
+         y="150.20892"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4337-78"
+         width="10.835755"
+         height="5.3666892"
+         x="155.82193"
+         y="145.29895"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path5072-9-9-3-6"
+       sodipodi:type="arc"
+       sodipodi:cx="20.517302"
+       sodipodi:cy="107.30241"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 22.165396,107.35282 a 1.648874,1.6390843 0 0 1 -1.696073,1.58798 1.648874,1.6390843 0 0 1 -1.600275,-1.68337 1.648874,1.6390843 0 0 1 1.690767,-1.59356 1.648874,1.6390843 0 0 1 1.605881,1.67808" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path5072-9-9-3-6-1"
+       sodipodi:type="arc"
+       sodipodi:cx="35.702843"
+       sodipodi:cy="107.30241"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 37.350937,107.35282 a 1.648874,1.6390843 0 0 1 -1.696073,1.58798 1.648874,1.6390843 0 0 1 -1.600274,-1.68337 1.648874,1.6390843 0 0 1 1.690766,-1.59356 1.648874,1.6390843 0 0 1 1.605881,1.67808" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.20651px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="-32.495167"
+       y="91.307182"
+       id="text2384"
+       inkscape:transform-center-x="17.353074"
+       inkscape:transform-center-y="1.613217"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2382"
+         x="-32.495167"
+         y="91.307182"
+         style="fill:#008000;stroke-width:0.531013">Fila 1</tspan></text>
+    <path
+       style="fill:none;stroke:#008000;stroke-width:1.062;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 166.61552,88.733481 H -10.061898"
+       id="path1841"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#008000;stroke:#008000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1843"
+       cx="8.068635"
+       cy="88.760773"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.20651px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="39.040882"
+       y="66.04258"
+       id="text1849"
+       inkscape:transform-center-x="17.353074"
+       inkscape:transform-center-y="1.613217"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1847"
+         x="39.040882"
+         y="66.04258"
+         style="fill:#ff0000;stroke-width:0.531013">Col 1</tspan></text>
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:1.062;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 49.331698,70.569118 V 203.86319"
+       id="path1851"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2097"
+       cx="49.235458"
+       cy="107.4324"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.2415px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="25.279663"
+       y="113.19078"
+       id="text2105"
+       inkscape:transform-center-x="12.621393"
+       inkscape:transform-center-y="1.1733433"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2103"
+         x="25.279663"
+         y="113.19078"
+         style="fill:#0000ff;stroke-width:0.531013">P1</tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11666;stroke-dashoffset:0"
+       id="ellipse2107"
+       cx="28.150566"
+       cy="136.47479"
+       rx="11.579821"
+       ry="11.579803"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 49.331698,139.6209 H 36.837338"
+       id="path2109"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 8.0660889,120.95238 V 139.6209 H 20.560452"
+       id="path2111"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g2117"
+       transform="matrix(0.64173335,0,0,0.62268908,-75.358983,40.012521)"
+       style="stroke-width:3.17491"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2113"
+         width="29.655748"
+         height="2.1695125"
+         x="145.78461"
+         y="150.20892"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2115"
+         width="10.835755"
+         height="5.3666892"
+         x="155.82193"
+         y="145.29895"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2119"
+       sodipodi:type="arc"
+       sodipodi:cx="20.517302"
+       sodipodi:cy="139.52132"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 22.165396,139.57173 a 1.648874,1.6390843 0 0 1 -1.696073,1.58798 1.648874,1.6390843 0 0 1 -1.600275,-1.68337 1.648874,1.6390843 0 0 1 1.690767,-1.59356 1.648874,1.6390843 0 0 1 1.605881,1.67808" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2121"
+       sodipodi:type="arc"
+       sodipodi:cx="35.702843"
+       sodipodi:cy="139.52132"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 37.350937,139.57173 a 1.648874,1.6390843 0 0 1 -1.696073,1.58798 1.648874,1.6390843 0 0 1 -1.600274,-1.68337 1.648874,1.6390843 0 0 1 1.690766,-1.59356 1.648874,1.6390843 0 0 1 1.605881,1.67808" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.20651px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="-32.495167"
+       y="123.52608"
+       id="text2125"
+       inkscape:transform-center-x="17.353074"
+       inkscape:transform-center-y="1.613217"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2123"
+         x="-32.495167"
+         y="123.52608"
+         style="fill:#008000;stroke-width:0.531013">Fila 2</tspan></text>
+    <path
+       style="fill:none;stroke:#008000;stroke-width:1.062;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 166.61552,120.95238 H -10.061898"
+       id="path2127"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#008000;stroke:#008000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2129"
+       cx="8.068635"
+       cy="120.97968"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2131"
+       cx="49.235458"
+       cy="139.65131"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.2415px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="25.279663"
+       y="145.40968"
+       id="text2135"
+       inkscape:transform-center-x="12.621393"
+       inkscape:transform-center-y="1.1733433"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2133"
+         x="25.279663"
+         y="145.40968"
+         style="fill:#0000ff;stroke-width:0.531013">P5</tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11666;stroke-dashoffset:0"
+       id="ellipse2143"
+       cx="28.150566"
+       cy="168.6937"
+       rx="11.579821"
+       ry="11.579803"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 49.331698,171.8398 H 36.837338"
+       id="path2145"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 8.0660889,153.17128 V 171.8398 H 20.560452"
+       id="path2147"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g2153"
+       transform="matrix(0.64173335,0,0,0.62268908,-75.358983,72.231421)"
+       style="stroke-width:3.17491"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2149"
+         width="29.655748"
+         height="2.1695125"
+         x="145.78461"
+         y="150.20892"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2151"
+         width="10.835755"
+         height="5.3666892"
+         x="155.82193"
+         y="145.29895"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2155"
+       sodipodi:type="arc"
+       sodipodi:cx="20.517302"
+       sodipodi:cy="171.74022"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 22.165396,171.79063 a 1.648874,1.6390843 0 0 1 -1.696073,1.58798 1.648874,1.6390843 0 0 1 -1.600275,-1.68337 1.648874,1.6390843 0 0 1 1.690767,-1.59356 1.648874,1.6390843 0 0 1 1.605881,1.67808" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2157"
+       sodipodi:type="arc"
+       sodipodi:cx="35.702843"
+       sodipodi:cy="171.74022"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 37.350937,171.79063 a 1.648874,1.6390843 0 0 1 -1.696073,1.58798 1.648874,1.6390843 0 0 1 -1.600274,-1.68337 1.648874,1.6390843 0 0 1 1.690766,-1.59356 1.648874,1.6390843 0 0 1 1.605881,1.67808" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.20651px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="-32.495167"
+       y="155.74498"
+       id="text2161"
+       inkscape:transform-center-x="17.353074"
+       inkscape:transform-center-y="1.613217"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2159"
+         x="-32.495167"
+         y="155.74498"
+         style="fill:#008000;stroke-width:0.531013">Fila 3</tspan></text>
+    <path
+       style="fill:none;stroke:#008000;stroke-width:1.062;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 166.61552,153.17128 H -10.061898"
+       id="path2163"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#008000;stroke:#008000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2165"
+       cx="8.068635"
+       cy="153.19858"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2167"
+       cx="49.235458"
+       cy="171.87021"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.2415px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="25.279663"
+       y="177.62859"
+       id="text2171"
+       inkscape:transform-center-x="12.621393"
+       inkscape:transform-center-y="1.1733433"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2169"
+         x="25.279663"
+         y="177.62859"
+         style="fill:#0000ff;stroke-width:0.531013">P9</tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11666;stroke-dashoffset:0"
+       id="ellipse2177"
+       cx="28.150566"
+       cy="200.9126"
+       rx="11.579821"
+       ry="11.579803"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 49.331698,204.0587 H 36.837338"
+       id="path2179"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 8.0660889,185.39018 V 204.0587 H 20.560452"
+       id="path2181"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g2187"
+       transform="matrix(0.64173335,0,0,0.62268908,-75.358983,104.45032)"
+       style="stroke-width:3.17491"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2183"
+         width="29.655748"
+         height="2.1695125"
+         x="145.78461"
+         y="150.20892"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2185"
+         width="10.835755"
+         height="5.3666892"
+         x="155.82193"
+         y="145.29895"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2189"
+       sodipodi:type="arc"
+       sodipodi:cx="20.517302"
+       sodipodi:cy="203.95912"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 22.165396,204.00953 a 1.648874,1.6390843 0 0 1 -1.696073,1.58798 1.648874,1.6390843 0 0 1 -1.600275,-1.68337 1.648874,1.6390843 0 0 1 1.690767,-1.59356 1.648874,1.6390843 0 0 1 1.605881,1.67809" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2191"
+       sodipodi:type="arc"
+       sodipodi:cx="35.702843"
+       sodipodi:cy="203.95912"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 37.350937,204.00953 a 1.648874,1.6390843 0 0 1 -1.696073,1.58798 1.648874,1.6390843 0 0 1 -1.600274,-1.68337 1.648874,1.6390843 0 0 1 1.690766,-1.59356 1.648874,1.6390843 0 0 1 1.605881,1.67809" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.20651px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="-32.495167"
+       y="187.96388"
+       id="text2195"
+       inkscape:transform-center-x="17.353074"
+       inkscape:transform-center-y="1.613217"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2193"
+         x="-32.495167"
+         y="187.96388"
+         style="fill:#008000;stroke-width:0.531013">Fila 4</tspan></text>
+    <path
+       style="fill:none;stroke:#008000;stroke-width:1.062;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 166.61552,185.39018 H -10.061898"
+       id="path2197"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#008000;stroke:#008000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2199"
+       cx="8.068635"
+       cy="185.41748"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2201"
+       cx="49.235458"
+       cy="204.08911"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.2415px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="23.409359"
+       y="209.84749"
+       id="text2205"
+       inkscape:transform-center-x="12.621393"
+       inkscape:transform-center-y="1.1733433"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2203"
+         x="23.409359"
+         y="209.84749"
+         style="fill:#0000ff;stroke-width:0.531013">P13</tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11666;stroke-dashoffset:0"
+       id="ellipse2207"
+       cx="81.000374"
+       cy="104.25589"
+       rx="11.579821"
+       ry="11.579803"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 102.18151,107.402 H 89.687147"
+       id="path2209"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 60.915897,88.733481 V 107.402 h 12.494364"
+       id="path2211"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g2217"
+       transform="matrix(0.64173335,0,0,0.62268908,-22.509174,7.7936179)"
+       style="stroke-width:3.17491"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2213"
+         width="29.655748"
+         height="2.1695125"
+         x="145.78461"
+         y="150.20892"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2215"
+         width="10.835755"
+         height="5.3666892"
+         x="155.82193"
+         y="145.29895"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2219"
+       sodipodi:type="arc"
+       sodipodi:cx="73.367111"
+       sodipodi:cy="107.30241"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 75.015205,107.35282 a 1.648874,1.6390843 0 0 1 -1.696072,1.58798 1.648874,1.6390843 0 0 1 -1.600275,-1.68337 1.648874,1.6390843 0 0 1 1.690767,-1.59356 1.648874,1.6390843 0 0 1 1.60588,1.67808" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2221"
+       sodipodi:type="arc"
+       sodipodi:cx="88.55265"
+       sodipodi:cy="107.30241"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 90.200745,107.35282 a 1.648874,1.6390843 0 0 1 -1.696073,1.58798 1.648874,1.6390843 0 0 1 -1.600275,-1.68337 1.648874,1.6390843 0 0 1 1.690767,-1.59356 1.648874,1.6390843 0 0 1 1.605881,1.67808" />
+    <circle
+       style="fill:#008000;stroke:#008000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2223"
+       cx="60.918442"
+       cy="88.760773"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.20651px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="91.890694"
+       y="66.04258"
+       id="text2227"
+       inkscape:transform-center-x="17.353074"
+       inkscape:transform-center-y="1.613217"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2225"
+         x="91.890694"
+         y="66.04258"
+         style="fill:#ff0000;stroke-width:0.531013">Col 2</tspan></text>
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:1.062;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 102.18151,70.569118 V 203.86319"
+       id="path2229"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2231"
+       cx="102.08527"
+       cy="107.4324"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.2415px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="78.129471"
+       y="113.19078"
+       id="text2235"
+       inkscape:transform-center-x="12.621393"
+       inkscape:transform-center-y="1.1733433"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2233"
+         x="78.129471"
+         y="113.19078"
+         style="fill:#0000ff;stroke-width:0.531013">P2</tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11666;stroke-dashoffset:0"
+       id="ellipse2237"
+       cx="81.000374"
+       cy="136.47479"
+       rx="11.579821"
+       ry="11.579803"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 102.18151,139.6209 H 89.687147"
+       id="path2239"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 60.915897,120.95238 V 139.6209 H 73.410261"
+       id="path2241"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g2247"
+       transform="matrix(0.64173335,0,0,0.62268908,-22.509174,40.012521)"
+       style="stroke-width:3.17491"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2243"
+         width="29.655748"
+         height="2.1695125"
+         x="145.78461"
+         y="150.20892"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2245"
+         width="10.835755"
+         height="5.3666892"
+         x="155.82193"
+         y="145.29895"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2249"
+       sodipodi:type="arc"
+       sodipodi:cx="73.367111"
+       sodipodi:cy="139.52132"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 75.015205,139.57173 a 1.648874,1.6390843 0 0 1 -1.696072,1.58798 1.648874,1.6390843 0 0 1 -1.600275,-1.68337 1.648874,1.6390843 0 0 1 1.690767,-1.59356 1.648874,1.6390843 0 0 1 1.60588,1.67808" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2251"
+       sodipodi:type="arc"
+       sodipodi:cx="88.55265"
+       sodipodi:cy="139.52132"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 90.200745,139.57173 a 1.648874,1.6390843 0 0 1 -1.696073,1.58798 1.648874,1.6390843 0 0 1 -1.600275,-1.68337 1.648874,1.6390843 0 0 1 1.690767,-1.59356 1.648874,1.6390843 0 0 1 1.605881,1.67808" />
+    <circle
+       style="fill:#008000;stroke:#008000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2253"
+       cx="60.918442"
+       cy="120.97968"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2255"
+       cx="102.08527"
+       cy="139.65131"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.2415px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="78.129471"
+       y="145.40968"
+       id="text2259"
+       inkscape:transform-center-x="12.621393"
+       inkscape:transform-center-y="1.1733433"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2257"
+         x="78.129471"
+         y="145.40968"
+         style="fill:#0000ff;stroke-width:0.531013">P6</tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11666;stroke-dashoffset:0"
+       id="ellipse2261"
+       cx="81.000374"
+       cy="168.6937"
+       rx="11.579821"
+       ry="11.579803"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 102.18151,171.8398 H 89.687147"
+       id="path2263"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 60.915897,153.17128 V 171.8398 H 73.410261"
+       id="path2265"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g2271"
+       transform="matrix(0.64173335,0,0,0.62268908,-22.509174,72.231421)"
+       style="stroke-width:3.17491"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2267"
+         width="29.655748"
+         height="2.1695125"
+         x="145.78461"
+         y="150.20892"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2269"
+         width="10.835755"
+         height="5.3666892"
+         x="155.82193"
+         y="145.29895"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2273"
+       sodipodi:type="arc"
+       sodipodi:cx="73.367111"
+       sodipodi:cy="171.74022"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 75.015205,171.79063 a 1.648874,1.6390843 0 0 1 -1.696072,1.58798 1.648874,1.6390843 0 0 1 -1.600275,-1.68337 1.648874,1.6390843 0 0 1 1.690767,-1.59356 1.648874,1.6390843 0 0 1 1.60588,1.67808" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2275"
+       sodipodi:type="arc"
+       sodipodi:cx="88.55265"
+       sodipodi:cy="171.74022"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 90.200745,171.79063 a 1.648874,1.6390843 0 0 1 -1.696073,1.58798 1.648874,1.6390843 0 0 1 -1.600275,-1.68337 1.648874,1.6390843 0 0 1 1.690767,-1.59356 1.648874,1.6390843 0 0 1 1.605881,1.67808" />
+    <circle
+       style="fill:#008000;stroke:#008000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2277"
+       cx="60.918442"
+       cy="153.19858"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2279"
+       cx="102.08527"
+       cy="171.87021"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.2415px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="76.576118"
+       y="177.62859"
+       id="text2283"
+       inkscape:transform-center-x="12.621393"
+       inkscape:transform-center-y="1.1733433"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2281"
+         x="76.576118"
+         y="177.62859"
+         style="fill:#0000ff;stroke-width:0.531013">P10</tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11666;stroke-dashoffset:0"
+       id="ellipse2285"
+       cx="81.000374"
+       cy="200.9126"
+       rx="11.579821"
+       ry="11.579803"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 102.18151,204.0587 H 89.687147"
+       id="path2287"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 60.915897,185.39018 V 204.0587 H 73.410261"
+       id="path2289"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g2295"
+       transform="matrix(0.64173335,0,0,0.62268908,-22.509174,104.45032)"
+       style="stroke-width:3.17491"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2291"
+         width="29.655748"
+         height="2.1695125"
+         x="145.78461"
+         y="150.20892"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2293"
+         width="10.835755"
+         height="5.3666892"
+         x="155.82193"
+         y="145.29895"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2297"
+       sodipodi:type="arc"
+       sodipodi:cx="73.367111"
+       sodipodi:cy="203.95912"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 75.015205,204.00953 a 1.648874,1.6390843 0 0 1 -1.696072,1.58798 1.648874,1.6390843 0 0 1 -1.600275,-1.68337 1.648874,1.6390843 0 0 1 1.690767,-1.59356 1.648874,1.6390843 0 0 1 1.60588,1.67809" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2299"
+       sodipodi:type="arc"
+       sodipodi:cx="88.55265"
+       sodipodi:cy="203.95912"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 90.200745,204.00953 a 1.648874,1.6390843 0 0 1 -1.696073,1.58798 1.648874,1.6390843 0 0 1 -1.600275,-1.68337 1.648874,1.6390843 0 0 1 1.690767,-1.59356 1.648874,1.6390843 0 0 1 1.605881,1.67809" />
+    <circle
+       style="fill:#008000;stroke:#008000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2301"
+       cx="60.918442"
+       cy="185.41748"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2303"
+       cx="102.08527"
+       cy="204.08911"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.2415px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="76.259171"
+       y="209.84749"
+       id="text2307"
+       inkscape:transform-center-x="12.621393"
+       inkscape:transform-center-y="1.1733433"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2305"
+         x="76.259171"
+         y="209.84749"
+         style="fill:#0000ff;stroke-width:0.531013">P14</tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11666;stroke-dashoffset:0"
+       id="ellipse2317"
+       cx="133.85019"
+       cy="104.25589"
+       rx="11.579821"
+       ry="11.579803"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 155.03132,107.402 H 142.53696"
+       id="path2319"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 113.76571,88.733481 V 107.402 h 12.49436"
+       id="path2321"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g2327"
+       transform="matrix(0.64173335,0,0,0.62268908,30.340636,7.7936179)"
+       style="stroke-width:3.17491"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2323"
+         width="29.655748"
+         height="2.1695125"
+         x="145.78461"
+         y="150.20892"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2325"
+         width="10.835755"
+         height="5.3666892"
+         x="155.82193"
+         y="145.29895"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2329"
+       sodipodi:type="arc"
+       sodipodi:cx="126.21692"
+       sodipodi:cy="107.30241"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 127.86501,107.35282 a 1.648874,1.6390843 0 0 1 -1.69607,1.58798 1.648874,1.6390843 0 0 1 -1.60027,-1.68337 1.648874,1.6390843 0 0 1 1.69076,-1.59356 1.648874,1.6390843 0 0 1 1.60588,1.67808" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2331"
+       sodipodi:type="arc"
+       sodipodi:cx="141.40247"
+       sodipodi:cy="107.30241"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 143.05056,107.35282 a 1.648874,1.6390843 0 0 1 -1.69607,1.58798 1.648874,1.6390843 0 0 1 -1.60028,-1.68337 1.648874,1.6390843 0 0 1 1.69077,-1.59356 1.648874,1.6390843 0 0 1 1.60588,1.67808" />
+    <circle
+       style="fill:#008000;stroke:#008000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2333"
+       cx="113.76825"
+       cy="88.760773"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.20651px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="144.74051"
+       y="66.04258"
+       id="text2337"
+       inkscape:transform-center-x="17.353074"
+       inkscape:transform-center-y="1.613217"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2335"
+         x="144.74051"
+         y="66.04258"
+         style="fill:#ff0000;stroke-width:0.531013">Col 3</tspan></text>
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:1.062;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 155.03132,70.569118 V 203.86319"
+       id="path2339"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2341"
+       cx="154.93509"
+       cy="107.4324"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.2415px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="130.97928"
+       y="113.19078"
+       id="text2345"
+       inkscape:transform-center-x="12.621393"
+       inkscape:transform-center-y="1.1733433"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2343"
+         x="130.97928"
+         y="113.19078"
+         style="fill:#0000ff;stroke-width:0.531013">P3</tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11666;stroke-dashoffset:0"
+       id="ellipse2347"
+       cx="133.85019"
+       cy="136.47479"
+       rx="11.579821"
+       ry="11.579803"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 155.03132,139.6209 H 142.53696"
+       id="path2349"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 113.76571,120.95238 v 18.66852 h 12.49436"
+       id="path2351"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g2357"
+       transform="matrix(0.64173335,0,0,0.62268908,30.340636,40.012521)"
+       style="stroke-width:3.17491"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2353"
+         width="29.655748"
+         height="2.1695125"
+         x="145.78461"
+         y="150.20892"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2355"
+         width="10.835755"
+         height="5.3666892"
+         x="155.82193"
+         y="145.29895"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2359"
+       sodipodi:type="arc"
+       sodipodi:cx="126.21692"
+       sodipodi:cy="139.52132"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 127.86501,139.57173 a 1.648874,1.6390843 0 0 1 -1.69607,1.58798 1.648874,1.6390843 0 0 1 -1.60027,-1.68337 1.648874,1.6390843 0 0 1 1.69076,-1.59356 1.648874,1.6390843 0 0 1 1.60588,1.67808" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2361"
+       sodipodi:type="arc"
+       sodipodi:cx="141.40247"
+       sodipodi:cy="139.52132"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 143.05056,139.57173 a 1.648874,1.6390843 0 0 1 -1.69607,1.58798 1.648874,1.6390843 0 0 1 -1.60028,-1.68337 1.648874,1.6390843 0 0 1 1.69077,-1.59356 1.648874,1.6390843 0 0 1 1.60588,1.67808" />
+    <circle
+       style="fill:#008000;stroke:#008000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2363"
+       cx="113.76825"
+       cy="120.97968"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2365"
+       cx="154.93509"
+       cy="139.65131"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.2415px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="130.97928"
+       y="145.40968"
+       id="text2369"
+       inkscape:transform-center-x="12.621393"
+       inkscape:transform-center-y="1.1733433"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2367"
+         x="130.97928"
+         y="145.40968"
+         style="fill:#0000ff;stroke-width:0.531013">P7</tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11666;stroke-dashoffset:0"
+       id="ellipse2371"
+       cx="133.85019"
+       cy="168.6937"
+       rx="11.579821"
+       ry="11.579803"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 155.03132,171.8398 H 142.53696"
+       id="path2373"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 113.76571,153.17128 v 18.66852 h 12.49436"
+       id="path2375"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g2381"
+       transform="matrix(0.64173335,0,0,0.62268908,30.340636,72.231421)"
+       style="stroke-width:3.17491"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2377"
+         width="29.655748"
+         height="2.1695125"
+         x="145.78461"
+         y="150.20892"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2379"
+         width="10.835755"
+         height="5.3666892"
+         x="155.82193"
+         y="145.29895"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2383"
+       sodipodi:type="arc"
+       sodipodi:cx="126.21692"
+       sodipodi:cy="171.74022"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 127.86501,171.79063 a 1.648874,1.6390843 0 0 1 -1.69607,1.58798 1.648874,1.6390843 0 0 1 -1.60027,-1.68337 1.648874,1.6390843 0 0 1 1.69076,-1.59356 1.648874,1.6390843 0 0 1 1.60588,1.67808" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2385"
+       sodipodi:type="arc"
+       sodipodi:cx="141.40247"
+       sodipodi:cy="171.74022"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 143.05056,171.79063 a 1.648874,1.6390843 0 0 1 -1.69607,1.58798 1.648874,1.6390843 0 0 1 -1.60028,-1.68337 1.648874,1.6390843 0 0 1 1.69077,-1.59356 1.648874,1.6390843 0 0 1 1.60588,1.67808" />
+    <circle
+       style="fill:#008000;stroke:#008000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2387"
+       cx="113.76825"
+       cy="153.19858"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2389"
+       cx="154.93509"
+       cy="171.87021"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.2415px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="129.42593"
+       y="177.62859"
+       id="text2393"
+       inkscape:transform-center-x="12.621393"
+       inkscape:transform-center-y="1.1733433"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2391"
+         x="129.42593"
+         y="177.62859"
+         style="fill:#0000ff;stroke-width:0.531013">P11</tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11666;stroke-dashoffset:0"
+       id="ellipse2395"
+       cx="133.85019"
+       cy="200.9126"
+       rx="11.579821"
+       ry="11.579803"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 155.03132,204.0587 H 142.53696"
+       id="path2397"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 113.76571,185.39018 v 18.66852 h 12.49436"
+       id="path2399"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g2405"
+       transform="matrix(0.64173335,0,0,0.62268908,30.340636,104.45032)"
+       style="stroke-width:3.17491"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2401"
+         width="29.655748"
+         height="2.1695125"
+         x="145.78461"
+         y="150.20892"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2403"
+         width="10.835755"
+         height="5.3666892"
+         x="155.82193"
+         y="145.29895"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2407"
+       sodipodi:type="arc"
+       sodipodi:cx="126.21692"
+       sodipodi:cy="203.95912"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 127.86501,204.00953 a 1.648874,1.6390843 0 0 1 -1.69607,1.58798 1.648874,1.6390843 0 0 1 -1.60027,-1.68337 1.648874,1.6390843 0 0 1 1.69076,-1.59356 1.648874,1.6390843 0 0 1 1.60588,1.67809" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2409"
+       sodipodi:type="arc"
+       sodipodi:cx="141.40247"
+       sodipodi:cy="203.95912"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 143.05056,204.00953 a 1.648874,1.6390843 0 0 1 -1.69607,1.58798 1.648874,1.6390843 0 0 1 -1.60028,-1.68337 1.648874,1.6390843 0 0 1 1.69077,-1.59356 1.648874,1.6390843 0 0 1 1.60588,1.67809" />
+    <circle
+       style="fill:#008000;stroke:#008000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2411"
+       cx="113.76825"
+       cy="185.41748"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2413"
+       cx="154.93509"
+       cy="204.08911"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.2415px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="129.10898"
+       y="209.84749"
+       id="text2417"
+       inkscape:transform-center-x="12.621393"
+       inkscape:transform-center-y="1.1733433"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2415"
+         x="129.10898"
+         y="209.84749"
+         style="fill:#0000ff;stroke-width:0.531013">P15</tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11666;stroke-dashoffset:0"
+       id="ellipse2419"
+       cx="186.7"
+       cy="104.25589"
+       rx="11.579821"
+       ry="11.579803"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 207.88113,107.402 H 195.38677"
+       id="path2421"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 166.61552,88.733481 V 107.402 h 12.49436"
+       id="path2423"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g2429"
+       transform="matrix(0.64173335,0,0,0.62268908,83.190445,7.7936179)"
+       style="stroke-width:3.17491"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2425"
+         width="29.655748"
+         height="2.1695125"
+         x="145.78461"
+         y="150.20892"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2427"
+         width="10.835755"
+         height="5.3666892"
+         x="155.82193"
+         y="145.29895"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2431"
+       sodipodi:type="arc"
+       sodipodi:cx="179.06673"
+       sodipodi:cy="107.30241"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 180.71482,107.35282 a 1.648874,1.6390843 0 0 1 -1.69607,1.58798 1.648874,1.6390843 0 0 1 -1.60028,-1.68337 1.648874,1.6390843 0 0 1 1.69077,-1.59356 1.648874,1.6390843 0 0 1 1.60588,1.67808" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2433"
+       sodipodi:type="arc"
+       sodipodi:cx="194.25227"
+       sodipodi:cy="107.30241"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 195.90037,107.35282 a 1.648874,1.6390843 0 0 1 -1.69607,1.58798 1.648874,1.6390843 0 0 1 -1.60028,-1.68337 1.648874,1.6390843 0 0 1 1.69077,-1.59356 1.648874,1.6390843 0 0 1 1.60588,1.67808" />
+    <circle
+       style="fill:#008000;stroke:#008000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2435"
+       cx="166.61806"
+       cy="88.760773"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.20651px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="197.59032"
+       y="66.04258"
+       id="text2439"
+       inkscape:transform-center-x="17.353074"
+       inkscape:transform-center-y="1.613217"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2437"
+         x="197.59032"
+         y="66.04258"
+         style="fill:#ff0000;stroke-width:0.531013">Col 4</tspan></text>
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:1.062;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 207.88113,70.569118 V 203.86319"
+       id="path2441"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2443"
+       cx="207.7849"
+       cy="107.4324"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.2415px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="183.82909"
+       y="113.19078"
+       id="text2447"
+       inkscape:transform-center-x="12.621393"
+       inkscape:transform-center-y="1.1733433"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2445"
+         x="183.82909"
+         y="113.19078"
+         style="fill:#0000ff;stroke-width:0.531013">P4</tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11666;stroke-dashoffset:0"
+       id="ellipse2449"
+       cx="186.7"
+       cy="136.47479"
+       rx="11.579821"
+       ry="11.579803"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 207.88113,139.6209 H 195.38677"
+       id="path2451"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 166.61552,120.95238 v 18.66852 h 12.49436"
+       id="path2453"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g2459"
+       transform="matrix(0.64173335,0,0,0.62268908,83.190445,40.012521)"
+       style="stroke-width:3.17491"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2455"
+         width="29.655748"
+         height="2.1695125"
+         x="145.78461"
+         y="150.20892"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2457"
+         width="10.835755"
+         height="5.3666892"
+         x="155.82193"
+         y="145.29895"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2461"
+       sodipodi:type="arc"
+       sodipodi:cx="179.06673"
+       sodipodi:cy="139.52132"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 180.71482,139.57173 a 1.648874,1.6390843 0 0 1 -1.69607,1.58798 1.648874,1.6390843 0 0 1 -1.60028,-1.68337 1.648874,1.6390843 0 0 1 1.69077,-1.59356 1.648874,1.6390843 0 0 1 1.60588,1.67808" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2463"
+       sodipodi:type="arc"
+       sodipodi:cx="194.25227"
+       sodipodi:cy="139.52132"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 195.90037,139.57173 a 1.648874,1.6390843 0 0 1 -1.69607,1.58798 1.648874,1.6390843 0 0 1 -1.60028,-1.68337 1.648874,1.6390843 0 0 1 1.69077,-1.59356 1.648874,1.6390843 0 0 1 1.60588,1.67808" />
+    <circle
+       style="fill:#008000;stroke:#008000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2465"
+       cx="166.61806"
+       cy="120.97968"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2467"
+       cx="207.7849"
+       cy="139.65131"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.2415px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="183.82909"
+       y="145.40968"
+       id="text2471"
+       inkscape:transform-center-x="12.621393"
+       inkscape:transform-center-y="1.1733433"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2469"
+         x="183.82909"
+         y="145.40968"
+         style="fill:#0000ff;stroke-width:0.531013">P8</tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11666;stroke-dashoffset:0"
+       id="ellipse2473"
+       cx="186.7"
+       cy="168.6937"
+       rx="11.579821"
+       ry="11.579803"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 207.88113,171.8398 H 195.38677"
+       id="path2475"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 166.61552,153.17128 v 18.66852 h 12.49436"
+       id="path2477"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g2483"
+       transform="matrix(0.64173335,0,0,0.62268908,83.190445,72.231421)"
+       style="stroke-width:3.17491"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2479"
+         width="29.655748"
+         height="2.1695125"
+         x="145.78461"
+         y="150.20892"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2481"
+         width="10.835755"
+         height="5.3666892"
+         x="155.82193"
+         y="145.29895"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2485"
+       sodipodi:type="arc"
+       sodipodi:cx="179.06673"
+       sodipodi:cy="171.74022"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 180.71482,171.79063 a 1.648874,1.6390843 0 0 1 -1.69607,1.58798 1.648874,1.6390843 0 0 1 -1.60028,-1.68337 1.648874,1.6390843 0 0 1 1.69077,-1.59356 1.648874,1.6390843 0 0 1 1.60588,1.67808" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2487"
+       sodipodi:type="arc"
+       sodipodi:cx="194.25227"
+       sodipodi:cy="171.74022"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 195.90037,171.79063 a 1.648874,1.6390843 0 0 1 -1.69607,1.58798 1.648874,1.6390843 0 0 1 -1.60028,-1.68337 1.648874,1.6390843 0 0 1 1.69077,-1.59356 1.648874,1.6390843 0 0 1 1.60588,1.67808" />
+    <circle
+       style="fill:#008000;stroke:#008000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2489"
+       cx="166.61806"
+       cy="153.19858"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2491"
+       cx="207.7849"
+       cy="171.87021"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.2415px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="182.27574"
+       y="177.62859"
+       id="text2495"
+       inkscape:transform-center-x="12.621393"
+       inkscape:transform-center-y="1.1733433"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2493"
+         x="182.27574"
+         y="177.62859"
+         style="fill:#0000ff;stroke-width:0.531013">P12</tspan></text>
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11666;stroke-dashoffset:0"
+       id="ellipse2497"
+       cx="186.7"
+       cy="200.9126"
+       rx="11.579821"
+       ry="11.579803"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 207.88113,204.0587 H 195.38677"
+       id="path2499"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 166.61552,185.39018 v 18.66852 h 12.49436"
+       id="path2501"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g2507"
+       transform="matrix(0.64173335,0,0,0.62268908,83.190445,104.45032)"
+       style="stroke-width:3.17491"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2503"
+         width="29.655748"
+         height="2.1695125"
+         x="145.78461"
+         y="150.20892"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.896028;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2505"
+         width="10.835755"
+         height="5.3666892"
+         x="155.82193"
+         y="145.29895"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2509"
+       sodipodi:type="arc"
+       sodipodi:cx="179.06673"
+       sodipodi:cy="203.95912"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 180.71482,204.00953 a 1.648874,1.6390843 0 0 1 -1.69607,1.58798 1.648874,1.6390843 0 0 1 -1.60028,-1.68337 1.648874,1.6390843 0 0 1 1.69077,-1.59356 1.648874,1.6390843 0 0 1 1.60588,1.67809" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2511"
+       sodipodi:type="arc"
+       sodipodi:cx="194.25227"
+       sodipodi:cy="203.95912"
+       sodipodi:rx="1.648874"
+       sodipodi:ry="1.6390843"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 195.90037,204.00953 a 1.648874,1.6390843 0 0 1 -1.69607,1.58798 1.648874,1.6390843 0 0 1 -1.60028,-1.68337 1.648874,1.6390843 0 0 1 1.69077,-1.59356 1.648874,1.6390843 0 0 1 1.60588,1.67809" />
+    <circle
+       style="fill:#008000;stroke:#008000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2513"
+       cx="166.61806"
+       cy="185.41748"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:1.062;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2515"
+       cx="207.7849"
+       cy="204.08911"
+       r="1.1689452"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.2415px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="181.95879"
+       y="209.84749"
+       id="text2519"
+       inkscape:transform-center-x="12.621393"
+       inkscape:transform-center-y="1.1733433"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-22.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2517"
+         x="181.95879"
+         y="209.84749"
+         style="fill:#0000ff;stroke-width:0.531013">P16</tspan></text>
+  </g>
+</svg>
