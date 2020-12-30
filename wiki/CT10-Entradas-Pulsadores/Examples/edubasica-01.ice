@@ -269,8 +269,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D8",
-                "value": "20"
+                "name": "D9",
+                "value": "19"
               }
             ],
             "virtual": false
@@ -308,8 +308,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D9",
-                "value": "19"
+                "name": "D8",
+                "value": "20"
               }
             ],
             "virtual": false
