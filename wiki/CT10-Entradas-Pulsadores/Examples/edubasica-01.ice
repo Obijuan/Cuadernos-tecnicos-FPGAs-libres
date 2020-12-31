@@ -168,6 +168,25 @@
           }
         },
         {
+          "id": "7ab7a166-38f9-4eb6-86d7-66897a22f1c2",
+          "type": "basic.output",
+          "data": {
+            "name": "on/off",
+            "pins": [
+              {
+                "index": "0",
+                "name": "D10",
+                "value": "22"
+              }
+            ],
+            "virtual": false
+          },
+          "position": {
+            "x": 224,
+            "y": -24
+          }
+        },
+        {
           "id": "3e7d42f5-f666-4be2-80ee-d6c4bac41905",
           "type": "basic.output",
           "data": {
@@ -317,45 +336,6 @@
           "position": {
             "x": 384,
             "y": 280
-          }
-        },
-        {
-          "id": "6767ed3c-0247-4a83-bc72-31f284a300dd",
-          "type": "basic.input",
-          "data": {
-            "name": "Button",
-            "pins": [
-              {
-                "index": "0",
-                "name": "SW2",
-                "value": "33"
-              }
-            ],
-            "virtual": false,
-            "clock": false
-          },
-          "position": {
-            "x": 80,
-            "y": 344
-          }
-        },
-        {
-          "id": "7ab7a166-38f9-4eb6-86d7-66897a22f1c2",
-          "type": "basic.output",
-          "data": {
-            "name": "",
-            "pins": [
-              {
-                "index": "0",
-                "name": "D10",
-                "value": "22"
-              }
-            ],
-            "virtual": false
-          },
-          "position": {
-            "x": 248,
-            "y": 344
           }
         },
         {
@@ -1027,16 +1007,6 @@
         },
         {
           "source": {
-            "block": "6767ed3c-0247-4a83-bc72-31f284a300dd",
-            "port": "out"
-          },
-          "target": {
-            "block": "7ab7a166-38f9-4eb6-86d7-66897a22f1c2",
-            "port": "in"
-          }
-        },
-        {
-          "source": {
             "block": "02e3bb18-d1e7-425d-8027-b43c704cc880",
             "port": "out"
           },
@@ -1052,6 +1022,16 @@
           },
           "target": {
             "block": "540d7f51-513a-489d-b2bf-d4172a7a5129",
+            "port": "in"
+          }
+        },
+        {
+          "source": {
+            "block": "269c8bca-e9fb-4d33-8ff2-7ef46b5779d2",
+            "port": "22ff3fa1-943b-4d1a-bd89-36e1c054d077"
+          },
+          "target": {
+            "block": "7ab7a166-38f9-4eb6-86d7-66897a22f1c2",
             "port": "in"
           }
         }
