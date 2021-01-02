@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="265.91562mm"
+   height="85.839287mm"
+   viewBox="0 0 265.91562 85.839287"
+   version="1.1"
+   id="svg952"
+   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
+   sodipodi:docname="interruptor-01.svg">
+  <defs
+     id="defs946">
+    <marker
+       style="overflow:visible"
+       id="marker1825"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1823" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2254"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2252" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="551.27529"
+     inkscape:cy="211.57404"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1858"
+     inkscape:window-height="1016"
+     inkscape:window-x="62"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata949">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-6.3686128,-86.188362)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.351449;stroke-linecap:round"
+       id="rect1906"
+       width="265.91562"
+       height="85.839287"
+       x="6.3686128"
+       y="86.188362"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/interruptor-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(-6.3686128,-86.188362)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 72.361673,152.60147 V 130.38495"
+       id="path1970"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/interruptor-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 23.076863,154.21713 V 129.83132 H 45.29338"
+       id="path6179"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/interruptor-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g8992-19"
+       transform="matrix(1.141081,0,0,1.1150446,-125.26321,-43.449292)"
+       style="stroke-width:1.77926"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/interruptor-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.502146;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4335-4"
+         width="29.655748"
+         height="2.1695125"
+         x="145.78461"
+         y="150.20892"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.502146;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4337-78"
+         width="10.835755"
+         height="5.3666892"
+         x="155.82193"
+         y="145.29895"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path5072-9-9-3-6"
+       sodipodi:type="arc"
+       sodipodi:cx="45.216652"
+       sodipodi:cy="129.65298"
+       sodipodi:rx="2.9319012"
+       sodipodi:ry="2.9350958"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/interruptor-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 48.147166,129.74325 a 2.9319012,2.9350958 0 0 1 -3.015825,2.84359 2.9319012,2.9350958 0 0 1 -2.845486,-3.0144 2.9319012,2.9350958 0 0 1 3.006391,-2.85358 2.9319012,2.9350958 0 0 1 2.855454,3.00494" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path5072-9-9-3-6-1"
+       sodipodi:type="arc"
+       sodipodi:cx="72.218422"
+       sodipodi:cy="129.65298"
+       sodipodi:rx="2.9319012"
+       sodipodi:ry="2.9350958"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/interruptor-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 75.148936,129.74325 a 2.9319012,2.9350958 0 0 1 -3.015825,2.84359 2.9319012,2.9350958 0 0 1 -2.845486,-3.0144 2.9319012,2.9350958 0 0 1 3.006391,-2.85358 2.9319012,2.9350958 0 0 1 2.855454,3.00494" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.20651px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="37.680229"
+       y="138.0096"
+       id="text835-7-6-0-2-6"
+       inkscape:transform-center-x="17.353078"
+       inkscape:transform-center-y="1.6131998"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/interruptor-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan833-5-2-9-0-1"
+         x="37.680229"
+         y="138.0096"
+         style="fill:#ff0000;stroke-width:0.531013">1</tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2254)"
+       d="m 79.379141,120.19349 h 16.02492"
+       id="path2250"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/interruptor-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 121.64648,154.21713 V 129.83132 H 99.429964"
+       id="path1727"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/interruptor-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1729"
+       sodipodi:type="arc"
+       sodipodi:cx="-99.506691"
+       sodipodi:cy="129.65298"
+       sodipodi:rx="2.9319012"
+       sodipodi:ry="2.9350958"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/interruptor-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m -96.576177,129.74325 a 2.9319012,2.9350958 0 0 1 -3.015825,2.84359 2.9319012,2.9350958 0 0 1 -2.845488,-3.0144 2.9319012,2.9350958 0 0 1 3.006393,-2.85358 2.9319012,2.9350958 0 0 1 2.855454,3.00494"
+       transform="scale(-1,1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.20651px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="64.89814"
+       y="138.0096"
+       id="text1751"
+       inkscape:transform-center-x="17.353078"
+       inkscape:transform-center-y="1.6131998"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/interruptor-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1749"
+         x="64.89814"
+         y="138.0096"
+         style="fill:#ff0000;stroke-width:0.531013">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.20651px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="102.02867"
+       y="138.0096"
+       id="text1755"
+       inkscape:transform-center-x="17.353078"
+       inkscape:transform-center-y="1.6131998"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/interruptor-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1753"
+         x="102.02867"
+         y="138.0096"
+         style="fill:#ff0000;stroke-width:0.531013">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.20651px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="18.263258"
+       y="106.52629"
+       id="text2522"
+       inkscape:transform-center-x="17.353066"
+       inkscape:transform-center-y="1.6132197"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/interruptor-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2520"
+         x="18.263258"
+         y="106.52629"
+         style="stroke-width:0.531013">Interruptor en posiciones 1 y 2</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 200.47006,152.60147 V 130.38495"
+       id="path1787"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/interruptor-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 151.18525,154.21713 v -24.38581 h 22.21651"
+       id="path1789"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/interruptor-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g1795"
+       transform="matrix(1.141081,0,0,1.1150446,30.283332,-43.449292)"
+       style="stroke-width:1.77926"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/interruptor-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.502146;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1791"
+         width="29.655748"
+         height="2.1695125"
+         x="145.78461"
+         y="150.20892"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.502146;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1793"
+         width="10.835755"
+         height="5.3666892"
+         x="155.82193"
+         y="145.29895"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1797"
+       sodipodi:type="arc"
+       sodipodi:cx="173.32503"
+       sodipodi:cy="129.65298"
+       sodipodi:rx="2.9319012"
+       sodipodi:ry="2.9350958"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/interruptor-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 176.25554,129.74325 a 2.9319012,2.9350958 0 0 1 -3.01582,2.84359 2.9319012,2.9350958 0 0 1 -2.84549,-3.0144 2.9319012,2.9350958 0 0 1 3.00639,-2.85358 2.9319012,2.9350958 0 0 1 2.85546,3.00494" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1799"
+       sodipodi:type="arc"
+       sodipodi:cx="200.3268"
+       sodipodi:cy="129.65298"
+       sodipodi:rx="2.9319012"
+       sodipodi:ry="2.9350958"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/interruptor-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m 203.25731,129.74325 a 2.9319012,2.9350958 0 0 1 -3.01582,2.84359 2.9319012,2.9350958 0 0 1 -2.84549,-3.0144 2.9319012,2.9350958 0 0 1 3.00639,-2.85358 2.9319012,2.9350958 0 0 1 2.85546,3.00494" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.20651px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="165.7886"
+       y="138.0096"
+       id="text1803"
+       inkscape:transform-center-x="17.353078"
+       inkscape:transform-center-y="1.6131998"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/interruptor-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1801"
+         x="165.7886"
+         y="138.0096"
+         style="fill:#ff0000;stroke-width:0.531013">1</tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1825)"
+       d="M 193.9256,120.19349 H 177.90068"
+       id="path1805"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/interruptor-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 249.75486,154.21713 V 129.83132 H 227.53835"
+       id="path1807"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/interruptor-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.566415;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1809"
+       sodipodi:type="arc"
+       sodipodi:cx="-227.61507"
+       sodipodi:cy="129.65298"
+       sodipodi:rx="2.9319012"
+       sodipodi:ry="2.9350958"
+       sodipodi:start="0.030759476"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/interruptor-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:arc-type="arc"
+       d="m -224.68455,129.74325 a 2.9319012,2.9350958 0 0 1 -3.01583,2.84359 2.9319012,2.9350958 0 0 1 -2.84548,-3.0144 2.9319012,2.9350958 0 0 1 3.00639,-2.85358 2.9319012,2.9350958 0 0 1 2.85545,3.00494"
+       transform="scale(-1,1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.20651px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="193.00652"
+       y="138.0096"
+       id="text1813"
+       inkscape:transform-center-x="17.353078"
+       inkscape:transform-center-y="1.6131998"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/interruptor-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1811"
+         x="193.00652"
+         y="138.0096"
+         style="fill:#ff0000;stroke-width:0.531013">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.20651px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="230.13705"
+       y="138.0096"
+       id="text1817"
+       inkscape:transform-center-x="17.353078"
+       inkscape:transform-center-y="1.6131998"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/interruptor-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1815"
+         x="230.13705"
+         y="138.0096"
+         style="fill:#ff0000;stroke-width:0.531013">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.20651px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.531013"
+       x="146.37164"
+       y="106.52629"
+       id="text1821"
+       inkscape:transform-center-x="17.353066"
+       inkscape:transform-center-y="1.6132197"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/interruptor-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1819"
+         x="146.37164"
+         y="106.52629"
+         style="stroke-width:0.531013">Interruptor en posiciones 2 y 3</tspan></text>
+  </g>
+</svg>
