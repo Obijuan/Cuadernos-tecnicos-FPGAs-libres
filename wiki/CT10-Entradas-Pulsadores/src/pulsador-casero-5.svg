@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="462.6571mm"
+   height="188.12547mm"
+   viewBox="0 0 462.65709 188.12547"
+   version="1.1"
+   id="svg4113"
+   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
+   sodipodi:docname="pulsador-casero-5.svg">
+  <defs
+     id="defs4107">
+    <linearGradient
+       gradientTransform="matrix(-0.01299404,-0.01966182,0.0193174,-0.0149319,151.65408,290.08242)"
+       gradientUnits="userSpaceOnUse"
+       y2="2300.2148"
+       x2="6069.0566"
+       y1="2538.05"
+       x1="5466.6807"
+       id="linearGradient4148"
+       xlink:href="#linearGradient4142"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4142"
+       inkscape:collect="always">
+      <stop
+         id="stop4144"
+         offset="0"
+         style="stop-color:#c3875c;stop-opacity:1" />
+      <stop
+         style="stop-color:#eccba3;stop-opacity:1"
+         offset="0.47961685"
+         id="stop4150" />
+      <stop
+         id="stop4146"
+         offset="1"
+         style="stop-color:#fce0cb;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4142"
+       id="linearGradient4993"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.01299404,-0.01966182,0.0193174,-0.0149319,151.65408,290.08242)"
+       x1="5466.6807"
+       y1="2538.05"
+       x2="6069.0566"
+       y2="2300.2148" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.42563172"
+     inkscape:cx="949.2701"
+     inkscape:cy="315.82368"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1858"
+     inkscape:window-height="1016"
+     inkscape:window-x="62"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata4110">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(14.176642,16.224712)">
+    <rect
+       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.264583, 1.05833;stroke-dashoffset:0"
+       id="rect3835"
+       width="462.6571"
+       height="188.12547"
+       x="-14.176642"
+       y="-16.224712"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-casero-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 105.89106,107.69243 v 2.74155"
+       id="path4933"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-casero-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer 2"
+     transform="translate(14.176642,16.224712)">
+    <path
+       id="rect2012"
+       style="fill:#ff6600;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 78.78054,101.49553 c 0,0 13.724984,3.03447 27.24335,3.03447 13.51837,0 27.24334,-3.03447 27.24334,-3.03447 v 6.25186 c 0,0 -18.11819,2.68659 -27.24335,2.68659 -9.125164,0 -27.24334,-2.68659 -27.24334,-2.68659 z"
+       sodipodi:nodetypes="czcczcc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-casero-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1517"
+       width="184.61647"
+       height="4.0131273"
+       x="14.978977"
+       y="118.547"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-casero-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 22.312998,118.13299 h 36.142594 l 17.435436,-17.64086 c 0,0 13.104744,4.05509 30.216372,3.98353 17.11163,-0.0716 30.21638,-3.98353 30.21638,-3.98353 l 17.43543,17.64086 h 36.14258"
+       id="path1968"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-casero-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccczccc" />
+    <rect
+       style="fill:#ff6600;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2016"
+       width="11.831117"
+       height="3.2173886"
+       x="88.841896"
+       y="115.34563"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-casero-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ff6600;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2020"
+       width="11.831117"
+       height="3.2173886"
+       x="111.59276"
+       y="115.34563"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-casero-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g1020"
+       transform="matrix(1.6381288,-0.44169358,0.44169358,1.6381288,-144.94313,-132.43652)"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-casero-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g981">
+        <path
+           sodipodi:nodetypes="cccccccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path3338"
+           d="m 126.16067,115.38711 c -1.52338,1.51389 -2.14039,3.3069 -2.02374,5.32583 -0.50685,1.09707 -2.4109,2.34584 -2.02665,3.26683 -1.19649,1.92371 -1.6238,3.38923 -1.57181,4.56926 -0.54468,1.23936 -0.40343,1.7047 -0.34889,2.26804 -2.2657,3.4969 -4.09142,8.2545 -5.87792,13.12449 -2.30176,2.76536 -3.63916,5.7923 -4.89794,8.84056 -2.19098,3.7003 -3.75532,7.66981 -4.01902,11.39373 l -0.26617,0.55839 c 2.99614,3.107 4.94624,1.52332 7.01831,0.74627 6.63698,-3.11177 9.5037,-8.51998 12.21254,-14.02437 0.47261,-1.57181 1.57011,-3.12686 3.15082,-4.66892 4.41427,-4.7853 6.88557,-10.02183 9.85692,-15.14224 0.22837,-0.42844 0.57921,-1.03246 1.14248,-1.94104 1.67496,-1.79454 3.41809,-4.99706 5.13275,-7.61149 z"
+           style="fill:url(#linearGradient4148);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <path
+         style="fill:#f8ecf8;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 108.76195,154.14435 c -2.36188,2.82307 -3.50605,6.29719 -4.22813,10.20357 0.51781,0.12911 1.30265,-0.44447 2.15489,-1.19549 2.57527,-6.0679 1.84829,-7.14281 2.07324,-9.00808 z"
+         id="path3340"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 124.06572,120.89898 c 2.09364,-0.057 3.85338,0.53081 5.37343,1.58168"
+         id="path4207"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 122.10802,123.99151 c 2.00116,0.28671 3.9463,0.66384 5.42844,1.7885"
+         id="path4209"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 120.60721,128.39323 c 1.32501,-0.48065 3.01987,0.0985 4.82903,1.00505"
+         id="path4211"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 120.25529,130.82635 1.79049,0.36153"
+         id="path4213"
+         inkscape:connector-curvature="0" />
+    </g>
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4969"
+       width="191.33678"
+       height="3.9810991"
+       x="223.3681"
+       y="118.56302"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-casero-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 235.27659,118.13299 h 36.1426 c 0,0 -0.41944,-5.78347 4.19233,-10.11375 4.61178,-4.33028 13.2431,-2.05004 13.2431,-2.05004 0,0 13.10475,4.05509 30.21637,3.98353 17.11163,-0.0716 30.21638,-3.98353 30.21638,-3.98353 0,0 7.92813,-1.45862 12.23439,1.55878 4.30627,3.0174 5.20104,10.60501 5.20104,10.60501 h 36.14258"
+       id="path4971"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-casero-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cczccczcc" />
+    <rect
+       style="fill:#ff6600;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4973"
+       width="11.831117"
+       height="3.2173886"
+       x="301.80548"
+       y="115.34563"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-casero-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ff6600;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4975"
+       width="11.831117"
+       height="3.2173886"
+       x="324.55637"
+       y="115.34563"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-casero-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4991"
+       transform="matrix(1.6381288,-0.44169358,0.44169358,1.6381288,68.888089,-115.1566)"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-casero-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g4979">
+        <path
+           sodipodi:nodetypes="cccccccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path4977"
+           d="m 126.16067,115.38711 c -1.52338,1.51389 -2.14039,3.3069 -2.02374,5.32583 -0.50685,1.09707 -2.4109,2.34584 -2.02665,3.26683 -1.19649,1.92371 -1.6238,3.38923 -1.57181,4.56926 -0.54468,1.23936 -0.40343,1.7047 -0.34889,2.26804 -2.2657,3.4969 -4.09142,8.2545 -5.87792,13.12449 -2.30176,2.76536 -3.63916,5.7923 -4.89794,8.84056 -2.19098,3.7003 -3.75532,7.66981 -4.01902,11.39373 l -0.26617,0.55839 c 2.99614,3.107 4.94624,1.52332 7.01831,0.74627 6.63698,-3.11177 9.5037,-8.51998 12.21254,-14.02437 0.47261,-1.57181 1.57011,-3.12686 3.15082,-4.66892 4.41427,-4.7853 6.88557,-10.02183 9.85692,-15.14224 0.22837,-0.42844 0.57921,-1.03246 1.14248,-1.94104 1.67496,-1.79454 3.41809,-4.99706 5.13275,-7.61149 z"
+           style="fill:url(#linearGradient4993);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <path
+         style="fill:#f8ecf8;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 108.76195,154.14435 c -2.36188,2.82307 -3.50605,6.29719 -4.22813,10.20357 0.51781,0.12911 1.30265,-0.44447 2.15489,-1.19549 2.57527,-6.0679 1.84829,-7.14281 2.07324,-9.00808 z"
+         id="path4981"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 124.06572,120.89898 c 2.09364,-0.057 3.85338,0.53081 5.37343,1.58168"
+         id="path4983"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 122.10802,123.99151 c 2.00116,0.28671 3.9463,0.66384 5.42844,1.7885"
+         id="path4985"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 120.60721,128.39323 c 1.32501,-0.48065 3.01987,0.0985 4.82903,1.00505"
+         id="path4987"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 120.25529,130.82635 1.79049,0.36153"
+         id="path4989"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       id="path4967"
+       style="fill:#ff6600;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 291.74413,107.04189 c 0,0 13.72499,3.03447 27.24335,3.03447 13.51837,0 27.24334,-3.03447 27.24334,-3.03447 v 6.25186 c 0,0 -18.11819,2.68659 -27.24335,2.68659 -9.12516,0 -27.24334,-2.68659 -27.24334,-2.68659 z"
+       sodipodi:nodetypes="czcczcc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-casero-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.20651px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:73.5867;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.368965"
+       x="42.917309"
+       y="58.286972"
+       id="text2597"
+       inkscape:transform-center-x="24.974428"
+       inkscape:transform-center-y="2.3217399"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-casero-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(1.4391943,0,0,1.4391943,-6.9843401,61.599815)"><tspan
+         x="42.917309"
+         y="58.286972"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.368965">Pulsador liberado</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.20651px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:81.5196;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.368965"
+       x="42.917309"
+       y="58.286972"
+       id="text5051"
+       inkscape:transform-center-x="24.974428"
+       inkscape:transform-center-y="2.3217399"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-casero-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(1.4391943,0,0,1.4391943,199.89482,61.599815)"><tspan
+         x="42.917309"
+         y="58.286972"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.368965">Pulsador apretado</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.20651px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:73.5867;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.368965"
+       x="42.917309"
+       y="58.286972"
+       id="text2597-6"
+       inkscape:transform-center-x="24.974428"
+       inkscape:transform-center-y="2.3217399"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-casero-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(1.4391943,0,0,1.4391943,-0.68651341,78.553416)"><tspan
+         x="42.917309"
+         y="58.286972"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif">(Circuito abierto)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.20651px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:73.5867;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.368965"
+       x="42.917309"
+       y="58.286972"
+       id="text5078"
+       inkscape:transform-center-x="24.974428"
+       inkscape:transform-center-y="2.3217399"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/pulsador-casero-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(1.4391943,0,0,1.4391943,211.97963,78.553416)"><tspan
+         x="42.917309"
+         y="58.286972"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif">(Circuito cerrado)</tspan></tspan></text>
+  </g>
+</svg>
