@@ -205,7 +205,7 @@
           "type": "basic.constant",
           "data": {
             "name": "",
-            "value": "0",
+            "value": "1",
             "local": false
           },
           "position": {
