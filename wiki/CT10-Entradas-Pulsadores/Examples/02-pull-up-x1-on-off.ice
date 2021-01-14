@@ -79,7 +79,7 @@
           "id": "8d499690-3c9f-4620-b2a8-f8903b1788a0",
           "type": "basic.info",
           "data": {
-            "info": "## Example 3: Habilitando y deshabilitando el pull-up  \n\nCambiando el valor del parámetro on podemos habilitar/deshabilitar el pull-up interno    \nEl estado del botón se muestra en el LED0",
+            "info": "## Ejemplo 2: Habilitando y deshabilitando el pull-up  \n\nCambiando el valor del parámetro on podemos habilitar/deshabilitar el pull-up interno    \nEl estado del botón se muestra en el LED0",
             "readonly": true
           },
           "position": {
