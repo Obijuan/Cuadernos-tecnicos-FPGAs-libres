@@ -1,0 +1,29 @@
+[General]
+decode_signals=0
+generated_signals=0
+meta_objs=0
+views=1
+
+[0]
+color=4279638298
+conv_options=0
+conversion_type=0
+enabled=true
+name=Input
+
+[1]
+color=4287582722
+conv_options=0
+conversion_type=0
+enabled=true
+name=Output
+
+[view0]
+0\trace_height=30
+1\trace_height=30
+offset=22 serialization::archive 12 0 0 0 0 0 0 0 0 0 0 0 0 0 6
+scale=7.5287031808770947e-10
+segment_display_mode=1
+splitter_state=@ByteArray(\0\0\0\xff\0\0\0\x1\0\0\0\x2\0\0\0]\0\0\x6\xd8\x1\0\0\0\x1\x1\0\0\0\x1\0)
+v_offset=-30
+zero_offset=22 serialization::archive 12 0 0 0 0 0 0 0 0 0 0 0 0 0 6
