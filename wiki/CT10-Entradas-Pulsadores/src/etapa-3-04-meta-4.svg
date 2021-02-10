@@ -160,7 +160,10 @@
        id="rect1169"
        style="fill:#ffffff;stroke:#000000;stroke-width:0.793748;stroke-linecap:round"
        d="m 207.56332,168.80946 h 74.58844 c 0,0 -4.59906,3.75921 -4.36525,6.64521 0.2338,2.88599 4.35823,5.16391 4.36525,7.73895 0.007,2.57504 -2.89802,4.41639 -3.10807,7.31204 -0.21005,2.89564 3.10807,7.07212 3.10807,7.07212 h -74.58844 z"
-       sodipodi:nodetypes="cczzzccc" />
+       sodipodi:nodetypes="cczzzccc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-04-meta-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        style="display:inline;fill:#f2f2f2;stroke:#000000;stroke-width:0.671917;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect8568-4-8"
@@ -338,38 +341,38 @@
        height="28.768314"
        x="133.54341"
        y="168.80946"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-04-meta-2.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-04-meta-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.602067;stroke-linecap:round;stroke-linejoin:round"
        inkscape:connector-curvature="0"
        id="path1181"
        d="m 154.6747,186.82841 1.45582,3.19425 -1.34197,3.45534 1.48749,0.46571 m -4.61332,-6.84177 c 0,0 -0.38814,2.93137 -0.91967,3.16796 -0.53117,0.23694 -3.47627,2.43618 -3.47627,2.43618 l 0.94173,1.15664"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-04-meta-2.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-04-meta-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="font-style:normal;font-weight:normal;font-size:203.754px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        d="m 154.14677,183.10481 h -2.38714 v -1.481 c 0,-0.64754 0.11666,-1.17968 0.34994,-1.59641 0.23331,-0.41674 0.72489,-0.90079 1.47478,-1.45216 l 1.12482,-0.85591 c 0.47493,-0.3398 0.81653,-0.66036 1.02484,-0.96169 0.21663,-0.30133 0.32494,-0.60907 0.32494,-0.92323 0,-0.5706 -0.27495,-1.03221 -0.82486,-1.38483 -0.54158,-0.35263 -1.2623,-0.52893 -2.16217,-0.52893 -0.65823,0 -1.36227,0.11219 -2.11216,0.33659 -0.74154,0.22439 -1.51643,0.55137 -2.32464,0.98092 v -1.80798 c 0.78322,-0.36544 1.57475,-0.63792 2.37463,-0.81744 0.80821,-0.17952 1.64142,-0.26927 2.4996,-0.26927 1.5331,0 2.76207,0.31094 3.68693,0.93284 0.93318,0.6219 1.39978,1.44254 1.39978,2.46193 0,0.48726 -0.14997,0.95208 -0.44992,1.39446 -0.29997,0.43597 -0.82487,0.92964 -1.57476,1.48101 l -1.09982,0.82706 c -0.39161,0.30133 -0.67073,0.53854 -0.83737,0.71164 -0.15831,0.1667 -0.27079,0.33019 -0.33746,0.49047 -0.05,0.13464 -0.0875,0.29812 -0.11248,0.49046 -0.025,0.19234 -0.0375,0.4552 -0.0375,0.78859 z"
        id="path1183"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-04-meta-2.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-04-meta-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="font-style:normal;font-weight:normal;font-size:203.754px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        d="m 151.36858,184.08039 h 3.30612 v 2.74802 h -3.30612 z"
        id="path1185"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-04-meta-2.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-04-meta-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1545)"
        d="m 132.13543,149.54463 6.03951,16.14438"
        id="path1541"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-04-meta-2.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-04-meta-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
@@ -388,9 +391,9 @@
     <g
        id="g1137"
        transform="matrix(0.12739971,0,0,0.12844603,249.01289,172.20522)"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-04-meta-2.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-04-meta-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
        style="stroke-width:2.20618">
       <path
          d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z"
@@ -414,9 +417,9 @@
        inkscape:label="Layer 1"
        style="display:inline;stroke-width:2.44005"
        transform="matrix(0.12307834,0,0,0.12366753,221.26141,172.8825)"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-04-meta-2.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-04-meta-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <path
          style="fill:none;stroke:#008000;stroke-width:4.88008;stroke-linecap:round;stroke-linejoin:round"
          inkscape:connector-curvature="0"
@@ -439,16 +442,19 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 237.43451,193.40056 8.72907,-20.51831"
-       id="path1272" />
+       id="path1272"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-04-meta-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.31547px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="240.90207"
        y="205.36635"
        id="text1815"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-04-meta-2.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-04-meta-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          x="240.90207"
          y="205.36635"
@@ -465,9 +471,9 @@
        x="168.0863"
        y="206.52658"
        id="text1815-3"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-04-meta-2.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-04-meta-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          x="168.0863"
          y="206.52658"
@@ -498,19 +504,22 @@
        style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.793751, 0.793751;stroke-dashoffset:0;stroke-opacity:1"
        d="M 133.54341,197.57777 V 222.6001"
        id="path1383"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-04-meta-2.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-04-meta-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.793751, 0.793751;stroke-dashoffset:0;stroke-opacity:1"
        d="M 207.56332,197.57777 V 222.6001"
        id="path3750"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-04-meta-2.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-04-meta-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <g
        id="g3764"
-       transform="translate(-2.8635881,-16.144897)">
+       transform="translate(-2.8635881,-16.144897)"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-04-meta-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:6.31547px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
