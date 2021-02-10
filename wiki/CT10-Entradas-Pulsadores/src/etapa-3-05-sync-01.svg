@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="525.14539mm"
+   height="180.2636mm"
+   viewBox="0 0 525.14539 180.2636"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="etapa-3-05-sync-01.svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker1257"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1255" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path930" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1223"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1221" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1053.9843"
+     inkscape:cy="721.28297"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1860"
+     inkscape:window-height="1016"
+     inkscape:window-x="60"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="back"
+     transform="translate(173.03336,42.672787)">
+    <rect
+       style="fill:#ffffff;stroke-width:1.058;stroke-linecap:round"
+       id="rect11"
+       width="525.14539"
+       height="180.2636"
+       x="-173.03336"
+       y="-42.672787"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-05-sync-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(173.03336,42.672787)">
+    <g
+       id="layer2"
+       inkscape:label="Layer 2"
+       style="display:inline"
+       transform="translate(-22.169396,-15.077039)"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-05-sync-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         rx="4.5467601"
+         ry="4.5467601"
+         y="43.892712"
+         x="69.890633"
+         height="59.78083"
+         width="90.23188"
+         id="rect861"
+         style="display:inline;opacity:1;fill:#e3e3e3;fill-opacity:1;stroke:#777777;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path865"
+         d="m 62.859709,88.20868 h 7.15569"
+         style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:1.50714;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path865-3"
+         d="m 48.639579,58.684451 h 21.53613"
+         style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:1.5438;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="display:inline;opacity:1;fill:#fbfbc9;fill-opacity:1;stroke:#777777;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect948"
+         width="15.094369"
+         height="15.691935"
+         x="33.509697"
+         y="51.1698"
+         ry="3.7085862" />
+      <path
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#58595a;stroke-width:0.906947;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 69.834699,51.041325 8.76891,7.04631 -8.76891,7.41717"
+         id="path866"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g225"
+         transform="matrix(0.2106858,0,0,0.2106858,91.816359,51.415616)">
+        <circle
+           style="fill:#4d4d4d;fill-opacity:1;stroke-width:1"
+           cx="107.22564"
+           cy="107.22564"
+           r="107.22564"
+           id="circle2" />
+        <path
+           style="fill:#fbfbc9;fill-opacity:1;stroke-width:1"
+           d="m 107.36274,38.296616 c 14.50456,0.0306 29.2121,4.55227 40.70056,13.49971 8.07639,9.30412 -7.31248,19.26845 -14.2434,10.19563 -20.86457,-12.62429 -50.290356,-8.17979 -65.988192,10.695 -8.352111,9.366923 -13.057786,21.865603 -13.002641,34.413304 H 68.61752 C 61.264904,118.13683 53.910756,129.16575 46.557375,140.19467 39.203228,129.16575 31.849846,118.13683 24.495699,107.10792 h 13.788452 c -0.43886,-29.961901 21.108133,-58.461734 50.032252,-66.221034 6.211429,-1.70106 12.606667,-2.65383 19.047867,-2.5872 z m 60.53118,35.850143 c 7.35385,11.03045 14.70753,22.06167 22.06168,33.092111 h -13.78846 c 0.39062,30.31805 -21.7063,59.13724 -51.1405,66.48756 -19.86202,5.54647 -42.320436,1.49924 -58.644776,-11.19053 -8.328368,-9.45883 7.274188,-19.32743 14.269437,-10.17265 20.215099,12.26509 48.524199,8.37509 64.480909,-9.14252 9.24132,-9.52164 14.55971,-22.71115 14.48849,-35.98186 h -13.78845 c 7.35383,-11.030441 14.70752,-22.061661 22.06167,-33.092111 z"
+           id="path4"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path1050"
+         d="m 160.04403,73.456844 h 6.81456"
+         style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:1.47077;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-152.14902"
+       y="68.419006"
+       id="text897"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-05-sync-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan895"
+         x="-152.14902"
+         y="68.419006"
+         style="fill:#0000ff;stroke-width:0.264583">ENTRADA. Conectar a:</tspan><tspan
+         sodipodi:role="line"
+         x="-152.14902"
+         y="81.648132"
+         style="fill:#0000ff;stroke-width:0.264583"
+         id="tspan916">* Pin de la FPGA</tspan><tspan
+         sodipodi:role="line"
+         x="-152.14902"
+         y="94.877258"
+         style="fill:#0000ff;stroke-width:0.264583"
+         id="tspan918">* Salida del pull-up interno</tspan><tspan
+         sodipodi:role="line"
+         x="-152.14902"
+         y="108.10638"
+         style="fill:#0000ff;stroke-width:0.264583"
+         id="tspan899" /></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M -10.117236,82.468169 32.753138,75.26152"
+       id="path901"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-05-sync-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="63.709526"
+       y="105.24408"
+       id="text1379"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-05-sync-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="63.709526"
+         y="105.24408"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         id="tspan1377">Sync-x01</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="213.29099"
+       y="46.87439"
+       id="text1207"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-05-sync-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="213.29099"
+         y="46.87439"
+         style="fill:#0000ff;stroke-width:0.264583"
+         id="tspan1211">Salida de la etapa 3:</tspan><tspan
+         sodipodi:role="line"
+         x="213.29099"
+         y="60.103516"
+         style="fill:#0000ff;stroke-width:0.264583"
+         id="tspan1209"> Entrada sincronizada</tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1223)"
+       d="M 202.20711,59.357554 157.06406,58.862185"
+       id="path1219"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-05-sync-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-67.374229"
+       y="-12.651303"
+       id="text1207-6"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-05-sync-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="-67.374229"
+         y="-12.651303"
+         style="fill:#000000;stroke-width:0.264583"
+         id="tspan1209-5">Reloj del Sistema</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1257)"
+       d="M -23.173656,-6.2712465 6.690314,34.312884"
+       id="path1253"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-3-05-sync-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
