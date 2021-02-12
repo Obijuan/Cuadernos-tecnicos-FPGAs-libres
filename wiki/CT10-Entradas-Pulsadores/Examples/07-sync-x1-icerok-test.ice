@@ -249,11 +249,11 @@
           "id": "5b33485c-0ced-4b39-b551-9a60b63c168e",
           "type": "basic.info",
           "data": {
-            "info": "Dato de salida (1 bit)  \nCycle n+2",
+            "info": "Dato de salida (1 bit)  \nCiclo n+2",
             "readonly": true
           },
           "position": {
-            "x": 528,
+            "x": 512,
             "y": 480
           },
           "size": {
@@ -377,7 +377,7 @@
           "id": "69cf9515-ea75-497a-8ec7-ea69855c4cec",
           "type": "basic.info",
           "data": {
-            "info": "# Bloque Sync: Prueba con el analizador lógico\n\nAl apretar el pulsador SW1 se genera un tic que \nllega al bloque Sync por su entrada y se dispara el  \nanalizador lógico  \n\nEl mismo pulso se debe ver en la salida del bloque, pero  \nretrasado dos ciclos de reloj",
+            "info": "## Ejemplo 7: Midiendo el bloque Sync con el analizador lógico\n\nAl apretar el pulsador SW1 se genera un tic que \nllega al bloque Sync por su entrada y se dispara el  \nanalizador lógico  \n\nEl mismo pulso se debe ver en la salida del bloque, pero  \nretrasado dos ciclos de reloj",
             "readonly": true
           },
           "position": {
@@ -385,7 +385,7 @@
             "y": -40
           },
           "size": {
-            "width": 472,
+            "width": 504,
             "height": 144
           }
         },
