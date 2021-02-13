@@ -70,7 +70,7 @@
           "id": "2a8adcc5-2fb0-491e-a5c6-76747643c980",
           "type": "basic.input",
           "data": {
-            "name": "Btn",
+            "name": "Sw",
             "range": "[7:0]",
             "pins": [
               {
@@ -126,7 +126,7 @@
           "id": "8d499690-3c9f-4620-b2a8-f8903b1788a0",
           "type": "basic.info",
           "data": {
-            "info": "## Example 9: 8 switches con pull-up y sincronización  \n\nEl estado de los swithces se muestra en los LEDs 0-7  \n",
+            "info": "## Ejemplo 9: Ocho interruptores con pull-up y sincronización  \n\nEl estado de los interruptores se muestra en los LEDs 0-7  \n",
             "readonly": true
           },
           "position": {
@@ -160,6 +160,38 @@
           "size": {
             "width": 96,
             "height": 64
+          }
+        },
+        {
+          "id": "cbebef65-f2b8-400a-8ee6-bcce5463afdd",
+          "type": "basic.info",
+          "data": {
+            "info": "Pull-up-x8",
+            "readonly": true
+          },
+          "position": {
+            "x": -408,
+            "y": -128
+          },
+          "size": {
+            "width": 104,
+            "height": 32
+          }
+        },
+        {
+          "id": "36bf8c62-cacf-4386-b960-ffec057598bd",
+          "type": "basic.info",
+          "data": {
+            "info": "Sync-x8",
+            "readonly": true
+          },
+          "position": {
+            "x": -232,
+            "y": -144
+          },
+          "size": {
+            "width": 104,
+            "height": 32
           }
         }
       ],
