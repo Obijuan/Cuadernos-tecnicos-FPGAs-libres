@@ -422,12 +422,12 @@
           "id": "68bf6edb-ecb4-4d4d-af1e-54be640c4707",
           "type": "basic.info",
           "data": {
-            "info": "### Analizador lógico\n\nSacar la señal por el pin D0 para  \nrealizar lecturas con el analizador lógico",
+            "info": "### Analizador lógico\n\nSacar las señales input0 e input1  \npor los pines D0 y D1 respectivamente  \npara medirlas con el analizador lógico",
             "readonly": true
           },
           "position": {
             "x": 656,
-            "y": 576
+            "y": 536
           },
           "size": {
             "width": 336,
