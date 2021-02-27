@@ -1,0 +1,20 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Sat Feb 27 09:04:14 2021
+[*]
+[dumpfile] "/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/Measurements/Example-13/Example-13.vcd"
+[dumpfile_mtime] "Sat Feb 27 09:01:16 2021"
+[dumpfile_size] 10037
+[savefile] "/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/Measurements/Example-13/Example-13.gtkw"
+[timestart] 0
+[size] 1920 1043
+[pos] -391 -342
+*-32.318405 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 298
+@28
+libsigrok.input
+[pattern_trace] 1
+[pattern_trace] 0
