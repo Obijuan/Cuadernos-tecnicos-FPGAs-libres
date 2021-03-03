@@ -326,7 +326,7 @@
           "id": "109cba9c-baf2-4783-85f6-a848ad086b01",
           "type": "basic.info",
           "data": {
-            "info": "## Ejemplo 14: Circuito detector de rebotes\n\nComprobar que NO HAY NINGÚN rebote cuando se usa el bloque  \nantirrebotes con el detector de rebotes\n\nAl apretar el pulsador el contador se debe incrementar SOLO en 1 unidad",
+            "info": "## Ejemplo 15: Circuito detector de rebotes\n\nComprobar que NO HAY NINGÚN rebote cuando se usa el bloque  \nantirrebotes con el detector de rebotes\n\nAl apretar el pulsador el contador se debe incrementar SOLO en 1 unidad",
             "readonly": true
           },
           "position": {
