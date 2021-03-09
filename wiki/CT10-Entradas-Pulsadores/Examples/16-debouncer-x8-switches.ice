@@ -139,16 +139,16 @@
           "id": "5dc2f35d-1d90-438d-b481-69943d7a017e",
           "type": "basic.info",
           "data": {
-            "info": "## Ejemplo 16: Prueba del bloque Debouncer-x8\n\nMostrar el valor de los swithces por los LEDs 0 - 7",
+            "info": "## Ejemplo 16: Prueba del bloque Debouncer-x8\n\nMostrar el valor de los swithces por los LEDs 0 - 7\n\n* Switch ON: LED encendido\n* Switch OFF: LED apagado",
             "readonly": true
           },
           "position": {
-            "x": 168,
-            "y": 160
+            "x": 112,
+            "y": 104
           },
           "size": {
             "width": 544,
-            "height": 88
+            "height": 112
           }
         },
         {
@@ -197,6 +197,70 @@
           "size": {
             "width": 96,
             "height": 64
+          }
+        },
+        {
+          "id": "ce84e3e0-1677-4d86-a606-cf197b3b9a61",
+          "type": "basic.info",
+          "data": {
+            "info": "Pull-up",
+            "readonly": true
+          },
+          "position": {
+            "x": 232,
+            "y": 480
+          },
+          "size": {
+            "width": 80,
+            "height": 32
+          }
+        },
+        {
+          "id": "a1433c31-02b0-48a0-979e-fae699df57bb",
+          "type": "basic.info",
+          "data": {
+            "info": "Sync",
+            "readonly": true
+          },
+          "position": {
+            "x": 400,
+            "y": 464
+          },
+          "size": {
+            "width": 64,
+            "height": 32
+          }
+        },
+        {
+          "id": "89edda97-7269-4ed4-8e86-997c5a68c4da",
+          "type": "basic.info",
+          "data": {
+            "info": "Not-wire-x8",
+            "readonly": true
+          },
+          "position": {
+            "x": 576,
+            "y": 464
+          },
+          "size": {
+            "width": 112,
+            "height": 32
+          }
+        },
+        {
+          "id": "523a868e-5e5b-4cf2-9430-df05c6c2d3e6",
+          "type": "basic.info",
+          "data": {
+            "info": "Debouncer-x8",
+            "readonly": true
+          },
+          "position": {
+            "x": 744,
+            "y": 440
+          },
+          "size": {
+            "width": 128,
+            "height": 32
           }
         }
       ],
