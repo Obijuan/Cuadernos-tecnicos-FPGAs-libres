@@ -63,22 +63,6 @@
           }
         },
         {
-          "id": "5dc2f35d-1d90-438d-b481-69943d7a017e",
-          "type": "basic.info",
-          "data": {
-            "info": "## Button test\n",
-            "readonly": true
-          },
-          "position": {
-            "x": 72,
-            "y": 24
-          },
-          "size": {
-            "width": 296,
-            "height": 56
-          }
-        },
-        {
           "id": "661599a1-7335-4d8e-ab90-e5dffac888e7",
           "type": "08b3c2b378adb9d7d909e44048cf081c4639ba57",
           "position": {
@@ -87,6 +71,54 @@
           },
           "size": {
             "width": 96,
+            "height": 64
+          }
+        },
+        {
+          "id": "9a0537d6-6faf-4007-bf79-25bfadf59d34",
+          "type": "basic.info",
+          "data": {
+            "info": "## Ejemplo 18: Dos pulsadores de la Alhambra II\n\nLos pulsadores SW1 y SW2 de la Alhambra II controlan  \nlos LEDs 0 y 1 respectivamente\n\n* Al apretarlos se enciende su LED asociado\n* Al soltarlo se apaga",
+            "readonly": true
+          },
+          "position": {
+            "x": -40,
+            "y": -64
+          },
+          "size": {
+            "width": 416,
+            "height": 128
+          }
+        },
+        {
+          "id": "89a98cf6-3c32-48cb-b8bb-e0cb6b86a333",
+          "type": "basic.info",
+          "data": {
+            "info": "Button-x02",
+            "readonly": true
+          },
+          "position": {
+            "x": 248,
+            "y": 304
+          },
+          "size": {
+            "width": 112,
+            "height": 40
+          }
+        },
+        {
+          "id": "557e051a-b976-44fb-b563-699eec8296aa",
+          "type": "basic.info",
+          "data": {
+            "info": "Ambos parámetros se dejan  \na 0, porque los pulsadores de la  \nAlhambra II tiene pull-down externo",
+            "readonly": true
+          },
+          "position": {
+            "x": 200,
+            "y": 120
+          },
+          "size": {
+            "width": 288,
             "height": 64
           }
         }
