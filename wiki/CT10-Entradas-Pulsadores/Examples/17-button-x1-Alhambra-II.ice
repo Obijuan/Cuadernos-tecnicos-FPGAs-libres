@@ -54,16 +54,16 @@
           "id": "5dc2f35d-1d90-438d-b481-69943d7a017e",
           "type": "basic.info",
           "data": {
-            "info": "## Button test\n",
+            "info": "## Ejemplo 17: Un pulsador de la Alhambra II\n\nEl pulsador SW1 de la Alhambra II controla el LED0:\n\n* Al apretarlo el LED0 se enciende\n* Al soltarlo el LED0 se apaga",
             "readonly": true
           },
           "position": {
-            "x": 72,
-            "y": 24
+            "x": -64,
+            "y": -56
           },
           "size": {
-            "width": 296,
-            "height": 56
+            "width": 424,
+            "height": 120
           }
         },
         {
@@ -76,6 +76,38 @@
           "size": {
             "width": 96,
             "height": 64
+          }
+        },
+        {
+          "id": "ee77c09a-a07b-47d7-a8e1-207843808436",
+          "type": "basic.info",
+          "data": {
+            "info": "Como el pulsador de la Alhambra II  \nTiene una resistencia de pull-down  \nLos parámetros pup y not tiene que  \nestar a 0.\n\nDato que es su valor por defecto no  \nhace falta añadir nada a los parámetros",
+            "readonly": true
+          },
+          "position": {
+            "x": 344,
+            "y": 48
+          },
+          "size": {
+            "width": 320,
+            "height": 128
+          }
+        },
+        {
+          "id": "bb6999e1-afe3-430e-88e6-a80939101652",
+          "type": "basic.info",
+          "data": {
+            "info": "Button-x01",
+            "readonly": true
+          },
+          "position": {
+            "x": 264,
+            "y": 304
+          },
+          "size": {
+            "width": 112,
+            "height": 40
           }
         }
       ],
