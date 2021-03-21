@@ -126,7 +126,7 @@
           "id": "5dc2f35d-1d90-438d-b481-69943d7a017e",
           "type": "basic.info",
           "data": {
-            "info": "## Ejemplo 21: Conexión directa de 8 switches\n\nConexión de 8 swithces. Sus señales de estado se  \nmuestran por los LEDs 0 - 7\n",
+            "info": "## Ejemplo 21: Conexión directa de 8 switches\n\nConexión de 8 switches. Sus señales de estado se  \nmuestran por los LEDs 0 - 7\n",
             "readonly": true
           },
           "position": {
