@@ -62,7 +62,7 @@
             "virtual": false
           },
           "position": {
-            "x": 512,
+            "x": 480,
             "y": 208
           }
         },
@@ -118,7 +118,7 @@
             "clock": false
           },
           "position": {
-            "x": 24,
+            "x": 112,
             "y": 224
           }
         },
