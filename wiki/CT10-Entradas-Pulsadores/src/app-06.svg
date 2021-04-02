@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="422.16597"
-     inkscape:cy="535.81991"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="620.22817"
+     inkscape:cy="482.34526"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
@@ -58,8 +58,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(56.764492,-38.156654)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <image
        width="317.5"
        height="238.125"
@@ -46344,7 +46343,10 @@ KPOcMi+QJUlUXdOELI6wDBtF0RscjAXN82drZ4f/A8Qzuq/EhpJDAAAAAElFTkSuQmCC
 "
        id="image905"
        x="-56.764492"
-       y="38.156654" />
+       y="38.156654"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/App-12.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -46354,7 +46356,7 @@ KPOcMi+QJUlUXdOELI6wDBtF0RscjAXN82drZ4f/A8Qzuq/EhpJDAAAAAElFTkSuQmCC
     <g
        id="g904"
        transform="translate(29.71522,-6.8878753)"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/App-10.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/App-12.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -46387,7 +46389,7 @@ KPOcMi+QJUlUXdOELI6wDBtF0RscjAXN82drZ4f/A8Qzuq/EhpJDAAAAAElFTkSuQmCC
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/App-10.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/App-12.png"
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
        id="path2184"
@@ -46397,7 +46399,7 @@ KPOcMi+QJUlUXdOELI6wDBtF0RscjAXN82drZ4f/A8Qzuq/EhpJDAAAAAElFTkSuQmCC
        transform="scale(0.9645446,1.0367587)"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/App-10.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/App-12.png"
        id="text2188"
        y="92.601906"
        x="192.36678"
@@ -46411,7 +46413,7 @@ KPOcMi+QJUlUXdOELI6wDBtF0RscjAXN82drZ4f/A8Qzuq/EhpJDAAAAAElFTkSuQmCC
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/App-10.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/App-12.png"
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
        id="path913"
@@ -46421,7 +46423,7 @@ KPOcMi+QJUlUXdOELI6wDBtF0RscjAXN82drZ4f/A8Qzuq/EhpJDAAAAAElFTkSuQmCC
        transform="scale(0.9645446,1.0367587)"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/App-10.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/App-12.png"
        id="text917"
        y="210.8855"
        x="187.50055"
@@ -46439,7 +46441,10 @@ KPOcMi+QJUlUXdOELI6wDBtF0RscjAXN82drZ4f/A8Qzuq/EhpJDAAAAAElFTkSuQmCC
          id="tspan926">Shield</tspan></text>
     <g
        id="g918"
-       transform="translate(-0.64249492,-7.1112538)">
+       transform="translate(-0.64249492,-7.1112538)"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/App-12.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -46468,7 +46473,7 @@ KPOcMi+QJUlUXdOELI6wDBtF0RscjAXN82drZ4f/A8Qzuq/EhpJDAAAAAElFTkSuQmCC
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/App-10.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/App-12.png"
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
        id="path909"
@@ -46478,7 +46483,7 @@ KPOcMi+QJUlUXdOELI6wDBtF0RscjAXN82drZ4f/A8Qzuq/EhpJDAAAAAElFTkSuQmCC
        transform="scale(0.9645446,1.0367587)"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/App-10.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/App-12.png"
        id="text913"
        y="78.905846"
        x="63.814529"
@@ -46492,7 +46497,7 @@ KPOcMi+QJUlUXdOELI6wDBtF0RscjAXN82drZ4f/A8Qzuq/EhpJDAAAAAElFTkSuQmCC
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/App-10.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/App-12.png"
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
        id="path920"
@@ -46502,7 +46507,7 @@ KPOcMi+QJUlUXdOELI6wDBtF0RscjAXN82drZ4f/A8Qzuq/EhpJDAAAAAElFTkSuQmCC
        transform="scale(0.9645446,1.0367587)"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/App-10.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/App-12.png"
        id="text924"
        y="61.273987"
        x="110.94635"
@@ -46516,7 +46521,7 @@ KPOcMi+QJUlUXdOELI6wDBtF0RscjAXN82drZ4f/A8Qzuq/EhpJDAAAAAElFTkSuQmCC
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/App-10.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/App-12.png"
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
        id="path928"
@@ -46526,7 +46531,7 @@ KPOcMi+QJUlUXdOELI6wDBtF0RscjAXN82drZ4f/A8Qzuq/EhpJDAAAAAElFTkSuQmCC
        transform="scale(0.9645446,1.0367587)"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/App-10.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/App-12.png"
        id="text934"
        y="198.85326"
        x="-14.809533"
