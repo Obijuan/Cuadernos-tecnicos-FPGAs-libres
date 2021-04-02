@@ -65,7 +65,7 @@
           "id": "d12fb6e2-dbd4-4195-94a5-d9ba0010ab76",
           "type": "basic.info",
           "data": {
-            "info": "## Ejemplo 34: Edchina. Botones y LEDs\n\n",
+            "info": "## Ejemplo 34: Edchina. Botones y LEDs\n\nEncender los 3 LEDs cuando se aprieta el pulsador",
             "readonly": true
           },
           "position": {
