@@ -408,16 +408,16 @@
           "id": "d12fb6e2-dbd4-4195-94a5-d9ba0010ab76",
           "type": "basic.info",
           "data": {
-            "info": "## Ejemplo 31: Arduino Joystick. ",
+            "info": "## Ejemplo 31: Arduino Joystick. Botones y LEDs\n\nCada vez que se aprieta uno de los 7 botones del Arduino Joystick se cambia el  \nestado de su LED asociado (0-6). Además se emite un pitido corto por cada pulsación\n\nEl LED7 se enciende si alguno de los pulsadores está apretado",
             "readonly": true
           },
           "position": {
-            "x": -424,
-            "y": -424
+            "x": -440,
+            "y": -480
           },
           "size": {
-            "width": 616,
-            "height": 80
+            "width": 648,
+            "height": 112
           }
         },
         {
@@ -578,6 +578,70 @@
           "size": {
             "width": 96,
             "height": 64
+          }
+        },
+        {
+          "id": "ff0759be-3a7f-4389-9730-3ec37b63a4ab",
+          "type": "basic.info",
+          "data": {
+            "info": "Mostrar si hay algún botón  \napretado",
+            "readonly": true
+          },
+          "position": {
+            "x": 88,
+            "y": -264
+          },
+          "size": {
+            "width": 224,
+            "height": 56
+          }
+        },
+        {
+          "id": "693c19dc-675e-4e61-8b53-86cdcb2dcd2e",
+          "type": "basic.info",
+          "data": {
+            "info": "Emitir un pitido corto si hay se  \nha apretado alguno de los pulsadores",
+            "readonly": true
+          },
+          "position": {
+            "x": -304,
+            "y": 32
+          },
+          "size": {
+            "width": 304,
+            "height": 56
+          }
+        },
+        {
+          "id": "0c974f81-29c6-4c6a-ac22-77d7718aa88c",
+          "type": "basic.info",
+          "data": {
+            "info": "Cambiar los LEDs de estado si  \nse ha pulsado su tecla correspondiente",
+            "readonly": true
+          },
+          "position": {
+            "x": 264,
+            "y": -152
+          },
+          "size": {
+            "width": 328,
+            "height": 56
+          }
+        },
+        {
+          "id": "673bf786-a580-4f3a-b8ed-554f20c3bb11",
+          "type": "basic.info",
+          "data": {
+            "info": "Biestables T",
+            "readonly": true
+          },
+          "position": {
+            "x": 720,
+            "y": -448
+          },
+          "size": {
+            "width": 144,
+            "height": 40
           }
         }
       ],
