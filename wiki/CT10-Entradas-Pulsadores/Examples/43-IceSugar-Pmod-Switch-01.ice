@@ -158,15 +158,15 @@
           "id": "d12fb6e2-dbd4-4195-94a5-d9ba0010ab76",
           "type": "basic.info",
           "data": {
-            "info": "## Ejemplo 43: IceSugar PMOD-Switch. Test\n\n",
+            "info": "## Ejemplo 43: IceSugar PMOD-Switch. Test\n\nEl estado de los switches se muestra por los 8 LEDs de la Alhambra II  \nCada vez que un switch pasa de 0 a 1 se emite un pitido corto",
             "readonly": true
           },
           "position": {
-            "x": -992,
-            "y": -1008
+            "x": -984,
+            "y": -952
           },
           "size": {
-            "width": 504,
+            "width": 568,
             "height": 96
           }
         },
