@@ -42339,39 +42339,6 @@ y+J0EGuwZQ38fxufOmGcSvRXAAAAAElFTkSuQmCC
      id="layer2"
      inkscape:label="Layer 2"
      transform="translate(55.537643,-38.588657)">
-    <g
-       id="g904"
-       transform="translate(29.71522,-6.8878753)"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/App-31.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/App-03.png"
-         sodipodi:nodetypes="cccccccccccccc"
-         inkscape:connector-curvature="0"
-         id="path5221-3"
-         d="m -2.6190545,171.11765 c -2.609896,0.10389 -7.8296895,0.0829 -7.8296895,0.0829 h -7.13443 -9.148544 v -2.33829 -6.08112 h 12.964554 10.9504695 l 3.14911001,-1.16405 3.14909999,-1.16405 -3.05519999,3.81447 -3.05519001,3.81447 0.005,0.66839 z"
-         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.629441;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         transform="scale(0.9645446,1.0367587)"
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/App-03.png"
-         id="text5227-6"
-         y="162.97511"
-         x="-24.505369"
-         style="font-style:normal;font-weight:normal;font-size:6.68105px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.302906"
-         xml:space="preserve"
-         inkscape:transform-center-x="1.1667743"
-         inkscape:transform-center-y="2.6018623"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.302906"
-           y="162.97511"
-           x="-24.505369"
-           sodipodi:role="line"
-           id="tspan5225-7">LEDs</tspan></text>
-    </g>
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
