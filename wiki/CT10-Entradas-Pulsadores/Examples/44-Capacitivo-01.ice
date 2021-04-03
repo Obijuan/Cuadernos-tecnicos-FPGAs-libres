@@ -62,7 +62,7 @@
             "virtual": false
           },
           "position": {
-            "x": -304,
+            "x": -480,
             "y": -952
           }
         },
@@ -82,8 +82,8 @@
             "clock": false
           },
           "position": {
-            "x": -896,
-            "y": -656
+            "x": -960,
+            "y": -808
           }
         },
         {
@@ -101,8 +101,8 @@
             "virtual": false
           },
           "position": {
-            "x": -128,
-            "y": -520
+            "x": -296,
+            "y": -528
           }
         },
         {
@@ -114,15 +114,15 @@
             "local": false
           },
           "position": {
-            "x": -256,
-            "y": -624
+            "x": -408,
+            "y": -632
           }
         },
         {
           "id": "d12fb6e2-dbd4-4195-94a5-d9ba0010ab76",
           "type": "basic.info",
           "data": {
-            "info": "## Ejemplo 44: Pulsador capacitivo. Test\n\n",
+            "info": "## Ejemplo 44: Pulsador capacitivo. Test\n\nEl estado del pulsador capacitivo se muestra en los 8 LEDs de la  \nAlhambra II. Cada vez que se pulsa se emite un pitido corto",
             "readonly": true
           },
           "position": {
@@ -138,8 +138,8 @@
           "id": "210cc272-e2f3-4f0f-b141-a7adbfaf7fec",
           "type": "53c0323161effbfdf913a9cc422f18b27f12df1c",
           "position": {
-            "x": -280,
-            "y": -520
+            "x": -432,
+            "y": -528
           },
           "size": {
             "width": 96,
@@ -154,8 +154,8 @@
             "readonly": true
           },
           "position": {
-            "x": -496,
-            "y": -440
+            "x": -640,
+            "y": -560
           },
           "size": {
             "width": 248,
@@ -166,8 +166,8 @@
           "id": "9b5b65ba-7227-4deb-b270-8a185a360c13",
           "type": "f08a82ba2df4b812c3ec75b5e1a283ae0e70cc3f",
           "position": {
-            "x": -736,
-            "y": -672
+            "x": -800,
+            "y": -824
           },
           "size": {
             "width": 96,
@@ -178,12 +178,28 @@
           "id": "a5d8ad52-9d26-4252-9228-a03174e0db22",
           "type": "4b11e019e4e51202d13223da548b5cdfffe51e7d",
           "position": {
-            "x": -448,
+            "x": -640,
             "y": -840
           },
           "size": {
             "width": 96,
             "height": 64
+          }
+        },
+        {
+          "id": "e3732b97-5db2-401e-9fd3-77d3389fad96",
+          "type": "basic.info",
+          "data": {
+            "info": "Button-x1",
+            "readonly": true
+          },
+          "position": {
+            "x": -792,
+            "y": -736
+          },
+          "size": {
+            "width": 120,
+            "height": 32
           }
         }
       ],
@@ -231,8 +247,8 @@
           },
           "vertices": [
             {
-              "x": -608,
-              "y": -520
+              "x": -680,
+              "y": -664
             }
           ]
         },
