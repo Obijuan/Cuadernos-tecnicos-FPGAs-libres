@@ -92,16 +92,16 @@
           "id": "d12fb6e2-dbd4-4195-94a5-d9ba0010ab76",
           "type": "basic.info",
           "data": {
-            "info": "## Ejemplo 40: LaleBot-Shield-2. Test\n\n",
+            "info": "## Ejemplo 40: LaleBot-Shield-2. Test\n\nCada vez que se aprieta el pulsador se emite un pitido corto y se cambian de estado los  \nLEDs rojo y verde de la placa",
             "readonly": true
           },
           "position": {
-            "x": -896,
-            "y": -1128
+            "x": -776,
+            "y": -1040
           },
           "size": {
-            "width": 704,
-            "height": 144
+            "width": 672,
+            "height": 88
           }
         },
         {
@@ -162,6 +162,38 @@
           "size": {
             "width": 96,
             "height": 64
+          }
+        },
+        {
+          "id": "6fad512c-84b6-4050-b146-cf66916ebf2a",
+          "type": "basic.info",
+          "data": {
+            "info": "Button-x1",
+            "readonly": true
+          },
+          "position": {
+            "x": -552,
+            "y": -568
+          },
+          "size": {
+            "width": 144,
+            "height": 32
+          }
+        },
+        {
+          "id": "44b6ef02-f496-4a53-8d6b-0e280f64034e",
+          "type": "basic.info",
+          "data": {
+            "info": "Biestable T",
+            "readonly": true
+          },
+          "position": {
+            "x": -304,
+            "y": -568
+          },
+          "size": {
+            "width": 120,
+            "height": 32
           }
         }
       ],
