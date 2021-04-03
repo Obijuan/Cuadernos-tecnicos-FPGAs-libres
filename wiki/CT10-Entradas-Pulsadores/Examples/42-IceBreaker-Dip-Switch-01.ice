@@ -158,12 +158,12 @@
           "id": "d12fb6e2-dbd4-4195-94a5-d9ba0010ab76",
           "type": "basic.info",
           "data": {
-            "info": "## Ejemplo 42: IceBreaker DIP-Swith. Test\n\n",
+            "info": "## Ejemplo 42: IceBreaker DIP-Swith. Test\n\nEl estado de los switches se muestra por los 8 LEDs de la Alhambra II  \nCada vez que un switch pasa de 0 a 1 se emite un pitido corto",
             "readonly": true
           },
           "position": {
-            "x": -992,
-            "y": -1008
+            "x": -1000,
+            "y": -968
           },
           "size": {
             "width": 504,
@@ -220,6 +220,38 @@
           "size": {
             "width": 248,
             "height": 72
+          }
+        },
+        {
+          "id": "2cf9decf-37ed-4433-8cfd-e34b967bb0cf",
+          "type": "basic.info",
+          "data": {
+            "info": "Button-tic-x08",
+            "readonly": true
+          },
+          "position": {
+            "x": -704,
+            "y": -576
+          },
+          "size": {
+            "width": 192,
+            "height": 40
+          }
+        },
+        {
+          "id": "ec54b4f8-99ab-4c93-b506-0e1208abaeba",
+          "type": "basic.info",
+          "data": {
+            "info": "Micro-interruptores",
+            "readonly": true
+          },
+          "position": {
+            "x": -880,
+            "y": -800
+          },
+          "size": {
+            "width": 200,
+            "height": 40
           }
         }
       ],
