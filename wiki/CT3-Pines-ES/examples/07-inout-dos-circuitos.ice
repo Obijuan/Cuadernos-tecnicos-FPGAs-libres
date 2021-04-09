@@ -261,7 +261,7 @@
           "id": "49e96725-30da-488f-8c8d-78dda2281b0d",
           "type": "basic.info",
           "data": {
-            "info": "### CIRCUITO 2  \n\nSegún la configuración del pin D13:\n\n**Entrada**: Saca por LED7 lo recibido  \n**Salida**: Envía señal de 4Hz por pin\n",
+            "info": "### CIRCUITO 2  \n\nSegún la configuración del pin D0:\n\n**Entrada**: Saca por LED0 lo recibido  \n**Salida**: Envía señal de 4Hz por pin\n",
             "readonly": true
           },
           "position": {
