@@ -254,7 +254,7 @@
           "type": "basic.constant",
           "data": {
             "name": "",
-            "value": "1",
+            "value": "2",
             "local": false
           },
           "position": {
@@ -18764,7 +18764,8 @@
             {
               "source": {
                 "block": "3e3982eb-a20a-47a0-b6ab-5199ac2dddd5",
-                "port": "521f03e5-f364-41b0-a2b8-c7858e6debf5"
+                "port": "521f03e5-f364-41b0-a2b8-c7858e6debf5",
+                "size": 2
               },
               "target": {
                 "block": "94fe5c09-9647-4a44-bc59-4d639686b0fa",
@@ -18790,7 +18791,8 @@
               },
               "target": {
                 "block": "260e86a2-5bb2-467c-8e22-89b78112b481",
-                "port": "in"
+                "port": "in",
+                "size": 2
               },
               "size": 2
             },
