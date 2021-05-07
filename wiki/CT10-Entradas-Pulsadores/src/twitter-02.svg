@@ -2,23 +2,37 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="447.29703mm"
    height="328.61252mm"
    viewBox="0 0 447.29703 328.61252"
    version="1.1"
    id="svg1318"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="twitter-02.svg">
+   inkscape:version="1.1-rc (52f87abb86, 2021-05-02)"
+   sodipodi:docname="twitter-02.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs1312">
+    <marker
+       style="overflow:visible;"
+       id="marker6622"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path6388" />
+    </marker>
     <marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
@@ -57,15 +71,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="610.20207"
-     inkscape:cy="387.43617"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="797.01036"
+     inkscape:cy="582.85802"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:window-width="1860"
      inkscape:window-height="1016"
      inkscape:window-x="60"
@@ -96,13 +110,13 @@
      inkscape:label="back"
      transform="translate(-88.937794,-7.9616063)">
     <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect2791"
        width="446.76785"
        height="328.08334"
        x="89.202377"
        y="8.2261896"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
   </g>
@@ -114,7 +128,7 @@
     <image
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        width="294.62482"
        height="290.34714"
        preserveAspectRatio="none"
@@ -128,7 +142,7 @@
        id="flowRoot5934"
        xml:space="preserve"
        transform="matrix(0.28222223,0,0,0.28222223,394.59687,-163.57659)"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion5936"><rect
@@ -138,12 +152,13 @@
            width="258.57144"
            id="rect5938" /></flowRegion><flowPara
          id="flowPara5940"
-         style="font-size:20px;line-height:1.25"> </flowPara></flowRoot>    <flowRoot
+         style="font-size:20px;line-height:1.25"> </flowPara></flowRoot>
+    <flowRoot
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5934-7"
        xml:space="preserve"
        transform="matrix(0.28222223,0,0,0.28222223,343.10209,-136.62214)"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion5936-9"><rect
@@ -153,12 +168,13 @@
            width="258.57144"
            id="rect5938-2" /></flowRegion><flowPara
          id="flowPara5940-0"
-         style="font-size:20px;line-height:1.25"> </flowPara></flowRoot>    <flowRoot
+         style="font-size:20px;line-height:1.25"> </flowPara></flowRoot>
+    <flowRoot
        transform="matrix(0.28222223,0,0,0.28222223,384.30231,-31.194196)"
        xml:space="preserve"
        id="flowRoot5934-2"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion5936-3"><rect
@@ -168,12 +184,13 @@
            x="52.857143"
            y="612.36218" /></flowRegion><flowPara
          id="flowPara5940-5"
-         style="font-size:20px;line-height:1.25"> </flowPara></flowRoot>    <flowRoot
+         style="font-size:20px;line-height:1.25"> </flowPara></flowRoot>
+    <flowRoot
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5934-7-1"
        xml:space="preserve"
        transform="matrix(0.28222223,0,0,0.28222223,255.26761,126.89812)"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion5936-9-9"><rect
@@ -183,12 +200,13 @@
            width="258.57144"
            id="rect5938-2-4" /></flowRegion><flowPara
          id="flowPara5940-0-7"
-         style="font-size:20px;line-height:1.25"> </flowPara></flowRoot>    <flowRoot
+         style="font-size:20px;line-height:1.25"> </flowPara></flowRoot>
+    <flowRoot
        transform="matrix(0.28222223,0,0,0.28222223,385.10868,64.019753)"
        xml:space="preserve"
        id="flowRoot5934-8"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion5936-8"><rect
@@ -198,12 +216,13 @@
            x="52.857143"
            y="612.36218" /></flowRegion><flowPara
          id="flowPara5940-3"
-         style="font-size:20px;line-height:1.25"> </flowPara></flowRoot>    <flowRoot
+         style="font-size:20px;line-height:1.25"> </flowPara></flowRoot>
+    <flowRoot
        transform="matrix(0.28222223,0,0,0.28222223,332.54478,-29.831627)"
        xml:space="preserve"
        id="flowRoot5934-7-7"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion5936-9-1"><rect
@@ -213,15 +232,16 @@
            x="52.857143"
            y="612.36218" /></flowRegion><flowPara
          id="flowPara5940-0-2"
-         style="font-size:20px;line-height:1.25"> </flowPara></flowRoot>    <path
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="font-size:20px;line-height:1.25"> </flowPara></flowRoot>
+    <path
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.282222;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 275.51605,58.934371 -10.38694,10.790988 3.6696,199.737521 7.33924,7.2978 198.79686,-3.80755 7.33922,-6.02861 1.59549,-197.9924 -7.6583,-7.297796 z"
        id="path4958"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png" />
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -231,7 +251,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        style="display:inline;fill:none;stroke:#777777;stroke-width:0.7971471;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 220.26732,130.80979 H 173.06863"
        id="path2427"
@@ -243,29 +263,29 @@
        height="18.721281"
        x="219.99254"
        y="122.05193"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.84170008px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299"
+       style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="229.73769"
        y="129.17775"
        id="text835-7-6-0-0-1"
        inkscape:transform-center-x="16.474636"
        inkscape:transform-center-y="1.5315389"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan833-5-2-9-63-5"
          x="229.73769"
          y="129.17775"
-         style="text-align:center;text-anchor:middle;stroke-width:0.26458299">Pin</tspan><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583">Pin</tspan><tspan
          sodipodi:role="line"
          x="229.73769"
          y="137.72987"
-         style="text-align:center;text-anchor:middle;stroke-width:0.26458299"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
          id="tspan6825">FPGA</tspan></text>
     <rect
        rx="2.2703352"
@@ -276,7 +296,7 @@
        width="45.055511"
        id="rect861"
        style="display:inline;fill:#e3e3e3;fill-opacity:1;stroke:#777777;stroke-width:0.26571599;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -284,7 +304,7 @@
        id="path865-2-1-2"
        d="m 289.70139,130.80985 h -8.14393"
        style="display:inline;fill:none;stroke:#777777;stroke-width:0.7971471;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -292,7 +312,7 @@
        d="m 324.80656,133.62272 -9.04335,-5.1089 v 4.99146 h -10.2178 v -1.58552 c 0,-0.11745 -0.0587,-0.2349 -0.17618,-0.2349 l -1.35062,-0.70467 3.28849,-1.70297 c 0.11743,-0.0587 0.17617,-0.17617 0.17617,-0.29362 0,-0.11744 -0.0587,-0.23489 -0.17617,-0.23489 l -3.34722,-1.58552 1.40935,-0.93957 c 0.0587,-0.0587 0.11745,-0.11744 0.11745,-0.23489 v -1.58552 h 1.82042 l -2.05531,-3.58211 -2.05531,3.58211 h 1.7617 v 1.46807 l -1.70297,1.17446 c -0.0587,0.0587 -0.11746,0.17617 -0.11746,0.29362 0,0.11745 0.0587,0.17617 0.17618,0.23489 l 3.28849,1.5268 -3.28849,1.70297 c -0.11745,0.0587 -0.17618,0.17617 -0.17618,0.23489 0,0.0587 0.0587,0.23489 0.17618,0.23489 l 1.70296,0.88085 v 1.40935 h -11.33355 v 0.70468 h 22.07987 v 4.99146 l 9.04335,-5.10891 h 6.16591 v -0.46978 h -6.16591 z m -19.55477,-11.9795 1.29191,2.2902 h -2.64255 z m 11.27482,16.26629 v -8.10378 l 7.22294,4.05189 z"
        inkscape:connector-curvature="0"
        style="stroke-width:0.58723038"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -300,24 +320,24 @@
        id="path1104"
        d="M 382.04113,130.80979 H 334.84244"
        style="display:inline;fill:none;stroke:#777777;stroke-width:0.7971471;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.04576015px;line-height:1.25;font-family:sans-serif;fill:#767675;fill-opacity:1;stroke:none;stroke-width:0.13285799"
+       style="font-style:normal;font-weight:normal;font-size:6.04576px;line-height:1.25;font-family:sans-serif;fill:#767675;fill-opacity:1;stroke:none;stroke-width:0.132858"
        x="-113.84522"
        y="309.3208"
        id="text1108"
        transform="rotate(-90)"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan1106"
          x="-113.84522"
          y="309.3208"
-         style="fill:#767675;fill-opacity:1;stroke-width:0.13285799">on</tspan></text>
+         style="fill:#767675;fill-opacity:1;stroke-width:0.132858">on</tspan></text>
     <rect
        rx="2.2703352"
        ry="2.2703352"
@@ -327,7 +347,7 @@
        width="45.055515"
        id="rect861-6"
        style="display:inline;opacity:1;fill:#e3e3e3;fill-opacity:1;stroke:#777777;stroke-width:0.264229;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -335,7 +355,7 @@
        id="path865-3"
        d="m 355.88781,116.06749 h 10.75365"
        style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:0.77086598;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -346,7 +366,7 @@
        x="348.33298"
        y="112.31525"
        ry="1.8518099"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -354,14 +374,14 @@
        d="m 366.47118,112.25105 4.37859,3.51843 -4.37859,3.70362"
        id="path866"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <g
        id="g225"
        transform="matrix(0.10520181,0,0,0.10520181,377.44727,112.43794)"
        style="display:inline"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <circle
@@ -381,7 +401,7 @@
        id="path1050"
        d="m 411.51544,123.4438 h 22.11159 v 37.26698 H 274.42285 v 29.93418 h 17.51565"
        style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:0.73440009;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:nodetypes="cccccc" />
@@ -390,7 +410,7 @@
        id="path1271"
        d="m 311.08046,111.82166 v 3.86762"
        style="display:inline;fill:none;stroke:#777777;stroke-width:0.7971471;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -403,14 +423,14 @@
        ry="0.089092106"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png" />
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:9.21481991px;line-height:1.25;font-family:sans-serif;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299"
+       style="font-style:normal;font-weight:normal;font-size:9.21482px;line-height:1.25;font-family:sans-serif;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="276.14236"
        y="86.272377"
        id="text1247"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.397962"
@@ -422,7 +442,7 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png" />
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png" />
     <ellipse
        style="display:inline;opacity:1;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4192"
@@ -432,26 +452,26 @@
        ry="9.6568184"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png" />
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="106.66318"
        y="253.42621"
        id="text5131-6-5"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"><tspan
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"><tspan
          sodipodi:role="line"
          id="tspan5133-1-62"
          x="106.66318"
          y="253.42621"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5365px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.282222px;fill:#0000ff;">Exterior FPGA</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.5365px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.282222px">Exterior FPGA</tspan></text>
     <g
        transform="matrix(0.14538844,0,0,0.14539728,88.533962,63.354387)"
        id="g1304"
        style="stroke-width:1.94110107"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <ellipse
@@ -490,30 +510,30 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        id="text2429"
        y="98.710884"
        x="277.20853"
-       style="font-style:normal;font-weight:normal;font-size:9.21481991px;line-height:1.25;font-family:sans-serif;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299"
+       style="font-style:normal;font-weight:normal;font-size:9.21482px;line-height:1.25;font-family:sans-serif;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve">Pull-up interno</text>
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        id="text2750"
        y="84.134224"
        x="362.20316"
-       style="font-style:normal;font-weight:normal;font-size:9.21481991px;line-height:1.25;font-family:sans-serif;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299"
+       style="font-style:normal;font-weight:normal;font-size:9.21482px;line-height:1.25;font-family:sans-serif;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          id="tspan2748"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.397962">Etapa 3:</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:9.21481991px;line-height:1.25;font-family:sans-serif;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299"
+       style="font-style:normal;font-weight:normal;font-size:9.21482px;line-height:1.25;font-family:sans-serif;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="363.26932"
        y="96.572731"
        id="text2752"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">Sincronización</text>
     <flowRoot
@@ -521,7 +541,7 @@
        id="flowRoot5934-0-0"
        xml:space="preserve"
        transform="matrix(0.28222223,0,0,0.28222223,458.94857,60.704569)"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion5936-6-6"><rect
@@ -531,48 +551,49 @@
            width="258.57144"
            id="rect5938-26-8" /></flowRegion><flowPara
          id="flowPara5940-1-9"
-         style="font-size:20px;line-height:1.25"> </flowPara></flowRoot>    <text
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+         style="font-size:20px;line-height:1.25"> </flowPara></flowRoot>
+    <text
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        id="text5131-6-3-7"
-       y="257.5755"
-       x="408.80759"
-       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       y="266.97449"
+       x="428.75885"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan1166-3"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.5365057px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.28222224px;fill:#0000ff;"
-         y="257.5755"
-         x="408.80759"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.5365px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.282222px"
+         y="266.97449"
+         x="428.75885"
          sodipodi:role="line">FPGA</tspan></text>
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        id="text2795"
        y="161.8204"
        x="124.91389"
-       style="font-style:normal;font-weight:normal;font-size:9.21481991px;line-height:1.25;font-family:sans-serif;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299"
+       style="font-style:normal;font-weight:normal;font-size:9.21482px;line-height:1.25;font-family:sans-serif;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          id="tspan2793"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.397962">Pulsador</tspan></text>
     <rect
        rx="2.1079695"
        ry="2.1613147"
-       y="176.64598"
+       y="182.51703"
        x="291.97195"
        height="28.416979"
        width="41.833309"
        id="rect861-2"
-       style="display:inline;opacity:1;fill:#e3e3e3;fill-opacity:1;stroke:#777777;stroke-width:0.24981549;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       style="display:inline;opacity:1;fill:#e3e3e3;fill-opacity:1;stroke:#777777;stroke-width:0.249815;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <g
        id="g1116"
        style="display:inline;opacity:1"
-       transform="matrix(0.08147046,0,0,0.08147046,299.65045,180.52922)"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       transform="matrix(0.08147046,0,0,0.08147046,299.65045,186.40026)"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -604,7 +625,7 @@
          inkscape:export-ydpi="90" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:9.87368011px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.99999797px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:9.87368px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.999998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="121.9487"
          y="187.17776"
          id="text4142"
@@ -616,12 +637,12 @@
            id="tspan4144"
            x="121.9487"
            y="187.17776"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.8730011px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.99999797px">Not</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.873px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.999998px">Not</tspan></text>
       <path
          d="M 4.0000048,62.121879 H 313.53728"
          id="path8-3"
          inkscape:connector-curvature="0"
-         style="fill:none;stroke:#000000;stroke-width:8.00000954;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:none;stroke:#000000;stroke-width:8.00001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
          sodipodi:nodetypes="cc"
          inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Logic_gates/png/not.png"
          inkscape:export-xdpi="90"
@@ -640,7 +661,7 @@
            id="tspan4144-7"
            x="14.864577"
            y="36.868237"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.67509842px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">0</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.6751px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">0</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -655,44 +676,156 @@
            id="tspan4144-7-3"
            x="16.902704"
            y="151.96866"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.67509842px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">1</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.6751px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">1</tspan></text>
     </g>
     <path
        inkscape:connector-curvature="0"
        id="path1104-9"
-       d="m 337.63236,190.88047 h -3.7401"
-       style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:0.77086461;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       d="M 381.63548,196.75151 H 333.89226"
+       style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:0.773628;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
     <path
        inkscape:connector-curvature="0"
        id="path16"
-       d="m 313.02353,172.8948 v 3.7401"
-       style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:0.77086461;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       d="m 313.02353,178.76584 v 3.7401"
+       style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:0.770865;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        id="text982"
-       y="220.97621"
-       x="286.29861"
-       style="font-style:normal;font-weight:normal;font-size:9.21481991px;line-height:1.25;font-family:sans-serif;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299"
+       y="223.11899"
+       x="289.41986"
+       style="font-style:normal;font-weight:normal;font-size:9.21482px;line-height:1.25;font-family:sans-serif;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          id="tspan980"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.397962">Etapa 4:</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:9.21481991px;line-height:1.25;font-family:sans-serif;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299"
-       x="279.88123"
-       y="235.01834"
+       style="font-style:normal;font-weight:normal;font-size:9.21482px;line-height:1.25;font-family:sans-serif;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="283.00247"
+       y="237.16112"
        id="text984"
-       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-02.png"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">Normalización</text>
+    <g
+       inkscape:label="Layer 1"
+       id="layer1-6"
+       style="display:none"
+       transform="matrix(0.51306509,0,0,0.51306509,350.81651,125.00318)">
+      <image
+         width="154.62654"
+         height="78.804161"
+         preserveAspectRatio="none"
+         xlink:href="data:image/png;base64,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 "
+         id="image843"
+         x="22.80999"
+         y="100.39897"
+         style="stroke-width:0.621133" />
+    </g>
+    <rect
+       rx="0"
+       ry="3.4115489"
+       y="174.16231"
+       x="381.68054"
+       height="30.046185"
+       width="44.814404"
+       id="rect861-5"
+       style="display:inline;fill:#e3e3e3;fill-opacity:1;stroke:#777777;stroke-width:0.271497;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path865-3-3"
+       d="m 370.6133,181.60366 h 11.04944"
+       style="display:inline;fill:none;stroke:#777777;stroke-width:0.79207;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;fill:#fbfbc9;fill-opacity:1;stroke:#777777;stroke-width:0.407245;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect948-5"
+       width="7.7443938"
+       height="8.0509834"
+       x="363.29669"
+       y="177.90413"
+       ry="1.9027461"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#58595a;stroke-width:0.465323;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 381.77593,177.68224 4.49902,3.61522 -4.49902,3.80549"
+       id="path866-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g913"
+       transform="matrix(0.41461561,0,0,0.41461561,489.81166,14.727704)"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         d="m -251.547,436.672 h 22.802 v -30.353 h 5.862 v 30.353 h 5.259 v -30.353 h 3.447 v 30.353 h 2.984 v -30.353 h 3.506 v 30.523 h 6.406 V 405.77 h 38.868"
+         fill="none"
+         stroke="#000000"
+         stroke-width="1.4"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path899" />
+      <path
+         d="m -232.57,403.877 26.946,32.391 m 0,-32.391 -26.946,32.391"
+         fill="none"
+         stroke="#ff0000"
+         stroke-width="3"
+         stroke-linecap="round"
+         id="path901" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path919"
+       d="m 426.49892,189.18377 h 3.67134"
+       style="display:inline;fill:none;stroke:#777777;stroke-width:0.773261;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
+       id="text445"
+       y="223.11899"
+       x="382.14075"
+       style="font-style:normal;font-weight:normal;font-size:9.21482px;line-height:1.25;font-family:sans-serif;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan443"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.397962">Etapa 5:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.21482px;line-height:1.25;font-family:sans-serif;white-space:pre;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="375.72336"
+       y="237.16112"
+       id="text447"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">Antirrebotes</text>
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:2.64583333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker6622)"
+       d="m 460.39017,167.02002 -26.22161,14.17211"
+       id="path5190"
+       inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/twitter-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
   <style
      id="style263">.st0{display:none}.st1{fill:none;stroke:#000;stroke-width:.75;stroke-linejoin:round;stroke-miterlimit:10}.st2{fill:#010002}</style>
