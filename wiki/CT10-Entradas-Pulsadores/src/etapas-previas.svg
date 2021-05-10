@@ -13,7 +13,7 @@
    viewBox="0 0 692.65106 332.20544"
    version="1.1"
    id="svg3093"
-   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="etapas-previas.svg">
   <defs
      id="defs3087">
@@ -194,16 +194,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.71199737"
-     inkscape:cx="1890.683"
-     inkscape:cy="798.05041"
+     inkscape:cx="1635.0641"
+     inkscape:cy="792.43241"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1858"
-     inkscape:window-height="1016"
-     inkscape:window-x="62"
-     inkscape:window-y="27"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      showguides="true"
@@ -220,7 +220,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1718,7 +1718,7 @@
          id="tspan5385-7-3">Sincronismo</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:6.84170008px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299"
        x="231.47073"
        y="-41.287193"
        id="text835-5-1-5-1"
@@ -1728,13 +1728,13 @@
          sodipodi:role="line"
          x="231.47073"
          y="-41.287193"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.26458299"
          id="tspan2927-3-7-6-2">Etapa 4</tspan><tspan
          sodipodi:role="line"
          x="231.47073"
          y="-32.735069"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
-         id="tspan5385-7-3-9">Lógica positiva</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.26458299"
+         id="tspan5385-7-3-9">Normalización</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -2061,15 +2061,22 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          x="128.02614"
-         y="194.66757"><tspan
-           style="stroke-width:0.264583">Por la entrada </tspan></tspan><tspan
+         y="194.66757"
+         id="tspan257"><tspan
+           style="stroke-width:0.264583"
+           id="tspan255">Por la entrada </tspan></tspan><tspan
          x="128.02614"
-         y="203.2197"><tspan
-           style="stroke-width:0.264583">siempre debe llegar </tspan></tspan><tspan
+         y="203.2197"
+         id="tspan261"><tspan
+           style="stroke-width:0.264583"
+           id="tspan259">siempre debe llegar </tspan></tspan><tspan
          x="128.02614"
-         y="211.77182"><tspan
-           style="stroke-width:0.264583">un </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">nivel lógico 0-1</tspan></tspan></text>
+         y="211.77182"
+         id="tspan267"><tspan
+           style="stroke-width:0.264583"
+           id="tspan263">un </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan265">nivel lógico 0-1</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:78.6569;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -2081,12 +2088,17 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          x="128.02614"
-         y="194.66757"><tspan
-           style="stroke-width:0.264583">Evitar el problema de </tspan></tspan><tspan
+         y="194.66757"
+         id="tspan272"><tspan
+           style="stroke-width:0.264583"
+           id="tspan270">Evitar el problema de </tspan></tspan><tspan
          x="128.02614"
-         y="203.2197"><tspan
-           style="stroke-width:0.264583">la </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">metaestabilidad</tspan></tspan></text>
+         y="203.2197"
+         id="tspan278"><tspan
+           style="stroke-width:0.264583"
+           id="tspan274">la </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan276">metaestabilidad</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:86.7165;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -2098,12 +2110,17 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          x="128.02614"
-         y="194.66757"><tspan
-           style="stroke-width:0.264583">Adaptar la señal para </tspan></tspan><tspan
+         y="194.66757"
+         id="tspan283"><tspan
+           style="stroke-width:0.264583"
+           id="tspan281">Adaptar la señal para </tspan></tspan><tspan
          x="128.02614"
-         y="203.2197"><tspan
-           style="stroke-width:0.264583">que sea </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">lógica positiva</tspan></tspan></text>
+         y="203.2197"
+         id="tspan289"><tspan
+           style="stroke-width:0.264583"
+           id="tspan285">que sea </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan287">lógica positiva</tspan></tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path1271"
@@ -2392,13 +2409,21 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          x="128.02614"
-         y="194.66757"><tspan>Eliminar los </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">pulsos </tspan></tspan><tspan
+         y="194.66757"
+         id="tspan334"><tspan
+           id="tspan330">Eliminar los </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan332">pulsos </tspan></tspan><tspan
          x="128.02614"
-         y="203.2197"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">espúreos</tspan><tspan> generados por </tspan></tspan><tspan
+         y="203.2197"
+         id="tspan340"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan336">espúreos</tspan><tspan
+           id="tspan338"> generados por </tspan></tspan><tspan
          x="128.02614"
-         y="211.77182"><tspan>los pulsadores mecánicos</tspan></tspan></text>
+         y="211.77182"
+         id="tspan344"><tspan
+           id="tspan342">los pulsadores mecánicos</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
