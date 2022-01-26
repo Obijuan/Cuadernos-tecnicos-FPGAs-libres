@@ -161,6 +161,38 @@
             "width": 152,
             "height": 56
           }
+        },
+        {
+          "id": "c72f10ae-6f71-41d8-b9c6-1735f9849729",
+          "type": "basic.info",
+          "data": {
+            "info": "Señal a",
+            "readonly": true
+          },
+          "position": {
+            "x": 680,
+            "y": 328
+          },
+          "size": {
+            "width": 104,
+            "height": 48
+          }
+        },
+        {
+          "id": "aaa557ea-bb0b-4597-a783-da08fe19f820",
+          "type": "basic.info",
+          "data": {
+            "info": "Señal b",
+            "readonly": true
+          },
+          "position": {
+            "x": 920,
+            "y": 320
+          },
+          "size": {
+            "width": 104,
+            "height": 48
+          }
         }
       ],
       "wires": [
