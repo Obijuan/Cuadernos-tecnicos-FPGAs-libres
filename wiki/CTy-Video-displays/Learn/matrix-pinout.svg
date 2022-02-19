@@ -26,8 +26,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="2.5620931"
-     inkscape:cx="439.28927"
-     inkscape:cy="716.40644"
+     inkscape:cx="297.21793"
+     inkscape:cy="268.33529"
      inkscape:window-width="1858"
      inkscape:window-height="1016"
      inkscape:window-x="62"
@@ -3740,5 +3740,16 @@
          style="fill:#0000ff;stroke-width:0.0926908"
          x="121.34135"
          y="90.242775">d7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.70762px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.0926908"
+       x="20.463642"
+       y="65.938271"
+       id="text156786"><tspan
+         sodipodi:role="line"
+         id="tspan156784"
+         style="fill:#008000;stroke-width:0.0926908"
+         x="20.463642"
+         y="65.938271">d9</tspan></text>
   </g>
 </svg>
