@@ -26,8 +26,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="2.5620931"
-     inkscape:cx="297.21793"
-     inkscape:cy="268.33529"
+     inkscape:cx="282.77661"
+     inkscape:cy="265.21284"
      inkscape:window-width="1858"
      inkscape:window-height="1016"
      inkscape:window-x="62"
@@ -3751,5 +3751,27 @@
          style="fill:#008000;stroke-width:0.0926908"
          x="20.463642"
          y="65.938271">d9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.70762px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.0926908"
+       x="20.463642"
+       y="71.597496"
+       id="text2384"><tspan
+         sodipodi:role="line"
+         id="tspan2382"
+         style="fill:#008000;stroke-width:0.0926908"
+         x="20.463642"
+         y="71.597496">d10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.70762px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.0926908"
+       x="121.24663"
+       y="85.311615"
+       id="text4421"><tspan
+         sodipodi:role="line"
+         id="tspan4419"
+         style="fill:#008000;stroke-width:0.0926908"
+         x="121.24663"
+         y="85.311615">d11</tspan></text>
   </g>
 </svg>
