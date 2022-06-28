@@ -15,7 +15,7 @@
           "id": "0bbe0420-8771-463b-821a-5a9be41651bc",
           "type": "basic.inputLabel",
           "data": {
-            "name": "pattern",
+            "name": "s",
             "blockColor": "fuchsia",
             "virtual": true,
             "pins": [
@@ -70,7 +70,7 @@
           "id": "86aa389f-90a9-499d-90d7-8dac0775cfa2",
           "type": "basic.outputLabel",
           "data": {
-            "name": "pattern",
+            "name": "s",
             "blockColor": "fuchsia",
             "virtual": true,
             "pins": [
