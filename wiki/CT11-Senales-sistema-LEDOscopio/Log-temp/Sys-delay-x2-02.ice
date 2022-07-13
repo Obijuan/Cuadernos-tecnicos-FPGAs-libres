@@ -247,22 +247,6 @@
           }
         },
         {
-          "id": "c1227514-0eb0-4c64-a798-0446be8e266e",
-          "type": "basic.info",
-          "data": {
-            "info": "# Delay 2-ciclos. Implementación 2\n\nCircuito para retrasar el tic de entrada 2 ciclos",
-            "readonly": true
-          },
-          "position": {
-            "x": -176,
-            "y": 152
-          },
-          "size": {
-            "width": 552,
-            "height": 64
-          }
-        },
-        {
           "id": "9cc0bd71-4671-453c-bd56-1e2ecbb87bb1",
           "type": "e29fd98d6071cf8bafb620782b42d0ab847fb450",
           "position": {
@@ -400,6 +384,22 @@
           "size": {
             "width": 168,
             "height": 40
+          }
+        },
+        {
+          "id": "3a123a70-8c74-4fc8-ba51-0ecc1d1519dd",
+          "type": "basic.info",
+          "data": {
+            "info": "# Ejemplo 14: Bloque sys-delay-x02. Implementación 2\n\nCircuito para retrasar dos ciclos un tic inicial. Esta es la segunda implementación,  \nque añade un Biestable RS con el estado del circuito para disponer de la señal `busy`.   \nLa señal `n` se obtiene como el bit menos significativo del registro de desplazamiento  \n",
+            "readonly": true
+          },
+          "position": {
+            "x": -184,
+            "y": 80
+          },
+          "size": {
+            "width": 816,
+            "height": 96
           }
         }
       ],
