@@ -28,9 +28,9 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.34948668"
-     inkscape:cx="733.93354"
-     inkscape:cy="304.73264"
+     inkscape:zoom="0.98849762"
+     inkscape:cx="335.35741"
+     inkscape:cy="500.25412"
      inkscape:window-width="1858"
      inkscape:window-height="1016"
      inkscape:window-x="62"
@@ -247,7 +247,7 @@
          id="tspan23174"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
          x="21.084337"
-         y="278.63309">n</tspan></text>
+         y="278.63309">n[1:0]</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 202.41642,253.45376 3.94993,24.51787 h 43.95233"
