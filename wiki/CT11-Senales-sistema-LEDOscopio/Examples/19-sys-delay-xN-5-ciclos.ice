@@ -251,7 +251,7 @@
           "id": "e8ab549c-c86d-4add-9505-9551d5df7d57",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 18: Generando un retraso de 5 ciclos\n\nEl tic inicial se retrasa 5 ciclos",
+            "info": "# Ejemplo 19: Generando un retraso de 5 ciclos\n\nEl tic inicial se retrasa 5 ciclos",
             "readonly": true
           },
           "position": {
@@ -311,16 +311,6 @@
         },
         {
           "source": {
-            "block": "a26c6d34-3e43-4448-a8cc-ea26856e325c",
-            "port": "outlabel"
-          },
-          "target": {
-            "block": "5868230d-6709-431f-8290-d46bc961ac43",
-            "port": "adf3a6ae-71e2-43dd-b504-c2cdbc14dab7"
-          }
-        },
-        {
-          "source": {
             "block": "5868230d-6709-431f-8290-d46bc961ac43",
             "port": "19390a8a-f600-42e9-88df-6ce5db327dd8"
           },
@@ -366,6 +356,16 @@
             "port": "2742be8a-ebd2-4415-b735-dc63f97ebe0e"
           },
           "size": 3
+        },
+        {
+          "source": {
+            "block": "a26c6d34-3e43-4448-a8cc-ea26856e325c",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "5868230d-6709-431f-8290-d46bc961ac43",
+            "port": "adf3a6ae-71e2-43dd-b504-c2cdbc14dab7"
+          }
         }
       ]
     }
