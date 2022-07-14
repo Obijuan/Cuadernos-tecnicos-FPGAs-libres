@@ -151,7 +151,7 @@
           "type": "basic.constant",
           "data": {
             "name": "Ciclos",
-            "value": "2",
+            "value": "3",
             "local": false
           },
           "position": {
@@ -348,16 +348,6 @@
         },
         {
           "source": {
-            "block": "a26c6d34-3e43-4448-a8cc-ea26856e325c",
-            "port": "outlabel"
-          },
-          "target": {
-            "block": "5868230d-6709-431f-8290-d46bc961ac43",
-            "port": "adf3a6ae-71e2-43dd-b504-c2cdbc14dab7"
-          }
-        },
-        {
-          "source": {
             "block": "382cf23c-2111-4ce6-b69b-a0a5966d3675",
             "port": "6b687c8b-6b6d-49f4-8db5-dfa53c52d638"
           },
@@ -366,6 +356,16 @@
             "port": "9b602565-d151-408c-92ab-d949b5647341"
           },
           "size": 2
+        },
+        {
+          "source": {
+            "block": "a26c6d34-3e43-4448-a8cc-ea26856e325c",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "5868230d-6709-431f-8290-d46bc961ac43",
+            "port": "adf3a6ae-71e2-43dd-b504-c2cdbc14dab7"
+          }
         }
       ]
     }
