@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="216.40315mm"
+   height="129.66216mm"
+   viewBox="0 0 216.40316 129.66216"
+   version="1.1"
+   id="svg48775"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   sodipodi:docname="Flanco-01.svg"
+   inkscape:export-filename="Pulso-01.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview48777"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="0.84096521"
+     inkscape:cx="381.70426"
+     inkscape:cy="266.95516"
+     inkscape:window-width="1858"
+     inkscape:window-height="1016"
+     inkscape:window-x="62"
+     inkscape:window-y="1107"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs48772">
+    <marker
+       style="overflow:visible"
+       id="Arrow2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(-11.704158,-15.337711)">
+    <rect
+       style="fill:#ffffff;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect49957"
+       width="216.40315"
+       height="129.66216"
+       x="11.704158"
+       y="15.337711" />
+  </g>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-11.704158,-15.337711)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 42.888954,97.21716 H 80.693386 V 71.418431 h 76.509634 v 25.79873 h 39.7195"
+       id="path49333"
+       sodipodi:nodetypes="cccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#0000ff;stroke-width:0.264583"
+       x="62.214581"
+       y="125.64995"
+       id="text49409"><tspan
+         sodipodi:role="line"
+         x="62.214581"
+         y="125.64995"
+         style="font-size:7.76111px;fill:#0000ff;stroke-width:0.264583"
+         id="tspan49639">Flanco de</tspan><tspan
+         sodipodi:role="line"
+         x="62.214581"
+         y="135.35133"
+         style="font-size:7.76111px;fill:#0000ff;stroke-width:0.264583"
+         id="tspan2331">subida</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.5875, 0.529167;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 80.693383,57.878942 V 114.24457"
+       id="path49415" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2)"
+       d="m 71.196535,49.086533 4.333674,9.712545"
+       id="path49417"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.5875, 0.529167;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 166.01465,57.878942 V 114.24457"
+       id="path49645" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#0000ff;stroke-width:0.264583"
+       x="140.86626"
+       y="124.48763"
+       id="text49651"><tspan
+         sodipodi:role="line"
+         id="tspan49647"
+         x="140.86626"
+         y="124.48763"
+         style="font-size:7.76111px;fill:#0000ff;stroke-width:0.264583">Flanco de</tspan><tspan
+         sodipodi:role="line"
+         x="140.86626"
+         y="134.18903"
+         style="font-size:7.76111px;fill:#0000ff;stroke-width:0.264583"
+         id="tspan49649">bajada</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="56.477909"
+       y="92.528976"
+       id="text49813"><tspan
+         sodipodi:role="line"
+         id="tspan49811"
+         x="56.477909"
+         y="92.528976"
+         style="stroke-width:0.264583">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="191.48732"
+       y="92.528976"
+       id="text49817"><tspan
+         sodipodi:role="line"
+         id="tspan49815"
+         x="191.48732"
+         y="92.528976"
+         style="stroke-width:0.264583">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="116.46436"
+       y="92.528976"
+       id="text49821"><tspan
+         sodipodi:role="line"
+         id="tspan49819"
+         x="116.46436"
+         y="92.528976"
+         style="stroke-width:0.264583">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;stroke-width:0.264583"
+       x="94.957481"
+       y="29.349463"
+       id="text49827"><tspan
+         sodipodi:role="line"
+         x="94.957481"
+         y="29.349463"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;stroke-width:0.264583"
+         id="tspan49825">Pulso</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.5875, 0.529167;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 71.617161,57.878942 V 114.24457"
+       id="path2105" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;stroke-width:0.264583"
+       x="49.166096"
+       y="46.676285"
+       id="text2111"><tspan
+         sodipodi:role="line"
+         x="49.166096"
+         y="46.676285"
+         style="font-size:7.76111px;fill:#000000;stroke-width:0.264583"
+         id="tspan2109">Ciclo i</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="72.551514"
+       y="92.528976"
+       id="text2169"><tspan
+         sodipodi:role="line"
+         id="tspan2167"
+         x="72.551514"
+         y="92.528976"
+         style="stroke-width:0.264583">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="81.771767"
+       y="92.534142"
+       id="text2173"><tspan
+         sodipodi:role="line"
+         id="tspan2171"
+         x="81.771767"
+         y="92.534142"
+         style="stroke-width:0.264583">1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.5875, 0.529167;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 89.769605,57.878942 V 114.24457"
+       id="path2271" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;stroke-width:0.264583"
+       x="84.795685"
+       y="46.676285"
+       id="text2275"><tspan
+         sodipodi:role="line"
+         x="84.795685"
+         y="46.676285"
+         style="font-size:7.76111px;fill:#000000;stroke-width:0.264583"
+         id="tspan2273">Ciclo i+1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2)"
+       d="m 90.077596,49.528701 -4.333674,9.712545"
+       id="path2327"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.5875, 0.529167;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 157.20302,57.878942 V 114.24457"
+       id="path2333" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="158.58904"
+       y="92.528976"
+       id="text2337"><tspan
+         sodipodi:role="line"
+         id="tspan2335"
+         x="158.58904"
+         y="92.528976"
+         style="stroke-width:0.264583">1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.5875, 0.529167;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 174.82628,57.878942 V 114.24457"
+       id="path2403" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="167.05634"
+       y="92.528976"
+       id="text2407"><tspan
+         sodipodi:role="line"
+         id="tspan2405"
+         x="167.05634"
+         y="92.528976"
+         style="stroke-width:0.264583">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;stroke-width:0.264583"
+       x="134.31947"
+       y="46.676285"
+       id="text2472"><tspan
+         sodipodi:role="line"
+         x="134.31947"
+         y="46.676285"
+         style="font-size:7.76111px;fill:#000000;stroke-width:0.264583"
+         id="tspan2470">Ciclo k</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;stroke-width:0.264583"
+       x="169.7493"
+       y="46.676285"
+       id="text2476"><tspan
+         sodipodi:role="line"
+         x="169.7493"
+         y="46.676285"
+         style="font-size:7.76111px;fill:#000000;stroke-width:0.264583"
+         id="tspan2474">Ciclo k+1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2)"
+       d="m 157.18116,49.086533 4.33368,9.712545"
+       id="path2478"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2)"
+       d="m 175.88752,49.528701 -4.33367,9.712545"
+       id="path2480"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
