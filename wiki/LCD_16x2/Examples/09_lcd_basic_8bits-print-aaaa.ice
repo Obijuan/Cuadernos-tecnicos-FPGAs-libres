@@ -112,7 +112,7 @@
             "clock": false
           },
           "position": {
-            "x": -744,
+            "x": -848,
             "y": -304
           }
         },
@@ -152,8 +152,28 @@
             ]
           },
           "position": {
-            "x": -560,
+            "x": -664,
             "y": -240
+          }
+        },
+        {
+          "id": "f337a376-c465-4589-8ee5-8a374543b446",
+          "type": "basic.outputLabel",
+          "data": {
+            "name": "next",
+            "blockColor": "fuchsia",
+            "virtual": true,
+            "pins": [
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ]
+          },
+          "position": {
+            "x": -480,
+            "y": -168
           }
         },
         {
@@ -173,27 +193,7 @@
           },
           "position": {
             "x": 160,
-            "y": -184
-          }
-        },
-        {
-          "id": "f337a376-c465-4589-8ee5-8a374543b446",
-          "type": "basic.outputLabel",
-          "data": {
-            "name": "next",
-            "blockColor": "fuchsia",
-            "virtual": true,
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
-          },
-          "position": {
-            "x": -400,
-            "y": -176
+            "y": -144
           }
         },
         {
@@ -212,7 +212,7 @@
           "id": "246befd1-757f-448b-b827-fa6a04d77825",
           "type": "f343ddae2d2d482122701507323b17ee02880898",
           "position": {
-            "x": -584,
+            "x": -688,
             "y": -320
           },
           "size": {
@@ -224,7 +224,7 @@
           "id": "eb0cdd08-c027-43f7-be95-9e2b74946f64",
           "type": "8a70cc823d9aaca0064d5c63842164dba98f06e9",
           "position": {
-            "x": -256,
+            "x": -352,
             "y": -304
           },
           "size": {
@@ -276,7 +276,7 @@
           "id": "76e3194b-0916-42f5-9fbb-13b3c9abfd06",
           "type": "873425949b2a80f1a7f66f320796bcd068a59889",
           "position": {
-            "x": -416,
+            "x": -520,
             "y": -256
           },
           "size": {
@@ -298,6 +298,118 @@
           "size": {
             "width": 888,
             "height": 104
+          }
+        },
+        {
+          "id": "f7cf2118-3c8f-4077-bdc8-90be41560a6c",
+          "type": "basic.info",
+          "data": {
+            "info": "Controlador del LCD",
+            "readonly": true
+          },
+          "position": {
+            "x": 16,
+            "y": -416
+          },
+          "size": {
+            "width": 192,
+            "height": 40
+          }
+        },
+        {
+          "id": "aee6bc5f-345b-42f7-b0b4-07a53390ecbb",
+          "type": "basic.info",
+          "data": {
+            "info": "Máquina de contar: 0-3",
+            "readonly": true
+          },
+          "position": {
+            "x": -376,
+            "y": -352
+          },
+          "size": {
+            "width": 208,
+            "height": 40
+          }
+        },
+        {
+          "id": "7ba86f23-d145-4678-b9ac-d17e71da2887",
+          "type": "basic.info",
+          "data": {
+            "info": "Imprimir el carácter 'A'",
+            "readonly": true
+          },
+          "position": {
+            "x": -56,
+            "y": -184
+          },
+          "size": {
+            "width": 208,
+            "height": 48
+          }
+        },
+        {
+          "id": "754726cb-aae2-4e0e-a411-b38f51f1cbc1",
+          "type": "basic.info",
+          "data": {
+            "info": "Imprimir siguiente  \ncaracter",
+            "readonly": true
+          },
+          "position": {
+            "x": 168,
+            "y": -72
+          },
+          "size": {
+            "width": 160,
+            "height": 56
+          }
+        },
+        {
+          "id": "005d68c7-ab03-4eec-b5e3-c46e6d06017e",
+          "type": "basic.info",
+          "data": {
+            "info": "Configuración del  \nLCD termianda",
+            "readonly": true
+          },
+          "position": {
+            "x": 256,
+            "y": -184
+          },
+          "size": {
+            "width": 160,
+            "height": 56
+          }
+        },
+        {
+          "id": "36ddbbd0-8370-4e0d-97c6-68b09054bb6f",
+          "type": "basic.info",
+          "data": {
+            "info": "Acción manual",
+            "readonly": true
+          },
+          "position": {
+            "x": -552,
+            "y": -328
+          },
+          "size": {
+            "width": 128,
+            "height": 40
+          }
+        },
+        {
+          "id": "ce2a6f92-f1b6-4975-aefb-25e90471afd8",
+          "type": "basic.info",
+          "data": {
+            "info": "Acción inicial  \n(Realiza al acabar la  \nconfiguración del LCD)",
+            "readonly": true
+          },
+          "position": {
+            "x": -704,
+            "y": -176
+          },
+          "size": {
+            "width": 208,
+            "height": 72
           }
         }
       ],
