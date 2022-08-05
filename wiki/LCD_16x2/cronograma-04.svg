@@ -10,7 +10,7 @@
    xml:space="preserve"
    inkscape:version="1.2 (dc2aeda, 2022-05-15)"
    sodipodi:docname="cronograma-04.svg"
-   inkscape:export-filename="cronograma-03.png"
+   inkscape:export-filename="cronograma-04.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,9 +28,9 @@
      inkscape:document-units="mm"
      showgrid="false"
      showguides="true"
-     inkscape:zoom="0.5946522"
-     inkscape:cx="629.7799"
-     inkscape:cy="394.34816"
+     inkscape:zoom="0.8409652"
+     inkscape:cx="415.59389"
+     inkscape:cy="387.05525"
      inkscape:window-width="1858"
      inkscape:window-height="1016"
      inkscape:window-x="62"
@@ -233,4 +233,7 @@
        id="path4768" /><path
        style="fill:none;stroke:#000000;stroke-width:0.793747;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.793747, 2.38124;stroke-dashoffset:0;stroke-opacity:1"
        d="m 116.88482,213.81861 v 24.00096"
-       id="path4772" /></g></svg>
+       id="path4772" /><path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 263.13842,187.67954 H 56.993656"
+       id="path5109" /></g></svg>
