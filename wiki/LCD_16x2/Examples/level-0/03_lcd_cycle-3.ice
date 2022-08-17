@@ -542,34 +542,21 @@
             ]
           },
           "position": {
-            "x": -424,
-            "y": 1368
+            "x": -872,
+            "y": 1248
           }
         },
         {
-          "id": "c48fadd7-46cb-421c-9617-bee09a68c145",
+          "id": "3888db57-db9c-44df-bf5a-fbe27867f079",
           "type": "basic.constant",
           "data": {
-            "name": "Fhz",
-            "value": "12000000",
+            "name": "Periodo_E",
+            "value": "12",
             "local": false
           },
           "position": {
-            "x": -1168,
-            "y": 1224
-          }
-        },
-        {
-          "id": "53ed37a5-7d96-48ee-a5f4-2186ff2d5d4a",
-          "type": "basic.constant",
-          "data": {
-            "name": "T_ns",
-            "value": "750",
-            "local": false
-          },
-          "position": {
-            "x": -1016,
-            "y": 1232
+            "x": -1408,
+            "y": 1120
           }
         },
         {
@@ -589,12 +576,12 @@
           "id": "cd049a9d-5f53-4d1e-997b-9245b3459ea1",
           "type": "basic.info",
           "data": {
-            "info": "## Ejemplo 3: Generación de la señal E. Prueba 2\n\nCada vez que se aprieta el pulsador, se genera un pulso en la señal E. Con un analizador lógico  \npodemos medir tanto la señal E como las señales de busy y done",
+            "info": "## Ejemplo 3: Generación de la señal E, con entrada de periodo en ciclos\n\nSe usa como parámetro el **Periodo de E** en ciclos. Para un reloj de 12Mhz (Alhambra II) el número  \nde ciclos es 12",
             "readonly": true
           },
           "position": {
-            "x": -1232,
-            "y": 216
+            "x": -1336,
+            "y": 280
           },
           "size": {
             "width": 864,
@@ -814,66 +801,6 @@
           }
         },
         {
-          "id": "f7f61f71-e235-4818-92ba-974fab49e371",
-          "type": "c4f9574e54f3aa04189b53849fbc29b893aa57e5",
-          "position": {
-            "x": -1040,
-            "y": 1352
-          },
-          "size": {
-            "width": 96,
-            "height": 64
-          }
-        },
-        {
-          "id": "0213bcb8-1e3e-4a91-89ff-c26d5b839e9e",
-          "type": "basic.info",
-          "data": {
-            "info": "Periodo objetivo",
-            "readonly": true
-          },
-          "position": {
-            "x": -1016,
-            "y": 1192
-          },
-          "size": {
-            "width": 168,
-            "height": 40
-          }
-        },
-        {
-          "id": "998ee1b9-c115-4207-9c9f-10926b1aa137",
-          "type": "basic.info",
-          "data": {
-            "info": "Frecuencia del reloj del sistema  \nen Hercios",
-            "readonly": true
-          },
-          "position": {
-            "x": -1256,
-            "y": 1152
-          },
-          "size": {
-            "width": 272,
-            "height": 56
-          }
-        },
-        {
-          "id": "e34dfa19-f77f-4c82-be0c-3a392888043a",
-          "type": "basic.info",
-          "data": {
-            "info": "Ciclos necesarios para  \ntener ese periodo T",
-            "readonly": true
-          },
-          "position": {
-            "x": -952,
-            "y": 1440
-          },
-          "size": {
-            "width": 216,
-            "height": 56
-          }
-        },
-        {
           "id": "5846cafb-326c-40b4-9a33-c1c71a069e33",
           "type": "basic.info",
           "data": {
@@ -881,8 +808,8 @@
             "readonly": true
           },
           "position": {
-            "x": -696,
-            "y": 1432
+            "x": -1152,
+            "y": 1312
           },
           "size": {
             "width": 152,
@@ -893,8 +820,8 @@
           "id": "65b3c465-0960-4002-8bc7-d72d23e13f73",
           "type": "0fa07340e795f699d6f370d550d2259f58dd3e21",
           "position": {
-            "x": -592,
-            "y": 1352
+            "x": -1048,
+            "y": 1232
           },
           "size": {
             "width": 96,
@@ -905,11 +832,55 @@
           "id": "8dcc50fa-4a49-439e-96e3-cb9e2ecf4a97",
           "type": "582721ded9ae89aab6647702e561cbbd2c48e590",
           "position": {
-            "x": -768,
-            "y": 1352
+            "x": -1224,
+            "y": 1232
           },
           "size": {
             "width": 96,
+            "height": 64
+          }
+        },
+        {
+          "id": "47a4d05e-4ad2-4383-ba65-1e068d1e84e9",
+          "type": "9b9118b2e5d192560784b8047d751099f910c102",
+          "position": {
+            "x": -1408,
+            "y": 1232
+          },
+          "size": {
+            "width": 96,
+            "height": 64
+          }
+        },
+        {
+          "id": "1fa9fe06-78c5-441c-8d93-49a1e5bbd739",
+          "type": "basic.info",
+          "data": {
+            "info": "El bloque Sys-delay que usamos es de  \nsólo 3 bits, para ahorrar espacio",
+            "readonly": true
+          },
+          "position": {
+            "x": -744,
+            "y": 1248
+          },
+          "size": {
+            "width": 344,
+            "height": 80
+          }
+        },
+        {
+          "id": "7b723f91-43fc-43b0-bf1f-d24214b6cb2b",
+          "type": "basic.info",
+          "data": {
+            "info": "Periodo de E  \nen **ciclos**",
+            "readonly": true
+          },
+          "position": {
+            "x": -1280,
+            "y": 1128
+          },
+          "size": {
+            "width": 168,
             "height": 64
           }
         }
@@ -1162,16 +1133,6 @@
         },
         {
           "source": {
-            "block": "53ed37a5-7d96-48ee-a5f4-2186ff2d5d4a",
-            "port": "constant-out"
-          },
-          "target": {
-            "block": "f7f61f71-e235-4818-92ba-974fab49e371",
-            "port": "b72bf1d9-b1f7-4771-8371-08475f95ee34"
-          }
-        },
-        {
-          "source": {
             "block": "aa7cf1f6-f29e-4c78-aa49-103a066f1413",
             "port": "19fa817f-a4d6-4563-87d3-2a3a8756abe4"
           },
@@ -1188,18 +1149,29 @@
         },
         {
           "source": {
-            "block": "c48fadd7-46cb-421c-9617-bee09a68c145",
+            "block": "8dcc50fa-4a49-439e-96e3-cb9e2ecf4a97",
+            "port": "47e6d0c1-84e5-4710-8a74-901692817ca9"
+          },
+          "target": {
+            "block": "65b3c465-0960-4002-8bc7-d72d23e13f73",
+            "port": "745d3113-3b1f-499a-a414-00e638cd932b"
+          },
+          "size": 4
+        },
+        {
+          "source": {
+            "block": "3888db57-db9c-44df-bf5a-fbe27867f079",
             "port": "constant-out"
           },
           "target": {
-            "block": "f7f61f71-e235-4818-92ba-974fab49e371",
-            "port": "baa35392-0185-43dc-9b99-bb34e31e987d"
+            "block": "47a4d05e-4ad2-4383-ba65-1e068d1e84e9",
+            "port": "c0fb4784-5e8c-4f41-9f4b-6daa2e9e03a4"
           }
         },
         {
           "source": {
-            "block": "f7f61f71-e235-4818-92ba-974fab49e371",
-            "port": "681a6415-ee8d-4c1c-85bf-d1ffc1fa2482"
+            "block": "47a4d05e-4ad2-4383-ba65-1e068d1e84e9",
+            "port": "6cee4c7b-0e73-4066-a2d8-d8bcda4b5688"
           },
           "target": {
             "block": "8dcc50fa-4a49-439e-96e3-cb9e2ecf4a97",
@@ -1217,17 +1189,6 @@
             "port": "inlabel"
           },
           "size": 3
-        },
-        {
-          "source": {
-            "block": "8dcc50fa-4a49-439e-96e3-cb9e2ecf4a97",
-            "port": "47e6d0c1-84e5-4710-8a74-901692817ca9"
-          },
-          "target": {
-            "block": "65b3c465-0960-4002-8bc7-d72d23e13f73",
-            "port": "745d3113-3b1f-499a-a414-00e638cd932b"
-          },
-          "size": 4
         }
       ]
     }
@@ -21950,183 +21911,6 @@
         }
       }
     },
-    "c4f9574e54f3aa04189b53849fbc29b893aa57e5": {
-      "package": {
-        "name": "Unit-ns-4bits",
-        "version": "0.1",
-        "description": "Unit-ns-4bits: ns to cycles converter. Max value: 1250 ns (15 cycles)",
-        "author": "Juan González-Gómez (Obijuan)",
-        "image": "%3Csvg%20width=%22197.4%22%20height=%2296.404%22%20viewBox=%220%200%2052.228676%2025.507021%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20style=%22line-height:1.25%22%20font-size=%2244.42%22%20fill=%22green%22%20stroke-width=%22.265%22%20font-weight=%22700%22%3E%3Cpath%20d=%22M24.423%2010.086v14.792h-7.809V13.556q0-3.145-.152-4.338-.13-1.193-.477-1.757-.455-.759-1.236-1.171-.78-.434-1.779-.434-2.429%200-3.817%201.887-1.388%201.866-1.388%205.184v11.951H0V.586h7.765v3.557q1.757-2.126%203.73-3.124Q13.47%200%2015.856%200q4.208%200%206.377%202.581%202.19%202.581%202.19%207.505zM50.602%201.345v5.9q-2.494-1.042-4.815-1.562-2.32-.52-4.381-.52-2.213%200-3.297.563-1.063.542-1.063%201.692%200%20.933.802%201.431.825.5%202.929.738l1.366.195q5.965.76%208.025%202.494%202.06%201.736%202.06%205.444%200%203.883-2.862%205.835-2.863%201.952-8.546%201.952-2.408%200-4.989-.39-2.56-.37-5.27-1.128v-5.9q2.32%201.128%204.75%201.692%202.45.564%204.967.564%202.277%200%203.427-.63%201.15-.628%201.15-1.864%200-1.042-.803-1.54-.781-.52-3.145-.803l-1.367-.173q-5.184-.651-7.266-2.408t-2.082-5.336q0-3.86%202.646-5.726Q35.484%200%2040.95%200q2.147%200%204.512.325%202.364.326%205.14%201.02z%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22/%3E%3C/g%3E%3C/svg%3E",
-        "otid": 1658085310528
-      },
-      "design": {
-        "graph": {
-          "blocks": [
-            {
-              "id": "681a6415-ee8d-4c1c-85bf-d1ffc1fa2482",
-              "type": "basic.output",
-              "data": {
-                "name": "n",
-                "virtual": true,
-                "range": "[3:0]",
-                "pins": [
-                  {
-                    "index": "3",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "2",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "1",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ]
-              },
-              "position": {
-                "x": 952,
-                "y": 488
-              }
-            },
-            {
-              "id": "baa35392-0185-43dc-9b99-bb34e31e987d",
-              "type": "basic.constant",
-              "data": {
-                "name": "F",
-                "value": "12000000",
-                "local": false
-              },
-              "position": {
-                "x": 520,
-                "y": 344
-              }
-            },
-            {
-              "id": "b72bf1d9-b1f7-4771-8371-08475f95ee34",
-              "type": "basic.constant",
-              "data": {
-                "name": "ns",
-                "value": "1250",
-                "local": false
-              },
-              "position": {
-                "x": 720,
-                "y": 344
-              }
-            },
-            {
-              "id": "3238f8fb-ade5-4d95-a02d-692defd900d6",
-              "type": "basic.info",
-              "data": {
-                "info": "Input parameter: Nanoseconds  \n* Max value: 1250 ns (15 cycles)",
-                "readonly": false
-              },
-              "position": {
-                "x": 712,
-                "y": 256
-              },
-              "size": {
-                "width": 304,
-                "height": 64
-              }
-            },
-            {
-              "id": "0b858727-f8ad-4c64-882b-640b0edba180",
-              "type": "basic.info",
-              "data": {
-                "info": "Input parameter:  \nSystem Frequency",
-                "readonly": true
-              },
-              "position": {
-                "x": 480,
-                "y": 264
-              },
-              "size": {
-                "width": 280,
-                "height": 48
-              }
-            },
-            {
-              "id": "543bffe4-b003-4b6f-b0aa-e31cdbf2d867",
-              "type": "basic.code",
-              "data": {
-                "ports": {
-                  "in": [],
-                  "out": [
-                    {
-                      "name": "n",
-                      "range": "[3:0]",
-                      "size": 4
-                    }
-                  ]
-                },
-                "params": [
-                  {
-                    "name": "F"
-                  },
-                  {
-                    "name": "NS"
-                  }
-                ],
-                "code": "localparam Cycles = $ceil(1.0e-9 * F * NS);\n\nassign n = Cycles;\n\n"
-              },
-              "position": {
-                "x": 472,
-                "y": 464
-              },
-              "size": {
-                "width": 392,
-                "height": 112
-              }
-            }
-          ],
-          "wires": [
-            {
-              "source": {
-                "block": "b72bf1d9-b1f7-4771-8371-08475f95ee34",
-                "port": "constant-out"
-              },
-              "target": {
-                "block": "543bffe4-b003-4b6f-b0aa-e31cdbf2d867",
-                "port": "NS"
-              },
-              "vertices": []
-            },
-            {
-              "source": {
-                "block": "baa35392-0185-43dc-9b99-bb34e31e987d",
-                "port": "constant-out"
-              },
-              "target": {
-                "block": "543bffe4-b003-4b6f-b0aa-e31cdbf2d867",
-                "port": "F"
-              },
-              "vertices": []
-            },
-            {
-              "source": {
-                "block": "543bffe4-b003-4b6f-b0aa-e31cdbf2d867",
-                "port": "n"
-              },
-              "target": {
-                "block": "681a6415-ee8d-4c1c-85bf-d1ffc1fa2482",
-                "port": "in"
-              },
-              "size": 4
-            }
-          ]
-        }
-      }
-    },
     "0fa07340e795f699d6f370d550d2259f58dd3e21": {
       "package": {
         "name": "Bus4-Split-1-3",
@@ -22512,6 +22296,100 @@
                 "block": "01808189-9bef-463d-b550-33d6bf218fa5",
                 "port": "346b4ae4-4bb6-4845-9c17-3b25e0dde718"
               }
+            }
+          ]
+        }
+      }
+    },
+    "9b9118b2e5d192560784b8047d751099f910c102": {
+      "package": {
+        "name": "4-bits-gen-constant",
+        "version": "0.0.2",
+        "description": "Generic: 4-bits generic constant (0-15)",
+        "author": "Juan Gonzalez-Gomez (Obijuan)",
+        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22145.608%22%20height=%22247.927%22%20viewBox=%220%200%20136.50729%20232.43134%22%3E%3Cg%20style=%22line-height:0%25;-inkscape-font-specification:'Ubuntu%20Mono'%22%3E%3Cpath%20d=%22M56.012%20146.905q9.055%206.708%2020.459%2017.105%2011.404%2010.062%2022.472%2021.8%2011.403%2011.74%2021.465%2024.15%2010.062%2012.074%2016.1%2022.471h-32.87q-6.372-10.397-15.763-21.13-9.392-11.068-20.124-21.13-10.398-10.062-21.13-18.447-10.398-8.385-18.783-14.087v74.794H0V4.695L27.838%200v141.874q18.447-16.1%2036.894-31.863%2018.447-16.1%2033.205-33.205h32.533q-14.422%2017.106-34.881%2035.217-20.124%2018.112-39.577%2034.882z%22%20style=%22line-height:1.25%22%20font-size=%22335.399%22%20font-weight=%22400%22%20font-family=%22Ubuntu%20Mono%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22green%22/%3E%3C/g%3E%3C/svg%3E"
+      },
+      "design": {
+        "graph": {
+          "blocks": [
+            {
+              "id": "6cee4c7b-0e73-4066-a2d8-d8bcda4b5688",
+              "type": "basic.output",
+              "data": {
+                "name": "",
+                "range": "[3:0]",
+                "size": 4
+              },
+              "position": {
+                "x": 944,
+                "y": 248
+              }
+            },
+            {
+              "id": "c0fb4784-5e8c-4f41-9f4b-6daa2e9e03a4",
+              "type": "basic.constant",
+              "data": {
+                "name": "",
+                "value": "0",
+                "local": false
+              },
+              "position": {
+                "x": 728,
+                "y": 128
+              }
+            },
+            {
+              "id": "7dbe7521-0f9f-43ee-ab0c-0439e2c20bc2",
+              "type": "basic.code",
+              "data": {
+                "code": "assign k = VALUE;",
+                "params": [
+                  {
+                    "name": "VALUE"
+                  }
+                ],
+                "ports": {
+                  "in": [],
+                  "out": [
+                    {
+                      "name": "k",
+                      "range": "[3:0]",
+                      "size": 4
+                    }
+                  ]
+                }
+              },
+              "position": {
+                "x": 672,
+                "y": 248
+              },
+              "size": {
+                "width": 208,
+                "height": 64
+              }
+            }
+          ],
+          "wires": [
+            {
+              "source": {
+                "block": "c0fb4784-5e8c-4f41-9f4b-6daa2e9e03a4",
+                "port": "constant-out"
+              },
+              "target": {
+                "block": "7dbe7521-0f9f-43ee-ab0c-0439e2c20bc2",
+                "port": "VALUE"
+              }
+            },
+            {
+              "source": {
+                "block": "7dbe7521-0f9f-43ee-ab0c-0439e2c20bc2",
+                "port": "k"
+              },
+              "target": {
+                "block": "6cee4c7b-0e73-4066-a2d8-d8bcda4b5688",
+                "port": "in"
+              },
+              "size": 4
             }
           ]
         }
