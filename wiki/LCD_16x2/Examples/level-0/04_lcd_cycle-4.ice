@@ -350,7 +350,7 @@
           "id": "cd049a9d-5f53-4d1e-997b-9245b3459ea1",
           "type": "basic.info",
           "data": {
-            "info": "## Ejemplo 3: Prueba del bloque LCD-cycle\n\nCada vez que se aprieta el pulsador, se genera un pulso en la señal E. Con un analizador lógico  \npodemos medir tanto la señal E como las señales de busy y done",
+            "info": "## Ejemplo 4: Prueba del bloque LCD-cycle\n\nCada vez que se aprieta el pulsador, se genera un pulso en la señal E. Con un analizador lógico  \npodemos medir tanto la señal E como las señales de busy y done",
             "readonly": true
           },
           "position": {
@@ -450,6 +450,17 @@
         },
         {
           "source": {
+            "block": "2168edfe-e754-46e4-8e11-177155463226",
+            "port": "out"
+          },
+          "target": {
+            "block": "732342aa-55c6-414e-b085-0438d475a8cb",
+            "port": "21bc142d-a93a-430d-b37a-326435def9f9"
+          },
+          "vertices": []
+        },
+        {
+          "source": {
             "block": "732342aa-55c6-414e-b085-0438d475a8cb",
             "port": "997db8c4-b772-49d8-83e7-4427aff720e6"
           },
@@ -517,17 +528,6 @@
             "block": "5bc00972-7b2e-4512-a1de-e08f268e1c30",
             "port": "85bbd302-b76e-4ecc-9908-6e7baedc0c67"
           }
-        },
-        {
-          "source": {
-            "block": "2168edfe-e754-46e4-8e11-177155463226",
-            "port": "out"
-          },
-          "target": {
-            "block": "732342aa-55c6-414e-b085-0438d475a8cb",
-            "port": "21bc142d-a93a-430d-b37a-326435def9f9"
-          },
-          "vertices": []
         }
       ]
     }
