@@ -804,12 +804,12 @@
           "id": "5846cafb-326c-40b4-9a33-c1c71a069e33",
           "type": "basic.info",
           "data": {
-            "info": "Ciclos para T/4",
+            "info": "Dividir entre 4",
             "readonly": true
           },
           "position": {
-            "x": -1152,
-            "y": 1312
+            "x": -1224,
+            "y": 1192
           },
           "size": {
             "width": 152,
@@ -882,6 +882,22 @@
           "size": {
             "width": 168,
             "height": 64
+          }
+        },
+        {
+          "id": "a6c145a8-5f0c-4f2b-ab16-5bc84096cc89",
+          "type": "basic.info",
+          "data": {
+            "info": "El tiempo de cada slot  \nes T/4",
+            "readonly": true
+          },
+          "position": {
+            "x": -1240,
+            "y": 1312
+          },
+          "size": {
+            "width": 192,
+            "height": 56
           }
         }
       ],
