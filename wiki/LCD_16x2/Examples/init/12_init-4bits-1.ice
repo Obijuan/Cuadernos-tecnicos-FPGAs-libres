@@ -630,7 +630,7 @@
           "id": "cfd7d953-234c-4df4-8949-88529aaf8446",
           "type": "basic.info",
           "data": {
-            "info": "## Ejemplo 11: LCD-4bit: Inicialización manual\n\nUna vez alimentado el LCD, tras pulsar 8 veces el pulsador se verá el cursor parpadeando en la primera  \nposición (Esquina superior izquierda)",
+            "info": "## Ejemplo 12: LCD-4bit: Inicialización manual\n\nUna vez alimentado el LCD, tras pulsar 8 veces el pulsador se verá el cursor parpadeando en la primera  \nposición (Esquina superior izquierda)",
             "readonly": true
           },
           "position": {
