@@ -228,7 +228,7 @@
           "type": "basic.constant",
           "data": {
             "name": "Instrucciones",
-            "value": "10",
+            "value": "15",
             "local": false
           },
           "position": {
@@ -241,17 +241,17 @@
           "type": "basic.memory",
           "data": {
             "name": "Inicializar_lcd",
-            "list": "0_30 //-- Cmd: Init 0\n0_30 //-- Cmd: Init 1\n0_30 //-- Cmd: Init 2\n0_38 //-- Cmd: Function set: 2-lineas, 8-bits\n0_0F //-- Cmd: Display on, cursor on, blink on\n0_06 //-- Cmd: Entry mode set\n0_01 //-- Cmd: Display CLS\n1_41 //-- Print A\n1_42 //-- Print B\n1_43 //-- Print C\n",
+            "list": "0_30 //-- Cmd: Init 0\n0_30 //-- Cmd: Init 1\n0_30 //-- Cmd: Init 2\n0_38 //-- Cmd: Function set: 2-lineas, 8-bits\n0_0C //-- Cmd: Display on, cursor on, blink on\n0_06 //-- Cmd: Entry mode set\n0_01 //-- Cmd: Display CLS\n1_46 //-- Print F\n1_50 //-- Print P\n1_47 //-- Print G\n1_41 //-- Print A\n1_77 //-- Print w\n1_61 //-- Print a\n1_72 //-- Print r\n1_73 //-- Print s\n",
             "local": false,
             "format": 10
           },
           "position": {
             "x": -792,
-            "y": -224
+            "y": -280
           },
           "size": {
-            "width": 424,
-            "height": 200
+            "width": 432,
+            "height": 264
           }
         },
         {
@@ -270,16 +270,16 @@
           "id": "cfd7d953-234c-4df4-8949-88529aaf8446",
           "type": "basic.info",
           "data": {
-            "info": "## Ejemplo 10: LCD-8bit: Inicialización e impresión manuales desde memoria\n\n",
+            "info": "## Ejemplo 17: Probando el controlador LCD-write-open-8bits\n\nSe imprime el mensaje \"FPGAwars\" cuando se aprieta el pulsador SW1\n\n",
             "readonly": true
           },
           "position": {
             "x": -1200,
-            "y": -344
+            "y": -400
           },
           "size": {
-            "width": 808,
-            "height": 56
+            "width": 816,
+            "height": 80
           }
         },
         {
@@ -386,12 +386,44 @@
             "readonly": true
           },
           "position": {
-            "x": -232,
-            "y": 200
+            "x": -208,
+            "y": -112
           },
           "size": {
             "width": 240,
             "height": 56
+          }
+        },
+        {
+          "id": "22d7deae-8147-4541-a2fc-9edb57db399b",
+          "type": "basic.info",
+          "data": {
+            "info": "LCD-write-open-8bits",
+            "readonly": true
+          },
+          "position": {
+            "x": -192,
+            "y": 200
+          },
+          "size": {
+            "width": 176,
+            "height": 32
+          }
+        },
+        {
+          "id": "cddbdde6-1c18-4f1f-ab5d-2ac80271b4f9",
+          "type": "basic.info",
+          "data": {
+            "info": "Máquina de contar",
+            "readonly": true
+          },
+          "position": {
+            "x": -840,
+            "y": 312
+          },
+          "size": {
+            "width": 160,
+            "height": 32
           }
         }
       ],
