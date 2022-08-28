@@ -241,16 +241,16 @@
           "type": "basic.memory",
           "data": {
             "name": "Inicializar_lcd",
-            "list": "0_30 //-- Cmd: Init 0\n0_30 //-- Cmd: Init 1\n0_30 //-- Cmd: Init 2\n0_38 //-- Cmd: Function set: 2-lineas, 8-bits\n0_0C //-- Cmd: Display on, cursor on, blink on\n0_06 //-- Cmd: Entry mode set\n0_01 //-- Cmd: Display CLS\n1_46 //-- Print F\n1_50 //-- Print P\n1_47 //-- Print G\n1_41 //-- Print A\n1_77 //-- Print w\n1_61 //-- Print a\n1_72 //-- Print r\n1_73 //-- Print s\n",
+            "list": "0_30 //-- Cmd: Init 0\n0_30 //-- Cmd: Init 1\n0_30 //-- Cmd: Init 2\n0_38 //-- Cmd: Function set: 2-lineas, 8-bits\n0_0C //-- Cmd: Display on, cursor off, blink off\n0_06 //-- Cmd: Entry mode set\n0_01 //-- Cmd: Display CLS\n1_46 //-- Print F\n1_50 //-- Print P\n1_47 //-- Print G\n1_41 //-- Print A\n1_77 //-- Print w\n1_61 //-- Print a\n1_72 //-- Print r\n1_73 //-- Print s\n",
             "local": false,
             "format": 10
           },
           "position": {
-            "x": -792,
+            "x": -808,
             "y": -280
           },
           "size": {
-            "width": 432,
+            "width": 464,
             "height": 264
           }
         },
