@@ -896,7 +896,7 @@
           "id": "5a34dec1-a160-4632-9344-3f6d3c8cdb80",
           "type": "3676a00f3a70e406487ed14b901daf3e4984e63d",
           "position": {
-            "x": -632,
+            "x": -616,
             "y": 128
           },
           "size": {
@@ -1134,6 +1134,38 @@
           "size": {
             "width": 200,
             "height": 56
+          }
+        },
+        {
+          "id": "3caca12f-f036-48a4-b7a3-2700743376d6",
+          "type": "basic.info",
+          "data": {
+            "info": "Seleccionar el nibble a enviar:\n* 0: Nibble bajo\n* 1: Nibble alto",
+            "readonly": true
+          },
+          "position": {
+            "x": -448,
+            "y": -80
+          },
+          "size": {
+            "width": 288,
+            "height": 80
+          }
+        },
+        {
+          "id": "ed86fe80-3260-4136-b39f-8ca0325bbdfd",
+          "type": "basic.info",
+          "data": {
+            "info": "Nibble a enviar",
+            "readonly": true
+          },
+          "position": {
+            "x": -264,
+            "y": 352
+          },
+          "size": {
+            "width": 160,
+            "height": 40
           }
         }
       ],
