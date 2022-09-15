@@ -992,7 +992,7 @@
           "id": "d8a4d397-e778-4b50-97a8-114f20962900",
           "type": "basic.constant",
           "data": {
-            "name": "CLS",
+            "name": "PRINT",
             "value": "\"A\"",
             "local": false
           },
