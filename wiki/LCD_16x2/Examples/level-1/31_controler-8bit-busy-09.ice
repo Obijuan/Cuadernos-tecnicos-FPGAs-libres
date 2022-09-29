@@ -1683,7 +1683,7 @@
           "id": "7c92f83b-565e-4568-9df8-f945690ce9bd",
           "type": "basic.info",
           "data": {
-            "info": "Máquina de contar de  \n3-bits. Ejecución 0-5",
+            "info": "Máquina de contar de  \n3-bits. Ejecución 0-6",
             "readonly": true
           },
           "position": {
