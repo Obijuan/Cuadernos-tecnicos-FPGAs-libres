@@ -1093,7 +1093,7 @@
           "id": "e0507fa5-0d87-4e4c-918c-fcc610b91d6c",
           "type": "basic.info",
           "data": {
-            "info": "## Ejemplo 34: Generando uno o dos ciclos en E\n \nSi se trata de un comando normal (`cmd`=1) se emiten 2 ciclos en E  \nPero si es un comando de inicialización (`cmd`=0) sólo se emite un ciclo",
+            "info": "## Ejemplo 34: Generando ciclos en E\n \nSi se trata de un comando normal (`cmd`=1) se emiten 2 ciclos en E  \nPero si es un comando de inicialización (`cmd`=0) sólo se emite un ciclo",
             "readonly": true
           },
           "position": {
