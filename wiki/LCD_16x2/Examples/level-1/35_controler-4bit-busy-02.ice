@@ -1262,7 +1262,7 @@
           "type": "9d10d97b558aeda57ba5ffa0e59c0356314e722f",
           "position": {
             "x": 328,
-            "y": 552
+            "y": 560
           },
           "size": {
             "width": 96,
@@ -6062,7 +6062,7 @@
               "id": "6f057e62-9613-4711-835f-ba3fc05293b1",
               "type": "basic.info",
               "data": {
-                "info": "Tic for Reading the busy flag  \nOnly emitter in the first cycle",
+                "info": "Tic para leer el flag de busy  \nSólo se emite en el primer ciclo",
                 "readonly": true
               },
               "position": {
