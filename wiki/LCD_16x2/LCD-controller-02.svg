@@ -3,8 +3,8 @@
 
 <svg
    width="451.27762mm"
-   height="249.75015mm"
-   viewBox="0 0 451.27762 249.75015"
+   height="276.13269mm"
+   viewBox="0 0 451.27762 276.13269"
    version="1.1"
    id="svg5"
    xml:space="preserve"
@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.47811883"
-     inkscape:cx="725.76099"
-     inkscape:cy="634.77943"
+     inkscape:zoom="0.67616214"
+     inkscape:cx="770.52525"
+     inkscape:cy="567.17166"
      inkscape:window-width="1860"
      inkscape:window-height="1016"
      inkscape:window-x="60"
@@ -2030,7 +2030,7 @@
        style="fill:#ffffff;stroke:#000000;stroke-width:0.79375"
        id="rect18914"
        width="450.48386"
-       height="248.95641"
+       height="275.33893"
        x="-10.506072"
        y="-13.692607" /></g><g
      inkscape:label="Capa 1"
@@ -3027,6 +3027,30 @@
        style="fill:none;stroke:#000000;stroke-width:0.529168;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
        d="M 3.9784028,-9.5193586 107.96955,45.078457"
        id="path15435"
-       sodipodi:nodetypes="cc" /></g><style
+       sodipodi:nodetypes="cc" /><path
+       style="fill:none;stroke:#000000;stroke-width:0.529168;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 139.94712,189.49027 14.3633,-73.71843"
+       id="path21533"
+       sodipodi:nodetypes="cc" /><text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;stroke-width:0.264583"
+       x="72.789848"
+       y="196.3455"
+       id="text21588"><tspan
+         sodipodi:role="line"
+         x="72.789848"
+         y="196.3455"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;stroke-width:0.264583"
+         id="tspan21584">El controlador arranca en el ciclo 0</tspan><tspan
+         sodipodi:role="line"
+         x="72.789848"
+         y="206.92885"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;stroke-width:0.264583"
+         id="tspan21590">y se realiza la inicialización </tspan><tspan
+         sodipodi:role="line"
+         x="72.789848"
+         y="217.51218"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;stroke-width:0.264583"
+         id="tspan21586" /></text></g><style
      id="style263">.st0{display:none}.st1{fill:none;stroke:#000;stroke-width:.75;stroke-linejoin:round;stroke-miterlimit:10}.st2{fill:#010002}</style><style
      id="style263-3">.st0{display:none}.st1{fill:none;stroke:#000;stroke-width:.75;stroke-linejoin:round;stroke-miterlimit:10}.st2{fill:#010002}</style></svg>
