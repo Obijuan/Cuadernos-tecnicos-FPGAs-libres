@@ -645,7 +645,7 @@
           "id": "1bf1dc64-7e1f-4f35-9f00-d09bcf6019c0",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 49: Probando el controlador LCD-controller-busy-4-bits\n\nEl controlador se inicializa automáticamente tras el reset e imprime el carácter `A`\n\n",
+            "info": "# Ejemplo 50: Probando y midiendo el controlador LCD-controller-busy-4-bits\n\nEl controlador se inicializa automáticamente tras el reset e imprime el carácter `A`\n\n",
             "readonly": true
           },
           "position": {
@@ -653,8 +653,8 @@
             "y": -208
           },
           "size": {
-            "width": 968,
-            "height": 88
+            "width": 1120,
+            "height": 72
           }
         },
         {
