@@ -471,29 +471,29 @@
           }
         },
         {
-          "id": "3426f5f6-1e5d-415a-9bf4-4789f956d330",
+          "id": "909ce76d-b744-4b7d-bb67-d621d2068cf7",
           "type": "basic.memory",
           "data": {
-            "name": "Envio_al_lcd",
-            "list": "0_40 //-- Set CGRAM addr\n1_1F //-- ***** Car 0\n1_1F //-- *****\n1_1F //-- *****\n1_1F //-- *****\n1_1F //-- *****\n1_1F //-- *****\n1_1F //-- *****\n1_00 //-- \n1_1F //-- *****  Car 1\n1_00 //--\n1_1F //-- *****\n1_00 //--      \n1_1F //-- *****\n1_00 //--  \n1_1F //-- *****\n1_00 //--       \n1_15 //-- * * *  Car 2\n1_0A //--  * * \n1_15 //-- * * *\n1_0A //--  * *\n1_15 //-- * * *\n1_0A //--  * *\n1_15 //-- * * *\n1_00 //--\n0_80 //-- Set DDRAM addr\n1_00 //-- Car def 0\n1_01 //-- Car def 1\n1_02 //-- Car def 2\n0_0C //-- Cursor off\n0_0C\n0_0C_",
+            "name": "",
+            "list": "0_80 //-- Locate (0,0)\n1_46 //-- Print \"F\"\n1_50 //-- Print \"P\"\n1_47 //-- Print \"G\"\n1_41 //-- Print \"A\"\n1_77 //-- Print \"w\"\n1_61 //-- Print \"a\"\n1_72 //-- Print \"r\"\n1_73 //-- Print \"s\"\n0_C0 //-- locate (0,1)\n1_43 //-- Print \"C\"\n1_6f //-- Print \"o\"\n1_6e //-- Print \"n\"\n1_74 //-- Print \"t\"\n1_72 //-- Print \"r\"\n1_6f //-- Print \"o\"\n1_6c //-- Print \"l\"\n1_61 //-- Print \"a\"\n1_64 //-- Print \"d\"\n1_6f //-- Print \"o\"\n1_72 //-- Print \"r\"\n1_20 //-- Print \" \"\n1_4c //-- Print \"L\"\n1_43 //-- Print \"C\"\n1_44 //-- Print \"D\"\n\n",
             "local": false,
             "format": 10
           },
           "position": {
-            "x": -592,
-            "y": 264
+            "x": -568,
+            "y": 240
           },
           "size": {
-            "width": 312,
-            "height": 368
+            "width": 272,
+            "height": 408
           }
         },
         {
           "id": "231f9b0d-69bf-413b-b028-e267c1a8f5c9",
           "type": "basic.constant",
           "data": {
-            "name": "",
-            "value": "32",
+            "name": "Comandos",
+            "value": "25",
             "local": false
           },
           "position": {
@@ -506,7 +506,7 @@
           "type": "basic.constant",
           "data": {
             "name": "Cursor_ON",
-            "value": "1",
+            "value": "0",
             "local": false
           },
           "position": {
@@ -519,7 +519,7 @@
           "type": "basic.constant",
           "data": {
             "name": "Blink_ON",
-            "value": "1",
+            "value": "0",
             "local": false
           },
           "position": {
@@ -531,16 +531,16 @@
           "id": "cd049a9d-5f53-4d1e-997b-9245b3459ea1",
           "type": "basic.info",
           "data": {
-            "info": "## Ejemplo 63: Caracteres definidos por el usuario\n \n",
+            "info": "## Ejemplo 63: Enviando comandos desde memoria  \n\nSe imprimen se mensaje en el LCD, usando ambas líneas:\n\n```\nFPGAwars\nControlador de LCD\n```\n",
             "readonly": true
           },
           "position": {
-            "x": -664,
-            "y": 168
+            "x": -208,
+            "y": 264
           },
           "size": {
             "width": 672,
-            "height": 48
+            "height": 144
           }
         },
         {
@@ -575,16 +575,16 @@
           "id": "7c92f83b-565e-4568-9df8-f945690ce9bd",
           "type": "basic.info",
           "data": {
-            "info": "Máquina de contar de  \n5-bits. Ejecución 0-32",
+            "info": "Máquina de contar de  \n5-bits (0-31)",
             "readonly": true
           },
           "position": {
-            "x": -232,
+            "x": -224,
             "y": 1136
           },
           "size": {
-            "width": 208,
-            "height": 72
+            "width": 192,
+            "height": 56
           }
         },
         {
@@ -895,16 +895,6 @@
         },
         {
           "source": {
-            "block": "3426f5f6-1e5d-415a-9bf4-4789f956d330",
-            "port": "memory-out"
-          },
-          "target": {
-            "block": "2dd28b44-14f3-41f5-b903-c1cfc6fcd680",
-            "port": "c71c44ac-0500-4eb5-9c1c-4ea21cd78377"
-          }
-        },
-        {
-          "source": {
             "block": "da4c2cd1-7512-4463-bcdc-fdd649deeed7",
             "port": "6066e5ea-fa58-4727-8b67-e9e86fb640b0"
           },
@@ -941,6 +931,16 @@
           "target": {
             "block": "e68b3015-2de1-4f0d-8055-01115007d29d",
             "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
+          }
+        },
+        {
+          "source": {
+            "block": "909ce76d-b744-4b7d-bb67-d621d2068cf7",
+            "port": "memory-out"
+          },
+          "target": {
+            "block": "2dd28b44-14f3-41f5-b903-c1cfc6fcd680",
+            "port": "c71c44ac-0500-4eb5-9c1c-4ea21cd78377"
           }
         }
       ]
