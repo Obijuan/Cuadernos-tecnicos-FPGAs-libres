@@ -1108,7 +1108,7 @@
           "type": "basic.memory",
           "data": {
             "name": "",
-            "list": "0_30 //-- Init 0\n0_30 //-- Init 1\n0_30 //-- Init 2\n0_20 //-- Funct Set. 4-bits\n0_28 //-- Funct Set. 2 lines\n0_0F //-- Disp ctrl: Disp on. Curso on. Blink ON\n0_01 //-- CLS\n1_4c //-- Print \"LCD-write-busy8\"\n1_43\n1_44\n1_2d\n1_77\n1_72\n1_69\n1_74\n1_65\n1_2d\n1_62\n1_75\n1_73\n1_79\n1_34\n",
+            "list": "0_30 //-- Init 0\n0_30 //-- Init 1\n0_30 //-- Init 2\n0_20 //-- Funct Set. 4-bits\n0_28 //-- Funct Set. 2 lines\n0_0F //-- Disp ctrl: Disp on. Curso on. Blink ON\n0_01 //-- CLS\n1_4c //-- Print \"LCD-write-busy4\"\n1_43\n1_44\n1_2d\n1_77\n1_72\n1_69\n1_74\n1_65\n1_2d\n1_62\n1_75\n1_73\n1_79\n1_34\n",
             "local": false,
             "format": 10
           },
