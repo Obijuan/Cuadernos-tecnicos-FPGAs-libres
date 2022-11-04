@@ -910,8 +910,8 @@
           }
         },
         {
-          "id": "ad0635a5-d1a4-4182-9259-6dd2e7a6f3e8",
-          "type": "a9da9a6cda5064b87780b0202ca42dd053a81ccc",
+          "id": "95856d14-d696-45c6-816d-cdef1e256bf5",
+          "type": "cb1bcab28ef26a16a823c0877e3cb179a4105de1",
           "position": {
             "x": 616,
             "y": 184
@@ -929,7 +929,7 @@
             "port": "56102125-3ee5-4ee9-94d5-e66dfcacb7de"
           },
           "target": {
-            "block": "ad0635a5-d1a4-4182-9259-6dd2e7a6f3e8",
+            "block": "95856d14-d696-45c6-816d-cdef1e256bf5",
             "port": "6c1d2b98-1df8-4b10-8b12-c2197de57eb4"
           },
           "size": 8
@@ -940,7 +940,7 @@
             "port": "3d584b0a-29eb-47af-8c43-c0822282ef05"
           },
           "target": {
-            "block": "ad0635a5-d1a4-4182-9259-6dd2e7a6f3e8",
+            "block": "95856d14-d696-45c6-816d-cdef1e256bf5",
             "port": "adf3a6ae-71e2-43dd-b504-c2cdbc14dab7"
           },
           "vertices": [
@@ -952,7 +952,7 @@
         },
         {
           "source": {
-            "block": "ad0635a5-d1a4-4182-9259-6dd2e7a6f3e8",
+            "block": "95856d14-d696-45c6-816d-cdef1e256bf5",
             "port": "6066e5ea-fa58-4727-8b67-e9e86fb640b0"
           },
           "target": {
@@ -966,7 +966,7 @@
             "port": "outlabel"
           },
           "target": {
-            "block": "ad0635a5-d1a4-4182-9259-6dd2e7a6f3e8",
+            "block": "95856d14-d696-45c6-816d-cdef1e256bf5",
             "port": "3f2aa475-ede5-41f3-b8e3-b705332e72de"
           }
         },
@@ -976,7 +976,7 @@
             "port": "constant-out"
           },
           "target": {
-            "block": "ad0635a5-d1a4-4182-9259-6dd2e7a6f3e8",
+            "block": "95856d14-d696-45c6-816d-cdef1e256bf5",
             "port": "0d2c265d-25ed-4578-96fc-535e2bfb549e"
           },
           "vertices": [
@@ -992,7 +992,7 @@
             "port": "constant-out"
           },
           "target": {
-            "block": "ad0635a5-d1a4-4182-9259-6dd2e7a6f3e8",
+            "block": "95856d14-d696-45c6-816d-cdef1e256bf5",
             "port": "75d23aa3-cc8f-4869-a189-b6224a9b2d83"
           }
         },
@@ -1031,7 +1031,7 @@
         },
         {
           "source": {
-            "block": "ad0635a5-d1a4-4182-9259-6dd2e7a6f3e8",
+            "block": "95856d14-d696-45c6-816d-cdef1e256bf5",
             "port": "ffd463b3-7f50-47ad-9d17-0a39bfe7f6a7"
           },
           "target": {
@@ -1125,7 +1125,7 @@
         },
         {
           "source": {
-            "block": "ad0635a5-d1a4-4182-9259-6dd2e7a6f3e8",
+            "block": "95856d14-d696-45c6-816d-cdef1e256bf5",
             "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
           },
           "target": {
@@ -1145,7 +1145,7 @@
         },
         {
           "source": {
-            "block": "ad0635a5-d1a4-4182-9259-6dd2e7a6f3e8",
+            "block": "95856d14-d696-45c6-816d-cdef1e256bf5",
             "port": "35d50ffd-2482-4f48-a604-e1702bd4ab26"
           },
           "target": {
@@ -2075,10 +2075,10 @@
         }
       }
     },
-    "a9da9a6cda5064b87780b0202ca42dd053a81ccc": {
+    "cb1bcab28ef26a16a823c0877e3cb179a4105de1": {
       "package": {
         "name": "LCD-controller-busy-8-bits",
-        "version": "0.3",
+        "version": "0.4",
         "description": "LCD-controller-busy-8-bits: Controlador de LCD en bucle cerrado con interfaz de 8-bits",
         "author": "Juan González-Gómez (Obijuan)",
         "image": "%3Csvg%20width=%22582.772%22%20height=%22514.404%22%20viewBox=%220%200%20154.1918%20136.10265%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20transform=%22translate(-30.881%20-39.646)%22%3E%3Cpath%20d=%22M162.957%20104.088c0%203.014-1.96%202.635-3.282%202.635H50.325c-1.322%200-2.4-1.094-2.4-4.108V42.693c0-3.022%201.078-2.572%202.4-2.572h109.35c1.322%200%203.282-.442%203.282%202.572z%22%20fill=%22#87ad34%22%20stroke=%22#303030%22%20stroke-width=%22.876%22/%3E%3Cpath%20d=%22M56.314%2048.49h6.08v6.219h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.866%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22/%3E%3Cpath%20d=%22M62.395%2048.49h6.08v6.219h-6.08zm6.08%200h6.073v6.219h-6.072zm6.082%200h6.064v6.219h-6.064zm6.064%200h6.081v6.219H80.63z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.102%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22%20stroke-opacity=%22.102%22/%3E%3Cpath%20d=%22M56.314%2054.718h6.08v6.211h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.866%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22/%3E%3Cpath%20d=%22M62.395%2054.718h6.08v6.211h-6.08zm6.08%200h6.073v6.211h-6.072zm6.082%200h6.064v6.211h-6.064zm6.064%200h6.081v6.211H80.63z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.102%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22%20stroke-opacity=%22.102%22/%3E%3Cpath%20d=%22M56.314%2060.929h6.08v6.229h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.866%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22/%3E%3Cpath%20d=%22M62.395%2060.929h6.08v6.229h-6.08zm6.08%200h6.073v6.229h-6.072zm6.082%200h6.064v6.229h-6.064zm6.064%200h6.081v6.229H80.63z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.102%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22%20stroke-opacity=%22.102%22/%3E%3Cpath%20d=%22M56.314%2067.158h6.08v6.228h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.866%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22/%3E%3Cpath%20d=%22M62.395%2067.158h6.08v6.228h-6.08zm6.08%200h6.073v6.228h-6.072zm6.082%200h6.064v6.228h-6.064zm6.064%200h6.081v6.228H80.63z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.102%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22%20stroke-opacity=%22.102%22/%3E%3Cpath%20d=%22M56.314%2073.386h6.08v6.229h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.866%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22/%3E%3Cpath%20d=%22M62.395%2073.386h6.08v6.229h-6.08zm6.08%200h6.073v6.229h-6.072zm6.082%200h6.064v6.229h-6.064zm6.064%200h6.081v6.229H80.63z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.102%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22%20stroke-opacity=%22.102%22/%3E%3Cpath%20d=%22M56.314%2079.615h6.08v6.22h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.866%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22/%3E%3Cpath%20d=%22M62.395%2079.615h6.08v6.22h-6.08zm6.08%200h6.073v6.22h-6.072zm6.082%200h6.064v6.22h-6.064zm6.064%200h6.081v6.22H80.63z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.102%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22%20stroke-opacity=%22.102%22/%3E%3Cpath%20d=%22M56.314%2085.835h6.08v6.228h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.866%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22/%3E%3Cpath%20d=%22M62.395%2085.835h6.08v6.228h-6.08zm6.08%200h6.073v6.228h-6.072zm6.082%200h6.064v6.228h-6.064zm6.064%200h6.081v6.228H80.63z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.102%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22%20stroke-opacity=%22.102%22/%3E%3Cpath%20d=%22M56.314%2092.063h6.08v6.22h-6.08zm6.08%200h6.082v6.22h-6.081zm6.082%200h6.072v6.22h-6.072zm6.08%200h6.065v6.22h-6.064zm6.065%200h6.081v6.22H80.63z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.866%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22/%3E%3Cpath%20d=%22M89.743%2048.49h6.08v6.219h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.102%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22%20stroke-opacity=%22.102%22/%3E%3Cpath%20d=%22M95.824%2048.49h6.072v6.219h-6.072zm6.072%200h6.081v6.219h-6.08zm6.081%200h6.081v6.219h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.866%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22/%3E%3Cpath%20d=%22M114.058%2048.49h6.073v6.219h-6.073z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.102%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22%20stroke-opacity=%22.102%22/%3E%3Cpath%20d=%22M89.743%2054.718h6.08v6.211h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.866%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22/%3E%3Cpath%20d=%22M95.824%2054.718h6.072v6.211h-6.072zm6.072%200h6.081v6.211h-6.08zm6.081%200h6.081v6.211h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.102%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22%20stroke-opacity=%22.102%22/%3E%3Cpath%20d=%22M114.058%2054.718h6.073v6.211h-6.073zm-24.315%206.211h6.08v6.229h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.866%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22/%3E%3Cpath%20d=%22M95.824%2060.929h6.072v6.229h-6.072zm6.072%200h6.081v6.229h-6.08zm6.081%200h6.081v6.229h-6.08zm6.081%200h6.073v6.229h-6.073z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.102%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22%20stroke-opacity=%22.102%22/%3E%3Cpath%20d=%22M89.743%2067.158h6.08v6.228h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.866%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22/%3E%3Cpath%20d=%22M95.824%2067.158h6.072v6.228h-6.072zm6.072%200h6.081v6.228h-6.08zm6.081%200h6.081v6.228h-6.08zm6.081%200h6.073v6.228h-6.073z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.102%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22%20stroke-opacity=%22.102%22/%3E%3Cpath%20d=%22M89.743%2073.386h6.08v6.229h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.866%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22/%3E%3Cpath%20d=%22M95.824%2073.386h6.072v6.229h-6.072zm6.072%200h6.081v6.229h-6.08zm6.081%200h6.081v6.229h-6.08zm6.081%200h6.073v6.229h-6.073z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.102%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22%20stroke-opacity=%22.102%22/%3E%3Cpath%20d=%22M89.743%2079.615h6.08v6.22h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.866%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22/%3E%3Cpath%20d=%22M95.824%2079.615h6.072v6.22h-6.072zm6.072%200h6.081v6.22h-6.08zm6.081%200h6.081v6.22h-6.08zm6.081%200h6.073v6.22h-6.073z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.102%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22%20stroke-opacity=%22.102%22/%3E%3Cpath%20d=%22M89.743%2085.835h6.08v6.228h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.866%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22/%3E%3Cpath%20d=%22M95.824%2085.835h6.072v6.228h-6.072zm6.072%200h6.081v6.228h-6.08zm6.081%200h6.081v6.228h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.102%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22%20stroke-opacity=%22.102%22/%3E%3Cpath%20d=%22M114.058%2085.835h6.073v6.228h-6.073z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.866%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22/%3E%3Cpath%20d=%22M89.743%2092.063h6.08v6.22h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.102%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22%20stroke-opacity=%22.102%22/%3E%3Cpath%20d=%22M95.824%2092.063h6.072v6.22h-6.072zm6.072%200h6.081v6.22h-6.08zm6.081%200h6.081v6.22h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.866%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22/%3E%3Cpath%20d=%22M114.058%2092.063h6.073v6.22h-6.073z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.102%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22%20stroke-opacity=%22.102%22/%3E%3Cpath%20d=%22M123.172%2048.49h6.08v6.219h-6.08zm6.08%200h6.073v6.219h-6.072zm6.073%200h6.081v6.219h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.866%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22/%3E%3Cpath%20d=%22M141.406%2048.49h6.073v6.219h-6.073zM147.479%2048.49h6.08v6.219h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.102%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22%20stroke-opacity=%22.102%22/%3E%3Cpath%20d=%22M123.172%2054.718h6.08v6.211h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.866%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22/%3E%3Cpath%20d=%22M129.253%2054.718h6.072v6.211h-6.072zm6.072%200h6.081v6.211h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.102%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22%20stroke-opacity=%22.102%22/%3E%3Cpath%20d=%22M141.406%2054.718h6.073v6.211h-6.073z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.866%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22/%3E%3Cpath%20d=%22M147.479%2054.718h6.08v6.211h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.102%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22%20stroke-opacity=%22.102%22/%3E%3Cpath%20d=%22M123.172%2060.929h6.08v6.229h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.866%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22/%3E%3Cpath%20d=%22M129.253%2060.929h6.072v6.229h-6.072zm6.072%200h6.081v6.229h-6.08zm6.081%200h6.073v6.229h-6.073z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.102%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22%20stroke-opacity=%22.102%22/%3E%3Cpath%20d=%22M147.479%2060.929h6.08v6.229h-6.08zm-24.307%206.229h6.08v6.228h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.866%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22/%3E%3Cpath%20d=%22M129.253%2067.158h6.072v6.228h-6.072zm6.072%200h6.081v6.228h-6.08zm6.081%200h6.073v6.228h-6.073z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.102%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22%20stroke-opacity=%22.102%22/%3E%3Cpath%20d=%22M147.479%2067.158h6.08v6.228h-6.08zm-24.307%206.228h6.08v6.229h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.866%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22/%3E%3Cpath%20d=%22M129.253%2073.386h6.072v6.229h-6.072zm6.072%200h6.081v6.229h-6.08zm6.081%200h6.073v6.229h-6.073z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.102%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22%20stroke-opacity=%22.102%22/%3E%3Cpath%20d=%22M147.479%2073.386h6.08v6.229h-6.08zm-24.307%206.229h6.08v6.22h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.866%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22/%3E%3Cpath%20d=%22M129.253%2079.615h6.072v6.22h-6.072zm6.072%200h6.081v6.22h-6.08zm6.081%200h6.073v6.22h-6.073z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.102%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22%20stroke-opacity=%22.102%22/%3E%3Cpath%20d=%22M147.479%2079.615h6.08v6.22h-6.08zm-24.307%206.22h6.08v6.228h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.866%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22/%3E%3Cpath%20d=%22M129.253%2085.835h6.072v6.228h-6.072zm6.072%200h6.081v6.228h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.102%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22%20stroke-opacity=%22.102%22/%3E%3Cpath%20d=%22M141.406%2085.835h6.073v6.228h-6.073z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.866%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22/%3E%3Cpath%20d=%22M147.479%2085.835h6.08v6.228h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.102%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22%20stroke-opacity=%22.102%22/%3E%3Cpath%20d=%22M123.172%2092.063h6.08v6.22h-6.08zm6.08%200h6.073v6.22h-6.072zm6.073%200h6.081v6.22h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.866%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22/%3E%3Cpath%20d=%22M141.406%2092.063h6.073v6.22h-6.073zM147.479%2092.063h6.08v6.22h-6.08z%22%20opacity=%22.99%22%20fill=%22#1a1a1a%22%20fill-opacity=%22.102%22%20stroke=%22#1a1a1a%22%20stroke-width=%22.072%22%20stroke-opacity=%22.102%22/%3E%3Ctext%20style=%22line-height:1.25%22%20x=%2229.509%22%20y=%22140.759%22%20font-size=%2227.558%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%20stroke-width=%22.689%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20x=%2229.509%22%20y=%22140.759%22%20font-weight=%22700%22%3EController%3C/tspan%3E%3C/text%3E%3Ctext%20style=%22line-height:1.25%22%20x=%2263.874%22%20y=%22169.801%22%20font-size=%2227.558%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%20stroke-width=%22.689%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20x=%2263.874%22%20y=%22169.801%22%20font-weight=%22700%22%3EBusy%3C/tspan%3E%3C/text%3E%3Ccircle%20r=%2212.621%22%20cy=%22102.335%22%20cx=%22162.358%22%20fill=%22#fff%22%20stroke=%22green%22%20stroke-width=%22.527%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Ctext%20y=%22109.323%22%20x=%22155.442%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%2235.282%22%20letter-spacing=%220%22%20word-spacing=%220%22%20transform=%22scale(.99853%201.00147)%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%20stroke-width=%22.654%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20y=%22109.323%22%20x=%22155.442%22%20font-weight=%22700%22%20font-size=%2220.162%22%3E0%3C/tspan%3E%3C/text%3E%3C/g%3E%3C/svg%3E",
@@ -2350,49 +2350,7 @@
                 "name": "dout",
                 "range": "[7:0]",
                 "blockColor": "royalblue",
-                "virtual": true,
-                "pins": [
-                  {
-                    "index": "7",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "6",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "5",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "4",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "3",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "2",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "1",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ]
+                "size": 8
               },
               "position": {
                 "x": 2032,
@@ -2502,50 +2460,8 @@
               "type": "basic.output",
               "data": {
                 "name": "d",
-                "virtual": true,
                 "range": "[7:0]",
-                "pins": [
-                  {
-                    "index": "7",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "6",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "5",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "4",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "3",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "2",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "1",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ]
+                "size": 8
               },
               "position": {
                 "x": 2536,
@@ -2559,49 +2475,7 @@
                 "name": "dout",
                 "range": "[7:0]",
                 "blockColor": "royalblue",
-                "virtual": true,
-                "pins": [
-                  {
-                    "index": "7",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "6",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "5",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "4",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "3",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "2",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "1",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ]
+                "size": 8
               },
               "position": {
                 "x": 2384,
@@ -3395,7 +3269,7 @@
               "id": "d53e38f4-7dd2-41ea-8132-ebc3e0ed1ba9",
               "type": "basic.info",
               "data": {
-                "info": "LCD-write-busy-4-bits",
+                "info": "LCD-write-busy-8-bits",
                 "readonly": true
               },
               "position": {
@@ -3785,7 +3659,8 @@
             {
               "source": {
                 "block": "6c1d2b98-1df8-4b10-8b12-c2197de57eb4",
-                "port": "out"
+                "port": "out",
+                "size": 8
               },
               "target": {
                 "block": "824fb0f6-191d-49db-b8a0-62a3f872cf9c",
@@ -3848,7 +3723,8 @@
             {
               "source": {
                 "block": "f6fca2c5-59ed-48e7-b68f-5a5d03a861a2",
-                "port": "750c0892-e316-4030-ab97-be28a90e1b76"
+                "port": "750c0892-e316-4030-ab97-be28a90e1b76",
+                "size": 8
               },
               "target": {
                 "block": "63d8a439-5d8c-483f-a0ef-7bc7c9e2394c",
@@ -4027,7 +3903,8 @@
               },
               "target": {
                 "block": "f12990ef-09b1-4d35-9071-a590e8c1c494",
-                "port": "e16a02ca-71c3-405e-b8b9-7c2d44d0ea4b"
+                "port": "e16a02ca-71c3-405e-b8b9-7c2d44d0ea4b",
+                "size": 8
               },
               "vertices": [],
               "size": 8
@@ -4193,7 +4070,8 @@
             {
               "source": {
                 "block": "d9efc1dc-a439-4b0c-9e13-310ae3ce7515",
-                "port": "a932aa2c-3aad-4790-9d2f-7c05f1074aa4"
+                "port": "a932aa2c-3aad-4790-9d2f-7c05f1074aa4",
+                "size": 8
               },
               "target": {
                 "block": "5e154911-3b02-4c25-b8b4-67a2cec51df8",
@@ -4220,7 +4098,8 @@
               },
               "target": {
                 "block": "d9efc1dc-a439-4b0c-9e13-310ae3ce7515",
-                "port": "520455a3-592c-4fd0-ade9-62d366c88919"
+                "port": "520455a3-592c-4fd0-ade9-62d366c88919",
+                "size": 8
               },
               "vertices": [],
               "size": 8
@@ -4232,7 +4111,8 @@
               },
               "target": {
                 "block": "d9efc1dc-a439-4b0c-9e13-310ae3ce7515",
-                "port": "e045f285-627f-42f7-b073-faa36ef6d420"
+                "port": "e045f285-627f-42f7-b073-faa36ef6d420",
+                "size": 8
               },
               "vertices": [
                 {
@@ -4398,6 +4278,30 @@
                   "y": 112
                 }
               ]
+            },
+            {
+              "source": {
+                "block": "a9d64bd7-a59b-4c92-b3e7-5cf8fa5da8ef",
+                "port": "7e7cc77f-2bb7-4bf0-af74-d4b1fc451299",
+                "size": 8
+              },
+              "target": {
+                "block": "006f737c-c59c-430e-ad63-1d199d1f3551",
+                "port": "inlabel"
+              },
+              "size": 8
+            },
+            {
+              "source": {
+                "block": "64528269-9ece-4ef3-8841-a7a2aa5c917d",
+                "port": "outlabel"
+              },
+              "target": {
+                "block": "35d50ffd-2482-4f48-a604-e1702bd4ab26",
+                "port": "in",
+                "size": 8
+              },
+              "size": 8
             },
             {
               "source": {
@@ -4586,28 +4490,6 @@
               "target": {
                 "block": "a9d64bd7-a59b-4c92-b3e7-5cf8fa5da8ef",
                 "port": "7273679b-e15a-4185-8e32-1ad556f69ecc"
-              },
-              "size": 8
-            },
-            {
-              "source": {
-                "block": "a9d64bd7-a59b-4c92-b3e7-5cf8fa5da8ef",
-                "port": "7e7cc77f-2bb7-4bf0-af74-d4b1fc451299"
-              },
-              "target": {
-                "block": "006f737c-c59c-430e-ad63-1d199d1f3551",
-                "port": "inlabel"
-              },
-              "size": 8
-            },
-            {
-              "source": {
-                "block": "64528269-9ece-4ef3-8841-a7a2aa5c917d",
-                "port": "outlabel"
-              },
-              "target": {
-                "block": "35d50ffd-2482-4f48-a604-e1702bd4ab26",
-                "port": "in"
               },
               "size": 8
             }
