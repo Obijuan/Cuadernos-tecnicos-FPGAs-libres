@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="188.44185mm"
+   height="75.960609mm"
+   viewBox="0 0 188.44185 75.960609"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (8a69933317, 2022-10-28, custom)"
+   sodipodi:docname="temporizacion-05.svg"
+   inkscape:export-filename="../b9e5ddc2/temporizacion-05.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.68684764"
+     inkscape:cx="359.61396"
+     inkscape:cy="251.1474"
+     inkscape:window-width="1860"
+     inkscape:window-height="1016"
+     inkscape:window-x="60"
+     inkscape:window-y="1107"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(-12.388401,-51.065403)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.529;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2053"
+       width="188.44185"
+       height="75.960609"
+       x="12.388401"
+       y="51.065403" />
+  </g>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-12.388401,-51.065403)">
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.529167"
+       id="rect234"
+       width="23.205359"
+       height="11.54584"
+       x="28.127277"
+       y="90.433548" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="41.201283"
+       y="104.62288"
+       id="text498"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan496"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="41.201283"
+         y="104.62288">Tramo 0</tspan></text>
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.529167"
+       id="rect1316"
+       width="23.205359"
+       height="11.54584"
+       x="51.861801"
+       y="90.433548" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="65.727097"
+       y="104.62288"
+       id="text1320"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan1318"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="65.727097"
+         y="104.62288">Tramo 1</tspan></text>
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.529167"
+       id="rect1322"
+       width="23.205359"
+       height="11.54584"
+       x="75.596329"
+       y="90.433548" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="90.252914"
+       y="104.62288"
+       id="text1326"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan1324"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="90.252914"
+         y="104.62288">Tramo 2</tspan></text>
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.529167"
+       id="rect1328"
+       width="23.205359"
+       height="11.54584"
+       x="99.330849"
+       y="90.433548" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="114.77872"
+       y="104.62288"
+       id="text1332"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan1330"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="114.77872"
+         y="104.62288">Tramo 3</tspan></text>
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.529167"
+       id="rect1334"
+       width="23.205359"
+       height="11.54584"
+       x="123.06538"
+       y="90.433548" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="139.30453"
+       y="104.62288"
+       id="text1338"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan1336"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="139.30453"
+         y="104.62288">Tramo 4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="183.10612"
+       y="94.364426"
+       id="text1377"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan1375"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="183.10612"
+         y="94.364426">Vía del tren</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.529;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 162.07994,96.340085 H 149.58353"
+       id="path1433" />
+    <circle
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.529;stroke-dasharray:none;stroke-opacity:1"
+       id="path1708"
+       cx="63.8624"
+       cy="95.983383"
+       r="4.2965446" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="57.365154"
+       y="69.061058"
+       id="text1764"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan1762"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="57.365154"
+         y="69.061058">Tren/ficha</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.529;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 59.761214,75.448638 4.098427,19.387295"
+       id="path1870"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="121.37514"
+       y="65.648193"
+       id="text1927"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan1925"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="121.37514"
+         y="65.648193">Tramo sin tren</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.529;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 114.86945,70.569182 -3.8713,23.666265"
+       id="path1931"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
