@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="185.68549mm"
+   height="204.05687mm"
+   viewBox="0 0 185.68549 204.05687"
+   version="1.1"
+   id="svg2665"
+   inkscape:version="1.2.1 (8a69933317, 2022-10-28, custom)"
+   sodipodi:docname="temporizacion-11.svg"
+   inkscape:export-filename="../904876e8/temporizacion-11.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2667"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.68684764"
+     inkscape:cx="409.11548"
+     inkscape:cy="456.4331"
+     inkscape:window-width="1860"
+     inkscape:window-height="1016"
+     inkscape:window-x="60"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2662">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker18367"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path18365" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker18419"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path18417" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(-15.299248,-2.3987479)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.529"
+       id="rect9453"
+       width="185.68549"
+       height="204.05687"
+       x="15.299248"
+       y="2.3987479" />
+  </g>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-15.299248,-2.3987479)">
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.529167"
+       id="rect17641"
+       width="23.205359"
+       height="11.54584"
+       x="74.222343"
+       y="28.949196" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="88.887894"
+       y="25.703472"
+       id="text17645"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan17643"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="88.887894"
+         y="25.703472">Tramo 0</tspan></text>
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.529167"
+       id="rect17647"
+       width="23.205359"
+       height="11.54584"
+       x="97.956863"
+       y="28.949196" />
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.529167"
+       id="rect17649"
+       width="23.205359"
+       height="11.54584"
+       x="121.69139"
+       y="28.949196" />
+    <circle
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.529;stroke-dasharray:none;stroke-opacity:1"
+       id="circle17651"
+       cx="85.825027"
+       cy="34.499031"
+       r="4.2965446" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.529;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 165.45209,34.722109 h 9.75447"
+       id="path17728" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.537507;stroke-opacity:1;marker-end:url(#marker18367)"
+       d="m 176.81632,34.735739 v 11.23886 l -66.76568,-0.6033"
+       id="path18363" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529;stroke-opacity:1;marker-end:url(#marker18419)"
+       d="M 109.5755,45.371299 H 63.89214 l 0.213201,-10.64919 h 8.390547"
+       id="path18415" />
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.529167"
+       id="rect1686"
+       width="23.205359"
+       height="11.54584"
+       x="144.93602"
+       y="28.949196" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="111.89411"
+       y="25.703472"
+       id="text1700"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan1698"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="111.89411"
+         y="25.703472">Tramo 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="137.28926"
+       y="25.703472"
+       id="text1704"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan1702"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="137.28926"
+         y="25.703472">Tramo 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="162.65132"
+       y="25.703472"
+       id="text1708"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan1706"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="162.65132"
+         y="25.703472">Tramo 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529"
+       x="123.80865"
+       y="14.783553"
+       id="text3286"><tspan
+         sodipodi:role="line"
+         id="tspan3284"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529"
+         x="123.80865"
+         y="14.783553">Vía recta en bucle</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="45.77523"
+       y="38.007034"
+       id="text1764"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan1762"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="45.77523"
+         y="38.007034">Tiempo t=0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="41.459221"
+       y="30.513071"
+       id="text1927"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan1925"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="41.459221"
+         y="30.513071">Tren en tramo 0</tspan></text>
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.529167"
+       id="rect5795"
+       width="23.205359"
+       height="11.54584"
+       x="74.222343"
+       y="60.782978" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="88.887894"
+       y="56.510185"
+       id="text5799"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan5797"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="88.887894"
+         y="56.510185">Tramo 0</tspan></text>
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.529167"
+       id="rect5801"
+       width="23.205359"
+       height="11.54584"
+       x="97.956863"
+       y="60.782978" />
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.529167"
+       id="rect5803"
+       width="23.205359"
+       height="11.54584"
+       x="121.69139"
+       y="60.782978" />
+    <circle
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.529;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5805"
+       cx="109.55955"
+       cy="66.332817"
+       r="4.2965446" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.529;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 165.45209,66.555891 h 9.75447"
+       id="path5807" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.537507;stroke-opacity:1;marker-end:url(#marker18367)"
+       d="m 176.81632,66.569521 v 11.23886 l -66.76568,-0.6033"
+       id="path5809" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529;stroke-opacity:1;marker-end:url(#marker18419)"
+       d="M 109.5755,77.205081 H 63.89214 l 0.213201,-10.64919 h 8.390547"
+       id="path5811" />
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.529167"
+       id="rect5813"
+       width="23.205359"
+       height="11.54584"
+       x="144.93602"
+       y="60.782978" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="111.89411"
+       y="56.510185"
+       id="text5817"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan5815"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="111.89411"
+         y="56.510185">Tramo 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="137.28926"
+       y="56.510185"
+       id="text5821"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan5819"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="137.28926"
+         y="56.510185">Tramo 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="162.65132"
+       y="56.510185"
+       id="text5825"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan5823"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="162.65132"
+         y="56.510185">Tramo 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="45.77523"
+       y="68.813744"
+       id="text5833"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan5831"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="45.77523"
+         y="68.813744">Tiempo t=1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="41.513996"
+       y="61.65197"
+       id="text5837"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan5835"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="41.513996"
+         y="61.65197">Tren en tramo 1</tspan></text>
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.529167"
+       id="rect6653"
+       width="23.205359"
+       height="11.54584"
+       x="74.222343"
+       y="92.61676" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="88.887894"
+       y="87.316895"
+       id="text6657"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan6655"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="88.887894"
+         y="87.316895">Tramo 0</tspan></text>
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.529167"
+       id="rect6659"
+       width="23.205359"
+       height="11.54584"
+       x="97.956863"
+       y="92.61676" />
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.529167"
+       id="rect6661"
+       width="23.205359"
+       height="11.54584"
+       x="121.69139"
+       y="92.61676" />
+    <circle
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.529;stroke-dasharray:none;stroke-opacity:1"
+       id="circle6663"
+       cx="133.64966"
+       cy="98.166595"
+       r="4.2965446" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.529;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 165.45209,98.389671 h 9.75447"
+       id="path6665" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.537507;stroke-opacity:1;marker-end:url(#marker18367)"
+       d="m 176.81632,98.403301 v 11.238859 l -66.76568,-0.6033"
+       id="path6667" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529;stroke-opacity:1;marker-end:url(#marker18419)"
+       d="M 109.5755,109.03886 H 63.89214 l 0.213201,-10.649189 h 8.390547"
+       id="path6669" />
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.529167"
+       id="rect6671"
+       width="23.205359"
+       height="11.54584"
+       x="144.93602"
+       y="92.61676" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="111.89411"
+       y="87.316895"
+       id="text6675"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan6673"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="111.89411"
+         y="87.316895">Tramo 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="137.28926"
+       y="87.316895"
+       id="text6679"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan6677"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="137.28926"
+         y="87.316895">Tramo 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="162.65132"
+       y="87.316895"
+       id="text6683"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan6681"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="162.65132"
+         y="87.316895">Tramo 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="45.77523"
+       y="99.620453"
+       id="text6687"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan6685"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="45.77523"
+         y="99.620453">Tiempo t=2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="41.513996"
+       y="92.458679"
+       id="text6691"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan6689"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="41.513996"
+         y="92.458679">Tren en tramo 2</tspan></text>
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.529167"
+       id="rect6765"
+       width="23.205359"
+       height="11.54584"
+       x="74.222343"
+       y="123.5469" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="88.887894"
+       y="117.24911"
+       id="text6769"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan6767"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="88.887894"
+         y="117.24911">Tramo 0</tspan></text>
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.529167"
+       id="rect6771"
+       width="23.205359"
+       height="11.54584"
+       x="97.956863"
+       y="123.5469" />
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.529167"
+       id="rect6773"
+       width="23.205359"
+       height="11.54584"
+       x="121.69139"
+       y="123.5469" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.529;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 165.45209,129.31981 h 9.75447"
+       id="path6777" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.537507;stroke-opacity:1;marker-end:url(#marker18367)"
+       d="M 176.81632,129.33344 V 140.5723 L 110.05064,139.969"
+       id="path6779" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529;stroke-opacity:1;marker-end:url(#marker18419)"
+       d="M 109.5755,139.969 H 63.89214 l 0.213201,-10.64919 h 8.390547"
+       id="path6781" />
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.529167"
+       id="rect6783"
+       width="23.205359"
+       height="11.54584"
+       x="144.93602"
+       y="123.5469" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="111.89411"
+       y="117.24911"
+       id="text6787"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan6785"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="111.89411"
+         y="117.24911">Tramo 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="137.28926"
+       y="117.24911"
+       id="text6791"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan6789"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="137.28926"
+         y="117.24911">Tramo 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="162.65132"
+       y="117.24911"
+       id="text6795"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan6793"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="162.65132"
+         y="117.24911">Tramo 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="45.77523"
+       y="129.55267"
+       id="text6799"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan6797"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="45.77523"
+         y="129.55267">Tiempo t=3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="41.513996"
+       y="122.3909"
+       id="text6803"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan6801"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="41.513996"
+         y="122.3909">Tren en tramo 3</tspan></text>
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.529167"
+       id="rect6805"
+       width="23.205359"
+       height="11.54584"
+       x="74.222343"
+       y="155.38069" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="88.887894"
+       y="148.05583"
+       id="text6809"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan6807"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="88.887894"
+         y="148.05583">Tramo 0</tspan></text>
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.529167"
+       id="rect6811"
+       width="23.205359"
+       height="11.54584"
+       x="97.956863"
+       y="155.38069" />
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.529167"
+       id="rect6813"
+       width="23.205359"
+       height="11.54584"
+       x="121.69139"
+       y="155.38069" />
+    <circle
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.529;stroke-dasharray:none;stroke-opacity:1"
+       id="circle6815"
+       cx="85.82502"
+       cy="160.93054"
+       r="4.2965446" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.529;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 165.45209,161.15361 h 9.75447"
+       id="path6817" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.537507;stroke-opacity:1;marker-end:url(#marker18367)"
+       d="m 176.81632,161.16724 v 11.23886 l -66.76568,-0.6033"
+       id="path6819" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529;stroke-opacity:1;marker-end:url(#marker18419)"
+       d="M 109.5755,171.8028 H 63.89214 l 0.213201,-10.64919 h 8.390547"
+       id="path6821" />
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:0.529167"
+       id="rect6823"
+       width="23.205359"
+       height="11.54584"
+       x="144.93602"
+       y="155.38069" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="111.89411"
+       y="148.05583"
+       id="text6827"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan6825"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="111.89411"
+         y="148.05583">Tramo 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="137.28926"
+       y="148.05583"
+       id="text6831"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan6829"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="137.28926"
+         y="148.05583">Tramo 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="162.65132"
+       y="148.05583"
+       id="text6835"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan6833"
+         style="font-size:4.23333px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="162.65132"
+         y="148.05583">Tramo 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="45.77523"
+       y="160.35941"
+       id="text6839"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan6837"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="45.77523"
+         y="160.35941">Tiempo t=4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+       x="41.513996"
+       y="153.19763"
+       id="text6843"
+       transform="scale(0.96773644,1.0333392)"><tspan
+         sodipodi:role="line"
+         id="tspan6841"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-opacity:1"
+         x="41.513996"
+         y="153.19763">Tren en tramo 0</tspan></text>
+    <circle
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.529;stroke-dasharray:none;stroke-opacity:1"
+       id="circle6775"
+       cx="156.5387"
+       cy="129.09674"
+       r="4.2965446" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529"
+       id="path8481"
+       cx="121.4268"
+       cy="184.34088"
+       r="2.4050109" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529"
+       id="circle9245"
+       cx="121.4268"
+       cy="192.07159"
+       r="2.4050109" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529"
+       id="circle9247"
+       cx="121.4268"
+       cy="199.80231"
+       r="2.4050109" />
+  </g>
+</svg>
