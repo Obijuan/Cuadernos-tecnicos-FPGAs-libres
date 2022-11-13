@@ -162,7 +162,7 @@
           "id": "84ac436a-b482-41f9-a129-a77efb3da397",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 2: Señal periódica de 2 ciclos de periodo",
+            "info": "# Ejemplo 4: Señal periódica de 2 ciclos de periodo",
             "readonly": true
           },
           "position": {
