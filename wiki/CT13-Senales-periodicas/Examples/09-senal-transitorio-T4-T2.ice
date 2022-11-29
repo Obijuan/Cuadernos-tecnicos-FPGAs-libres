@@ -55,7 +55,7 @@
           "type": "basic.inputLabel",
           "data": {
             "name": "end",
-            "blockColor": "fuchsia",
+            "blockColor": "navy",
             "virtual": true,
             "pins": [
               {
@@ -74,8 +74,8 @@
           "id": "7fb818d4-27a5-484b-bc52-1dc0862bf0d7",
           "type": "basic.outputLabel",
           "data": {
-            "name": "tic",
-            "blockColor": "fuchsia",
+            "name": "end",
+            "blockColor": "navy",
             "virtual": true,
             "pins": [
               {
@@ -94,7 +94,7 @@
           "id": "00ce658d-e028-437d-90d6-c39c94ff0893",
           "type": "basic.output",
           "data": {
-            "name": "LED",
+            "name": "start",
             "virtual": false,
             "pins": [
               {
@@ -113,7 +113,7 @@
           "id": "25e00623-8b2e-4586-9eed-dbec51d60bc2",
           "type": "basic.output",
           "data": {
-            "name": "LED",
+            "name": "senal",
             "virtual": false,
             "pins": [
               {
@@ -318,46 +318,6 @@
             "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
           },
           "target": {
-            "block": "e8c8b1ac-cec4-4e91-b073-c8741257fd50",
-            "port": "inlabel"
-          }
-        },
-        {
-          "source": {
-            "block": "7fb818d4-27a5-484b-bc52-1dc0862bf0d7",
-            "port": "outlabel"
-          },
-          "target": {
-            "block": "a3297976-4bd9-4b52-8a66-9ed6b5a6e653",
-            "port": "bf2f0c53-2d04-4cba-aa70-2df85502d24f"
-          }
-        },
-        {
-          "source": {
-            "block": "2b79bc45-abe1-431c-a679-06563f74d4c4",
-            "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
-          },
-          "target": {
-            "block": "ccd77048-a48e-4162-9618-384209cb8c08",
-            "port": "inlabel"
-          }
-        },
-        {
-          "source": {
-            "block": "53182fd6-1402-4d7d-8f05-6223039be3c6",
-            "port": "outlabel"
-          },
-          "target": {
-            "block": "25e00623-8b2e-4586-9eed-dbec51d60bc2",
-            "port": "in"
-          }
-        },
-        {
-          "source": {
-            "block": "2b79bc45-abe1-431c-a679-06563f74d4c4",
-            "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
-          },
-          "target": {
             "block": "d89e71ab-5516-4af5-b39f-b0e312568bf1",
             "port": "in"
           }
@@ -406,12 +366,32 @@
         },
         {
           "source": {
+            "block": "2b79bc45-abe1-431c-a679-06563f74d4c4",
+            "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
+          },
+          "target": {
+            "block": "e8c8b1ac-cec4-4e91-b073-c8741257fd50",
+            "port": "inlabel"
+          }
+        },
+        {
+          "source": {
             "block": "152a8e5d-47f3-443d-91ab-a01306356f9d",
             "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
           },
           "target": {
             "block": "00ce658d-e028-437d-90d6-c39c94ff0893",
             "port": "in"
+          }
+        },
+        {
+          "source": {
+            "block": "7fb818d4-27a5-484b-bc52-1dc0862bf0d7",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "a3297976-4bd9-4b52-8a66-9ed6b5a6e653",
+            "port": "bf2f0c53-2d04-4cba-aa70-2df85502d24f"
           }
         },
         {
@@ -432,6 +412,26 @@
           "target": {
             "block": "04df05bf-19fa-422e-be21-d24ce46d294e",
             "port": "f1022de4-0225-43d7-92d3-451161ee6942"
+          }
+        },
+        {
+          "source": {
+            "block": "2b79bc45-abe1-431c-a679-06563f74d4c4",
+            "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
+          },
+          "target": {
+            "block": "ccd77048-a48e-4162-9618-384209cb8c08",
+            "port": "inlabel"
+          }
+        },
+        {
+          "source": {
+            "block": "53182fd6-1402-4d7d-8f05-6223039be3c6",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "25e00623-8b2e-4586-9eed-dbec51d60bc2",
+            "port": "in"
           }
         }
       ]
