@@ -464,7 +464,7 @@
           "id": "c447afdf-3e5b-4082-a07d-298893d06c81",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 28: Implementación de un generador start-stop  \n\nCon el pulsador `SW1` se arranca el generador que empieza a emitir una señal periódica de `T=8`  \nPor otro lado, un temporizador arranca a la vez y emite una señal de `end` al cabo de 25 ciclos,  \npara que el generador termine.  Los resultados se deben ver con el analizador lógico",
+            "info": "# Ejemplo 28: Implementación de un generador start-stop  \n\nCon el pulsador `SW1` se arranca el generador que empieza a emitir una señal periódica de `T=10`  \nPor otro lado, un temporizador arranca a la vez y emite una señal de `end` al cabo de 35 ciclos,  \npara que el generador termine.  Los resultados se deben ver con el analizador lógico",
             "readonly": true
           },
           "position": {
