@@ -424,6 +424,22 @@
             "width": 96,
             "height": 160
           }
+        },
+        {
+          "id": "4a561871-9223-484d-8218-de04329a2ea7",
+          "type": "basic.info",
+          "data": {
+            "info": "Heart-sys-N",
+            "readonly": true
+          },
+          "position": {
+            "x": 576,
+            "y": 344
+          },
+          "size": {
+            "width": 136,
+            "height": 32
+          }
         }
       ],
       "wires": [
