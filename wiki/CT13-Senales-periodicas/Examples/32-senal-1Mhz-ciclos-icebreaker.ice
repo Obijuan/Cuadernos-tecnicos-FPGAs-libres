@@ -82,6 +82,22 @@
             "width": 96,
             "height": 64
           }
+        },
+        {
+          "id": "0445261b-3556-4cca-bd21-a6bcce6c5e42",
+          "type": "basic.info",
+          "data": {
+            "info": "* Placa: Icebreaker  \n* Fsys: 12_000_000 = 12 Mhz  \n* Freq: 1_000_000 = 1 Mhz\n* Ciclos = 12_000_000 / 1_000_000 = 12",
+            "readonly": true
+          },
+          "position": {
+            "x": 704,
+            "y": 176
+          },
+          "size": {
+            "width": 344,
+            "height": 80
+          }
         }
       ],
       "wires": [
