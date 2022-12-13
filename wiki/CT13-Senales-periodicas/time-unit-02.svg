@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="173.69411mm"
+   height="117.17796mm"
+   viewBox="0 0 173.69411 117.17796"
+   version="1.1"
+   id="svg39129"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   sodipodi:docname="time-unit-02.svg"
+   inkscape:export-filename="time-unit-02.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview39131"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.68684764"
+     inkscape:cx="411.29937"
+     inkscape:cy="484.82368"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer4" />
+  <defs
+     id="defs39126">
+    <marker
+       style="overflow:visible"
+       id="marker42310"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path42308" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="back"
+     transform="translate(7.6777005,-13.188808)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.793999;stroke-opacity:1"
+       id="rect42509"
+       width="173.69411"
+       height="117.17796"
+       x="-7.6777005"
+       y="13.188808" />
+  </g>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(7.6777005,-13.188808)">
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.793999"
+       x="32.792538"
+       y="59.610573"
+       id="text39252"><tspan
+         sodipodi:role="line"
+         id="tspan39250"
+         style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.794"
+         x="33.713673"
+         y="59.610573">Ciclos = </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.793999"
+       x="83.220375"
+       y="59.402294"
+       id="text39721"><tspan
+         sodipodi:role="line"
+         id="tspan39719"
+         style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.794"
+         x="83.220375"
+         y="59.402294">Tiempo (seg) . Fsys(Hz)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.793999"
+       x="154.50589"
+       y="129.58572"
+       id="text40501"><tspan
+         sodipodi:role="line"
+         id="tspan40499"
+         style="stroke-width:0.794"
+         x="154.50589"
+         y="129.58572" /></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.793999"
+       id="rect40555"
+       width="110.19663"
+       height="14.573333"
+       x="15.200706"
+       y="49.986664" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.793999"
+       x="131.32817"
+       y="25.091799"
+       id="text40611"><tspan
+         sodipodi:role="line"
+         id="tspan40609"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.794"
+         x="131.32817"
+         y="25.091799">Frecuencia del</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.794"
+         x="131.32817"
+         y="31.706387"
+         id="tspan40613">reloj del sistema</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.793999;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 115.47749,35.23361 -10.54201,17.84323 v 0"
+       id="path40615" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.793999"
+       x="70.65937"
+       y="32.007393"
+       id="text40840"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.794"
+         x="70.65937"
+         y="32.007393"
+         id="tspan40838">Tiempo necesario</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.793998;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 73.473254,34.821858 -14.212483,18.59571 v 0"
+       id="path40846" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.793999"
+       x="22.880936"
+       y="29.492804"
+       id="text40852"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.794"
+         x="22.880936"
+         y="29.492804"
+         id="tspan40850">Ciclos de</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.794"
+         x="22.880936"
+         y="36.107391"
+         id="tspan40854">espera</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.793999;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 26.049954,39.050952 27.83136,52.972"
+       id="path40864"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.793999"
+       x="32.792538"
+       y="90.574745"
+       id="text41321"><tspan
+         sodipodi:role="line"
+         id="tspan41319"
+         style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.794"
+         x="33.713673"
+         y="90.574745">Ciclos = </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.793999"
+       x="55.246895"
+       y="84.929298"
+       id="text41325"><tspan
+         sodipodi:role="line"
+         id="tspan41323"
+         style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.794"
+         x="55.246895"
+         y="84.929298">Fsys</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.793999;stroke-opacity:1"
+       d="M 47.323463,88.59448 H 63.219015"
+       id="path41355" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.793999"
+       x="55.246895"
+       y="95.223091"
+       id="text41413"><tspan
+         sodipodi:role="line"
+         id="tspan41411"
+         style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.794"
+         x="55.246895"
+         y="95.223091">Freq</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.793997"
+       id="rect42286"
+       width="54.986771"
+       height="20.671053"
+       x="15.200706"
+       y="78.399506" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.793999"
+       x="113.72508"
+       y="74.810493"
+       id="text42292"><tspan
+         sodipodi:role="line"
+         id="tspan42288"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.794"
+         x="113.72508"
+         y="74.810493">Frecuencia del</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.794"
+         x="113.72508"
+         y="81.425079"
+         id="tspan42290">reloj del sistema</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.794001;stroke-opacity:1;marker-end:url(#marker42310)"
+       d="M 85.515747,80.809937 65.380657,83.96701"
+       id="path42306" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.793999"
+       x="106.75974"
+       y="102.32436"
+       id="text42364"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.794"
+         x="106.75974"
+         y="102.32436"
+         id="tspan42362">Frecuencia</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.794"
+         x="106.75974"
+         y="108.93895"
+         id="tspan42368">necesaria</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.794001;stroke-opacity:1;marker-end:url(#marker42310)"
+       d="M 87.691272,103.03557 65.497915,95.11768"
+       id="path42372"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.793999"
+       x="28.98831"
+       y="114.71322"
+       id="text42422"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.794"
+         x="28.98831"
+         y="114.71322"
+         id="tspan42418">Ciclos de</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.794"
+         x="28.98831"
+         y="121.3278"
+         id="tspan42420">espera</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.793999;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 28.733615,108.72742 30.515021,94.806375"
+       id="path42426"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
