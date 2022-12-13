@@ -51,8 +51,8 @@
             "readonly": true
           },
           "position": {
-            "x": 464,
-            "y": 64
+            "x": 448,
+            "y": 32
           },
           "size": {
             "width": 544,
@@ -81,6 +81,38 @@
           "size": {
             "width": 96,
             "height": 64
+          }
+        },
+        {
+          "id": "70b7b3eb-7b50-4a95-81a2-51500884750e",
+          "type": "basic.info",
+          "data": {
+            "info": "* Placa: Alhambra-II  \n* Fsys: 12_000_000 = 12 Mhz  \n* Freq: 1_000_000 = 1 Mhz\n* Ciclos = 12_000_000 / 1_000_000 = 12",
+            "readonly": true
+          },
+          "position": {
+            "x": 624,
+            "y": 184
+          },
+          "size": {
+            "width": 344,
+            "height": 80
+          }
+        },
+        {
+          "id": "697a4f29-aacc-4a15-91cf-f6b4be966ef4",
+          "type": "basic.info",
+          "data": {
+            "info": "Heart-sys-zero-32-bits",
+            "readonly": true
+          },
+          "position": {
+            "x": 688,
+            "y": 432
+          },
+          "size": {
+            "width": 192,
+            "height": 40
           }
         }
       ],
