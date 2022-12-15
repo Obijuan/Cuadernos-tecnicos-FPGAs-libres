@@ -82,6 +82,22 @@
             "width": 96,
             "height": 64
           }
+        },
+        {
+          "id": "eee7bf65-79c7-494d-963b-ffd5feadb0c8",
+          "type": "basic.info",
+          "data": {
+            "info": "* Placa: `IceFun`  \n* Fsys: 12_000_000 = 12 Mhz  \n* Freq: 1_000_000 = 1 Mhz\n* Ciclos = 12_000_000 / 1_000_000 = 12",
+            "readonly": true
+          },
+          "position": {
+            "x": 712,
+            "y": 176
+          },
+          "size": {
+            "width": 344,
+            "height": 80
+          }
         }
       ],
       "wires": [
