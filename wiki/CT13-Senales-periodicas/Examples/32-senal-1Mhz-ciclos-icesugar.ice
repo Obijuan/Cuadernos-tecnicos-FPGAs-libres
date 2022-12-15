@@ -82,6 +82,22 @@
             "width": 96,
             "height": 64
           }
+        },
+        {
+          "id": "2adffaee-0eae-4d74-9837-6118125ed184",
+          "type": "basic.info",
+          "data": {
+            "info": "* Placa: `IceSugar 1.5`  \n* Fsys: 12_000_000 = 12 Mhz  \n* Freq: 1_000_000 = 1 Mhz\n* Ciclos = 12_000_000 / 1_000_000 = 12",
+            "readonly": true
+          },
+          "position": {
+            "x": 712,
+            "y": 176
+          },
+          "size": {
+            "width": 344,
+            "height": 80
+          }
         }
       ],
       "wires": [
