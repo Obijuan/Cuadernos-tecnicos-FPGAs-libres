@@ -87,7 +87,7 @@
           "id": "0445261b-3556-4cca-bd21-a6bcce6c5e42",
           "type": "basic.info",
           "data": {
-            "info": "* Placa: Icebreaker  \n* Fsys: 12_000_000 = 12 Mhz  \n* Freq: 1_000_000 = 1 Mhz\n* Ciclos = 12_000_000 / 1_000_000 = 12",
+            "info": "* Placa: `Icebreaker`  \n* Fsys: 12_000_000 = 12 Mhz  \n* Freq: 1_000_000 = 1 Mhz\n* Ciclos = 12_000_000 / 1_000_000 = 12",
             "readonly": true
           },
           "position": {
