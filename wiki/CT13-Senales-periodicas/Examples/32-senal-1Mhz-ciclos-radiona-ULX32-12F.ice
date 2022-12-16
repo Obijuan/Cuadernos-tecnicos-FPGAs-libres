@@ -26,8 +26,8 @@
             ]
           },
           "position": {
-            "x": 936,
-            "y": 376
+            "x": 1280,
+            "y": 312
           }
         },
         {
@@ -63,6 +63,19 @@
           }
         },
         {
+          "id": "7417b612-5673-4020-8bc2-ae6a4c57e07e",
+          "type": "basic.constant",
+          "data": {
+            "name": "Ciclos",
+            "value": "4",
+            "local": false
+          },
+          "position": {
+            "x": 896,
+            "y": 208
+          }
+        },
+        {
           "id": "757ffa17-7c93-4821-8b7c-29a123ad3e9a",
           "type": "basic.info",
           "data": {
@@ -70,8 +83,8 @@
             "readonly": true
           },
           "position": {
-            "x": 464,
-            "y": 64
+            "x": 472,
+            "y": 40
           },
           "size": {
             "width": 544,
@@ -161,6 +174,46 @@
             "width": 256,
             "height": 48
           }
+        },
+        {
+          "id": "91e591b4-0420-4300-8e49-6900fe474ce6",
+          "type": "basic.info",
+          "data": {
+            "info": "* Placa: `Radiona ULX3S-12F`  \n* Fsys: 25_000_000 = 25 Mhz  \n* Freq: 1_000_000 = 1 Mhz\n* Ciclos = 25_000_000 / 1_000_000 = 25",
+            "readonly": true
+          },
+          "position": {
+            "x": 1088,
+            "y": 160
+          },
+          "size": {
+            "width": 344,
+            "height": 80
+          }
+        },
+        {
+          "id": "ef2a9b82-2c58-403a-8770-a554866e73a6",
+          "type": "c057ad395a0e208acd24c5bbda0333ad7986c599",
+          "position": {
+            "x": 1096,
+            "y": 328
+          },
+          "size": {
+            "width": 96,
+            "height": 96
+          }
+        },
+        {
+          "id": "cf26cfd4-2861-45c7-aab1-a3374c479b19",
+          "type": "9597518c4f1e7dd74e5b39c2df0ebddbd556b06e",
+          "position": {
+            "x": 896,
+            "y": 304
+          },
+          "size": {
+            "width": 96,
+            "height": 64
+          }
         }
       ],
       "wires": [
@@ -187,16 +240,6 @@
         },
         {
           "source": {
-            "block": "d59c6566-cf6f-478a-ba73-7111969fd1cb",
-            "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
-          },
-          "target": {
-            "block": "ab7f2536-d6dd-44a5-a731-c51e9a280656",
-            "port": "in"
-          }
-        },
-        {
-          "source": {
             "block": "e68f01e9-db20-4ff6-8237-e14b3adb8e0c",
             "port": "3d584b0a-29eb-47af-8c43-c0822282ef05"
           },
@@ -205,6 +248,49 @@
             "port": "in"
           },
           "vertices": []
+        },
+        {
+          "source": {
+            "block": "cf26cfd4-2861-45c7-aab1-a3374c479b19",
+            "port": "cd1ea929-712d-45ee-8b01-e608e6bf8869"
+          },
+          "target": {
+            "block": "ef2a9b82-2c58-403a-8770-a554866e73a6",
+            "port": "12747bd0-f54f-4edc-91fa-7cd86de9d05c"
+          },
+          "vertices": [],
+          "size": 32
+        },
+        {
+          "source": {
+            "block": "7417b612-5673-4020-8bc2-ae6a4c57e07e",
+            "port": "constant-out"
+          },
+          "target": {
+            "block": "cf26cfd4-2861-45c7-aab1-a3374c479b19",
+            "port": "c0fb4784-5e8c-4f41-9f4b-6daa2e9e03a4"
+          },
+          "vertices": []
+        },
+        {
+          "source": {
+            "block": "d59c6566-cf6f-478a-ba73-7111969fd1cb",
+            "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
+          },
+          "target": {
+            "block": "ef2a9b82-2c58-403a-8770-a554866e73a6",
+            "port": "a0fe9fd3-bdde-4fe6-8ed3-5c4ce70abb80"
+          }
+        },
+        {
+          "source": {
+            "block": "ef2a9b82-2c58-403a-8770-a554866e73a6",
+            "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
+          },
+          "target": {
+            "block": "ab7f2536-d6dd-44a5-a731-c51e9a280656",
+            "port": "in"
+          }
         }
       ]
     }
