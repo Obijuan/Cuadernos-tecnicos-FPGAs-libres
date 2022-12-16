@@ -26,8 +26,8 @@
             ]
           },
           "position": {
-            "x": 936,
-            "y": 376
+            "x": 1296,
+            "y": 312
           }
         },
         {
@@ -44,6 +44,19 @@
           }
         },
         {
+          "id": "2d060610-e6dd-4c84-bf06-2d8d3a6ff919",
+          "type": "basic.constant",
+          "data": {
+            "name": "Ciclos",
+            "value": "2",
+            "local": false
+          },
+          "position": {
+            "x": 920,
+            "y": 208
+          }
+        },
+        {
           "id": "757ffa17-7c93-4821-8b7c-29a123ad3e9a",
           "type": "basic.info",
           "data": {
@@ -51,8 +64,8 @@
             "readonly": true
           },
           "position": {
-            "x": 464,
-            "y": 64
+            "x": 496,
+            "y": 8
           },
           "size": {
             "width": 544,
@@ -82,6 +95,46 @@
             "width": 96,
             "height": 64
           }
+        },
+        {
+          "id": "525d51d1-af2a-4587-96cf-d9c296abbcf9",
+          "type": "c057ad395a0e208acd24c5bbda0333ad7986c599",
+          "position": {
+            "x": 1120,
+            "y": 328
+          },
+          "size": {
+            "width": 96,
+            "height": 96
+          }
+        },
+        {
+          "id": "fb5b3eb4-3c14-4cf4-a97a-417182c5b6b7",
+          "type": "9597518c4f1e7dd74e5b39c2df0ebddbd556b06e",
+          "position": {
+            "x": 920,
+            "y": 304
+          },
+          "size": {
+            "width": 96,
+            "height": 64
+          }
+        },
+        {
+          "id": "de29196b-e450-4902-aed3-403462e6f21b",
+          "type": "basic.info",
+          "data": {
+            "info": "* Placa: `TinyFPGA`  \n* Fsys: 16_000_000 = 16 Mhz  \n* Freq: 1_000_000 = 1 Mhz\n* Ciclos = 16_000_000 / 1_000_000 = 16",
+            "readonly": true
+          },
+          "position": {
+            "x": 1080,
+            "y": 104
+          },
+          "size": {
+            "width": 344,
+            "height": 80
+          }
         }
       ],
       "wires": [
@@ -109,6 +162,38 @@
         {
           "source": {
             "block": "d59c6566-cf6f-478a-ba73-7111969fd1cb",
+            "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
+          },
+          "target": {
+            "block": "525d51d1-af2a-4587-96cf-d9c296abbcf9",
+            "port": "a0fe9fd3-bdde-4fe6-8ed3-5c4ce70abb80"
+          }
+        },
+        {
+          "source": {
+            "block": "2d060610-e6dd-4c84-bf06-2d8d3a6ff919",
+            "port": "constant-out"
+          },
+          "target": {
+            "block": "fb5b3eb4-3c14-4cf4-a97a-417182c5b6b7",
+            "port": "c0fb4784-5e8c-4f41-9f4b-6daa2e9e03a4"
+          },
+          "vertices": []
+        },
+        {
+          "source": {
+            "block": "fb5b3eb4-3c14-4cf4-a97a-417182c5b6b7",
+            "port": "cd1ea929-712d-45ee-8b01-e608e6bf8869"
+          },
+          "target": {
+            "block": "525d51d1-af2a-4587-96cf-d9c296abbcf9",
+            "port": "12747bd0-f54f-4edc-91fa-7cd86de9d05c"
+          },
+          "size": 32
+        },
+        {
+          "source": {
+            "block": "525d51d1-af2a-4587-96cf-d9c296abbcf9",
             "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
           },
           "target": {
