@@ -26,8 +26,8 @@
             ]
           },
           "position": {
-            "x": 1264,
-            "y": 376
+            "x": 1272,
+            "y": 312
           }
         },
         {
@@ -171,16 +171,6 @@
         },
         {
           "source": {
-            "block": "1b912bf1-758d-4a4f-bd8b-1b8156a2c3cc",
-            "port": "d408aa6e-af30-4ebb-a2dc-fdfdceb5f462"
-          },
-          "target": {
-            "block": "ab7f2536-d6dd-44a5-a731-c51e9a280656",
-            "port": "in"
-          }
-        },
-        {
-          "source": {
             "block": "a05ef1bd-be73-4980-ba0c-89af5cd94d61",
             "port": "constant-out"
           },
@@ -199,6 +189,16 @@
             "port": "12747bd0-f54f-4edc-91fa-7cd86de9d05c"
           },
           "size": 32
+        },
+        {
+          "source": {
+            "block": "1b912bf1-758d-4a4f-bd8b-1b8156a2c3cc",
+            "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
+          },
+          "target": {
+            "block": "ab7f2536-d6dd-44a5-a731-c51e9a280656",
+            "port": "in"
+          }
         }
       ]
     }
