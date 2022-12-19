@@ -26,8 +26,8 @@
             ]
           },
           "position": {
-            "x": 936,
-            "y": 376
+            "x": 1312,
+            "y": 312
           }
         },
         {
@@ -44,6 +44,19 @@
           }
         },
         {
+          "id": "57d078ec-2004-4b30-b4af-e6a07ad5c101",
+          "type": "basic.constant",
+          "data": {
+            "name": "Ciclos",
+            "value": "4",
+            "local": false
+          },
+          "position": {
+            "x": 920,
+            "y": 208
+          }
+        },
+        {
           "id": "757ffa17-7c93-4821-8b7c-29a123ad3e9a",
           "type": "basic.info",
           "data": {
@@ -51,8 +64,8 @@
             "readonly": true
           },
           "position": {
-            "x": 464,
-            "y": 64
+            "x": 496,
+            "y": 40
           },
           "size": {
             "width": 544,
@@ -82,6 +95,46 @@
             "width": 96,
             "height": 64
           }
+        },
+        {
+          "id": "943d584f-5d63-4fa5-846a-ed334cdb690a",
+          "type": "c057ad395a0e208acd24c5bbda0333ad7986c599",
+          "position": {
+            "x": 1120,
+            "y": 328
+          },
+          "size": {
+            "width": 96,
+            "height": 96
+          }
+        },
+        {
+          "id": "2c859aa3-ac66-4164-aae3-a5268a5f0e4f",
+          "type": "9597518c4f1e7dd74e5b39c2df0ebddbd556b06e",
+          "position": {
+            "x": 920,
+            "y": 304
+          },
+          "size": {
+            "width": 96,
+            "height": 64
+          }
+        },
+        {
+          "id": "4a8e0ffa-a232-4fe3-b9d6-44ebbbf53fc1",
+          "type": "basic.info",
+          "data": {
+            "info": "* Placa: `NanLand Go-board`  \n* Fsys: 25_000_000 = 25 Mhz  \n* Freq: 1_000_000 = 1 Mhz\n* Ciclos = 25_000_000 / 1_000_000 = 25",
+            "readonly": true
+          },
+          "position": {
+            "x": 1056,
+            "y": 176
+          },
+          "size": {
+            "width": 344,
+            "height": 80
+          }
         }
       ],
       "wires": [
@@ -108,7 +161,40 @@
         },
         {
           "source": {
+            "block": "2c859aa3-ac66-4164-aae3-a5268a5f0e4f",
+            "port": "cd1ea929-712d-45ee-8b01-e608e6bf8869"
+          },
+          "target": {
+            "block": "943d584f-5d63-4fa5-846a-ed334cdb690a",
+            "port": "12747bd0-f54f-4edc-91fa-7cd86de9d05c"
+          },
+          "vertices": [],
+          "size": 32
+        },
+        {
+          "source": {
+            "block": "57d078ec-2004-4b30-b4af-e6a07ad5c101",
+            "port": "constant-out"
+          },
+          "target": {
+            "block": "2c859aa3-ac66-4164-aae3-a5268a5f0e4f",
+            "port": "c0fb4784-5e8c-4f41-9f4b-6daa2e9e03a4"
+          },
+          "vertices": []
+        },
+        {
+          "source": {
             "block": "d59c6566-cf6f-478a-ba73-7111969fd1cb",
+            "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
+          },
+          "target": {
+            "block": "943d584f-5d63-4fa5-846a-ed334cdb690a",
+            "port": "a0fe9fd3-bdde-4fe6-8ed3-5c4ce70abb80"
+          }
+        },
+        {
+          "source": {
+            "block": "943d584f-5d63-4fa5-846a-ed334cdb690a",
             "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
           },
           "target": {
