@@ -121,19 +121,19 @@
           }
         },
         {
-          "id": "081432ea-6baa-4821-88a4-629cf9341383",
+          "id": "b8bc1669-8e92-43e0-93ac-5a31296a0a88",
           "type": "basic.info",
           "data": {
-            "info": "Para poder medir el tic con un  \nanalizador de 12Mhz, es neceario  \nque el pulso sea un poquito más ancho  \n(o de lo contrario no se verá en el analizador)",
+            "info": "* Placa: `BlackIce`  \n* Fsys: 100_000_000 = 100 Mhz  \n* Freq: 1_000_000 = 1 Mhz\n* Ciclos = 100_000_000 / 1_000_000 = 100",
             "readonly": true
           },
           "position": {
-            "x": 1088,
-            "y": 216
+            "x": 1072,
+            "y": 160
           },
           "size": {
-            "width": 392,
-            "height": 96
+            "width": 344,
+            "height": 80
           }
         }
       ],
