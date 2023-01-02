@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="226.87735mm"
+   height="91.131554mm"
+   viewBox="0 0 226.87735 91.131556"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   sodipodi:docname="Intro-02.svg"
+   inkscape:export-filename="../../../../Bin/Intro-02.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.943836"
+     inkscape:cx="508.03318"
+     inkscape:cy="191.24085"
+     inkscape:window-width="1860"
+     inkscape:window-height="1016"
+     inkscape:window-x="60"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(-3.4471432e-7,6.0193191)">
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="rect3091"
+       width="226.87735"
+       height="91.131554"
+       x="3.4471432e-07"
+       y="-6.0193191"
+       rx="1.3267967"
+       ry="1.3267968" />
+  </g>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3.4471432e-7,6.0193191)">
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 41.967459,42.757692 V 35.895374"
+       id="path3456" />
+    <rect
+       style="fill:#d5ffd5;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="rect2048"
+       width="54.415649"
+       height="32.460239"
+       x="153.00883"
+       y="42.814171"
+       ry="1.3267967"
+       rx="1.3267967" />
+    <rect
+       style="fill:#d5ffd5;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="rect1167"
+       width="54.155659"
+       height="32.460239"
+       x="88.192383"
+       y="42.814171"
+       ry="1.3267967"
+       rx="1.3267967" />
+    <rect
+       style="fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="rect1008"
+       width="45.606754"
+       height="32.460239"
+       x="19.164083"
+       y="42.814171"
+       ry="1.3267967"
+       rx="1.3267967" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       x="42.078564"
+       y="60.942291"
+       id="text236"><tspan
+         sodipodi:role="line"
+         id="tspan234"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79375"
+         x="42.078564"
+         y="60.942291">PRODUCTOR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       x="115.32059"
+       y="60.942291"
+       id="text1048"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79375"
+         x="115.32059"
+         y="60.942291"
+         id="tspan1152">CONSUMIDOR 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       x="31.106445"
+       y="28.487259"
+       id="text3316"><tspan
+         sodipodi:role="line"
+         id="tspan3314"
+         style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.79375"
+         x="31.106445"
+         y="28.487259">Bus</tspan></text>
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 23.746507,32.415248 H 200.02505"
+       id="path3400" />
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 110.99576,33.473583 v 6.862318"
+       id="path3769" />
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 177.91814,33.473583 v 6.862318"
+       id="path3773" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       x="180.26704"
+       y="60.942291"
+       id="text4695"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79375"
+         x="180.26704"
+         y="60.942291"
+         id="tspan4693">CONSUMIDOR 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.24972px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       x="111.4422"
+       y="9.3379974"
+       id="text4757"><tspan
+         sodipodi:role="line"
+         id="tspan4755"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79375"
+         x="111.4422"
+         y="9.3379974">Circuito con 1 productor y varios consumidores</tspan></text>
+  </g>
+</svg>
