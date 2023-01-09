@@ -187,7 +187,7 @@
           },
           "position": {
             "x": 1304,
-            "y": 296
+            "y": 360
           }
         },
         {
@@ -211,45 +211,6 @@
           }
         },
         {
-          "id": "da38ede1-76cd-4ef7-a2c7-37306ed3a749",
-          "type": "basic.output",
-          "data": {
-            "name": "Dato",
-            "virtual": false,
-            "pins": [
-              {
-                "index": "0",
-                "name": "LED0",
-                "value": "45"
-              }
-            ]
-          },
-          "position": {
-            "x": 1344,
-            "y": 384
-          }
-        },
-        {
-          "id": "b5a6e702-84c4-44e0-ab82-07c86b0acd4a",
-          "type": "basic.outputLabel",
-          "data": {
-            "name": "done",
-            "blockColor": "darkgreen",
-            "virtual": true,
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
-          },
-          "position": {
-            "x": 1024,
-            "y": 384
-          }
-        },
-        {
           "id": "3999f66b-f9ee-43ca-a181-b532ef4b317f",
           "type": "basic.input",
           "data": {
@@ -270,6 +231,45 @@
           }
         },
         {
+          "id": "da38ede1-76cd-4ef7-a2c7-37306ed3a749",
+          "type": "basic.output",
+          "data": {
+            "name": "Dato",
+            "virtual": false,
+            "pins": [
+              {
+                "index": "0",
+                "name": "LED0",
+                "value": "45"
+              }
+            ]
+          },
+          "position": {
+            "x": 1344,
+            "y": 448
+          }
+        },
+        {
+          "id": "b5a6e702-84c4-44e0-ab82-07c86b0acd4a",
+          "type": "basic.outputLabel",
+          "data": {
+            "name": "done",
+            "blockColor": "darkgreen",
+            "virtual": true,
+            "pins": [
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ]
+          },
+          "position": {
+            "x": 1024,
+            "y": 448
+          }
+        },
+        {
           "id": "20b417d0-6f0b-4d47-869c-16123887b66c",
           "type": "basic.outputLabel",
           "data": {
@@ -285,8 +285,8 @@
             ]
           },
           "position": {
-            "x": 1496,
-            "y": 408
+            "x": 1560,
+            "y": 456
           }
         },
         {
@@ -304,8 +304,8 @@
             ]
           },
           "position": {
-            "x": 1808,
-            "y": 408
+            "x": 1872,
+            "y": 456
           }
         },
         {
@@ -325,7 +325,7 @@
           },
           "position": {
             "x": 1024,
-            "y": 448
+            "y": 512
           }
         },
         {
@@ -344,48 +344,8 @@
             ]
           },
           "position": {
-            "x": 1496,
-            "y": 480
-          }
-        },
-        {
-          "id": "2b12dac7-1f50-40ec-88d4-e8cb4b4c305f",
-          "type": "basic.outputLabel",
-          "data": {
-            "name": "ret",
-            "blockColor": "fuchsia",
-            "virtual": true,
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
-          },
-          "position": {
-            "x": 1032,
-            "y": 536
-          }
-        },
-        {
-          "id": "05ddad63-e599-4b7b-bcd3-6bc3335fc027",
-          "type": "basic.inputLabel",
-          "data": {
-            "name": "done",
-            "blockColor": "darkgreen",
-            "virtual": true,
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
-          },
-          "position": {
-            "x": 1176,
-            "y": 536
+            "x": 1560,
+            "y": 528
           }
         },
         {
@@ -406,6 +366,46 @@
           "position": {
             "x": 824,
             "y": 552
+          }
+        },
+        {
+          "id": "2b12dac7-1f50-40ec-88d4-e8cb4b4c305f",
+          "type": "basic.outputLabel",
+          "data": {
+            "name": "ret",
+            "blockColor": "fuchsia",
+            "virtual": true,
+            "pins": [
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ]
+          },
+          "position": {
+            "x": 1032,
+            "y": 664
+          }
+        },
+        {
+          "id": "05ddad63-e599-4b7b-bcd3-6bc3335fc027",
+          "type": "basic.inputLabel",
+          "data": {
+            "name": "done",
+            "blockColor": "darkgreen",
+            "virtual": true,
+            "pins": [
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ]
+          },
+          "position": {
+            "x": 1288,
+            "y": 664
           }
         },
         {
@@ -500,8 +500,8 @@
           "id": "0fc20405-89ce-4441-95ab-9dac62e69987",
           "type": "8284c1dda332813a849c5ba350042fae0ffffbbc",
           "position": {
-            "x": 1656,
-            "y": 392
+            "x": 1720,
+            "y": 440
           },
           "size": {
             "width": 96,
@@ -513,11 +513,167 @@
           "type": "262b64dbc4c6d23c2e7e63809e5bd86e11a3b3ba",
           "position": {
             "x": 1168,
-            "y": 368
+            "y": 432
           },
           "size": {
             "width": 96,
             "height": 96
+          }
+        },
+        {
+          "id": "c153b768-fa74-430f-b540-f03c8f2708d6",
+          "type": "basic.info",
+          "data": {
+            "info": "# Ejemplo 1: Implementación de la consola unaria de 1-bit",
+            "readonly": true
+          },
+          "position": {
+            "x": 368,
+            "y": -88
+          },
+          "size": {
+            "width": 776,
+            "height": 48
+          }
+        },
+        {
+          "id": "6807a682-207d-4453-8cd7-168f78f7f32f",
+          "type": "basic.info",
+          "data": {
+            "info": "Tecla para introducir/modificar  \nel dígito unario",
+            "readonly": true
+          },
+          "position": {
+            "x": 336,
+            "y": 96
+          },
+          "size": {
+            "width": 256,
+            "height": 56
+          }
+        },
+        {
+          "id": "11b12d48-9f08-4859-9c0b-444b8f8308fc",
+          "type": "basic.info",
+          "data": {
+            "info": "Tecla ENTER, para  \nintroducir el número",
+            "readonly": true
+          },
+          "position": {
+            "x": 296,
+            "y": 320
+          },
+          "size": {
+            "width": 208,
+            "height": 48
+          }
+        },
+        {
+          "id": "66e4147f-e6c8-4e4d-a1be-ad98d99602a9",
+          "type": "basic.info",
+          "data": {
+            "info": "La tecla sólo es vaĺida  \nsi la consola está encendida",
+            "readonly": true
+          },
+          "position": {
+            "x": 712,
+            "y": 104
+          },
+          "size": {
+            "width": 240,
+            "height": 56
+          }
+        },
+        {
+          "id": "bf747386-ea9e-44f4-8094-709c34cd29cd",
+          "type": "basic.info",
+          "data": {
+            "info": "La tecla sólo es vaĺida  \nsi la consola está encendida",
+            "readonly": true
+          },
+          "position": {
+            "x": 704,
+            "y": 312
+          },
+          "size": {
+            "width": 240,
+            "height": 56
+          }
+        },
+        {
+          "id": "03516fac-da12-40cd-b5e4-5a5d8ef0d487",
+          "type": "basic.info",
+          "data": {
+            "info": "Arrancar la consola  \nen el inicio",
+            "readonly": true
+          },
+          "position": {
+            "x": 696,
+            "y": 496
+          },
+          "size": {
+            "width": 176,
+            "height": 48
+          }
+        },
+        {
+          "id": "e626cecf-cffe-4f65-978b-2dc6be88a3d1",
+          "type": "basic.info",
+          "data": {
+            "info": "Dígito introducido  \npor el usuario",
+            "readonly": true
+          },
+          "position": {
+            "x": 1152,
+            "y": 368
+          },
+          "size": {
+            "width": 184,
+            "height": 56
+          }
+        },
+        {
+          "id": "5789a306-c377-44c1-a655-3405347bbbf8",
+          "type": "cb1f4e797e142766ba8adb1b22b493c3ab521355",
+          "position": {
+            "x": 1160,
+            "y": 664
+          },
+          "size": {
+            "width": 96,
+            "height": 64
+          }
+        },
+        {
+          "id": "c35b90d2-fd52-4bf1-a69f-33ce31fbaea8",
+          "type": "basic.info",
+          "data": {
+            "info": "La consola finaliza  \ncuando se aprieta enter",
+            "readonly": true
+          },
+          "position": {
+            "x": 1264,
+            "y": 608
+          },
+          "size": {
+            "width": 224,
+            "height": 56
+          }
+        },
+        {
+          "id": "1d830574-039e-473b-8951-f94858af1d2d",
+          "type": "basic.info",
+          "data": {
+            "info": "Leer el número final  \nuna vez que se aprieta enter",
+            "readonly": true
+          },
+          "position": {
+            "x": 1624,
+            "y": 376
+          },
+          "size": {
+            "width": 256,
+            "height": 64
           }
         }
       ],
@@ -655,16 +811,6 @@
         },
         {
           "source": {
-            "block": "2b12dac7-1f50-40ec-88d4-e8cb4b4c305f",
-            "port": "outlabel"
-          },
-          "target": {
-            "block": "05ddad63-e599-4b7b-bcd3-6bc3335fc027",
-            "port": "inlabel"
-          }
-        },
-        {
-          "source": {
             "block": "96a0ed59-b1c9-42d6-90a4-4016e195312d",
             "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
           },
@@ -711,6 +857,46 @@
           "target": {
             "block": "96a0ed59-b1c9-42d6-90a4-4016e195312d",
             "port": "21326921-3052-4ec8-8344-fc8210c08678"
+          }
+        },
+        {
+          "source": {
+            "block": "20b417d0-6f0b-4d47-869c-16123887b66c",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "0fc20405-89ce-4441-95ab-9dac62e69987",
+            "port": "adf3a6ae-71e2-43dd-b504-c2cdbc14dab7"
+          }
+        },
+        {
+          "source": {
+            "block": "98945836-6872-4dd0-9d56-c410b9d60f28",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "0fc20405-89ce-4441-95ab-9dac62e69987",
+            "port": "58d2c88e-2434-438f-986b-0f5b9c3654ca"
+          }
+        },
+        {
+          "source": {
+            "block": "2b12dac7-1f50-40ec-88d4-e8cb4b4c305f",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "5789a306-c377-44c1-a655-3405347bbbf8",
+            "port": "969e11ca-69e8-403b-a566-7bf2fbe3a5a8"
+          }
+        },
+        {
+          "source": {
+            "block": "5789a306-c377-44c1-a655-3405347bbbf8",
+            "port": "2b85c5e1-bb19-4b5d-a098-b260f5bd1a78"
+          },
+          "target": {
+            "block": "05ddad63-e599-4b7b-bcd3-6bc3335fc027",
+            "port": "inlabel"
           }
         }
       ]
@@ -14276,6 +14462,94 @@
                   "y": -248
                 }
               ]
+            }
+          ]
+        }
+      }
+    },
+    "cb1f4e797e142766ba8adb1b22b493c3ab521355": {
+      "package": {
+        "name": "Wire",
+        "version": "0.1",
+        "description": "Wire: Just a simple wire",
+        "author": "Juan González-Gómez (Obijuan)",
+        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22291.463%22%20height=%229.156%22%20viewBox=%220%200%2077.116228%202.4224901%22%20id=%22svg840%22%3E%3Cg%20id=%22layer2%22%20transform=%22translate(-36.358%20-122.588)%22%3E%3Cpath%20id=%22path865-3-6%22%20d=%22M36.363%20123.968l77.107-.336%22%20fill=%22none%22%20stroke=%22#777%22%20stroke-width=%222.087%22/%3E%3C/g%3E%3Cstyle%20id=%22style263%22%3E.st0%7Bdisplay:none%7D.st1%7Bfill:none;stroke:#000;stroke-width:.75;stroke-linejoin:round;stroke-miterlimit:10%7D.st2%7Bfill:#010002%7D%3C/style%3E%3C/svg%3E"
+      },
+      "design": {
+        "graph": {
+          "blocks": [
+            {
+              "id": "969e11ca-69e8-403b-a566-7bf2fbe3a5a8",
+              "type": "basic.input",
+              "data": {
+                "name": "",
+                "clock": false
+              },
+              "position": {
+                "x": 136,
+                "y": 200
+              }
+            },
+            {
+              "id": "2b85c5e1-bb19-4b5d-a098-b260f5bd1a78",
+              "type": "basic.output",
+              "data": {
+                "name": ""
+              },
+              "position": {
+                "x": 584,
+                "y": 200
+              }
+            },
+            {
+              "id": "16e78204-213e-4833-9096-89d735307ec2",
+              "type": "basic.code",
+              "data": {
+                "code": "assign o = i;\n",
+                "params": [],
+                "ports": {
+                  "in": [
+                    {
+                      "name": "i"
+                    }
+                  ],
+                  "out": [
+                    {
+                      "name": "o"
+                    }
+                  ]
+                }
+              },
+              "position": {
+                "x": 296,
+                "y": 176
+              },
+              "size": {
+                "width": 224,
+                "height": 112
+              }
+            }
+          ],
+          "wires": [
+            {
+              "source": {
+                "block": "969e11ca-69e8-403b-a566-7bf2fbe3a5a8",
+                "port": "out"
+              },
+              "target": {
+                "block": "16e78204-213e-4833-9096-89d735307ec2",
+                "port": "i"
+              }
+            },
+            {
+              "source": {
+                "block": "16e78204-213e-4833-9096-89d735307ec2",
+                "port": "o"
+              },
+              "target": {
+                "block": "2b85c5e1-bb19-4b5d-a098-b260f5bd1a78",
+                "port": "in"
+              }
             }
           ]
         }
