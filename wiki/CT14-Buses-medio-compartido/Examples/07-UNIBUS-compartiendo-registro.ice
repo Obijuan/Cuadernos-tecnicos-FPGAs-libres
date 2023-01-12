@@ -814,6 +814,22 @@
             "width": 352,
             "height": 32
           }
+        },
+        {
+          "id": "8f30e1c4-307e-49b0-b4c0-169fd542fec5",
+          "type": "basic.info",
+          "data": {
+            "info": "Registro compartido",
+            "readonly": true
+          },
+          "position": {
+            "x": 1368,
+            "y": 504
+          },
+          "size": {
+            "width": 184,
+            "height": 32
+          }
         }
       ],
       "wires": [
