@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="283.92786mm"
+   width="271.87949mm"
    height="143.90501mm"
-   viewBox="0 0 283.92785 143.90502"
+   viewBox="0 0 271.87948 143.90502"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
@@ -28,7 +28,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.943836"
-     inkscape:cx="513.33071"
+     inkscape:cx="514.39021"
      inkscape:cy="386.18997"
      inkscape:window-width="1860"
      inkscape:window-height="1016"
@@ -86,7 +86,10 @@
        x="-22.67824"
        y="9.6613894"
        rx="1.5899727"
-       ry="1.5669594" /></g><g
+       ry="1.5669594"
+       inkscape:export-filename="unibus-16.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" /></g><g
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
@@ -205,10 +208,6 @@
        style="fill:#ececec;stroke:#000000;stroke-width:0.793751;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
        d="m 103.07394,60.68256 v -9.552207 l 9.79074,4.776102 z"
        id="path1133" /><path
-       style="fill:#ff9955;fill-opacity:1;stroke:#ff9955;stroke-width:0.793747;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
-       d="M 258.80671,95.400908 V 131.62275"
-       id="path1244"
-       sodipodi:nodetypes="cc" /><path
        style="fill:#0000ff;fill-opacity:1;stroke:#ff5599;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        d="m 9.3536588,130.24654 144.8882212,-0.017"
        id="path1481"
