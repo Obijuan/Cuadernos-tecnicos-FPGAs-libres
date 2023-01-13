@@ -727,12 +727,12 @@
           "id": "efe1e913-db9f-4500-a5f3-b64a5a3f0d71",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 13: Secuencia en los LEDs  \n\nCircuito que genera una secuencia en los LEDs, accediendo al controlador falso  \nSe usa la señal `done` para saber cuándo ha terminado de escribir el valor y  \npasar al siguiente",
+            "info": "# Ejemplo 14: Dos Secuencias en los LEDs  \n\nAl apretar el pulsador `SW1` se genera una secuencia, y al apretar `SW2` otra diferente  ",
             "readonly": true
           },
           "position": {
-            "x": -344,
-            "y": -632
+            "x": -352,
+            "y": -592
           },
           "size": {
             "width": 712,
