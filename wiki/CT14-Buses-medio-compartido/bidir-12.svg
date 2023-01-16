@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200.67854mm"
+   height="69.531937mm"
+   viewBox="0 0 200.67853 69.531939"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   sodipodi:docname="bidir-12.svg"
+   inkscape:export-filename="bidir-12.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.2559957"
+     inkscape:cx="401.67335"
+     inkscape:cy="205.01663"
+     inkscape:window-width="1860"
+     inkscape:window-height="1016"
+     inkscape:window-x="60"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     showguides="false" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(-11.158647,-10.889279)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="rect3091"
+       width="200.67854"
+       height="69.531937"
+       x="11.158647"
+       y="10.889279"
+       rx="0.99205488"
+       ry="0.7798472" />
+  </g>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-11.158647,-10.889279)">
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.794;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 74.946157,70.770722 V 35.473243"
+       id="path3456" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.32292;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 45.157766,32.415248 H 183.02932"
+       id="path3400"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.794;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 90.426177,70.770722 V 35.473243"
+       id="path7674" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       x="92.935753"
+       y="27.201773"
+       id="text7708"><tspan
+         sodipodi:role="line"
+         id="tspan7706"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79375"
+         x="92.935753"
+         y="27.201773">Segmento de escritura</tspan></text>
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#008000;stroke-width:0.794;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 139.78721,46.052247 v 15.50181"
+       id="path8296" />
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#008000;stroke-width:0.794;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 128.00274,46.052247 v 15.50181"
+       id="path8304" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       x="142.29678"
+       y="42.331997"
+       id="text13431"><tspan
+         sodipodi:role="line"
+         id="tspan13429"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79375"
+         x="142.29678"
+         y="42.331997">Segmento de lectura</tspan></text>
+    <path
+       id="rect3069"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+       d="m 189.60433,27.896728 h 14.29074 v 9.03704 h -14.29074 l -6.57501,-4.51852 z"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       x="195.54924"
+       y="34.306602"
+       id="text3015"><tspan
+         sodipodi:role="line"
+         id="tspan3013"
+         style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.79375"
+         x="195.54924"
+         y="34.306602">Bus</tspan></text>
+    <g
+       id="g14455"
+       transform="translate(51.617526,3.6733151)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.793748;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="rect14344"
+         width="12.925328"
+         height="11.230003"
+         x="-20.369701"
+         y="22.465471"
+         ry="0.459021"
+         rx="0.37602508" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:10.2861px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.793749;stroke-linecap:round;stroke-linejoin:round"
+         x="-13.907038"
+         y="31.824755"
+         id="text14348"><tspan
+           sodipodi:role="line"
+           id="tspan14346"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.793749"
+           x="-13.907038"
+           y="31.824755">0</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#008000;stroke-width:1.32292;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 45.057041,45.655247 H 182.9286"
+       id="path14531"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g5603"
+       transform="translate(-80.549379,66.874373)">
+      <path
+         id="path4089"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+         d="m 119.03141,-25.73765 h -14.29074 v 9.037042 h 14.29074 l 6.57501,-4.518518 z"
+         sodipodi:nodetypes="cccccc" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+         x="113.24084"
+         y="-19.32777"
+         id="text4093"><tspan
+           sodipodi:role="line"
+           id="tspan4091"
+           style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.79375"
+           x="113.24084"
+           y="-19.32777">Bus</tspan></text>
+    </g>
+    <path
+       style="fill:#d5ffd5;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round"
+       d="m 56.269751,28.814305 -5.902775,7.201886"
+       id="path734" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       x="51.515644"
+       y="30.231306"
+       id="text792"><tspan
+         sodipodi:role="line"
+         id="tspan790"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79375"
+         x="51.515644"
+         y="30.231306">D</tspan></text>
+    <path
+       style="fill:#d5ffd5;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round"
+       d="M 56.269751,41.392844 50.366976,48.59473"
+       id="path896" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       x="51.515644"
+       y="42.809845"
+       id="text900"><tspan
+         sodipodi:role="line"
+         id="tspan898"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79375"
+         x="51.515644"
+         y="42.809845">D</tspan></text>
+  </g>
+</svg>
