@@ -129,8 +129,8 @@
           "id": "4cc8a687-1d06-443d-90d7-5bb8371824f6",
           "type": "basic.constant",
           "data": {
-            "name": "Bit7_0",
-            "value": "'hFF_05",
+            "name": "Bit15_0",
+            "value": "'hFF_06",
             "local": false
           },
           "position": {
@@ -328,7 +328,7 @@
           "id": "7affc656-95a4-48dc-bcce-a575cd52a75a",
           "type": "basic.info",
           "data": {
-            "info": "Sys-DFF-11",
+            "info": "Sys-DFF-16",
             "readonly": true
           },
           "position": {
@@ -341,8 +341,8 @@
           }
         },
         {
-          "id": "38af7528-bd82-4b69-8ff7-8bb2a76dd736",
-          "type": "df2145cb428ec09afa4426221b4fdac9de3d6524",
+          "id": "d9fd9d76-d9cf-46f5-9548-ba2a1957df3d",
+          "type": "6d9e5ee8663c331d1c2a63d3e30cb331967e7278",
           "position": {
             "x": 528,
             "y": 296
@@ -427,7 +427,7 @@
         },
         {
           "source": {
-            "block": "38af7528-bd82-4b69-8ff7-8bb2a76dd736",
+            "block": "d9fd9d76-d9cf-46f5-9548-ba2a1957df3d",
             "port": "d269d7ec-85b9-4c7f-b700-18ffdca4ce0c"
           },
           "target": {
@@ -441,7 +441,7 @@
             "port": "constant-out"
           },
           "target": {
-            "block": "38af7528-bd82-4b69-8ff7-8bb2a76dd736",
+            "block": "d9fd9d76-d9cf-46f5-9548-ba2a1957df3d",
             "port": "9dad6350-1887-40ab-80e7-81fc57c7e5e7"
           }
         },
@@ -451,7 +451,7 @@
             "port": "3d584b0a-29eb-47af-8c43-c0822282ef05"
           },
           "target": {
-            "block": "38af7528-bd82-4b69-8ff7-8bb2a76dd736",
+            "block": "d9fd9d76-d9cf-46f5-9548-ba2a1957df3d",
             "port": "adb65ce3-8256-4acb-ad39-154262efb1ad"
           }
         }
@@ -7656,11 +7656,11 @@
         }
       }
     },
-    "df2145cb428ec09afa4426221b4fdac9de3d6524": {
+    "6d9e5ee8663c331d1c2a63d3e30cb331967e7278": {
       "package": {
-        "name": "Sys-SR-12-verilog",
+        "name": "Sys-SR-16-verilog",
         "version": "0.3",
-        "description": "Sys-SR-12-verilog: 12-bits System Shift register to the right.  Verilog implementation",
+        "description": "Sys-SR-16-verilog: 16-bits System Shift register to the right.  Verilog implementation",
         "author": "Juan González-Gómez (Obijuan)",
         "image": "%3Csvg%20width=%22254.803%22%20height=%22264.301%22%20viewBox=%220%200%2067.416754%2069.929686%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20transform=%22matrix(.99953%200%200%201.00074%20-72.848%20-31.874)%22%3E%3Cpath%20style=%22-inkscape-stroke:none%22%20d=%22M98.64%2077.005h10.65%22%20color=%22#000%22%20fill=%22#00f%22/%3E%3Cg%20stroke=%22#000%22%20stroke-width=%221.442%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%3E%3Cpath%20d=%22M98.564%2084.51l13.608%2016.672-6.918-20.534%22%20fill=%22#ccc%22%20stroke-width=%221.0924880399999999%22/%3E%3Cpath%20d=%22M91.18%2076.446l-9.232-19.613-6.45%203.725-2.07-3.584%2020.905-12.07%202.07%203.584-6.093%203.518%2012.03%2018.222s5.4-2.025%208.536.74c3.136%202.767%202.52%204.92%202.887%204.773L90.074%2089.379s-2.848-3.696-2.16-6.796c.688-3.1%203.266-6.137%203.266-6.137z%22%20fill=%22red%22%20stroke-width=%221.0924880399999999%22/%3E%3C/g%3E%3Cg%20stroke=%22#000%22%20stroke-width=%221.442%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%3E%3Cpath%20d=%22M114.904%2083.574l13.608%2016.672-6.918-20.534%22%20fill=%22#ccc%22%20stroke-width=%221.0924880399999999%22/%3E%3Cpath%20d=%22M107.52%2075.51l-9.232-19.613-6.45%203.725-2.07-3.584%2020.905-12.07%202.069%203.584-6.092%203.518%2012.03%2018.222s5.399-2.025%208.535.74c3.137%202.766%202.52%204.92%202.887%204.773l-23.688%2013.638s-2.848-3.696-2.16-6.796c.688-3.1%203.266-6.137%203.266-6.137z%22%20fill=%22red%22%20stroke-width=%221.0924880399999999%22/%3E%3C/g%3E%3Cg%20fill=%22#00f%22%3E%3Cpath%20d=%22M114.727%2037.231h10.65M83.213%2035.636c-.832%200-1.507.662-1.507%201.48s.675%201.481%201.507%201.48h41.84c.833.001%201.508-.662%201.508-1.48s-.675-1.48-1.507-1.48z%22%20color=%22#000%22/%3E%3Cg%20color=%22#000%22%20fill-rule=%22evenodd%22%20stroke-width=%221.428%22%3E%3Cpath%20d=%22M129.687%2037.231l-6.463%203.674v-7.347z%22/%3E%3Cpath%20d=%22M70.553%20186.299v13.027l11.271-6.513-1.056-.612zm1.412%202.445l7.039%204.069-7.04%204.07z%22%20stroke=%22#00f%22%20transform=%22matrix(.70596%200%200%20.69423%2072.918%20-96.625)%22/%3E%3C/g%3E%3C/g%3E%3Crect%20width=%2224.424%22%20height=%2213.175%22%20x=%22115.511%22%20y=%2247.442%22%20ry=%222.245%22%20fill=%22#fff%22%20stroke=%22#000%22%20stroke-width=%22.794%22%20stroke-linecap=%22round%22/%3E%3Ctext%20style=%22line-height:1.25%22%20x=%22117.385%22%20y=%2257.038%22%20transform=%22scale(1.0006%20.9994)%22%20font-weight=%22400%22%20font-size=%2210.582%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%20stroke-width=%22.265%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20x=%22117.385%22%20y=%2257.038%22%20font-weight=%22700%22%3ESys%3C/tspan%3E%3C/text%3E%3C/g%3E%3C/svg%3E",
         "otid": 1618509859237
@@ -7681,12 +7681,12 @@
               }
             },
             {
-              "id": "98cf5034-1cd7-4e1e-89ba-4d972e7bde17",
+              "id": "9ca78a0c-d983-48a6-afe1-9cae67bfdb6c",
               "type": "basic.output",
               "data": {
                 "name": "",
-                "range": "[11:0]",
-                "size": 12
+                "range": "[15:0]",
+                "size": 16
               },
               "position": {
                 "x": 808,
@@ -7725,7 +7725,7 @@
                 "local": false
               },
               "position": {
-                "x": 504,
+                "x": 512,
                 "y": -96
               }
             },
@@ -7745,8 +7745,8 @@
                   "out": [
                     {
                       "name": "q",
-                      "range": "[11:0]",
-                      "size": 12
+                      "range": "[15:0]",
+                      "size": 16
                     },
                     {
                       "name": "sout"
@@ -7758,10 +7758,10 @@
                     "name": "INI"
                   }
                 ],
-                "code": "//-- Generic Shift Right\n//-- System register\n//-- Number of bits\nlocalparam N = 12;\n\n//-- Initial value\nreg [N-1:0] q = INI;\n\nalways @(posedge clk)\nbegin\n  //-- Shift to the right\n  q <= {sin,q[N-1:1]};\nend\n\n//-- Serial out: \n//-- It is the least significant bit\nassign sout = q[0];\n"
+                "code": "//-- Generic Shift Right\n//-- System register\n//-- Number of bits\nlocalparam N = 16;\n\n//-- Initial value\nreg [N-1:0] q = INI;\n\nalways @(posedge clk)\nbegin\n  //-- Shift to the right\n  q <= {sin,q[N-1:1]};\nend\n\n//-- Serial out: \n//-- It is the least significant bit\nassign sout = q[0];\n"
               },
               "position": {
-                "x": 368,
+                "x": 376,
                 "y": 16
               },
               "size": {
@@ -7817,10 +7817,10 @@
                 "port": "q"
               },
               "target": {
-                "block": "98cf5034-1cd7-4e1e-89ba-4d972e7bde17",
+                "block": "9ca78a0c-d983-48a6-afe1-9cae67bfdb6c",
                 "port": "in"
               },
-              "size": 12
+              "size": 16
             }
           ]
         }
