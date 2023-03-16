@@ -67,8 +67,8 @@
             ]
           },
           "position": {
-            "x": 264,
-            "y": 328
+            "x": 184,
+            "y": 320
           }
         },
         {
@@ -135,12 +135,12 @@
           "type": "basic.constant",
           "data": {
             "name": "DATA",
-            "value": "'b000",
+            "value": "'b0000",
             "local": false
           },
           "position": {
             "x": 432,
-            "y": 296
+            "y": 288
           }
         },
         {
@@ -346,7 +346,7 @@
           }
         },
         {
-          "id": "696907d0-155f-4b85-a82b-50be75f55007",
+          "id": "eef95378-2916-4cf9-a74c-60a07362c660",
           "type": "85e811f29ab62304ba0727120b2b2401b77c0519",
           "position": {
             "x": 432,
@@ -453,23 +453,7 @@
         },
         {
           "source": {
-            "block": "f3eaa207-31b2-421c-ba63-082022e368e8",
-            "port": "outlabel"
-          },
-          "target": {
-            "block": "696907d0-155f-4b85-a82b-50be75f55007",
-            "port": "40bbf179-6562-4367-9907-23ba4057bc3b"
-          },
-          "vertices": [
-            {
-              "x": 376,
-              "y": 432
-            }
-          ]
-        },
-        {
-          "source": {
-            "block": "696907d0-155f-4b85-a82b-50be75f55007",
+            "block": "eef95378-2916-4cf9-a74c-60a07362c660",
             "port": "d269d7ec-85b9-4c7f-b700-18ffdca4ce0c"
           },
           "target": {
@@ -483,9 +467,25 @@
             "port": "3d584b0a-29eb-47af-8c43-c0822282ef05"
           },
           "target": {
-            "block": "696907d0-155f-4b85-a82b-50be75f55007",
+            "block": "eef95378-2916-4cf9-a74c-60a07362c660",
             "port": "adb65ce3-8256-4acb-ad39-154262efb1ad"
           }
+        },
+        {
+          "source": {
+            "block": "f3eaa207-31b2-421c-ba63-082022e368e8",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "eef95378-2916-4cf9-a74c-60a07362c660",
+            "port": "40bbf179-6562-4367-9907-23ba4057bc3b"
+          },
+          "vertices": [
+            {
+              "x": 344,
+              "y": 376
+            }
+          ]
         },
         {
           "source": {
@@ -493,7 +493,7 @@
             "port": "constant-out"
           },
           "target": {
-            "block": "696907d0-155f-4b85-a82b-50be75f55007",
+            "block": "eef95378-2916-4cf9-a74c-60a07362c660",
             "port": "9dad6350-1887-40ab-80e7-81fc57c7e5e7"
           }
         }
