@@ -148,7 +148,7 @@
           "type": "basic.constant",
           "data": {
             "name": "",
-            "value": "1",
+            "value": "'hF",
             "local": false
           },
           "position": {
