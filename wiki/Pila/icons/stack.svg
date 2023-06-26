@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="95.421837mm"
+   height="103.31371mm"
+   viewBox="0 0 338.10888 366.0722"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   sodipodi:docname="stack.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2290852"
+     inkscape:cx="301.0369"
+     inkscape:cy="199.74205"
+     inkscape:document-units="px"
+     inkscape:current-layer="text449"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1860"
+     inkscape:window-height="1016"
+     inkscape:window-x="60"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     objecttolerance="10.0"
+     gridtolerance="10.0"
+     guidetolerance="10.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-575.0914,-747.30284)">
+    <g
+       aria-label="3"
+       id="text4150"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+      <g
+         aria-label="0"
+         id="text852"
+         style="font-style:normal;font-weight:normal;font-size:285.851px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:7.14628px">
+        <g
+           aria-label="'A'"
+           id="text2733"
+           style="font-size:298.572px;stroke-width:53.3421px">
+          <g
+             aria-label="HW
+FORTH"
+             id="text449"
+             style="font-size:96.052px;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:2.81249;stroke-linecap:square;stroke-linejoin:round">
+            <path
+               id="rect1211"
+               style="fill:none;stroke:#0000ff;stroke-width:2.8125"
+               d="m 910.38779,852.2083 v 259.1855 c 0,0.3185 -0.25645,0.575 -0.575,0.575 H 578.79057 c -0.31854,0 -0.57499,-0.2565 -0.57499,-0.575 V 852.2083"
+               sodipodi:nodetypes="cssssc" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:112.775px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:2.8125;stroke-linecap:square;stroke-linejoin:round"
+               x="738.74731"
+               y="832.98541"
+               id="text1080"><tspan
+                 sodipodi:role="line"
+                 id="tspan1078"
+                 style="stroke-width:2.8125"
+                 x="738.74731"
+                 y="832.98541">stack</tspan></text>
+            <rect
+               style="fill:#ff6600;stroke:#0000ff;stroke-width:2.8125;stroke-linecap:square;stroke-linejoin:round"
+               id="rect1286"
+               width="334.98471"
+               height="74.053482"
+               x="576.80933"
+               y="1037.9153"
+               ry="0.57499766" />
+            <rect
+               style="fill:#ffb380;stroke:#0000ff;stroke-width:2.8125;stroke-linecap:square;stroke-linejoin:round"
+               id="rect1444"
+               width="334.98471"
+               height="74.053482"
+               x="576.80933"
+               y="963.86188"
+               ry="0.57499766" />
+            <rect
+               style="fill:#ffccaa;stroke:#0000ff;stroke-width:2.8125;stroke-linecap:square;stroke-linejoin:round"
+               id="rect1446"
+               width="334.98471"
+               height="74.053482"
+               x="576.80933"
+               y="889.80835"
+               ry="0.57499766" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
