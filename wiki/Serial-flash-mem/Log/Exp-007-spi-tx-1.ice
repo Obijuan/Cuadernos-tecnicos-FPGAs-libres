@@ -10793,7 +10793,7 @@
     "21beb0b88608b7852d2b1245ff4525fe4008f916": {
       "package": {
         "name": "sys-spi-tx",
-        "version": "0.2",
+        "version": "0.3",
         "description": "sys-spi-tx. SPI transmitter at system clock speed",
         "author": "Juan González-Gómez (Obijuan)",
         "image": "%3Csvg%20width=%22366.953%22%20height=%22360.197%22%20viewBox=%220%200%2097.089567%2095.302007%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20transform=%22matrix(.99953%200%200%201.00074%20-33.775%20-28.392)%22%3E%3Cpath%20style=%22-inkscape-stroke:none%22%20d=%22M91.813%2071.99h15.74%22%20color=%22#000%22%20fill=%22#00f%22/%3E%3Cg%20fill=%22#00f%22%3E%3Cpath%20d=%22M66.445%2036.258H48.62M119.186%2033.92c1.393%200%202.522.97%202.523%202.17%200%201.199-1.13%202.17-2.523%202.169H49.161c-1.392.001-2.522-.97-2.523-2.17.001-1.198%201.13-2.17%202.523-2.169z%22%20color=%22#000%22/%3E%3Cg%20color=%22#000%22%20fill-rule=%22evenodd%22%20stroke-width=%221.428%22%3E%3Cpath%20d=%22M41.406%2036.258l10.817%205.384V30.874z%22/%3E%3Cpath%20d=%22M70.553%20186.299v13.027l11.271-6.513-1.056-.612zm1.412%202.445l7.039%204.069-7.04%204.07z%22%20stroke=%22#00f%22%20transform=%22matrix(-1.1815%200%200%201.01751%20136.416%20-159.931)%22/%3E%3C/g%3E%3C/g%3E%3Crect%20width=%2234.328%22%20height=%2218.518%22%20x=%2296.04%22%20y=%2296.443%22%20ry=%223.156%22%20fill=%22#fff%22%20stroke=%22#000%22%20stroke-width=%221.115%22%20stroke-linecap=%22round%22/%3E%3Ctext%20style=%22line-height:1.25%22%20x=%2298.715%22%20y=%22109.949%22%20transform=%22scale(1.0006%20.9994)%22%20font-weight=%22400%22%20font-size=%2214.873%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%20stroke-width=%22.372%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20x=%2298.715%22%20y=%22109.949%22%20font-weight=%22700%22%3ESys%3C/tspan%3E%3C/text%3E%3Ctext%20style=%22line-height:1.25%22%20x=%2238.607%22%20y=%2287.433%22%20transform=%22scale(1.0006%20.9994)%22%20font-weight=%22400%22%20font-size=%2247.691%22%20font-family=%22sans-serif%22%20stroke-width=%221.192%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20x=%2238.607%22%20y=%2287.433%22%20font-weight=%22700%22%3ESPI%3C/tspan%3E%3C/text%3E%3Ctext%20style=%22line-height:1.25%22%20x=%2266.272%22%20y=%22112.823%22%20transform=%22scale(1.0006%20.9994)%22%20font-weight=%22400%22%20font-size=%2218.861%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%20stroke-width=%22.472%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20x=%2266.272%22%20y=%22112.823%22%20font-weight=%22700%22%3ETX%3C/tspan%3E%3C/text%3E%3Cg%20transform=%22matrix(1.09125%200%200%201.08992%20-59.772%2026.95)%22%20stroke=%22green%22%20stroke-linecap=%22round%22%3E%3Ccircle%20cx=%22100.602%22%20cy=%2273.815%22%20r=%2214.559%22%20fill=%22#ececec%22%20stroke-width=%22.608%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M106.978%2082.142h-3.353V63.316H97.54v18.678h-3.652%22%20fill=%22none%22%20stroke-width=%221.521%22/%3E%3C/g%3E%3C/g%3E%3C/svg%3E",
@@ -11613,8 +11613,7 @@
             {
               "source": {
                 "block": "0375da9f-437d-493f-b6a8-785ae3bed393",
-                "port": "out",
-                "size": 8
+                "port": "out"
               },
               "target": {
                 "block": "a70fa1f5-afa7-4ca0-b0ca-a3ef8e587d82",
@@ -11629,8 +11628,7 @@
               },
               "target": {
                 "block": "4437853f-9739-4229-869d-17e6b89f0954",
-                "port": "46214ce5-80b4-41ca-8e7a-617b7e640730",
-                "size": 8
+                "port": "46214ce5-80b4-41ca-8e7a-617b7e640730"
               },
               "size": 8
             },
