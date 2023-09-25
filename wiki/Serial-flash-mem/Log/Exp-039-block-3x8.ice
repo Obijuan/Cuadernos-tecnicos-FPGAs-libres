@@ -156,11 +156,11 @@
             "readonly": true
           },
           "position": {
-            "x": 296,
-            "y": 0
+            "x": 424,
+            "y": -8
           },
           "size": {
-            "width": 1160,
+            "width": 648,
             "height": 80
           }
         }
