@@ -1639,7 +1639,7 @@
           "id": "330298d1-ba0e-4b84-a39d-1f8ef8d68931",
           "type": "basic.info",
           "data": {
-            "info": "# Experimento 53: Lectura de una palabra de la flash\n\nLeer 32-bits de la flash. El formato usado es Little-endian",
+            "info": "# Experimento 54: Lectura de una palabra de la flash\n\nLeer 32-bits de la flash. El formato usado es Little-endian",
             "readonly": true
           },
           "position": {
