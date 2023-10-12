@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="237.57152mm"
+   height="59.69059mm"
+   viewBox="0 0 237.57151 59.690589"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
+   sodipodi:docname="Nivel0-09-Ej1-unidad-control-2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.1616142"
+     inkscape:cx="464.87035"
+     inkscape:cy="151.08287"
+     inkscape:window-width="1864"
+     inkscape:window-height="1016"
+     inkscape:window-x="56"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     showguides="true" />
+  <defs
+     id="defs1">
+    <rect
+       x="189.67763"
+       y="77.938171"
+       width="76.764954"
+       height="31.628235"
+       id="rect197" />
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     transform="translate(26.958673,-10.926362)">
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.529166;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+       id="rect65"
+       width="237.04236"
+       height="59.161423"
+       x="-26.69409"
+       y="11.190945" />
+  </g>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(26.958673,-10.926362)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.529168;stroke-linecap:square;stroke-linejoin:round"
+       id="rect1"
+       width="15.895769"
+       height="15.895769"
+       x="52.087669"
+       y="37.539261"
+       ry="0" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.529168;stroke-linecap:square;stroke-linejoin:round"
+       id="rect2"
+       width="15.895769"
+       height="15.895769"
+       x="19.02025"
+       y="37.539261"
+       ry="0" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.529168;stroke-linecap:square;stroke-linejoin:round"
+       id="rect3"
+       width="15.895769"
+       height="15.895769"
+       x="67.983437"
+       y="37.539261"
+       ry="0" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.529168;stroke-linecap:square;stroke-linejoin:round"
+       id="rect4"
+       width="15.895769"
+       height="15.895769"
+       x="83.879204"
+       y="37.539261"
+       ry="0" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.529168;stroke-linecap:square;stroke-linejoin:round"
+       id="rect5"
+       width="15.895769"
+       height="15.895769"
+       x="99.774963"
+       y="37.539261"
+       ry="0" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.529168;stroke-linecap:square;stroke-linejoin:round"
+       id="rect6"
+       width="15.895769"
+       height="15.895769"
+       x="115.67072"
+       y="37.539261"
+       ry="0" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.529168;stroke-linecap:square;stroke-linejoin:round"
+       id="rect7"
+       width="15.895769"
+       height="15.895769"
+       x="131.5665"
+       y="37.539261"
+       ry="0" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.529168;stroke-linecap:square;stroke-linejoin:round"
+       id="rect8"
+       width="15.895769"
+       height="15.895769"
+       x="147.46228"
+       y="37.539261"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round"
+       x="26.87553"
+       y="24.157482"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#000000;stroke:none;stroke-width:0.529167"
+         x="26.87553"
+         y="24.157482">Estado de</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#000000;stroke:none;stroke-width:0.529167"
+         x="26.87553"
+         y="30.77207"
+         id="tspan197">carga</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:8.85275px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#999999;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round"
+       x="26.892885"
+       y="48.8689"
+       id="text19"><tspan
+         sodipodi:role="line"
+         id="tspan19"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#999999;stroke:none;stroke-width:0.529167"
+         x="26.892885"
+         y="48.8689">0</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round;marker-end:url(#Triangle)"
+       d="m 35.520125,45.487145 h 14.42385"
+       id="path66" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-32.63969,6.2876245)"
+       id="text197"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';font-variation-settings:normal;text-align:center;white-space:pre;shape-inside:url(#rect197);display:inline;opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#008000;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round"
+       x="4.2221746"
+       y="61.475613"
+       id="text200"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#008000;stroke:none;stroke-width:0.529167"
+         x="4.2221746"
+         y="61.475613"
+         id="tspan200">MOSI:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#008000;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round"
+       x="27.021051"
+       y="61.475613"
+       id="text201"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke:none;stroke-width:0.529167"
+         x="27.021051"
+         y="61.475613"
+         id="tspan201">b7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round"
+       x="102.20245"
+       y="24.157482"
+       id="text203"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#000000;stroke:none;stroke-width:0.529167"
+         x="102.20245"
+         y="24.157482"
+         id="tspan203">Estado de transmisión</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#008000;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round"
+       x="60.158779"
+       y="61.475613"
+       id="text204"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke:none;stroke-width:0.529167"
+         x="60.158779"
+         y="61.475613"
+         id="tspan204">b6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#008000;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round"
+       x="75.886337"
+       y="61.475613"
+       id="text205"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke:none;stroke-width:0.529167"
+         x="75.886337"
+         y="61.475613"
+         id="tspan205">b5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#008000;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round"
+       x="91.613892"
+       y="61.475613"
+       id="text206"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke:none;stroke-width:0.529167"
+         x="91.613892"
+         y="61.475613"
+         id="tspan206">b4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#008000;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round"
+       x="107.34145"
+       y="61.475613"
+       id="text207"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke:none;stroke-width:0.529167"
+         x="107.34145"
+         y="61.475613"
+         id="tspan207">b3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#008000;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round"
+       x="123.06902"
+       y="61.475613"
+       id="text208"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke:none;stroke-width:0.529167"
+         x="123.06902"
+         y="61.475613"
+         id="tspan208">b2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#008000;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round"
+       x="138.7966"
+       y="61.475613"
+       id="text209"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke:none;stroke-width:0.529167"
+         x="138.7966"
+         y="61.475613"
+         id="tspan209">b1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#008000;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round"
+       x="154.52419"
+       y="61.475613"
+       id="text210"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke:none;stroke-width:0.529167"
+         x="154.52419"
+         y="61.475613"
+         id="tspan210">b0</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round;marker-end:url(#Triangle)"
+       d="M 2.2272742,45.487145 H 16.651125"
+       id="path210" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#008000;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round"
+       x="-8.4357653"
+       y="47.326"
+       id="text211"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#0000ff;stroke:none;stroke-width:0.529167"
+         x="-8.4357653"
+         y="47.326"
+         id="tspan211">START</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round;marker-end:url(#Triangle)"
+       d="M 163.35805,45.487145 H 177.7819"
+       id="path211" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#008000;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round"
+       x="188.49152"
+       y="47.326"
+       id="text212"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#0000ff;stroke:none;stroke-width:0.529167"
+         x="188.49152"
+         y="47.326"
+         id="tspan212">DONE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:8.85275px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#999999;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round"
+       x="59.203396"
+       y="48.8689"
+       id="text213"><tspan
+         sodipodi:role="line"
+         id="tspan213"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#999999;stroke:none;stroke-width:0.529167"
+         x="59.203396"
+         y="48.8689">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:8.85275px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#999999;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round"
+       x="75.93132"
+       y="48.8689"
+       id="text214"><tspan
+         sodipodi:role="line"
+         id="tspan214"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#999999;stroke:none;stroke-width:0.529167"
+         x="75.93132"
+         y="48.8689">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:8.85275px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#999999;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round"
+       x="92.388443"
+       y="48.8689"
+       id="text215"><tspan
+         sodipodi:role="line"
+         id="tspan215"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#999999;stroke:none;stroke-width:0.529167"
+         x="92.388443"
+         y="48.8689">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:8.85275px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#999999;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round"
+       x="107.72285"
+       y="48.8689"
+       id="text216"><tspan
+         sodipodi:role="line"
+         id="tspan216"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#999999;stroke:none;stroke-width:0.529167"
+         x="107.72285"
+         y="48.8689">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:8.85275px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#999999;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round"
+       x="123.05724"
+       y="48.8689"
+       id="text217"><tspan
+         sodipodi:role="line"
+         id="tspan217"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#999999;stroke:none;stroke-width:0.529167"
+         x="123.05724"
+         y="48.8689">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:8.85275px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#999999;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round"
+       x="139.51436"
+       y="48.8689"
+       id="text218"><tspan
+         sodipodi:role="line"
+         id="tspan218"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#999999;stroke:none;stroke-width:0.529167"
+         x="139.51436"
+         y="48.8689">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:8.85275px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#999999;stroke:none;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round"
+       x="154.84877"
+       y="48.8689"
+       id="text219"><tspan
+         sodipodi:role="line"
+         id="tspan219"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#999999;stroke:none;stroke-width:0.529167"
+         x="154.84877"
+         y="48.8689">0</tspan></text>
+  </g>
+</svg>

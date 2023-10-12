@@ -381,6 +381,25 @@
           }
         },
         {
+          "id": "8524d872-bcc0-4d90-ae82-1343bd2913be",
+          "type": "basic.output",
+          "data": {
+            "name": "miso",
+            "virtual": false,
+            "pins": [
+              {
+                "index": "0",
+                "name": "D3",
+                "value": "3"
+              }
+            ]
+          },
+          "position": {
+            "x": 2384,
+            "y": 896
+          }
+        },
+        {
           "id": "6eedd967-7328-4e61-89eb-800dd71a7f0c",
           "type": "basic.outputLabel",
           "data": {
@@ -396,8 +415,8 @@
             ]
           },
           "position": {
-            "x": 1656,
-            "y": 848
+            "x": 1568,
+            "y": 928
           }
         },
         {
@@ -416,27 +435,8 @@
             ]
           },
           "position": {
-            "x": 1936,
-            "y": 848
-          }
-        },
-        {
-          "id": "8524d872-bcc0-4d90-ae82-1343bd2913be",
-          "type": "basic.output",
-          "data": {
-            "name": "miso",
-            "virtual": false,
-            "pins": [
-              {
-                "index": "0",
-                "name": "D3",
-                "value": "3"
-              }
-            ]
-          },
-          "position": {
-            "x": 2384,
-            "y": 896
+            "x": 1848,
+            "y": 928
           }
         },
         {
@@ -659,7 +659,7 @@
           "id": "2f18ad7f-a18d-4c12-9a4e-cf1a8b0f3dae",
           "type": "basic.info",
           "data": {
-            "info": "**Estado 1**: Transisión del dato",
+            "info": "**Estado 1**: Transmisión del dato",
             "readonly": true
           },
           "position": {
@@ -743,8 +743,8 @@
           "id": "369dbff9-9fc6-4f65-910f-28eefdb425a4",
           "type": "3676a00f3a70e406487ed14b901daf3e4984e63d",
           "position": {
-            "x": 1792,
-            "y": 848
+            "x": 1704,
+            "y": 928
           },
           "size": {
             "width": 96,
@@ -891,8 +891,8 @@
             "readonly": true
           },
           "position": {
-            "x": 1728,
-            "y": 920
+            "x": 1640,
+            "y": 1000
           },
           "size": {
             "width": 336,
@@ -977,6 +977,22 @@
           "size": {
             "width": 232,
             "height": 56
+          }
+        },
+        {
+          "id": "7bca4e72-aedb-42a1-9533-b387316fa6d4",
+          "type": "basic.info",
+          "data": {
+            "info": "Sys-SL8-ld",
+            "readonly": true
+          },
+          "position": {
+            "x": 1360,
+            "y": 784
+          },
+          "size": {
+            "width": 104,
+            "height": 32
           }
         }
       ],
