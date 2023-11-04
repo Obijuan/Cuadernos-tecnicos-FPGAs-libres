@@ -3221,8 +3221,16 @@
               "id": "36589ba5-1f08-487e-9b60-0bc8b2c6dcd6",
               "type": "basic.outputLabel",
               "data": {
+                "name": "rst",
                 "blockColor": "fuchsia",
-                "name": "rest"
+                "virtual": true,
+                "pins": [
+                  {
+                    "index": "0",
+                    "name": "NULL",
+                    "value": "NULL"
+                  }
+                ]
               },
               "position": {
                 "x": 744,
