@@ -32,7 +32,8 @@
      inkscape:window-x="56"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" /><defs
+     inkscape:current-layer="layer1"
+     showgrid="false" /><defs
      id="defs1"><marker
        style="overflow:visible"
        id="Triangle"
@@ -186,4 +187,4 @@
          style="text-align:start;text-anchor:start;fill:#ffffff;stroke-width:2.64583"
          x="172.43329"
          y="135.51799"
-         id="tspan13">SPI[2]: MOSI</tspan></text></g></svg>
+         id="tspan13">SPI[0]: MOSI</tspan></text></g></svg>
