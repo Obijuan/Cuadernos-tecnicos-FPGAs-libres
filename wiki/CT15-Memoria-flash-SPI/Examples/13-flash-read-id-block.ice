@@ -15011,9 +15011,9 @@
     },
     "87599b729dbf42b674bba62571e12f713fa71f07": {
       "package": {
-        "name": "flash-readid",
+        "name": "flash-readid-bus",
         "version": "0.5",
-        "description": "flash-readid: Read flash identification",
+        "description": "flash-readid-bus: Read flash identification",
         "author": "Juan González-Gómez (Obijuan)",
         "image": "%3Csvg%20width=%22303.951%22%20height=%2260.364%22%20viewBox=%220%200%2080.420416%2015.971225%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Ctext%20style=%22line-height:1.25%22%20x=%2236.009%22%20y=%2264.635%22%20transform=%22matrix(1.00013%200%200%201.00013%20-37.909%20-48.965)%22%20font-weight=%22400%22%20font-size=%2220.634%22%20font-family=%22sans-serif%22%20stroke-width=%221.192%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20x=%2236.009%22%20y=%2264.635%22%20font-weight=%22700%22%3EReadID%3C/tspan%3E%3C/text%3E%3C/svg%3E",
         "otid": 1701973817367
