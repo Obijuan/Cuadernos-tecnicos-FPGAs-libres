@@ -906,7 +906,7 @@
           "id": "c3c5999d-d96f-4446-a733-0821b5eb4ec9",
           "type": "basic.info",
           "data": {
-            "info": "## Ejemplo 13: Bloque Flash-readid: Mostrar el byte de identificación en los LEDs\n\nSe envía el comando READID y se obtiene el primer byte del identificador por el MISO.  \nEste valor se muestra en los LEDS",
+            "info": "## Ejemplo 13: Bloque Flash-readid-bus: Mostrar el byte de identificación en los LEDs\n\nSe envía el comando READID y se obtiene el primer byte del identificador por el MISO.  \nEste valor se muestra en los LEDS",
             "readonly": true
           },
           "position": {
@@ -17535,7 +17535,8 @@
             {
               "source": {
                 "block": "c552e4a9-5a18-4fd8-83b0-d7605197229b",
-                "port": "out"
+                "port": "out",
+                "size": 11
               },
               "target": {
                 "block": "c7d91124-4811-4d4a-815c-db17c8479318",
@@ -17550,7 +17551,8 @@
               },
               "target": {
                 "block": "4ed51be7-920c-486d-860c-b70034e6610b",
-                "port": "c552e4a9-5a18-4fd8-83b0-d7605197229b"
+                "port": "c552e4a9-5a18-4fd8-83b0-d7605197229b",
+                "size": 11
               },
               "size": 11
             },
@@ -17581,7 +17583,8 @@
               },
               "target": {
                 "block": "f4d067dc-61ab-4aaf-a5eb-6c8e9ccd0362",
-                "port": "in"
+                "port": "in",
+                "size": 11
               },
               "size": 11
             },
@@ -17678,7 +17681,8 @@
             {
               "source": {
                 "block": "f03faa56-271e-4f72-af3b-e34a67c49fc7",
-                "port": "521f03e5-f364-41b0-a2b8-c7858e6debf5"
+                "port": "521f03e5-f364-41b0-a2b8-c7858e6debf5",
+                "size": 8
               },
               "target": {
                 "block": "6f4e48d5-4dbc-4463-9e70-eb3b7194c65e",
@@ -17693,7 +17697,8 @@
               },
               "target": {
                 "block": "6a92fff4-66d9-4ca8-a3cc-46fbeec59294",
-                "port": "1b621e37-f1b1-46a7-8450-5500bb513afb"
+                "port": "1b621e37-f1b1-46a7-8450-5500bb513afb",
+                "size": 8
               },
               "size": 8
             },
@@ -17730,7 +17735,8 @@
             {
               "source": {
                 "block": "9fc1fb4b-e561-4e9c-bf4a-3bf8f78ba8a7",
-                "port": "f4d067dc-61ab-4aaf-a5eb-6c8e9ccd0362"
+                "port": "f4d067dc-61ab-4aaf-a5eb-6c8e9ccd0362",
+                "size": 11
               },
               "target": {
                 "block": "7d8b0893-dfe3-43db-ba4e-2da11f107135",
@@ -17777,7 +17783,8 @@
               },
               "target": {
                 "block": "2a72cda8-49e1-4c28-befe-af963ba60bfd",
-                "port": "1b621e37-f1b1-46a7-8450-5500bb513afb"
+                "port": "1b621e37-f1b1-46a7-8450-5500bb513afb",
+                "size": 8
               },
               "vertices": [],
               "size": 8
@@ -17795,7 +17802,8 @@
             {
               "source": {
                 "block": "2a72cda8-49e1-4c28-befe-af963ba60bfd",
-                "port": "8e68dac0-4473-40be-a907-0eb952ae4420"
+                "port": "8e68dac0-4473-40be-a907-0eb952ae4420",
+                "size": 8
               },
               "target": {
                 "block": "222bfe3a-ea50-41a7-af06-b7972bc60ef7",
@@ -17832,7 +17840,8 @@
               },
               "target": {
                 "block": "e64304c6-390a-4c09-98a7-67524129e317",
-                "port": "1b621e37-f1b1-46a7-8450-5500bb513afb"
+                "port": "1b621e37-f1b1-46a7-8450-5500bb513afb",
+                "size": 8
               },
               "vertices": [],
               "size": 8
@@ -17840,7 +17849,8 @@
             {
               "source": {
                 "block": "e64304c6-390a-4c09-98a7-67524129e317",
-                "port": "8e68dac0-4473-40be-a907-0eb952ae4420"
+                "port": "8e68dac0-4473-40be-a907-0eb952ae4420",
+                "size": 8
               },
               "target": {
                 "block": "cdfa41ea-6129-4c39-a5dc-dd1fcad2eac1",
@@ -17862,7 +17872,8 @@
             {
               "source": {
                 "block": "4d2d3f16-99c0-44d9-a8ac-b151be2767e8",
-                "port": "756c8eb7-3567-48b4-9757-fe992499b794"
+                "port": "756c8eb7-3567-48b4-9757-fe992499b794",
+                "size": 24
               },
               "target": {
                 "block": "df594f40-2395-4006-8648-d8b6476e0701",
@@ -17873,7 +17884,8 @@
             {
               "source": {
                 "block": "6a92fff4-66d9-4ca8-a3cc-46fbeec59294",
-                "port": "8e68dac0-4473-40be-a907-0eb952ae4420"
+                "port": "8e68dac0-4473-40be-a907-0eb952ae4420",
+                "size": 8
               },
               "target": {
                 "block": "de5557e1-4c0c-4da7-8707-226d391a102e",
@@ -17898,7 +17910,8 @@
               },
               "target": {
                 "block": "4d2d3f16-99c0-44d9-a8ac-b151be2767e8",
-                "port": "4f42dbcc-6f8d-49de-9291-7a602cce9d27"
+                "port": "4f42dbcc-6f8d-49de-9291-7a602cce9d27",
+                "size": 8
               },
               "size": 8
             },
@@ -17909,7 +17922,8 @@
               },
               "target": {
                 "block": "4d2d3f16-99c0-44d9-a8ac-b151be2767e8",
-                "port": "29a44a77-ec20-436d-a9e8-7fc2ca5de57e"
+                "port": "29a44a77-ec20-436d-a9e8-7fc2ca5de57e",
+                "size": 8
               },
               "size": 8
             },
@@ -17920,7 +17934,8 @@
               },
               "target": {
                 "block": "4d2d3f16-99c0-44d9-a8ac-b151be2767e8",
-                "port": "3abd42f7-f396-4aa1-981a-889c0c279d10"
+                "port": "3abd42f7-f396-4aa1-981a-889c0c279d10",
+                "size": 8
               },
               "size": 8
             },
@@ -17931,7 +17946,8 @@
               },
               "target": {
                 "block": "1033cda3-f085-4985-9ce8-1a984cb6f136",
-                "port": "in"
+                "port": "in",
+                "size": 24
               },
               "size": 24
             },
