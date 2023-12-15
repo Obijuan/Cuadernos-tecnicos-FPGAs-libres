@@ -443,11 +443,11 @@
           }
         },
         {
-          "id": "491031ac-0c05-4f10-a276-cff91965ef63",
+          "id": "7e6633ed-d4ad-445d-9685-c131062d8179",
           "type": "basic.outputLabel",
           "data": {
-            "name": "start",
-            "blockColor": "red",
+            "name": "ready",
+            "blockColor": "fuchsia",
             "virtual": true,
             "pins": [
               {
@@ -458,7 +458,7 @@
             ]
           },
           "position": {
-            "x": 688,
+            "x": 696,
             "y": 488
           }
         },
@@ -1261,22 +1261,22 @@
         },
         {
           "source": {
-            "block": "491031ac-0c05-4f10-a276-cff91965ef63",
-            "port": "outlabel"
-          },
-          "target": {
-            "block": "0c740cff-a1d2-4b19-90a9-0466e282b1c2",
-            "port": "in"
-          }
-        },
-        {
-          "source": {
             "block": "c6105836-8a05-4f34-aefd-2b6ca15baed9",
             "port": "outlabel"
           },
           "target": {
             "block": "82b3327d-2bae-49a4-997c-f0e807bb3231",
             "port": "adf3a6ae-71e2-43dd-b504-c2cdbc14dab7"
+          }
+        },
+        {
+          "source": {
+            "block": "7e6633ed-d4ad-445d-9685-c131062d8179",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "0c740cff-a1d2-4b19-90a9-0466e282b1c2",
+            "port": "in"
           }
         }
       ]
