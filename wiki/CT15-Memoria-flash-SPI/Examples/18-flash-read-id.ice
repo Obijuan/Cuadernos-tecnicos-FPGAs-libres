@@ -686,7 +686,7 @@
           "id": "c3c5999d-d96f-4446-a733-0821b5eb4ec9",
           "type": "basic.info",
           "data": {
-            "info": "## Ejemplo 17: Bloque Flash-readid: Mostrar el byte de identificación en los LEDs\n\nEjemplo de uso del bloque final Flash-readid. Se envía el comando READID y se obtiene el primer byte del  \nidentificador por el MISO.  Este valor se muestra en los LEDS  \nIdentificador leido: `EF 40 16`",
+            "info": "## Ejemplo 18: Bloque Flash-readid: Mostrar el byte de identificación en los LEDs\n\nEjemplo de uso del bloque final Flash-readid. Se envía el comando READID y se obtiene el primer byte del  \nidentificador por el MISO.  Este valor se muestra en los LEDS  \nIdentificador leido: `EF 40 16`",
             "readonly": true
           },
           "position": {
