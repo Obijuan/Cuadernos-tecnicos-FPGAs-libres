@@ -704,7 +704,7 @@
         "version": "0.1",
         "description": "flash-read8: Read a byte from the flash",
         "author": "Juan González-Gómez (Obijuan)",
-        "image": "%3Csvg%20width=%22574.343%22%20height=%22568.116%22%20viewBox=%220%200%20151.96164%20150.31408%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20transform=%22matrix(.99953%200%200%201.00074%20-33.827%20-51.206)%22%3E%3Cpath%20style=%22-inkscape-stroke:none%22%20d=%22M91.813%2071.99h15.74%22%20color=%22#000%22%20fill=%22#00f%22/%3E%3Ctext%20style=%22line-height:1.25%22%20x=%2238.607%22%20y=%2287.433%22%20transform=%22scale(1.0006%20.9994)%22%20font-weight=%22400%22%20font-size=%2247.691%22%20font-family=%22sans-serif%22%20stroke-width=%221.192%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20x=%2238.607%22%20y=%2287.433%22%20font-weight=%22700%22%3EFlash%3C/tspan%3E%3C/text%3E%3Ctext%20style=%22line-height:1.25%22%20x=%2230.698%22%20y=%22122.136%22%20transform=%22scale(1.0006%20.9994)%22%20font-weight=%22400%22%20font-size=%2234.042%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%20stroke-width=%22.472%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20x=%2230.698%22%20y=%22122.136%22%20font-weight=%22700%22%3EREAD%20ID%3C/tspan%3E%3C/text%3E%3Cg%20transform=%22matrix(1.09125%200%200%201.08992%20-58.968%20104.718)%22%20stroke=%22green%22%20stroke-linecap=%22round%22%3E%3Ccircle%20cx=%22100.602%22%20cy=%2273.815%22%20r=%2214.559%22%20fill=%22#ececec%22%20stroke-width=%22.608%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M106.978%2082.142h-3.353V63.316H97.54v18.678h-3.652%22%20fill=%22none%22%20stroke-width=%221.521%22/%3E%3C/g%3E%3Crect%20width=%2244.9%22%20height=%2224.221%22%20x=%2296.322%22%20y=%22138.186%22%20ry=%224.127%22%20rx=%224.127%22%20fill=%22#fff%22%20stroke=%22#000%22%20stroke-width=%221.459%22%20stroke-linecap=%22round%22/%3E%3Ctext%20style=%22line-height:1.25%22%20x=%2299.838%22%20y=%22155.859%22%20transform=%22scale(1.0006%20.9994)%22%20font-weight=%22400%22%20font-size=%2219.453%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%20stroke-width=%22.486%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20x=%2299.838%22%20y=%22155.859%22%20font-weight=%22700%22%3ESys%3C/tspan%3E%3C/text%3E%3Cg%20transform=%22matrix(1.30858%200%200%201.307%20229.66%20-144.854)%22%3E%3Ccircle%20r=%2212.621%22%20cy=%22225.339%22%20cx=%22-51.401%22%20fill=%22#ececec%22%20stroke=%22green%22%20stroke-width=%22.527%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Ctext%20y=%22232.146%22%20x=%22-58.633%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%2235.282%22%20letter-spacing=%220%22%20word-spacing=%220%22%20transform=%22scale(.99853%201.00147)%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%20stroke-width=%22.654%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20y=%22232.146%22%20x=%22-58.633%22%20font-weight=%22700%22%20font-size=%2220.162%22%3E0%3C/tspan%3E%3C/text%3E%3C/g%3E%3C/g%3E%3C/svg%3E",
+        "image": "%3Csvg%20width=%22574.343%22%20height=%22568.116%22%20viewBox=%220%200%20151.96164%20150.31408%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20transform=%22matrix(.99953%200%200%201.00074%20-33.827%20-51.206)%22%3E%3Cpath%20style=%22-inkscape-stroke:none%22%20d=%22M91.813%2071.99h15.74%22%20color=%22#000%22%20fill=%22#00f%22/%3E%3Ctext%20style=%22line-height:1.25%22%20x=%2238.607%22%20y=%2287.433%22%20transform=%22scale(1.0006%20.9994)%22%20font-weight=%22400%22%20font-size=%2247.691%22%20font-family=%22sans-serif%22%20stroke-width=%221.192%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20x=%2238.607%22%20y=%2287.433%22%20font-weight=%22700%22%3EFlash%3C/tspan%3E%3C/text%3E%3Ctext%20style=%22line-height:1.25%22%20x=%2257.511%22%20y=%22122.491%22%20transform=%22scale(1.0006%20.9994)%22%20font-weight=%22400%22%20font-size=%2234.042%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%20stroke-width=%22.472%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20x=%2257.511%22%20y=%22122.491%22%20font-weight=%22700%22%3EREAD%3C/tspan%3E%3C/text%3E%3Cg%20transform=%22matrix(1.09125%200%200%201.08992%20-58.968%20104.718)%22%20stroke=%22green%22%20stroke-linecap=%22round%22%3E%3Ccircle%20cx=%22100.602%22%20cy=%2273.815%22%20r=%2214.559%22%20fill=%22#ececec%22%20stroke-width=%22.608%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M106.978%2082.142h-3.353V63.316H97.54v18.678h-3.652%22%20fill=%22none%22%20stroke-width=%221.521%22/%3E%3C/g%3E%3Crect%20width=%2244.9%22%20height=%2224.221%22%20x=%2296.322%22%20y=%22138.186%22%20ry=%224.127%22%20rx=%224.127%22%20fill=%22#fff%22%20stroke=%22#000%22%20stroke-width=%221.459%22%20stroke-linecap=%22round%22/%3E%3Ctext%20style=%22line-height:1.25%22%20x=%2299.838%22%20y=%22155.859%22%20transform=%22scale(1.0006%20.9994)%22%20font-weight=%22400%22%20font-size=%2219.453%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%20stroke-width=%22.486%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20x=%2299.838%22%20y=%22155.859%22%20font-weight=%22700%22%3ESys%3C/tspan%3E%3C/text%3E%3Cg%20transform=%22matrix(1.30858%200%200%201.307%20229.66%20-144.854)%22%3E%3Ccircle%20r=%2212.621%22%20cy=%22225.339%22%20cx=%22-51.401%22%20fill=%22#ececec%22%20stroke=%22green%22%20stroke-width=%22.527%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Ctext%20y=%22232.146%22%20x=%22-58.633%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%2235.282%22%20letter-spacing=%220%22%20word-spacing=%220%22%20transform=%22scale(.99853%201.00147)%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%20stroke-width=%22.654%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20y=%22232.146%22%20x=%22-58.633%22%20font-weight=%22700%22%20font-size=%2220.162%22%3E0%3C/tspan%3E%3C/text%3E%3C/g%3E%3C/g%3E%3C/svg%3E",
         "otid": 1703359155825
       },
       "design": {
@@ -1621,8 +1621,7 @@
             {
               "source": {
                 "block": "5405986f-323f-43e6-bfcf-9f123e492d04",
-                "port": "5b504066-aec0-41ec-9b6e-8cb754b306c0",
-                "size": 3
+                "port": "5b504066-aec0-41ec-9b6e-8cb754b306c0"
               },
               "target": {
                 "block": "b0a03ad6-ffce-4725-bd64-773aed6087ea",
@@ -1634,8 +1633,7 @@
             {
               "source": {
                 "block": "5405986f-323f-43e6-bfcf-9f123e492d04",
-                "port": "930efbce-5969-4cda-ad61-9c9c7551dc2e",
-                "size": 11
+                "port": "930efbce-5969-4cda-ad61-9c9c7551dc2e"
               },
               "target": {
                 "block": "4c67107d-3bb4-4e43-8fde-201d2a589efc",
@@ -1662,8 +1660,7 @@
               },
               "target": {
                 "block": "2d51d48a-1f07-4cea-aa6c-9d3b5b9c2496",
-                "port": "c552e4a9-5a18-4fd8-83b0-d7605197229b",
-                "size": 11
+                "port": "c552e4a9-5a18-4fd8-83b0-d7605197229b"
               },
               "vertices": [],
               "size": 11
@@ -1731,8 +1728,7 @@
               },
               "target": {
                 "block": "0dc5657a-2261-444f-ae85-d205c36368d4",
-                "port": "in",
-                "size": 3
+                "port": "in"
               },
               "size": 3
             },
@@ -1799,8 +1795,7 @@
             {
               "source": {
                 "block": "d3794e3f-1b00-4328-bcef-6332e9388ce6",
-                "port": "out",
-                "size": 24
+                "port": "out"
               },
               "target": {
                 "block": "3a338c9a-aeb4-40a1-a1ff-5d8e570a28bb",
@@ -1815,8 +1810,7 @@
               },
               "target": {
                 "block": "2d51d48a-1f07-4cea-aa6c-9d3b5b9c2496",
-                "port": "c8b840f6-da40-4cf1-8e88-5e61bf0ef1c9",
-                "size": 24
+                "port": "c8b840f6-da40-4cf1-8e88-5e61bf0ef1c9"
               },
               "vertices": [
                 {
@@ -1829,8 +1823,7 @@
             {
               "source": {
                 "block": "2d51d48a-1f07-4cea-aa6c-9d3b5b9c2496",
-                "port": "05195e6c-c4e6-4d27-9594-49ddbd60d214",
-                "size": 8
+                "port": "05195e6c-c4e6-4d27-9594-49ddbd60d214"
               },
               "target": {
                 "block": "1db217db-77a3-4cab-bd54-0514eff5cd48",
@@ -1845,8 +1838,7 @@
               },
               "target": {
                 "block": "6e112677-4122-4872-8357-8c0cf0974dec",
-                "port": "in",
-                "size": 8
+                "port": "in"
               },
               "size": 8
             },
