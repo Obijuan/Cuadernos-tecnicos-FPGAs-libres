@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="10.316677mm"
-   height="19.202623mm"
-   viewBox="0 0 10.316677 19.202624"
+   width="172.58627mm"
+   height="129.43971mm"
+   viewBox="0 0 172.58627 129.43972"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.3915124"
-     inkscape:cx="107.07774"
-     inkscape:cy="113.1862"
+     inkscape:cx="404.59576"
+     inkscape:cy="262.66386"
      inkscape:window-width="1864"
      inkscape:window-height="1016"
      inkscape:window-x="56"
@@ -54,7 +54,7 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-78.839059,-39.526698)"><image
+     transform="translate(-0.18391581,-0.06569842)"><image
        width="172.58627"
        height="129.43971"
        preserveAspectRatio="none"
@@ -64,18 +64,18 @@
        y="0.065698422"
        style="stroke-width:1.83966" /><text
        xml:space="preserve"
-       style="font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;text-anchor:middle;text-align:center"
+       style="font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
        x="53.739223"
        y="39.183205"
        id="text1"><tspan
          sodipodi:role="line"
          id="tspan1"
-         style="fill:#000000;stroke-width:0.529167;text-anchor:middle;text-align:center"
-         x="41.531361"
+         style="text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+         x="53.739223"
          y="39.183205">LEDs 3mm</tspan><tspan
          sodipodi:role="line"
-         style="fill:#000000;stroke-width:0.529167;text-anchor:middle;text-align:center"
-         x="41.531361"
+         style="text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+         x="53.739223"
          y="45.797791"
          id="tspan8">(x2)</tspan></text><text
        xml:space="preserve"
