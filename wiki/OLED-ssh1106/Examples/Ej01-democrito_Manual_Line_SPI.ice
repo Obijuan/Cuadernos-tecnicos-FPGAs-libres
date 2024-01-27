@@ -336,6 +336,22 @@
             "width": 96,
             "height": 256
           }
+        },
+        {
+          "id": "d384393c-4d5c-4844-bd61-a6702fa01a37",
+          "type": "basic.info",
+          "data": {
+            "info": "# Ejemplo 1: Puesta en marcha de la OLED",
+            "readonly": true
+          },
+          "position": {
+            "x": 704,
+            "y": 336
+          },
+          "size": {
+            "width": 728,
+            "height": 40
+          }
         }
       ],
       "wires": [
