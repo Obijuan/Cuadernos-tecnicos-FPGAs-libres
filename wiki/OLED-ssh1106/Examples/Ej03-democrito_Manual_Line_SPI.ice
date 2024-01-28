@@ -304,7 +304,7 @@
             "readonly": true
           },
           "position": {
-            "x": 760,
+            "x": 752,
             "y": 328
           },
           "size": {
