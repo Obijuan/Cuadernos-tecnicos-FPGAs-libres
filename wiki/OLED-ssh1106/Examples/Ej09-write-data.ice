@@ -656,7 +656,7 @@
           "id": "ea120bd5-af98-470d-9621-4daeb1d7562b",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 9: Escritura de datos\n\n",
+            "info": "# Ejemplo 9: Escritura de datos\n\nLa primera pulsación de `SW1` enciende la pantalla. Las sucesivas pulsaciones escriben el dato 0xFF en la memoria de video. Hay que pulsar  \n`SW1` al menos 4 veces para ver la escritura de 8 pixeles verticales en la esquina inferior derecha",
             "readonly": true
           },
           "position": {
@@ -918,6 +918,22 @@
           "size": {
             "width": 96,
             "height": 64
+          }
+        },
+        {
+          "id": "c96f4fe0-ebc5-4f50-8ba8-a3b766dc12aa",
+          "type": "basic.info",
+          "data": {
+            "info": "Estado de escritura de datos  \nen la pantalla",
+            "readonly": true
+          },
+          "position": {
+            "x": 1912,
+            "y": 496
+          },
+          "size": {
+            "width": 256,
+            "height": 56
           }
         }
       ],
