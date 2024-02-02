@@ -67,7 +67,7 @@
             ]
           },
           "position": {
-            "x": 1944,
+            "x": 2224,
             "y": 40
           }
         },
@@ -279,7 +279,7 @@
             ]
           },
           "position": {
-            "x": 1928,
+            "x": 2208,
             "y": 240
           }
         },
@@ -324,26 +324,6 @@
           }
         },
         {
-          "id": "23db94c4-691d-4f1c-a34f-afd507bbbb76",
-          "type": "basic.inputLabel",
-          "data": {
-            "name": "loop",
-            "blockColor": "deepskyblue",
-            "virtual": true,
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
-          },
-          "position": {
-            "x": 1648,
-            "y": 288
-          }
-        },
-        {
           "id": "d4e8b49b-5ed6-41da-a103-1e2f69a10c31",
           "type": "basic.outputLabel",
           "data": {
@@ -379,8 +359,48 @@
             ]
           },
           "position": {
-            "x": 1896,
+            "x": 2176,
             "y": 296
+          }
+        },
+        {
+          "id": "23db94c4-691d-4f1c-a34f-afd507bbbb76",
+          "type": "basic.inputLabel",
+          "data": {
+            "name": "loop",
+            "blockColor": "deepskyblue",
+            "virtual": true,
+            "pins": [
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ]
+          },
+          "position": {
+            "x": 1936,
+            "y": 304
+          }
+        },
+        {
+          "id": "2b120650-08ae-4459-987f-2ab1fe505d82",
+          "type": "basic.outputLabel",
+          "data": {
+            "name": "boton2",
+            "blockColor": "darkgreen",
+            "virtual": true,
+            "pins": [
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ]
+          },
+          "position": {
+            "x": 1608,
+            "y": 320
           }
         },
         {
@@ -400,6 +420,26 @@
           },
           "position": {
             "x": 1272,
+            "y": 328
+          }
+        },
+        {
+          "id": "d9c7ab93-8ccb-4f8a-af8e-3f7da3e81be8",
+          "type": "basic.inputLabel",
+          "data": {
+            "name": "boton2",
+            "blockColor": "darkgreen",
+            "virtual": true,
+            "pins": [
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ]
+          },
+          "position": {
+            "x": 576,
             "y": 328
           }
         },
@@ -504,10 +544,23 @@
           }
         },
         {
+          "id": "29da52af-bb2c-451b-affd-41d250b90d79",
+          "type": "basic.constant",
+          "data": {
+            "name": "xpos",
+            "value": "8",
+            "local": true
+          },
+          "position": {
+            "x": 1616,
+            "y": 24
+          }
+        },
+        {
           "id": "ea120bd5-af98-470d-9621-4daeb1d7562b",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 34: LED virtual\n\n",
+            "info": "# Ejemplo 34: LEDs virtuales\n\n",
             "readonly": true
           },
           "position": {
@@ -527,7 +580,7 @@
             "readonly": true
           },
           "position": {
-            "x": 2056,
+            "x": 2336,
             "y": 64
           },
           "size": {
@@ -551,7 +604,7 @@
           "id": "e04902d4-721e-4142-9840-d50296643cf2",
           "type": "d90922a3a5c4080c1b843626e60fcf4b05289bf5",
           "position": {
-            "x": 1760,
+            "x": 2040,
             "y": 88
           },
           "size": {
@@ -611,7 +664,7 @@
           "id": "5eec6608-0068-4510-b1e3-ec486342e8fc",
           "type": "d30ca9ee4f35f6cb76d5e5701447fc2b739bc640",
           "position": {
-            "x": 1584,
+            "x": 1864,
             "y": 56
           },
           "size": {
@@ -668,6 +721,34 @@
           },
           "size": {
             "width": 160,
+            "height": 32
+          }
+        },
+        {
+          "id": "181f3d6d-cb59-4d45-8a8d-f57c030e4cb6",
+          "type": "b9ee2d10b8980f3289e648b4095f4e2d3f5fd661",
+          "position": {
+            "x": 1752,
+            "y": 144
+          },
+          "size": {
+            "width": 96,
+            "height": 160
+          }
+        },
+        {
+          "id": "2b727251-120c-45fe-86fc-778e3c291469",
+          "type": "basic.info",
+          "data": {
+            "info": "## CRONTROLADOR OLED",
+            "readonly": true
+          },
+          "position": {
+            "x": 1992,
+            "y": -32
+          },
+          "size": {
+            "width": 192,
             "height": 32
           }
         }
@@ -805,7 +886,7 @@
           },
           "vertices": [
             {
-              "x": 1704,
+              "x": 1984,
               "y": 120
             }
           ]
@@ -886,33 +967,12 @@
         },
         {
           "source": {
-            "block": "5d32e400-28b5-4153-8673-8c77913a5ec1",
-            "port": "aa90aaa6-ec92-4ef6-ab8e-740e68360e13"
-          },
-          "target": {
-            "block": "e04902d4-721e-4142-9840-d50296643cf2",
-            "port": "7615082f-a59d-42bd-95a1-4f2be3e93ad3"
-          },
-          "size": 10
-        },
-        {
-          "source": {
             "block": "dbeaf19c-7d39-4b7f-adb4-f1b76bf60099",
             "port": "outlabel"
           },
           "target": {
             "block": "5d32e400-28b5-4153-8673-8c77913a5ec1",
             "port": "d65818a6-8472-44f5-906e-bc7226d9e1f3"
-          }
-        },
-        {
-          "source": {
-            "block": "5d32e400-28b5-4153-8673-8c77913a5ec1",
-            "port": "c927b121-9729-484c-bed4-2c6afb607d37"
-          },
-          "target": {
-            "block": "23db94c4-691d-4f1c-a34f-afd507bbbb76",
-            "port": "inlabel"
           }
         },
         {
@@ -944,6 +1004,88 @@
             "block": "a1ef7aec-0a7a-42e2-b672-fa245d96a9e0",
             "port": "inlabel"
           }
+        },
+        {
+          "source": {
+            "block": "5d32e400-28b5-4153-8673-8c77913a5ec1",
+            "port": "aa90aaa6-ec92-4ef6-ab8e-740e68360e13"
+          },
+          "target": {
+            "block": "181f3d6d-cb59-4d45-8a8d-f57c030e4cb6",
+            "port": "b68bd788-c5dd-4aa9-802b-04896e364419"
+          },
+          "size": 10
+        },
+        {
+          "source": {
+            "block": "5d32e400-28b5-4153-8673-8c77913a5ec1",
+            "port": "c927b121-9729-484c-bed4-2c6afb607d37"
+          },
+          "target": {
+            "block": "181f3d6d-cb59-4d45-8a8d-f57c030e4cb6",
+            "port": "c10ff35f-34f9-4512-815f-c66e54338a39"
+          }
+        },
+        {
+          "source": {
+            "block": "5d32e400-28b5-4153-8673-8c77913a5ec1",
+            "port": "cffa3728-af43-4eef-90e4-397787edc0eb"
+          },
+          "target": {
+            "block": "181f3d6d-cb59-4d45-8a8d-f57c030e4cb6",
+            "port": "6b5f3a56-28b5-4905-ac56-7445e09dd8d8"
+          }
+        },
+        {
+          "source": {
+            "block": "29da52af-bb2c-451b-affd-41d250b90d79",
+            "port": "constant-out"
+          },
+          "target": {
+            "block": "181f3d6d-cb59-4d45-8a8d-f57c030e4cb6",
+            "port": "48ee74ac-3c0f-4bc0-a019-c14514e14c61"
+          }
+        },
+        {
+          "source": {
+            "block": "1ce2d35a-500d-4101-bcc9-e0e0e61c925b",
+            "port": "b58132b2-2e39-4a85-ab5b-63bded91cecc"
+          },
+          "target": {
+            "block": "d9c7ab93-8ccb-4f8a-af8e-3f7da3e81be8",
+            "port": "inlabel"
+          }
+        },
+        {
+          "source": {
+            "block": "2b120650-08ae-4459-987f-2ab1fe505d82",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "181f3d6d-cb59-4d45-8a8d-f57c030e4cb6",
+            "port": "d65818a6-8472-44f5-906e-bc7226d9e1f3"
+          }
+        },
+        {
+          "source": {
+            "block": "181f3d6d-cb59-4d45-8a8d-f57c030e4cb6",
+            "port": "c927b121-9729-484c-bed4-2c6afb607d37"
+          },
+          "target": {
+            "block": "23db94c4-691d-4f1c-a34f-afd507bbbb76",
+            "port": "inlabel"
+          }
+        },
+        {
+          "source": {
+            "block": "181f3d6d-cb59-4d45-8a8d-f57c030e4cb6",
+            "port": "aa90aaa6-ec92-4ef6-ab8e-740e68360e13"
+          },
+          "target": {
+            "block": "e04902d4-721e-4142-9840-d50296643cf2",
+            "port": "7615082f-a59d-42bd-95a1-4f2be3e93ad3"
+          },
+          "size": 10
         }
       ]
     }
