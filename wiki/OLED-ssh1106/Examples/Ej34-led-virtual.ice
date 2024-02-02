@@ -12,26 +12,6 @@
     "graph": {
       "blocks": [
         {
-          "id": "a1ef7aec-0a7a-42e2-b672-fa245d96a9e0",
-          "type": "basic.inputLabel",
-          "data": {
-            "name": "boton2",
-            "blockColor": "darkgreen",
-            "virtual": true,
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
-          },
-          "position": {
-            "x": 608,
-            "y": -32
-          }
-        },
-        {
           "id": "26657458-dc75-48db-a6c0-ca463d78e2ad",
           "type": "basic.input",
           "data": {
@@ -87,7 +67,7 @@
             ]
           },
           "position": {
-            "x": 1992,
+            "x": 1944,
             "y": 40
           }
         },
@@ -224,6 +204,26 @@
           }
         },
         {
+          "id": "a1ef7aec-0a7a-42e2-b672-fa245d96a9e0",
+          "type": "basic.inputLabel",
+          "data": {
+            "name": "boton1",
+            "blockColor": "darkgreen",
+            "virtual": true,
+            "pins": [
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ]
+          },
+          "position": {
+            "x": 576,
+            "y": 200
+          }
+        },
+        {
           "id": "ce327c55-a146-43a4-b30e-7bae4ad4ea52",
           "type": "basic.outputLabel",
           "data": {
@@ -279,28 +279,8 @@
             ]
           },
           "position": {
-            "x": 1952,
+            "x": 1928,
             "y": 240
-          }
-        },
-        {
-          "id": "23db94c4-691d-4f1c-a34f-afd507bbbb76",
-          "type": "basic.inputLabel",
-          "data": {
-            "name": "loop",
-            "blockColor": "deepskyblue",
-            "virtual": true,
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
-          },
-          "position": {
-            "x": 1672,
-            "y": 264
           }
         },
         {
@@ -344,6 +324,26 @@
           }
         },
         {
+          "id": "23db94c4-691d-4f1c-a34f-afd507bbbb76",
+          "type": "basic.inputLabel",
+          "data": {
+            "name": "loop",
+            "blockColor": "deepskyblue",
+            "virtual": true,
+            "pins": [
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ]
+          },
+          "position": {
+            "x": 1648,
+            "y": 288
+          }
+        },
+        {
           "id": "d4e8b49b-5ed6-41da-a103-1e2f69a10c31",
           "type": "basic.outputLabel",
           "data": {
@@ -359,7 +359,7 @@
             ]
           },
           "position": {
-            "x": 1008,
+            "x": 1032,
             "y": 288
           }
         },
@@ -379,7 +379,7 @@
             ]
           },
           "position": {
-            "x": 1920,
+            "x": 1896,
             "y": 296
           }
         },
@@ -387,7 +387,7 @@
           "id": "dbeaf19c-7d39-4b7f-adb4-f1b76bf60099",
           "type": "basic.outputLabel",
           "data": {
-            "name": "boton2",
+            "name": "boton1",
             "blockColor": "darkgreen",
             "virtual": true,
             "pins": [
@@ -424,6 +424,24 @@
           }
         },
         {
+          "id": "172701a1-d2c5-4d28-ad63-56cdde0f3d39",
+          "type": "basic.memory",
+          "data": {
+            "name": "Sprite_LED",
+            "list": "///-- LED off\n00 0c 12 21 21 12 0c 00\n\n//-- LED  on\n00 0c 1e 3f 3f 1e 0c 00\n",
+            "local": false,
+            "format": 10
+          },
+          "position": {
+            "x": 688,
+            "y": -216
+          },
+          "size": {
+            "width": 304,
+            "height": 128
+          }
+        },
+        {
           "id": "27a7bd3d-02db-4692-918a-ac0ca3d1b2c7",
           "type": "basic.constant",
           "data": {
@@ -437,6 +455,42 @@
           }
         },
         {
+          "id": "67567448-99a2-425c-bc1d-8e526f7f1dbf",
+          "type": "basic.memory",
+          "data": {
+            "name": "Sprite_switch",
+            "list": "///-- Switch off\n00 00 f0 ff ff f0 00 00\n\n//-- Switch on\n00 00 0f ff ff 0f 00 00\n",
+            "local": false,
+            "format": 10
+          },
+          "position": {
+            "x": 1048,
+            "y": -216
+          },
+          "size": {
+            "width": 272,
+            "height": 128
+          }
+        },
+        {
+          "id": "e264fa0b-b138-46d9-8544-5e1133720ec7",
+          "type": "basic.memory",
+          "data": {
+            "name": "Sprite_LED2",
+            "list": "///-- LED off\n1c 22 41 41 41 22 1c 00\n\n//-- LED  on\n1c 3e 7f 7f 7f 3e 1c 00\n",
+            "local": false,
+            "format": 10
+          },
+          "position": {
+            "x": 1376,
+            "y": -136
+          },
+          "size": {
+            "width": 312,
+            "height": 128
+          }
+        },
+        {
           "id": "7645c696-983a-4054-8547-3403f8e5a2e2",
           "type": "basic.constant",
           "data": {
@@ -445,7 +499,7 @@
             "local": true
           },
           "position": {
-            "x": 1392,
+            "x": 1408,
             "y": 24
           }
         },
@@ -457,8 +511,8 @@
             "readonly": true
           },
           "position": {
-            "x": 232,
-            "y": -176
+            "x": 256,
+            "y": -336
           },
           "size": {
             "width": 1032,
@@ -473,7 +527,7 @@
             "readonly": true
           },
           "position": {
-            "x": 2104,
+            "x": 2056,
             "y": 64
           },
           "size": {
@@ -557,8 +611,8 @@
           "id": "5eec6608-0068-4510-b1e3-ec486342e8fc",
           "type": "d30ca9ee4f35f6cb76d5e5701447fc2b739bc640",
           "position": {
-            "x": 1568,
-            "y": 16
+            "x": 1584,
+            "y": 56
           },
           "size": {
             "width": 96,
@@ -581,8 +635,8 @@
           "id": "00eeaba9-5d0b-45fb-9208-109360a66aa4",
           "type": "873425949b2a80f1a7f66f320796bcd068a59889",
           "position": {
-            "x": 1144,
-            "y": 208
+            "x": 1160,
+            "y": 232
           },
           "size": {
             "width": 96,
@@ -751,8 +805,8 @@
           },
           "vertices": [
             {
-              "x": 1688,
-              "y": 88
+              "x": 1704,
+              "y": 120
             }
           ]
         },
@@ -799,7 +853,7 @@
           },
           "vertices": [
             {
-              "x": 1280,
+              "x": 1312,
               "y": 232
             }
           ]
@@ -873,8 +927,18 @@
         },
         {
           "source": {
-            "block": "ce11f922-d8aa-414b-8e9f-83637f766728",
-            "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
+            "block": "e264fa0b-b138-46d9-8544-5e1133720ec7",
+            "port": "memory-out"
+          },
+          "target": {
+            "block": "5d32e400-28b5-4153-8673-8c77913a5ec1",
+            "port": "675d464a-3fca-4578-a7a7-8f6a32dd9363"
+          }
+        },
+        {
+          "source": {
+            "block": "b4e0a01a-66bf-4ffa-b52e-bdb8bd8ad163",
+            "port": "b58132b2-2e39-4a85-ab5b-63bded91cecc"
           },
           "target": {
             "block": "a1ef7aec-0a7a-42e2-b672-fa245d96a9e0",
@@ -51001,7 +51065,7 @@
               "id": "675d464a-3fca-4578-a7a7-8f6a32dd9363",
               "type": "basic.memory",
               "data": {
-                "name": "Sprite_LED2",
+                "name": "Sprite",
                 "list": "///-- LED off\n1c 22 41 41 41 22 1c 00\n\n//-- LED  on\n1c 3e 7f 7f 7f 3e 1c 00\n",
                 "local": false,
                 "format": 10
