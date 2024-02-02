@@ -284,26 +284,6 @@
           }
         },
         {
-          "id": "4e5b01a4-91fc-49ba-b86a-15db0bda9730",
-          "type": "basic.inputLabel",
-          "data": {
-            "name": "exec",
-            "blockColor": "fuchsia",
-            "virtual": true,
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
-          },
-          "position": {
-            "x": 1752,
-            "y": 272
-          }
-        },
-        {
           "id": "923fff53-f0e5-4530-b295-f4982a547e82",
           "type": "basic.outputLabel",
           "data": {
@@ -361,26 +341,6 @@
           "position": {
             "x": 1312,
             "y": 304
-          }
-        },
-        {
-          "id": "5320d822-ee2a-4db9-a27d-d863592512db",
-          "type": "basic.inputLabel",
-          "data": {
-            "name": "done",
-            "blockColor": "fuchsia",
-            "virtual": true,
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
-          },
-          "position": {
-            "x": 1120,
-            "y": 328
           }
         },
         {
@@ -801,16 +761,6 @@
         },
         {
           "source": {
-            "block": "ac51561b-2704-4ca7-8e28-022b788e3c17",
-            "port": "f6c89941-916a-43ec-9758-6700739a97aa"
-          },
-          "target": {
-            "block": "5320d822-ee2a-4db9-a27d-d863592512db",
-            "port": "inlabel"
-          }
-        },
-        {
-          "source": {
             "block": "923fff53-f0e5-4530-b295-f4982a547e82",
             "port": "outlabel"
           },
@@ -1015,16 +965,6 @@
           "target": {
             "block": "5d32e400-28b5-4153-8673-8c77913a5ec1",
             "port": "48ee74ac-3c0f-4bc0-a019-c14514e14c61"
-          }
-        },
-        {
-          "source": {
-            "block": "5d32e400-28b5-4153-8673-8c77913a5ec1",
-            "port": "c927b121-9729-484c-bed4-2c6afb607d37"
-          },
-          "target": {
-            "block": "4e5b01a4-91fc-49ba-b86a-15db0bda9730",
-            "port": "inlabel"
           }
         },
         {
