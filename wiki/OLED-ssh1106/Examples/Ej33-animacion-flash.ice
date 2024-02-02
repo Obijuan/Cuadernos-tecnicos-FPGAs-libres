@@ -1038,11 +1038,24 @@
           }
         },
         {
+          "id": "45df4183-8f39-4d8f-94fd-4efe21087fcd",
+          "type": "basic.constant",
+          "data": {
+            "name": "Anim_1",
+            "value": "'h04_00C0",
+            "local": false
+          },
+          "position": {
+            "x": 440,
+            "y": 792
+          }
+        },
+        {
           "id": "54f7f188-b099-4a02-aa1e-14d7a585bce9",
           "type": "basic.constant",
           "data": {
             "name": "ms",
-            "value": "100",
+            "value": "50",
             "local": false
           },
           "position": {
@@ -1051,11 +1064,24 @@
           }
         },
         {
-          "id": "45df4183-8f39-4d8f-94fd-4efe21087fcd",
+          "id": "12411272-f07a-4d94-bf6c-88e4ffe91396",
           "type": "basic.constant",
           "data": {
-            "name": "Direccion",
-            "value": "'h04_00C0",
+            "name": "Anim_2",
+            "value": "'h04_0100",
+            "local": false
+          },
+          "position": {
+            "x": 560,
+            "y": 792
+          }
+        },
+        {
+          "id": "5eabeef1-181f-44f1-9356-3cc1ffc1658a",
+          "type": "basic.constant",
+          "data": {
+            "name": "Anim_3",
+            "value": "'h04_0140",
             "local": false
           },
           "position": {
@@ -1077,11 +1103,37 @@
           }
         },
         {
+          "id": "aa862ea7-9b99-4652-9b09-147181a14914",
+          "type": "basic.constant",
+          "data": {
+            "name": "Anim_1",
+            "value": "'h04_0080",
+            "local": false
+          },
+          "position": {
+            "x": 984,
+            "y": 440
+          }
+        },
+        {
           "id": "064dbb41-e9b6-4b33-86d2-571f3158c60a",
           "type": "basic.constant",
           "data": {
-            "name": "Direccion",
-            "value": "'h04_0080",
+            "name": "Anim_2",
+            "value": "'h04_00C0",
+            "local": false
+          },
+          "position": {
+            "x": 1112,
+            "y": 440
+          }
+        },
+        {
+          "id": "f3c71724-44bd-4be6-8c29-df028e4a878d",
+          "type": "basic.constant",
+          "data": {
+            "name": "Anim_3",
+            "value": "'h04_0100",
             "local": false
           },
           "position": {
@@ -1323,7 +1375,7 @@
           },
           "position": {
             "x": 992,
-            "y": 456
+            "y": 376
           },
           "size": {
             "width": 680,
@@ -1829,16 +1881,6 @@
         },
         {
           "source": {
-            "block": "064dbb41-e9b6-4b33-86d2-571f3158c60a",
-            "port": "constant-out"
-          },
-          "target": {
-            "block": "67b9f374-e829-4dc3-a6cd-6f4e495e13bf",
-            "port": "0bc70179-bdf1-47e1-99cd-c1bd171bae2c"
-          }
-        },
-        {
-          "source": {
             "block": "347dd0fc-3ee8-4b73-b73a-ef089680751e",
             "port": "outlabel"
           },
@@ -1897,16 +1939,6 @@
         },
         {
           "source": {
-            "block": "45df4183-8f39-4d8f-94fd-4efe21087fcd",
-            "port": "constant-out"
-          },
-          "target": {
-            "block": "f22e1dba-751e-4b8a-b04c-a267483b2722",
-            "port": "c0fb4784-5e8c-4f41-9f4b-6daa2e9e03a4"
-          }
-        },
-        {
-          "source": {
             "block": "f22e1dba-751e-4b8a-b04c-a267483b2722",
             "port": "968a742a-8970-4ac1-af06-efa0e851eda8"
           },
@@ -1960,6 +1992,26 @@
           "target": {
             "block": "aae367c7-7cb6-4445-8687-befbf3643b68",
             "port": "55733f9a-b0cd-4845-bae6-8d87c3fd9e10"
+          }
+        },
+        {
+          "source": {
+            "block": "f3c71724-44bd-4be6-8c29-df028e4a878d",
+            "port": "constant-out"
+          },
+          "target": {
+            "block": "67b9f374-e829-4dc3-a6cd-6f4e495e13bf",
+            "port": "0bc70179-bdf1-47e1-99cd-c1bd171bae2c"
+          }
+        },
+        {
+          "source": {
+            "block": "5eabeef1-181f-44f1-9356-3cc1ffc1658a",
+            "port": "constant-out"
+          },
+          "target": {
+            "block": "f22e1dba-751e-4b8a-b04c-a267483b2722",
+            "port": "c0fb4784-5e8c-4f41-9f4b-6daa2e9e03a4"
           }
         }
       ]
