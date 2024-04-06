@@ -113,8 +113,8 @@
           }
         },
         {
-          "id": "4b1f918f-2ba0-4aef-9846-57a7a4f747d0",
-          "type": "c18faefad95e324261ebe820afe2af8be7aa45b8",
+          "id": "8a4e76f0-a897-4be8-9337-e872f35e1d0c",
+          "type": "dd2aa95547a8109b163f9e8303f5fdc8080063f7",
           "position": {
             "x": 864,
             "y": 192
@@ -132,13 +132,13 @@
             "port": "3d584b0a-29eb-47af-8c43-c0822282ef05"
           },
           "target": {
-            "block": "4b1f918f-2ba0-4aef-9846-57a7a4f747d0",
+            "block": "8a4e76f0-a897-4be8-9337-e872f35e1d0c",
             "port": "cf3b4c7c-042a-45f7-b958-990d7157f928"
           }
         },
         {
           "source": {
-            "block": "4b1f918f-2ba0-4aef-9846-57a7a4f747d0",
+            "block": "8a4e76f0-a897-4be8-9337-e872f35e1d0c",
             "port": "a2b77ebf-2ba8-494f-bf22-b2410234d608"
           },
           "target": {
@@ -213,13 +213,13 @@
         }
       }
     },
-    "c18faefad95e324261ebe820afe2af8be7aa45b8": {
+    "dd2aa95547a8109b163f9e8303f5fdc8080063f7": {
       "package": {
-        "name": "mult-1-2",
-        "version": "0.1",
-        "description": "Multiplicador de cables. Genera un bus de 2 bits, con la entrada duplicada",
-        "author": "",
-        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22352.5%22%20height=%22132.123%22%20viewBox=%220%200%2093.265732%2034.957444%22%3E%3Cg%20transform=%22translate(-44.148%20-114.575)%22%3E%3Crect%20width=%2292.737%22%20height=%227.314%22%20x=%22-137.149%22%20y=%22141.954%22%20ry=%220%22%20transform=%22scale(-1%201)%22%20fill=%22green%22%20stroke=%22#000%22%20stroke-width=%22.529%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22bevel%22/%3E%3Ctext%20style=%22line-height:1.25;-inkscape-font-specification:ubuntu;text-align:start%22%20x=%22108.948%22%20y=%22135.274%22%20font-weight=%22400%22%20font-size=%2229.868%22%20font-family=%22ubuntu%22%20letter-spacing=%220%22%20word-spacing=%220%22%20stroke-width=%22.265%22%3E%3Ctspan%20x=%22108.948%22%20y=%22135.274%22%3EX%3C/tspan%3E%3C/text%3E%3C/g%3E%3C/svg%3E"
+        "name": "Copy-2-verilog",
+        "version": "0.3",
+        "description": "Copy-2: Copy the input wire twice and generate a 2 bits Bus output (Verilog implementation)",
+        "author": "Juan González-Gómez (Obijuan)",
+        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22311.429%22%20height=%22131.811%22%20viewBox=%220%200%2082.398813%2034.875011%22%20id=%22svg840%22%3E%3Cg%20id=%22layer2%22%20transform=%22translate(-33.717%20-91.738)%22%20fill=%22none%22%20stroke-linecap=%22round%22%3E%3Cpath%20id=%22path865-3-6%22%20d=%22M36.363%20123.968l77.107-.336%22%20stroke=%22green%22%20stroke-width=%225.292%22/%3E%3Cpath%20d=%22M88.632%20114.651l20.928-20.928%22%20id=%22path850%22%20stroke=%22#000%22%20stroke-width=%223.969%22/%3E%3Cpath%20d=%22M109.56%20114.651L88.632%2093.723%22%20id=%22path852%22%20stroke=%22#000%22%20stroke-width=%223.969%22/%3E%3C/g%3E%3Cstyle%20id=%22style263%22%3E.st0%7Bdisplay:none%7D.st1%7Bfill:none;stroke:#000;stroke-width:.75;stroke-linejoin:round;stroke-miterlimit:10%7D.st2%7Bfill:#010002%7D%3C/style%3E%3C/svg%3E"
       },
       "design": {
         "graph": {
@@ -233,8 +233,8 @@
                 "size": 2
               },
               "position": {
-                "x": 928,
-                "y": 144
+                "x": 984,
+                "y": 176
               }
             },
             {
@@ -245,15 +245,15 @@
                 "clock": false
               },
               "position": {
-                "x": 456,
-                "y": 144
+                "x": 448,
+                "y": 176
               }
             },
             {
               "id": "3266f4f1-eba1-4272-a937-4415542dcb7f",
               "type": "basic.code",
               "data": {
-                "code": "assign o = {i, i};",
+                "code": "//-- Number of bits\nlocalparam N=2;\n\nassign o = {N{i}};\n",
                 "params": [],
                 "ports": {
                   "in": [
@@ -275,8 +275,8 @@
                 "y": 144
               },
               "size": {
-                "width": 208,
-                "height": 64
+                "width": 288,
+                "height": 120
               }
             }
           ],

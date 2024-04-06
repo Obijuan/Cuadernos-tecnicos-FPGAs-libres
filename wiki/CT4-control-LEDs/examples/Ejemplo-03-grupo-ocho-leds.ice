@@ -143,8 +143,8 @@
           }
         },
         {
-          "id": "16ceb2fd-5747-4931-ad23-ad70c0d8de9e",
-          "type": "469ef80a3ae189f282982cbffcc8e9fcbc0572b9",
+          "id": "4a1dbdd1-a56c-41c3-92ce-052897ec6152",
+          "type": "8230cd0fac1b225bdde50113fbeb53ff973151f4",
           "position": {
             "x": 864,
             "y": 192
@@ -162,14 +162,14 @@
             "port": "3d584b0a-29eb-47af-8c43-c0822282ef05"
           },
           "target": {
-            "block": "16ceb2fd-5747-4931-ad23-ad70c0d8de9e",
+            "block": "4a1dbdd1-a56c-41c3-92ce-052897ec6152",
             "port": "cf3b4c7c-042a-45f7-b958-990d7157f928"
           }
         },
         {
           "source": {
-            "block": "16ceb2fd-5747-4931-ad23-ad70c0d8de9e",
-            "port": "dee92aca-a960-46a7-8284-55b1a8c2024c"
+            "block": "4a1dbdd1-a56c-41c3-92ce-052897ec6152",
+            "port": "6474a1e5-40f8-48ce-9d43-9c70da6c6c5d"
           },
           "target": {
             "block": "7bc2c6bd-45c7-4ec6-9daa-a4229cb2416c",
@@ -243,13 +243,13 @@
         }
       }
     },
-    "469ef80a3ae189f282982cbffcc8e9fcbc0572b9": {
+    "8230cd0fac1b225bdde50113fbeb53ff973151f4": {
       "package": {
-        "name": "mult-1-8-bus",
-        "version": "0.1",
-        "description": "Multiplicador de cables. Genera un bus de 8 bits, a patir del bit de entrada",
-        "author": "",
-        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22352.5%22%20height=%22132.123%22%20viewBox=%220%200%2093.265732%2034.957444%22%3E%3Cg%20transform=%22translate(-44.148%20-114.575)%22%3E%3Crect%20width=%2292.737%22%20height=%227.314%22%20x=%22-137.149%22%20y=%22141.954%22%20ry=%220%22%20transform=%22scale(-1%201)%22%20fill=%22green%22%20stroke=%22#000%22%20stroke-width=%22.529%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22bevel%22/%3E%3Ctext%20style=%22line-height:1.25;-inkscape-font-specification:ubuntu;text-align:start%22%20x=%22108.948%22%20y=%22135.274%22%20font-weight=%22400%22%20font-size=%2229.868%22%20font-family=%22ubuntu%22%20letter-spacing=%220%22%20word-spacing=%220%22%20stroke-width=%22.265%22%3E%3Ctspan%20x=%22108.948%22%20y=%22135.274%22%3EX%3C/tspan%3E%3C/text%3E%3C/g%3E%3C/svg%3E"
+        "name": "Copy-8-verilog",
+        "version": "0.2",
+        "description": "Copy-8: Copy the input wire twice and generate a 8 bits Bus output (Verilog implementation)",
+        "author": "Juan González-Gómez (Obijuan)",
+        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22311.429%22%20height=%22131.811%22%20viewBox=%220%200%2082.398813%2034.875011%22%20id=%22svg840%22%3E%3Cg%20id=%22layer2%22%20transform=%22translate(-33.717%20-91.738)%22%20fill=%22none%22%20stroke-linecap=%22round%22%3E%3Cpath%20id=%22path865-3-6%22%20d=%22M36.363%20123.968l77.107-.336%22%20stroke=%22green%22%20stroke-width=%225.292%22/%3E%3Cpath%20d=%22M88.632%20114.651l20.928-20.928%22%20id=%22path850%22%20stroke=%22#000%22%20stroke-width=%223.969%22/%3E%3Cpath%20d=%22M109.56%20114.651L88.632%2093.723%22%20id=%22path852%22%20stroke=%22#000%22%20stroke-width=%223.969%22/%3E%3C/g%3E%3Cstyle%20id=%22style263%22%3E.st0%7Bdisplay:none%7D.st1%7Bfill:none;stroke:#000;stroke-width:.75;stroke-linejoin:round;stroke-miterlimit:10%7D.st2%7Bfill:#010002%7D%3C/style%3E%3C/svg%3E"
       },
       "design": {
         "graph": {
@@ -262,12 +262,12 @@
                 "clock": false
               },
               "position": {
-                "x": 464,
-                "y": 144
+                "x": 448,
+                "y": 176
               }
             },
             {
-              "id": "dee92aca-a960-46a7-8284-55b1a8c2024c",
+              "id": "6474a1e5-40f8-48ce-9d43-9c70da6c6c5d",
               "type": "basic.output",
               "data": {
                 "name": "",
@@ -275,16 +275,14 @@
                 "size": 8
               },
               "position": {
-                "x": 960,
-                "y": 144
+                "x": 992,
+                "y": 176
               }
             },
             {
               "id": "3266f4f1-eba1-4272-a937-4415542dcb7f",
               "type": "basic.code",
               "data": {
-                "code": "assign o = {8{i}};\n",
-                "params": [],
                 "ports": {
                   "in": [
                     {
@@ -298,15 +296,17 @@
                       "size": 8
                     }
                   ]
-                }
+                },
+                "params": [],
+                "code": "//-- Number of bits\nlocalparam N=8;\n\nassign o = {N{i}};\n"
               },
               "position": {
                 "x": 632,
                 "y": 144
               },
               "size": {
-                "width": 224,
-                "height": 64
+                "width": 288,
+                "height": 120
               }
             }
           ],
@@ -327,7 +327,7 @@
                 "port": "o"
               },
               "target": {
-                "block": "dee92aca-a960-46a7-8284-55b1a8c2024c",
+                "block": "6474a1e5-40f8-48ce-9d43-9c70da6c6c5d",
                 "port": "in"
               },
               "size": 8
