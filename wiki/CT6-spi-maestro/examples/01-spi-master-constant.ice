@@ -178,8 +178,8 @@
           }
         },
         {
-          "id": "52025b82-3843-4f3c-bd2a-77768e528eca",
-          "type": "65347e344ac2e1a72dd2346770beb1b716a65788",
+          "id": "e564bbd4-35e9-421c-a015-ca95a55ae31e",
+          "type": "563d864f7077524342c350ef58b45a6bfc2be101",
           "position": {
             "x": 640,
             "y": 144
@@ -197,13 +197,13 @@
             "port": "out"
           },
           "target": {
-            "block": "52025b82-3843-4f3c-bd2a-77768e528eca",
+            "block": "e564bbd4-35e9-421c-a015-ca95a55ae31e",
             "port": "4d0b713a-4bdb-4528-85b2-102d42974a75"
           }
         },
         {
           "source": {
-            "block": "52025b82-3843-4f3c-bd2a-77768e528eca",
+            "block": "e564bbd4-35e9-421c-a015-ca95a55ae31e",
             "port": "d220fe6a-8d0b-4368-90a4-9e64e21ac4c7"
           },
           "target": {
@@ -213,7 +213,7 @@
         },
         {
           "source": {
-            "block": "52025b82-3843-4f3c-bd2a-77768e528eca",
+            "block": "e564bbd4-35e9-421c-a015-ca95a55ae31e",
             "port": "8eabcfcc-4cf2-431c-9d54-a6d3a889d4c5"
           },
           "target": {
@@ -223,7 +223,7 @@
         },
         {
           "source": {
-            "block": "52025b82-3843-4f3c-bd2a-77768e528eca",
+            "block": "e564bbd4-35e9-421c-a015-ca95a55ae31e",
             "port": "18498ba0-53b5-4b7d-8d14-e2e81be91620"
           },
           "target": {
@@ -237,7 +237,7 @@
             "port": "a9d6830d-5cc7-4f63-a068-35181d2537bc"
           },
           "target": {
-            "block": "52025b82-3843-4f3c-bd2a-77768e528eca",
+            "block": "e564bbd4-35e9-421c-a015-ca95a55ae31e",
             "port": "545d789e-e3c2-48d0-a904-988abf31eebe"
           },
           "size": 8
@@ -258,7 +258,7 @@
             "port": "997db8c4-b772-49d8-83e7-4427aff720e6"
           },
           "target": {
-            "block": "52025b82-3843-4f3c-bd2a-77768e528eca",
+            "block": "e564bbd4-35e9-421c-a015-ca95a55ae31e",
             "port": "a76635dd-f560-4d9c-be23-3942396b0e37"
           }
         },
@@ -523,10 +523,10 @@
         }
       }
     },
-    "65347e344ac2e1a72dd2346770beb1b716a65788": {
+    "563d864f7077524342c350ef58b45a6bfc2be101": {
       "package": {
         "name": "spi-master",
-        "version": "0.2",
+        "version": "0.3",
         "description": "SPI master. Realiza una transacción",
         "author": "Juan González-Gómez (Obijuan)",
         "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20307.63263%20644.03694%22%20width=%22307.633%22%20height=%22644.037%22%3E%3Ctext%20style=%22line-height:1.25;-inkscape-font-specification:ubuntu;text-align:center%22%20x=%22140.627%22%20y=%22129.697%22%20font-weight=%22400%22%20font-size=%22182.929%22%20font-family=%22ubuntu%22%20letter-spacing=%220%22%20word-spacing=%220%22%20text-anchor=%22middle%22%20fill=%22#00f%22%20stroke-width=%22.448%22%3E%3Ctspan%20x=%22140.627%22%20y=%22129.697%22%20style=%22-inkscape-font-specification:'ubuntu%20Medium'%22%20font-weight=%22500%22%3ESPI%3C/tspan%3E%3C/text%3E%3Cg%20transform=%22matrix(2.99796%200%200%202.99796%20-38.528%20378.181)%22%20stroke=%22green%22%20stroke-linecap=%22round%22%3E%3Ccircle%20r=%2214.559%22%20cy=%2273.815%22%20cx=%22100.602%22%20fill=%22#ececec%22%20stroke-width=%22.608%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M106.978%2082.142h-3.353V63.316H97.54v18.678h-3.652%22%20fill=%22none%22%20stroke-width=%221.521%22/%3E%3C/g%3E%3Cg%20transform=%22matrix(2.99796%200%200%202.99796%20-257.041%20330.038)%22%20stroke=%22green%22%20stroke-linecap=%22round%22%3E%3Ccircle%20r=%2214.559%22%20cy=%2273.815%22%20cx=%22100.602%22%20fill=%22#ececec%22%20stroke-width=%22.608%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M106.978%2082.142h-3.353V63.316H97.54v18.678h-3.652%22%20fill=%22none%22%20stroke-width=%221.521%22/%3E%3C/g%3E%3Ctext%20style=%22line-height:1.25;-inkscape-font-specification:ubuntu;text-align:center%22%20x=%22156.495%22%20y=%22234.478%22%20font-weight=%22400%22%20font-size=%2280.156%22%20font-family=%22ubuntu%22%20letter-spacing=%220%22%20word-spacing=%220%22%20text-anchor=%22middle%22%20stroke-width=%22.448%22%3E%3Ctspan%20x=%22156.495%22%20y=%22234.478%22%20style=%22-inkscape-font-specification:'ubuntu%20Medium'%22%20font-weight=%22500%22%3EMaster%3C/tspan%3E%3C/text%3E%3Ctext%20style=%22line-height:1.25;-inkscape-font-specification:ubuntu;text-align:center%22%20x=%22152.361%22%20y=%22345.414%22%20font-weight=%22400%22%20font-size=%2249.505%22%20font-family=%22ubuntu%22%20letter-spacing=%220%22%20word-spacing=%220%22%20text-anchor=%22middle%22%20stroke-width=%22.277%22%3E%3Ctspan%20x=%22152.361%22%20y=%22345.414%22%20style=%22-inkscape-font-specification:'ubuntu%20Medium'%22%20font-weight=%22500%22%3EMode%200%3C/tspan%3E%3C/text%3E%3Ctext%20style=%22line-height:1.25;-inkscape-font-specification:ubuntu;text-align:center%22%20x=%22143.463%22%20y=%22410.306%22%20font-weight=%22400%22%20font-size=%2249.505%22%20font-family=%22ubuntu%22%20letter-spacing=%220%22%20word-spacing=%220%22%20text-anchor=%22middle%22%20fill=%22green%22%20stroke-width=%22.277%22%3E%3Ctspan%20x=%22143.463%22%20y=%22410.306%22%20style=%22-inkscape-font-specification:'ubuntu%20Medium'%22%20font-weight=%22500%22%3E2MHZ%3C/tspan%3E%3C/text%3E%3C/svg%3E"
@@ -540,14 +540,6 @@
               "data": {
                 "blockColor": "yellow",
                 "name": "clk",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "",
-                    "value": ""
-                  }
-                ],
-                "virtual": true,
                 "oldBlockColor": "fuchsia"
               },
               "position": {
@@ -777,15 +769,7 @@
               "type": "basic.inputLabel",
               "data": {
                 "blockColor": "fuchsia",
-                "name": "sclk",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "",
-                    "value": ""
-                  }
-                ],
-                "virtual": true
+                "name": "sclk"
               },
               "position": {
                 "x": 328,
@@ -810,14 +794,6 @@
               "data": {
                 "blockColor": "navy",
                 "name": "tics-up",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "",
-                    "value": ""
-                  }
-                ],
-                "virtual": true,
                 "oldBlockColor": "fuchsia"
               },
               "position": {
@@ -855,14 +831,6 @@
               "data": {
                 "blockColor": "darkorange",
                 "name": "tics-down",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "",
-                    "value": ""
-                  }
-                ],
-                "virtual": true,
                 "oldBlockColor": "darkgreen"
               },
               "position": {
@@ -898,15 +866,7 @@
               "type": "basic.inputLabel",
               "data": {
                 "blockColor": "fuchsia",
-                "name": "done",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "",
-                    "value": ""
-                  }
-                ],
-                "virtual": true
+                "name": "done"
               },
               "position": {
                 "x": 280,
@@ -918,15 +878,7 @@
               "type": "basic.inputLabel",
               "data": {
                 "blockColor": "fuchsia",
-                "name": "start",
-                "pins": [
-                  {
-                    "index": "0",
-                    "name": "",
-                    "value": ""
-                  }
-                ],
-                "virtual": true
+                "name": "start"
               },
               "position": {
                 "x": 104,
@@ -1617,6 +1569,17 @@
                 "block": "8eabcfcc-4cf2-431c-9d54-a6d3a889d4c5",
                 "port": "in"
               }
+            },
+            {
+              "source": {
+                "block": "c5d32978-5621-4023-b585-e8e6225eefcf",
+                "port": "521f03e5-f364-41b0-a2b8-c7858e6debf5"
+              },
+              "target": {
+                "block": "5c61b4c3-b618-42be-a8f9-5ba9bd80d7dc",
+                "port": "1b621e37-f1b1-46a7-8450-5500bb513afb"
+              },
+              "size": 8
             }
           ]
         }
