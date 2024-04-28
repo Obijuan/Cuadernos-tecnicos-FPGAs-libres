@@ -9,7 +9,9 @@
             "type": "debugpy",
             "request": "launch",
             "program": "${file}",
-            "console": "integratedTerminal"
+            "console": "integratedTerminal",
+            //-- Arrancar desde el directorio donde esta el ejemplo
+            "cwd": "${workspaceFolder}/${relativeFileDirname}"
         }
     ]
 }

@@ -34,6 +34,8 @@ if __name__ == "__main__":
         elif len(data) < BYTES:
             print("DATA timeout")
         else:
+            # -- Add one more byte in the end: 0x00
+            data = data + b'\x00'
             data_hex = [hex(d) for d in data]
             print("Data received: ")
             print(f'{data_hex}')
