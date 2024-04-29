@@ -4,7 +4,7 @@ from serial import Serial
 import time
 from pathlib import Path
 
-SERIAL = "/dev/ttyUSB2"
+SERIAL = "/dev/ttyUSB1"
 TIMEOUT = 100
 FILENAME = "data.raw"
 BYTES = 16
