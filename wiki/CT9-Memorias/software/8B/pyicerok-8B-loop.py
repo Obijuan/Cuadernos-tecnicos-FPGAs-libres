@@ -15,7 +15,7 @@ BYTES = 8
 if __name__ == "__main__":
 
     # -- Open the serial port
-    serial_p = Serial(SERIAL, 115200)
+    serial_p = Serial(SERIAL, 12000000)  #-- 115200
     serial_p.timeout = TIMEOUT
     time.sleep(0.2)
 
