@@ -522,8 +522,8 @@
             "readonly": true
           },
           "position": {
-            "x": -376,
-            "y": -488
+            "x": -392,
+            "y": -512
           },
           "size": {
             "width": 952,
