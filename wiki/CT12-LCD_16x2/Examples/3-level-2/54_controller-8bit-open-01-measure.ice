@@ -3785,7 +3785,8 @@
             {
               "source": {
                 "block": "6c1d2b98-1df8-4b10-8b12-c2197de57eb4",
-                "port": "out"
+                "port": "out",
+                "size": 8
               },
               "target": {
                 "block": "824fb0f6-191d-49db-b8a0-62a3f872cf9c",
@@ -3848,7 +3849,8 @@
             {
               "source": {
                 "block": "82cdbd5b-99a0-46a2-bb25-7779c15fe087",
-                "port": "750c0892-e316-4030-ab97-be28a90e1b76"
+                "port": "750c0892-e316-4030-ab97-be28a90e1b76",
+                "size": 8
               },
               "target": {
                 "block": "63d8a439-5d8c-483f-a0ef-7bc7c9e2394c",
@@ -3984,7 +3986,8 @@
               },
               "target": {
                 "block": "04ab586c-1cef-4e1c-92ca-456f96ed063d",
-                "port": "00289418-0491-4aa5-9cfd-6213c65a42db"
+                "port": "00289418-0491-4aa5-9cfd-6213c65a42db",
+                "size": 8
               },
               "vertices": [],
               "size": 8
@@ -4106,7 +4109,8 @@
             {
               "source": {
                 "block": "d9efc1dc-a439-4b0c-9e13-310ae3ce7515",
-                "port": "a932aa2c-3aad-4790-9d2f-7c05f1074aa4"
+                "port": "a932aa2c-3aad-4790-9d2f-7c05f1074aa4",
+                "size": 8
               },
               "target": {
                 "block": "5e154911-3b02-4c25-b8b4-67a2cec51df8",
@@ -4133,7 +4137,8 @@
               },
               "target": {
                 "block": "d9efc1dc-a439-4b0c-9e13-310ae3ce7515",
-                "port": "520455a3-592c-4fd0-ade9-62d366c88919"
+                "port": "520455a3-592c-4fd0-ade9-62d366c88919",
+                "size": 8
               },
               "vertices": [],
               "size": 8
@@ -4145,7 +4150,8 @@
               },
               "target": {
                 "block": "d9efc1dc-a439-4b0c-9e13-310ae3ce7515",
-                "port": "e045f285-627f-42f7-b073-faa36ef6d420"
+                "port": "e045f285-627f-42f7-b073-faa36ef6d420",
+                "size": 8
               },
               "vertices": [
                 {
@@ -4319,14 +4325,16 @@
               },
               "target": {
                 "block": "35d50ffd-2482-4f48-a604-e1702bd4ab26",
-                "port": "in"
+                "port": "in",
+                "size": 8
               },
               "size": 8
             },
             {
               "source": {
                 "block": "04ab586c-1cef-4e1c-92ca-456f96ed063d",
-                "port": "fc411844-d38a-4168-84e0-e42608d528d2"
+                "port": "fc411844-d38a-4168-84e0-e42608d528d2",
+                "size": 8
               },
               "target": {
                 "block": "006f737c-c59c-430e-ad63-1d199d1f3551",
