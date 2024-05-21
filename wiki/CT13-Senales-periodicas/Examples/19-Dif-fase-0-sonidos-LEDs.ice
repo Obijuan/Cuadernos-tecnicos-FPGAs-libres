@@ -781,6 +781,32 @@
           }
         },
         {
+          "id": "8a3add33-4faf-44c5-88c3-0bc0b4d1343e",
+          "type": "basic.constant",
+          "data": {
+            "name": "Hz",
+            "value": "2000",
+            "local": false
+          },
+          "position": {
+            "x": 1504,
+            "y": 88
+          }
+        },
+        {
+          "id": "1c72986f-08bf-4098-a4a7-c1b6af28f7d9",
+          "type": "basic.constant",
+          "data": {
+            "name": "Hz",
+            "value": "1000",
+            "local": false
+          },
+          "position": {
+            "x": 1512,
+            "y": -312
+          }
+        },
+        {
           "id": "71e03b42-b44e-4bdb-b14c-8078c3cbe549",
           "type": "basic.constant",
           "data": {
@@ -789,7 +815,7 @@
             "local": false
           },
           "position": {
-            "x": 1536,
+            "x": 1616,
             "y": 88
           }
         },
@@ -802,7 +828,7 @@
             "local": false
           },
           "position": {
-            "x": 1544,
+            "x": 1632,
             "y": -312
           }
         },
@@ -906,8 +932,8 @@
             "readonly": true
           },
           "position": {
-            "x": 1216,
-            "y": -296
+            "x": 1160,
+            "y": -288
           },
           "size": {
             "width": 368,
@@ -1776,6 +1802,26 @@
           "target": {
             "block": "8103ef47-2462-4016-8efe-fa94894b70e5",
             "port": "7254f8d7-8551-4bff-8c0a-8cf052ff159d"
+          }
+        },
+        {
+          "source": {
+            "block": "1c72986f-08bf-4098-a4a7-c1b6af28f7d9",
+            "port": "constant-out"
+          },
+          "target": {
+            "block": "ce08639b-39a6-4c4e-8454-cee1503ca4c2",
+            "port": "51780fb9-723f-4200-a817-e83220bd529c"
+          }
+        },
+        {
+          "source": {
+            "block": "8a3add33-4faf-44c5-88c3-0bc0b4d1343e",
+            "port": "constant-out"
+          },
+          "target": {
+            "block": "8103ef47-2462-4016-8efe-fa94894b70e5",
+            "port": "51780fb9-723f-4200-a817-e83220bd529c"
           }
         }
       ]
