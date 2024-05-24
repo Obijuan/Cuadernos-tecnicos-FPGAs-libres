@@ -393,6 +393,26 @@
           }
         },
         {
+          "id": "72834e69-4890-47b9-b519-8c15ceb83500",
+          "type": "basic.inputLabel",
+          "data": {
+            "name": "start",
+            "blockColor": "red",
+            "virtual": true,
+            "pins": [
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ]
+          },
+          "position": {
+            "x": 1776,
+            "y": 1080
+          }
+        },
+        {
           "id": "62666ac9-1682-42e5-be26-7c2a503e30ef",
           "type": "basic.constant",
           "data": {
