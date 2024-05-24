@@ -1140,7 +1140,7 @@
               "data": {
                 "name": "ms",
                 "value": "1000",
-                "local": false
+                "local": true
               },
               "position": {
                 "x": 784,
@@ -1274,8 +1274,7 @@
               },
               "target": {
                 "block": "b9291bb4-1ea0-4e99-8aa7-2e2d7578a3f8",
-                "port": "1b621e37-f1b1-46a7-8450-5500bb513afb",
-                "size": 4
+                "port": "1b621e37-f1b1-46a7-8450-5500bb513afb"
               },
               "vertices": [],
               "size": 4
@@ -1327,8 +1326,7 @@
             {
               "source": {
                 "block": "6a61b29f-8a31-4c76-9993-6df1551f6aed",
-                "port": "8e68dac0-4473-40be-a907-0eb952ae4420",
-                "size": 4
+                "port": "8e68dac0-4473-40be-a907-0eb952ae4420"
               },
               "target": {
                 "block": "af78c96b-66fa-4181-98c8-5ed138577d8f",
@@ -1340,8 +1338,7 @@
             {
               "source": {
                 "block": "dcf03d6d-4376-4f50-a8c7-e44d5ea8a75c",
-                "port": "out",
-                "size": 4
+                "port": "out"
               },
               "target": {
                 "block": "d5e1cc93-1296-49b0-af2a-c3462160e8c3",
@@ -1376,8 +1373,7 @@
               },
               "target": {
                 "block": "f14401ba-5f95-4177-917d-8acf03da4788",
-                "port": "in",
-                "size": 4
+                "port": "in"
               },
               "size": 4
             },
