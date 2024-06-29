@@ -41,14 +41,15 @@
 	(setup
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
+		(grid_origin 142.24 113.792)
 		(pcbplotparams
-			(layerselection 0x00010fc_ffffffff)
+			(layerselection 0x0000020_7ffffffe)
 			(plot_on_all_layers_selection 0x0000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
 			(usegerberattributes yes)
 			(usegerberadvancedattributes yes)
-			(creategerberjobfile yes)
+			(creategerberjobfile no)
 			(dashed_line_dash_ratio 12.000000)
 			(dashed_line_gap_ratio 3.000000)
 			(svgprecision 4)
@@ -62,7 +63,7 @@
 			(pdf_front_fp_property_popups yes)
 			(pdf_back_fp_property_popups yes)
 			(dxfpolygonmode yes)
-			(dxfimperialunits yes)
+			(dxfimperialunits no)
 			(dxfusepcbnewfont yes)
 			(psnegative no)
 			(psa4output no)
@@ -72,9 +73,9 @@
 			(plotinvisibletext no)
 			(sketchpadsonfab no)
 			(subtractmaskfromsilk no)
-			(outputformat 1)
+			(outputformat 3)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
 			(outputdirectory "")
 		)
@@ -297,7 +298,7 @@
 		)
 		(fp_line
 			(start 1.711 -0.381)
-			(end 10.347 -0.381)
+			(end 10.033 -0.381)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -307,7 +308,7 @@
 		)
 		(fp_line
 			(start 1.778 -1.33)
-			(end 1.778 14.03)
+			(end 1.778 13.716)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -316,8 +317,18 @@
 			(uuid "1bcd5604-c102-4bb8-8ac6-638906d64a17")
 		)
 		(fp_line
+			(start 1.778 13.716)
+			(end 10.033 13.716)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "ee533c8f-5fa8-44ac-99b2-41dac5f3ed2a")
+		)
+		(fp_line
 			(start 1.781 -1.397)
-			(end 10.411 -1.397)
+			(end 10.033 -1.397)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -327,7 +338,7 @@
 		)
 		(fp_line
 			(start 1.781 -0.73762)
-			(end 10.411 -0.73762)
+			(end 10.033 -0.73762)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -337,7 +348,7 @@
 		)
 		(fp_line
 			(start 1.781 -0.619525)
-			(end 10.411 -0.619525)
+			(end 10.033 -0.619525)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -347,7 +358,7 @@
 		)
 		(fp_line
 			(start 1.781 -0.50143)
-			(end 10.411 -0.50143)
+			(end 10.033 -0.50143)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -357,7 +368,7 @@
 		)
 		(fp_line
 			(start 1.781 -0.26524)
-			(end 10.411 -0.26524)
+			(end 10.033 -0.26524)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -367,7 +378,7 @@
 		)
 		(fp_line
 			(start 1.781 -0.147145)
-			(end 10.411 -0.147145)
+			(end 10.033 -0.147145)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -377,7 +388,7 @@
 		)
 		(fp_line
 			(start 1.781 -0.02905)
-			(end 10.411 -0.02905)
+			(end 10.033 -0.02905)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -387,7 +398,7 @@
 		)
 		(fp_line
 			(start 1.781 0.089045)
-			(end 10.411 0.089045)
+			(end 10.033 0.089045)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -397,7 +408,7 @@
 		)
 		(fp_line
 			(start 1.781 0.20714)
-			(end 10.411 0.20714)
+			(end 10.033 0.20714)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -407,7 +418,7 @@
 		)
 		(fp_line
 			(start 1.781 0.325235)
-			(end 10.411 0.325235)
+			(end 10.033 0.325235)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -417,7 +428,7 @@
 		)
 		(fp_line
 			(start 1.781 0.44333)
-			(end 10.411 0.44333)
+			(end 10.033 0.44333)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -427,7 +438,7 @@
 		)
 		(fp_line
 			(start 1.781 0.561425)
-			(end 10.411 0.561425)
+			(end 10.033 0.561425)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -437,7 +448,7 @@
 		)
 		(fp_line
 			(start 1.781 0.67952)
-			(end 10.411 0.67952)
+			(end 10.033 0.67952)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -447,7 +458,7 @@
 		)
 		(fp_line
 			(start 1.781 0.797615)
-			(end 10.411 0.797615)
+			(end 10.033 0.797615)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -457,7 +468,7 @@
 		)
 		(fp_line
 			(start 1.781 0.91571)
-			(end 10.411 0.91571)
+			(end 10.033 0.91571)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -467,7 +478,7 @@
 		)
 		(fp_line
 			(start 1.781 1.033805)
-			(end 10.411 1.033805)
+			(end 10.033 1.033805)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -477,7 +488,7 @@
 		)
 		(fp_line
 			(start 1.781 1.1519)
-			(end 10.411 1.1519)
+			(end 10.033 1.1519)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -487,7 +498,7 @@
 		)
 		(fp_line
 			(start 1.781 6.283)
-			(end 10.411 6.283)
+			(end 10.033 6.283)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -496,18 +507,8 @@
 			(uuid "021d8f62-afbb-4e9b-a90d-61494ca621c6")
 		)
 		(fp_line
-			(start 1.781 14.03)
-			(end 10.411 14.03)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "ee533c8f-5fa8-44ac-99b2-41dac5f3ed2a")
-		)
-		(fp_line
 			(start 1.784 -1.27)
-			(end 10.414 -1.27)
+			(end 10.033 -1.27)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -517,7 +518,7 @@
 		)
 		(fp_line
 			(start 1.784 -1.143)
-			(end 10.414 -1.143)
+			(end 10.033 -1.143)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -527,7 +528,7 @@
 		)
 		(fp_line
 			(start 1.784 -1.016)
-			(end 10.414 -1.016)
+			(end 10.033 -1.016)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -537,7 +538,7 @@
 		)
 		(fp_line
 			(start 1.784 -0.889)
-			(end 10.414 -0.889)
+			(end 10.033 -0.889)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -547,7 +548,7 @@
 		)
 		(fp_line
 			(start 1.784 1.27)
-			(end 10.414 1.27)
+			(end 10.033 1.27)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -557,7 +558,7 @@
 		)
 		(fp_line
 			(start 1.784 3.81)
-			(end 10.414 3.81)
+			(end 10.033 3.81)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -567,7 +568,7 @@
 		)
 		(fp_line
 			(start 1.784 8.89)
-			(end 10.414 8.89)
+			(end 10.033 8.89)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -577,7 +578,7 @@
 		)
 		(fp_line
 			(start 1.784 11.43)
-			(end 10.414 11.43)
+			(end 10.033 11.43)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -586,8 +587,8 @@
 			(uuid "954089fe-a490-4308-8b84-77888f5c3d9c")
 		)
 		(fp_line
-			(start 10.411 -1.397)
-			(end 10.411 13.963)
+			(start 10.033 -1.397)
+			(end 10.033 13.716)
 			(stroke
 				(width 0.12)
 				(type solid)
