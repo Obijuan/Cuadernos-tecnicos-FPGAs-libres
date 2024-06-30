@@ -4,3 +4,4 @@ venv
 ice-build
 PMOD-6-Dummy-Base-backups/
 *.FCBak
+*backups/
