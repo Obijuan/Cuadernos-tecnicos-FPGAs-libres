@@ -61,16 +61,7 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-7.7864909,47.011536)"><circle
-       style="fill:#00ff00;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       id="circle40"
-       cx="163.30302"
-       cy="67.453979"
-       r="1.514984" /><path
-       style="fill:none;stroke:#00ff00;stroke-width:0.793752;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="M 163.27144,67.17873 V 49.841791 h -18.43063"
-       id="path40"
-       sodipodi:nodetypes="cc" /><text
+     transform="translate(-7.7864909,47.011536)"><text
        xml:space="preserve"
        style="font-weight:bold;font-size:8.054px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;text-anchor:start;fill:#0000ff;stroke:none;stroke-width:0.499998;stroke-linecap:round;stroke-linejoin:round"
        x="106.42371"
