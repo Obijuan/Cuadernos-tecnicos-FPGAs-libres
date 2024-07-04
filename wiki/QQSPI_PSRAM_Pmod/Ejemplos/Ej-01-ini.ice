@@ -301,6 +301,22 @@
             "width": 96,
             "height": 64
           }
+        },
+        {
+          "id": "d8d5c5db-945c-4ac4-8c94-56b60daba398",
+          "type": "basic.info",
+          "data": {
+            "info": "# Ejemplo 1: Inicializar el escenario de trabajo",
+            "readonly": true
+          },
+          "position": {
+            "x": 296,
+            "y": 0
+          },
+          "size": {
+            "width": 712,
+            "height": 48
+          }
         }
       ],
       "wires": [
