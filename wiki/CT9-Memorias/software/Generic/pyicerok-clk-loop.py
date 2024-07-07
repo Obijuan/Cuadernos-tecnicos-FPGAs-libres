@@ -7,7 +7,7 @@ from pathlib import Path
 SERIAL = "/dev/ttyUSB1"
 TIMEOUT = 100
 FILENAME = "data.raw"
-BYTES = 64
+BYTES = 128
 
 
 # ------------------ Main
