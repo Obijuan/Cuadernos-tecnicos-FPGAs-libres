@@ -1169,7 +1169,7 @@
           "id": "b3923f7a-6953-4d76-af7c-03627edb0748",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 12: Comando READID\n\nLectura del ID del chip. El primer byte se almacena en un registro y se muestra  \nen los LEDs. El valor correcto que debe aparecer es `0x0D`\n",
+            "info": "# Ejemplo 13: Comando READID\n\nLectura del ID del chip. Los 4 bytes leidos se muestran en los LEDs (con cada presión del  \nbotón B2 se muestra el siguiente byte). Los bytes leidos deben ser `0x0D`, `0x5D`, `0x52`, `0xF6`\n",
             "readonly": true
           },
           "position": {
