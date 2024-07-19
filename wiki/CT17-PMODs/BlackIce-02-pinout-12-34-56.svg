@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.49713162"
-     inkscape:cx="702.02736"
-     inkscape:cy="574.29459"
+     inkscape:zoom="0.99426325"
+     inkscape:cx="928.32558"
+     inkscape:cy="771.92836"
      inkscape:window-width="1864"
      inkscape:window-height="1016"
      inkscape:window-x="56"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true" /><defs
      id="defs1" /><g
@@ -1580,7 +1580,7 @@
          id="tspan146"
          style="fill:#000000;stroke:none;stroke-width:0.5"
          x="273.83673"
-         y="475.05267">P53</tspan></text><text
+         y="475.05267">P63</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:12.5646px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.499998;stroke-linecap:round;stroke-linejoin:round"
        x="284.90002"
@@ -1591,7 +1591,7 @@
          id="tspan147"
          style="fill:#000000;stroke:none;stroke-width:0.5"
          x="284.90002"
-         y="488.9617">P52</tspan></text><text
+         y="488.9617">P62</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:12.5646px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.499998;stroke-linecap:round;stroke-linejoin:round"
        x="290.77707"
@@ -1602,7 +1602,7 @@
          id="tspan148"
          style="fill:#000000;stroke:none;stroke-width:0.5"
          x="290.77707"
-         y="504.03964">P51</tspan></text><text
+         y="504.03964">P61</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:12.5646px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.499998;stroke-linecap:round;stroke-linejoin:round"
        x="299.21323"
@@ -1613,4 +1613,4 @@
          id="tspan149"
          style="fill:#000000;stroke:none;stroke-width:0.5"
          x="299.21323"
-         y="517.91376">P50</tspan></text></g></svg>
+         y="517.91376">P60</tspan></text></g></svg>
