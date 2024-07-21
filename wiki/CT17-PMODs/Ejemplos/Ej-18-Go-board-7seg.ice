@@ -141,6 +141,19 @@
           }
         },
         {
+          "id": "d64592bd-65b4-4739-ba42-81705ce1ab95",
+          "type": "basic.constant",
+          "data": {
+            "name": "FSYS",
+            "value": "25_000_000",
+            "local": false
+          },
+          "position": {
+            "x": 736,
+            "y": -136
+          }
+        },
+        {
           "id": "a3f47aac-4202-4089-a43d-155c966ad2a5",
           "type": "basic.constant",
           "data": {
@@ -187,7 +200,7 @@
             "readonly": true
           },
           "position": {
-            "x": 840,
+            "x": 744,
             "y": -280
           },
           "size": {
@@ -559,6 +572,16 @@
             "port": "55733f9a-b0cd-4845-bae6-8d87c3fd9e10"
           },
           "vertices": []
+        },
+        {
+          "source": {
+            "block": "d64592bd-65b4-4739-ba42-81705ce1ab95",
+            "port": "constant-out"
+          },
+          "target": {
+            "block": "05d9772a-cb85-46d6-90ff-43b4770d0f56",
+            "port": "3a1ef085-fad3-4ba9-93ca-8322601348f3"
+          }
         }
       ]
     }
