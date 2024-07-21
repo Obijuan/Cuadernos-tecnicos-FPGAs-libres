@@ -291,6 +291,19 @@
           }
         },
         {
+          "id": "d1410fbf-5401-41d3-84df-6d1a795849bf",
+          "type": "basic.constant",
+          "data": {
+            "name": "FSYS",
+            "value": "25_000_000",
+            "local": false
+          },
+          "position": {
+            "x": 632,
+            "y": 32
+          }
+        },
+        {
           "id": "4304d5eb-fbf5-4455-bc6d-a60b8e5f3693",
           "type": "basic.constant",
           "data": {
@@ -311,7 +324,7 @@
             "readonly": true
           },
           "position": {
-            "x": 648,
+            "x": 608,
             "y": -296
           },
           "size": {
@@ -327,7 +340,7 @@
             "readonly": true
           },
           "position": {
-            "x": 680,
+            "x": 624,
             "y": -24
           },
           "size": {
@@ -691,6 +704,16 @@
             }
           ],
           "size": 4
+        },
+        {
+          "source": {
+            "block": "d1410fbf-5401-41d3-84df-6d1a795849bf",
+            "port": "constant-out"
+          },
+          "target": {
+            "block": "5905b1a6-d2dd-414d-a03d-f9c65cb35da1",
+            "port": "3a1ef085-fad3-4ba9-93ca-8322601348f3"
+          }
         }
       ]
     }
