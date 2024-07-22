@@ -298,7 +298,7 @@
           "id": "350a4bb0-a887-47b5-9e97-bf62f673569c",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 33: Alhambra-II: Botones en LEDs\n\nEjemplo de uso del PMOD de test. Los LEDs L1 y L5 se encienden. Los botones B1,B2 y B3 se conectan  \na los LEDs L2, L3 y L4\n",
+            "info": "# Ejemplo 34: Alhambra-II: Botones en LEDs\n\nEjemplo de uso del PMOD de test. Los LEDs L1 y L5 se encienden. Los botones B1,B2 y B3 se conectan  \na los LEDs L2, L3 y L4\n",
             "readonly": true
           },
           "position": {
