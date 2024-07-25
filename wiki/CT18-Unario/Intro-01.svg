@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="253.93719mm"
+   width="211.77605mm"
    height="211.61031mm"
-   viewBox="0 0 253.93719 211.61031"
+   viewBox="0 0 211.77604 211.61031"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
@@ -24,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.69575617"
-     inkscape:cx="582.10048"
+     inkscape:cx="492.9888"
      inkscape:cy="434.77875"
      inkscape:window-width="1864"
      inkscape:window-height="1016"
@@ -39,20 +39,20 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="back"
-     transform="translate(25.059166,-72.934401)">
+     transform="translate(1.468022,-72.934401)">
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
        id="rect131"
-       width="253.14345"
+       width="210.9823"
        height="210.81656"
-       x="-24.662291"
+       x="-1.071147"
        y="73.331276" />
   </g>
   <g
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(25.059166,-72.934401)">
+     transform="translate(1.468022,-72.934401)">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
        d="M 104.17497,224.95836 104.66504,93.905816"
