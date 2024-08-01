@@ -217,7 +217,7 @@
           "id": "0f005888-c0f0-428b-b3d1-ede513df2d79",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 15: Disparar acción al apretar el pulsador 4 veces\n\nEl controlador lleva la cuenta de las pulsaciones del botón `SW1`. Cuando se pulsa la cuarta vez, se  \nactiva la acción (coche fantástico en los LEDs). El número de pulsaciones se muestra en unario en  \nlos LEDs verdes (con alineación a la derecha)\n",
+            "info": "# Ejemplo 16: Disparar acción al apretar el pulsador 4 veces\n\nEl controlador lleva la cuenta de las pulsaciones del botón `SW1`. Cuando se pulsa la cuarta vez, se  \nactiva la acción (coche fantástico en los LEDs). El número de pulsaciones se muestra en unario en  \nlos LEDs verdes (con alineación a la derecha)\n",
             "readonly": true
           },
           "position": {
