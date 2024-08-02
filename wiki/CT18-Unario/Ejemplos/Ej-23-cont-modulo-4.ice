@@ -198,7 +198,7 @@
           "id": "e4c0e946-a3db-4fd8-8869-b1ae478725b6",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 24: Contador módulo 4 de 3 marcas\n\nContador de 3 marcas que realiza la cuenta 0, `1`, `11`, `111` de forma cíclica. Cambia de estado cada segundo",
+            "info": "# Ejemplo 23: Contador módulo 4 de 3 marcas\n\nContador de 3 marcas que realiza la cuenta 0, `1`, `11`, `111` de forma cíclica. Cambia de estado cada segundo",
             "readonly": true
           },
           "position": {
