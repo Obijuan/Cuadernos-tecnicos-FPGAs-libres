@@ -412,7 +412,7 @@
           "id": "e4c0e946-a3db-4fd8-8869-b1ae478725b6",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 36: Tabla de 3x8\n\nEjemplo de tabla tres filas, que almacena dos números unarios de 8 marcas: 0, 🟢️🟢️🟢️️️ y 🟢️🟢️🟢️️️🟢️🟢️🟢️️️  \nAl apretar el pulsador `SW1` se incrementa el contador unario y se muestra el siguiente valor de  \nla secuencia\n\n",
+            "info": "# Ejemplo 37: Tabla de 3x8\n\nEjemplo de tabla tres filas, que almacena dos números unarios de 8 marcas: 0, 🟢️🟢️🟢️️️ y 🟢️🟢️🟢️️️🟢️🟢️🟢️️️  \nAl apretar el pulsador `SW1` se incrementa el contador unario y se muestra el siguiente valor de  \nla secuencia\n\n",
             "readonly": true
           },
           "position": {
