@@ -38,7 +38,7 @@
           },
           "position": {
             "x": 520,
-            "y": -352
+            "y": -432
           }
         },
         {
@@ -69,7 +69,7 @@
           },
           "position": {
             "x": 384,
-            "y": -320
+            "y": -400
           }
         },
         {
@@ -124,33 +124,28 @@
           }
         },
         {
-          "id": "800f0678-0cde-4027-982b-ea7e0009d1e2",
-          "type": "basic.input",
-          "data": {
-            "name": "Boton",
-            "virtual": false,
-            "pins": [
-              {
-                "index": "0",
-                "name": "SW1",
-                "value": "34"
-              }
-            ],
-            "clock": false
-          },
-          "position": {
-            "x": -376,
-            "y": -200
-          }
-        },
-        {
-          "id": "b09436d1-0e68-45b9-9d94-3dd7ac602bd2",
+          "id": "da12c523-0ce1-4ac7-9d77-fb0a2fa02bc2",
           "type": "basic.output",
           "data": {
             "name": "LED",
             "virtual": false,
-            "range": "[3:0]",
+            "range": "[6:0]",
             "pins": [
+              {
+                "index": "6",
+                "name": "D6",
+                "value": "10"
+              },
+              {
+                "index": "5",
+                "name": "D5",
+                "value": "7"
+              },
+              {
+                "index": "4",
+                "name": "D4",
+                "value": "8"
+              },
               {
                 "index": "3",
                 "name": "D3",
@@ -175,18 +170,53 @@
           },
           "position": {
             "x": 520,
-            "y": -184
+            "y": -232
           }
         },
         {
-          "id": "fb6b8163-ae91-42db-b891-eba6b89b2829",
+          "id": "800f0678-0cde-4027-982b-ea7e0009d1e2",
+          "type": "basic.input",
+          "data": {
+            "name": "Boton",
+            "virtual": false,
+            "pins": [
+              {
+                "index": "0",
+                "name": "SW1",
+                "value": "34"
+              }
+            ],
+            "clock": false
+          },
+          "position": {
+            "x": -376,
+            "y": -200
+          }
+        },
+        {
+          "id": "89ed28c1-9194-4498-a408-842924e90b44",
           "type": "basic.outputLabel",
           "data": {
             "name": "unary",
-            "range": "[3:0]",
+            "range": "[6:0]",
             "blockColor": "fuchsia",
             "virtual": true,
             "pins": [
+              {
+                "index": "6",
+                "name": "NULL",
+                "value": "NULL"
+              },
+              {
+                "index": "5",
+                "name": "NULL",
+                "value": "NULL"
+              },
+              {
+                "index": "4",
+                "name": "NULL",
+                "value": "NULL"
+              },
               {
                 "index": "3",
                 "name": "NULL",
@@ -408,18 +438,6 @@
         },
         {
           "source": {
-            "block": "fb6b8163-ae91-42db-b891-eba6b89b2829",
-            "port": "outlabel"
-          },
-          "target": {
-            "block": "b09436d1-0e68-45b9-9d94-3dd7ac602bd2",
-            "port": "in"
-          },
-          "vertices": [],
-          "size": 4
-        },
-        {
-          "source": {
             "block": "800f0678-0cde-4027-982b-ea7e0009d1e2",
             "port": "out"
           },
@@ -483,6 +501,17 @@
             "port": "inlabel"
           },
           "size": 3
+        },
+        {
+          "source": {
+            "block": "89ed28c1-9194-4498-a408-842924e90b44",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "da12c523-0ce1-4ac7-9d77-fb0a2fa02bc2",
+            "port": "in"
+          },
+          "size": 7
         }
       ]
     }
