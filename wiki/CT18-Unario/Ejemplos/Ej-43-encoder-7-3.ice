@@ -300,7 +300,7 @@
           "id": "e4c0e946-a3db-4fd8-8869-b1ae478725b6",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 42: Codificador unario de 7 marcas\n\nUn contador unario de 7 marcas se incrementa manualmente con el pulsador `SW1` y se muestra en los LEDs (D3-D0).   \nLa salida se codifica en binario y muestra en los LEDs (3-0). Se usa en ambos alineación derecha",
+            "info": "# Ejemplo 43: Codificador unario de 7 marcas\n\nUn contador unario de 7 marcas se incrementa manualmente con el pulsador `SW1` y se muestra en los LEDs (D3-D0).   \nLa salida se codifica en binario y muestra en los LEDs (3-0). Se usa en ambos alineación derecha",
             "readonly": true
           },
           "position": {
@@ -374,6 +374,22 @@
           "size": {
             "width": 96,
             "height": 64
+          }
+        },
+        {
+          "id": "d2074e18-e782-4ab1-a552-909103d284f3",
+          "type": "basic.info",
+          "data": {
+            "info": "Codificador Unario",
+            "readonly": true
+          },
+          "position": {
+            "x": 72,
+            "y": -120
+          },
+          "size": {
+            "width": 184,
+            "height": 40
           }
         }
       ],
