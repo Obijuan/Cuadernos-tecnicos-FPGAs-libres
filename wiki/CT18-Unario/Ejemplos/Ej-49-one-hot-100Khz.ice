@@ -479,6 +479,22 @@
             "width": 200,
             "height": 48
           }
+        },
+        {
+          "id": "c0dfe9d6-3f7b-4937-9a1e-593950077572",
+          "type": "basic.info",
+          "data": {
+            "info": "Numero de 10 marcas",
+            "readonly": true
+          },
+          "position": {
+            "x": 872,
+            "y": 392
+          },
+          "size": {
+            "width": 176,
+            "height": 32
+          }
         }
       ],
       "wires": [
