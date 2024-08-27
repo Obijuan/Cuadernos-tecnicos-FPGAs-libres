@@ -3,15 +3,14 @@
 
 <svg
    width="196.3246mm"
-   height="187.04466mm"
-   viewBox="0 0 196.3246 187.04466"
+   height="149.22849mm"
+   viewBox="0 0 196.3246 149.22848"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (9e3d6414e7, 2024-01-14, custom)"
    sodipodi:docname="Automata-2-estados-22-Ej-03-regla-12.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -25,8 +24,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.67906216"
-     inkscape:cx="483.75542"
-     inkscape:cy="471.23816"
+     inkscape:cx="382.14469"
+     inkscape:cy="493.32745"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -46,14 +45,14 @@
        style="fill:#ffffff;stroke:none;stroke-width:0.529165;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
        id="rect12"
        width="196.3246"
-       height="187.04466"
+       height="149.22849"
        x="10.610335"
        y="-132.56715" />
     <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.529168;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
        id="rect8"
        width="191.02364"
-       height="181.53307"
+       height="143.19624"
        x="13.150392"
        y="-129.81136" />
   </g>
@@ -72,7 +71,7 @@
          id="tspan10"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#000080;stroke-width:0.265"
          x="87.885902"
-         y="-121.25114">Reglas 13-14</tspan></text>
+         y="-121.25114">Regla 12</tspan></text>
     <path
        id="path72"
        style="display:inline;fill:#008000;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -219,31 +218,28 @@
          x="56.338428"
          y="-18.991007"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.38787px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264582px">AND</tspan></text>
-    <g
-       id="g24">
-      <path
-         id="path12"
-         style="display:inline;fill:#0066ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 30.33202,-29.033618 h 10.32337 l 4.14098,3.77321 -4.14098,3.77315 H 30.33202 Z"
-         sodipodi:nodetypes="cccccc"
-         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-computer-2.png"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:5.63214px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+    <path
+       id="path12"
+       style="display:inline;fill:#0066ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 30.33202,-29.033618 h 10.32337 l 4.14098,3.77321 -4.14098,3.77315 H 30.33202 Z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-computer-2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.63214px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="32.483608"
+       y="-23.30607"
+       id="text20"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-computer-2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
          x="32.483608"
          y="-23.30607"
-         id="text20"
-         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-computer-2.png"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"><tspan
-           sodipodi:role="line"
-           x="32.483608"
-           y="-23.30607"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
-           id="tspan20">E1</tspan></text>
-    </g>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
+         id="tspan20">E1</tspan></text>
     <path
        id="path21"
        style="display:inline;fill:#00ffff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -320,7 +316,7 @@
          id="tspan6973-3">load</tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.529166;stroke-dasharray:none;stroke-opacity:1"
-       d="M 43.412003,-86.898824 H 55.17736"
+       d="M 42.461025,-86.898824 H 55.17736"
        id="path8148-6"
        sodipodi:nodetypes="cc" />
     <rect
@@ -616,6 +612,20 @@
        inkscape:transform-center-x="4.1135832"
        inkscape:transform-center-y="1.6983723"
        sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.8606px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.654053"
+       x="30.743633"
+       y="-81.944908"
+       id="text32"
+       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S05/contador-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="30.743633"
+         y="-81.944908"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.654053"
+         id="tspan32">'0'</tspan></text>
     <g
        id="g23"
        transform="translate(-3.9542208,-147.45232)">
@@ -756,275 +766,5 @@
          font-stretch="normal"
          font-style="normal"
          font-weight="bold">OR</tspan></text>
-    <rect
-       style="display:inline;fill:#dfdfdf;fill-opacity:1;stroke:#777777;stroke-width:0.715014;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect146"
-       width="26.850079"
-       height="17.645554"
-       x="121.36527"
-       y="3.4829223"
-       ry="1.9324776"
-       rx="1.9324776" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.55742px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="30.890966"
-       y="-1.3126937"
-       id="text1925-3-7-3-6-7-6-5-9-9-6-7-3-1-7-5-8-8-3-9"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S05/contador-1.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         sodipodi:role="line"
-         x="30.890966"
-         y="-1.3126937"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
-         id="tspan3579-2">Pulsadores</tspan></text>
-    <rect
-       style="display:inline;fill:#e4e4e4;fill-opacity:1;stroke:#777777;stroke-width:0.715014;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect861-6"
-       width="26.850079"
-       height="17.645554"
-       x="27.718878"
-       y="3.4800308"
-       ry="1.9324776"
-       rx="1.9324776" />
-    <g
-       id="g904-6"
-       transform="matrix(0.32839413,0,0,0.32839413,132.105,-46.234053)"
-       style="display:inline;stroke-width:1.84534">
-      <path
-         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-09/src/temp/anim/Button-off.png"
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:connector-curvature="0"
-         id="path4192-6-1"
-         d="m -278.36093,171.17158 a 25.927787,11.395893 0 0 0 -17.21,2.89137 l -6.80931,0.008 -1.6102,6.86923 a 25.927787,11.395893 0 0 0 -0.29824,1.62822 25.927787,11.395893 0 0 0 25.92775,11.39579 25.927787,11.395893 0 0 0 25.928,-11.39579 25.927787,11.395893 0 0 0 -0.0356,-0.44032 l 0.0799,8.9e-4 -1.601,-8.1097 -7.24082,0.008 a 25.927787,11.395893 0 0 0 -17.13053,-2.85473 z"
-         style="display:inline;opacity:1;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:0.652634;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <ellipse
-         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-09/src/temp/anim/Button-off.png"
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         ry="8.4738703"
-         rx="24.320995"
-         cy="175.0098"
-         cx="-278.21478"
-         id="path4192-0"
-         style="display:inline;opacity:1;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.652634;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <g
-         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-09/src/temp/anim/Button-off.png"
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         transform="matrix(0.12756083,0,0,0.12758629,-330.20265,123.30246)"
-         inkscape:label="Layer 2"
-         id="layer2-2-6"
-         style="display:inline;stroke-width:5.11575">
-        <g
-           transform="translate(0.31156048,-5.3326452)"
-           id="g4187-3"
-           style="stroke-width:5.11575">
-          <ellipse
-             style="opacity:1;fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:5.11575;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="path4170-3-7-2"
-             cx="406.08701"
-             cy="399.21625"
-             rx="184.22064"
-             ry="72.858047" />
-          <ellipse
-             style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:5.11575;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="path4170-0-0"
-             cx="406.23013"
-             cy="383.32779"
-             rx="179.49704"
-             ry="60.977467" />
-        </g>
-      </g>
-    </g>
-    <path
-       id="path15801"
-       style="display:inline;fill:#008000;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 83.048557,8.6039361 H 68.932834 l -4.216724,3.8422199 4.216724,3.84218 h 14.115723 z"
-       sodipodi:nodetypes="cccccc"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-computer-2.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.73516px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="69.958473"
-       y="14.292928"
-       id="text15805"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-computer-2.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         sodipodi:role="line"
-         x="69.958473"
-         y="14.292928"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
-         id="tspan15803">SW1</tspan></text>
-    <path
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529;stroke-opacity:1"
-       d="m 54.694546,12.446166 h 10.02157"
-       id="path15823" />
-    <rect
-       style="display:inline;fill:#e4e4e4;fill-opacity:1;stroke:#777777;stroke-width:0.715014;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect105"
-       width="26.850079"
-       height="17.645554"
-       x="27.718878"
-       y="25.827137"
-       ry="1.9324776"
-       rx="1.9324776" />
-    <g
-       id="g110"
-       transform="matrix(0.32839413,0,0,0.32839413,132.105,-23.88694)"
-       style="display:inline;stroke-width:1.84534">
-      <path
-         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-09/src/temp/anim/Button-off.png"
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:connector-curvature="0"
-         id="path106"
-         d="m -278.36093,171.17158 a 25.927787,11.395893 0 0 0 -17.21,2.89137 l -6.80931,0.008 -1.6102,6.86923 a 25.927787,11.395893 0 0 0 -0.29824,1.62822 25.927787,11.395893 0 0 0 25.92775,11.39579 25.927787,11.395893 0 0 0 25.928,-11.39579 25.927787,11.395893 0 0 0 -0.0356,-0.44032 l 0.0799,8.9e-4 -1.601,-8.1097 -7.24082,0.008 a 25.927787,11.395893 0 0 0 -17.13053,-2.85473 z"
-         style="display:inline;opacity:1;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:0.652634;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <ellipse
-         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-09/src/temp/anim/Button-off.png"
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         ry="8.4738703"
-         rx="24.320995"
-         cy="175.0098"
-         cx="-278.21478"
-         id="ellipse106"
-         style="display:inline;opacity:1;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.652634;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <g
-         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-09/src/temp/anim/Button-off.png"
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         transform="matrix(0.12756083,0,0,0.12758629,-330.20265,123.30246)"
-         inkscape:label="Layer 2"
-         id="g109"
-         style="display:inline;stroke-width:5.11575">
-        <g
-           transform="translate(0.31156048,-5.3326452)"
-           id="g108"
-           style="stroke-width:5.11575">
-          <ellipse
-             style="opacity:1;fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:5.11575;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="ellipse107"
-             cx="406.08701"
-             cy="399.21625"
-             rx="184.22064"
-             ry="72.858047" />
-          <ellipse
-             style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:5.11575;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="ellipse108"
-             cx="406.23013"
-             cy="383.32779"
-             rx="179.49704"
-             ry="60.977467" />
-        </g>
-      </g>
-    </g>
-    <path
-       id="path110"
-       style="display:inline;fill:#008000;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 83.048557,30.951046 H 68.932834 l -4.216724,3.84223 4.216724,3.84217 h 14.115723 z"
-       sodipodi:nodetypes="cccccc"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-computer-2.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.73516px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="69.958473"
-       y="36.640041"
-       id="text110"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-computer-2.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         sodipodi:role="line"
-         x="69.958473"
-         y="36.640041"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
-         id="tspan110">SW2</tspan></text>
-    <path
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529;stroke-opacity:1"
-       d="m 54.694546,34.793276 h 10.02157"
-       id="path111" />
-    <path
-       id="path146"
-       style="display:inline;fill:#0066ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 96.604647,8.4634986 h 10.512203 l 4.21673,3.8422304 -4.21673,3.84217 H 96.604647 Z"
-       sodipodi:nodetypes="cccccc"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-computer-2.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.73516px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="98.795593"
-       y="14.295812"
-       id="text146"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-computer-2.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         sodipodi:role="line"
-         x="98.795593"
-         y="14.295812"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
-         id="tspan146">E1</tspan></text>
-    <image
-       width="7.9009066"
-       height="15.086799"
-       preserveAspectRatio="none"
-       xlink:href="data:image/png;base64,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&#10;9vJ0nhCsWl11vVu1cfpW7PCSfuWucNL2gEPAUeCfbm09v7PT9sGcym4uXyPks1eu3CTkqLZBqcFR&#10;g6YvcKPCSDUz87MyV5HO92XbyaSfbXpy8eQocBT4t0891fbxnMpuLv9wMPjecHg0aciz+7ookX66&#10;IMVCY2zi5GX9y8taTHViiGRL0dSMdxaN8yjwnkk5kMVcEkL+x/b2anKZkTVLDtCcNinGTRGLPCyK&#10;Vy9z8lqUTima4tfRkMoG9MPA/xsOf8MMNC3m8j9tb98BHGGgXBIMUg+lCKIUQWkAzWmfYs5UFEoV&#10;nWJVVfXsCPuEQtlNNzRjNE1oaNraT7RLyN++cOEkcBg4Ahxm4ng3XWBb/aKvaLwwMwGHooB0QSq2&#10;h0jsVM+cQtk0Tnezh0L/Eb3Lghbi/nY6HO494B3gHeCPn3++zqNVXLb65b++cmU13UUsemRXwE7a&#10;rNRAWWLSB3H9MtJV8ju0aJzSsN6VuWYcbZaBw8Bh4D9ub7d7fK3k8hoh3x8OV5h0RzpuTQRRSmTR&#10;hCaTNv2cPOCq6lYITW4LmvhOQ/lSMgLr9xyXJfTvrlw5JECpb1CWO8wes2R+fL10mZ3y0JxZt8wU&#10;Xgqin36rQTPet/+hVTTt43K4s/P94XCZaUGK4TtPpFYdeE8Ai77m57gQu77MRPUQ61Mo9lQUSeXo&#10;9JOd1mMuSRwG/sBxWUjPbm+zPUF6IjNzWA0u4ji3QpyVaF/qty9WI8/qeijZ3cWiGY8S/J+DQVtH&#10;2TIunxsMvjMcsrm2KtfRRN78UGrQzJO7iNYr5TUTL3HUSCE0pXSKgMZz2O7M37lypa0DbROXPybk&#10;/zz7rKrPnMt1pH6Tx8M4ClUjNvRbyPPRmcm4J7Ao7QrNb7qiZXJ0cv3tx4DnWrJMm7j8xnD43eGQ&#10;7Z6UJjrSI5HHkERP4uZLJylhOS1Qj6P0U6RE6s83rj6agO4L/Uefb6mVaQ2Xu4T8ftKyZNMdFs2c&#10;tpGJiMiBxiOlHGvoVIGVOWmqqkdT/Ka+EFvYt+yViH1CBm1YpjVcfn04fJOQnizdkUJZKN3OhLIA&#10;PZ43naSkJv8VPyInmmJBhabmjOIs00+f5+zl3FYs0w4uCSG/deXKEnMRnGtTSuOU9EhLD1gmlHmI&#10;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&#10;mdFgPxo1AAAAAElFTkSuQmCC&#10;"
-       id="image1-2"
-       x="130.69536"
-       y="4.7622957"
-       style="display:inline;stroke-width:7.40079" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.55742px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="130.29265"
-       y="-1.2180512"
-       id="text147"
-       inkscape:export-filename="/home/obijuan/Develop/Arq-computadores-01/wiki/S05/contador-1.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         sodipodi:role="line"
-         x="130.29265"
-         y="-1.2180512"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
-         id="tspan147">LED</tspan></text>
-    <path
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529;stroke-opacity:1"
-       d="m 111.33358,12.305729 h 10.02156"
-       id="path147" />
-    <g
-       id="g26"
-       transform="translate(-1.3843667,-61.638416)">
-      <path
-         id="path26"
-         style="display:inline;fill:#0066ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 30.33202,-29.033618 h 10.32337 l 4.14098,3.77321 -4.14098,3.77315 H 30.33202 Z"
-         sodipodi:nodetypes="cccccc"
-         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-computer-2.png"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:5.63214px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="32.483608"
-         y="-23.30607"
-         id="text26"
-         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-computer-2.png"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"><tspan
-           sodipodi:role="line"
-           x="32.483608"
-           y="-23.30607"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
-           id="tspan26">E1</tspan></text>
-    </g>
   </g>
 </svg>
