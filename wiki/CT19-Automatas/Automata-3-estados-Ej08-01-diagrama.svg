@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="117.86505mm"
+   height="81.560341mm"
+   viewBox="0 0 117.86505 81.56034"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (9e3d6414e7, 2024-01-14, custom)"
+   sodipodi:docname="Automata-3-estados-Ej08-01-diagrama.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.9678956"
+     inkscape:cx="271.60994"
+     inkscape:cy="167.18367"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     showguides="true" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Back"
+     transform="translate(-38.641815,-12.518274)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect8"
+       width="117.86505"
+       height="81.560341"
+       x="38.641815"
+       y="12.518274" />
+  </g>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-38.641815,-12.518274)">
+    <text
+       xml:space="preserve"
+       style="font-size:4.13138px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#0000ff;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       x="58.797569"
+       y="57.802082"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="fill:#0000ff;stroke-width:0.265"
+         x="58.797569"
+         y="57.802082">Reposo</tspan></text>
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="path1"
+       cx="65.814705"
+       cy="53.296764"
+       r="11.648316" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="circle2"
+       cx="112.89412"
+       cy="31.243834"
+       r="11.648316" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="m 67.429662,41.760942 c 0,0 3.209367,-10.029688 14.561241,-14.649442 11.351879,-4.619756 18.857147,-2.138621 18.857147,-2.138621"
+       id="path2"
+       sodipodi:nodetypes="czc" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       x="62.718449"
+       y="52.226871"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         style="fill:#000000;stroke-width:0.265"
+         x="62.718449"
+         y="52.226871">E0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       x="110.10988"
+       y="30.173941"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="fill:#000000;stroke-width:0.265"
+         x="110.10988"
+         y="30.173941">E1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.13138px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#0000ff;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       x="107.99223"
+       y="35.749149"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="fill:#0000ff;stroke-width:0.265"
+         x="107.99223"
+         y="35.749149">LED0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       x="69.449409"
+       y="25.649502"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="fill:#008000;stroke-width:0.265"
+         x="69.449409"
+         y="25.649502">SW1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       x="72.614082"
+       y="86.815498"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="fill:#008000;stroke-width:0.265"
+         x="72.614082"
+         y="86.815498">SW2</tspan></text>
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="circle3"
+       cx="112.89412"
+       cy="75.349693"
+       r="11.648316" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       x="110.10988"
+       y="74.2798"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="fill:#000000;stroke-width:0.265"
+         x="110.10988"
+         y="74.2798">E2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.13138px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#0000ff;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       x="107.99223"
+       y="79.855011"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="fill:#0000ff;stroke-width:0.265"
+         x="107.99223"
+         y="79.855011">LED1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="m 67.429662,64.832586 c 0,0 3.209367,10.029688 14.561241,14.649442 11.351879,4.619756 18.857147,2.138621 18.857147,2.138621"
+       id="path6"
+       sodipodi:nodetypes="czc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="m 124.48611,33.088716 c 0,0 7.78829,7.087827 7.27169,19.332834 -0.5166,12.245017 -6.22303,18.111748 -6.22303,18.111748"
+       id="path3"
+       sodipodi:nodetypes="czc" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       x="135.55884"
+       y="52.226871"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="fill:#008000;stroke-width:0.265"
+         x="135.55884"
+         y="52.226871">SW1</tspan></text>
+  </g>
+</svg>
