@@ -175,7 +175,7 @@
           "type": "basic.outputLabel",
           "data": {
             "name": "senal",
-            "blockColor": "fuchsia",
+            "blockColor": "lightgray",
             "virtual": true,
             "pins": [
               {
@@ -215,7 +215,7 @@
           "type": "basic.inputLabel",
           "data": {
             "name": "senal",
-            "blockColor": "fuchsia",
+            "blockColor": "lightgray",
             "virtual": true,
             "pins": [
               {
@@ -323,7 +323,7 @@
           "id": "47e2ca17-7947-479f-8dc9-bd996cea9a9a",
           "type": "basic.info",
           "data": {
-            "info": "## Diagrama de estados\n\n![No image found...](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/raw/master/wiki/CT19-Automatas/Automata-2-estados-25-Ej-04-diagrama.svg)  ",
+            "info": "## Diagrama de estados\n\n![No image found...](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/raw/master/wiki/CT19-Automatas/Automata-2-estados-29-Ej-05-diagrama.svg)  ",
             "readonly": true
           },
           "position": {
@@ -351,7 +351,7 @@
           "id": "144e5b3d-744a-4f29-9068-324695c65d80",
           "type": "basic.info",
           "data": {
-            "info": "## Reposo",
+            "info": "## Ciclo 0",
             "readonly": true
           },
           "position": {
@@ -379,7 +379,7 @@
           "id": "0243cb5e-23ae-4cd6-b10e-8de5197eec74",
           "type": "basic.info",
           "data": {
-            "info": "## Pulso",
+            "info": "## Ciclo 1",
             "readonly": true
           },
           "position": {
