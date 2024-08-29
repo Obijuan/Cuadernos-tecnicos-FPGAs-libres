@@ -247,7 +247,7 @@
           "id": "e168c93d-687f-4147-86e3-6a85e44c544d",
           "type": "basic.outputLabel",
           "data": {
-            "name": "E0",
+            "name": "E1",
             "blockColor": "navy",
             "virtual": true,
             "pins": [
@@ -1126,11 +1126,11 @@
           "id": "236266ac-de8a-4e78-9208-eef8fc1841b6",
           "type": "basic.info",
           "data": {
-            "info": "## Ruta de datos\n\nActivar consecutivamente las entradas a y b. Cada vez que se llega al estado E0\nse selecciona el siguiente par de varlores para a y b",
+            "info": "## Ruta de datos\n\nActivar consecutivamente las entradas a y b. Cada vez que se llega al estado E1\nse selecciona el siguiente par de varlores para a y b",
             "readonly": true
           },
           "position": {
-            "x": -328,
+            "x": -320,
             "y": -136
           },
           "size": {
