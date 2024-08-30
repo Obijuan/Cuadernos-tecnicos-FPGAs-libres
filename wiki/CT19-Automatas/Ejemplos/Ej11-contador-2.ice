@@ -418,16 +418,16 @@
           "id": "a8fcd9eb-09ce-4565-b9f1-7f64e6599491",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 11: Contador de 2 eventos, con reset\n\nTODO  \n",
+            "info": "# Ejemplo 11: Contador de 2 eventos, con reset\n\nContador de 2 eventos. Con el pulsador `sw1` se indica el evento que ha  \nocurrido. Cuando se ha pulsado 2 veces el contador llega a su valor máximo  \ny NO se incrementa más. Para volver al estado inicial hay que apretar el  \npulsador `SW2`\n",
             "readonly": true
           },
           "position": {
-            "x": 80,
-            "y": 16
+            "x": 88,
+            "y": -24
           },
           "size": {
-            "width": 632,
-            "height": 72
+            "width": 672,
+            "height": 120
           }
         },
         {
