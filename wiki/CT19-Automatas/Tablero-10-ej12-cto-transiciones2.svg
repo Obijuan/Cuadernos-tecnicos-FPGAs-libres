@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="218.22601mm"
+   height="89.351509mm"
+   viewBox="0 0 218.22602 89.351502"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (9e3d6414e7, 2024-01-14, custom)"
+   sodipodi:docname="Tablero-10-ej12-cto-transiciones2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.98394778"
+     inkscape:cx="461.91476"
+     inkscape:cy="171.75708"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     showguides="true" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Back"
+     transform="translate(2.351433,-58.080853)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect8"
+       width="218.22601"
+       height="89.351509"
+       x="-2.351433"
+       y="58.080853" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.529168;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect8-4"
+       width="208.82492"
+       height="84.598297"
+       x="2.3491104"
+       y="60.457458" />
+  </g>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(2.351433,-58.080853)">
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#000000;stroke:none;stroke-width:0.529167"
+       x="193.5806"
+       y="134.69044"
+       id="text45"><tspan
+         sodipodi:role="line"
+         id="tspan45"
+         style="stroke-width:0.529167"
+         x="193.5806"
+         y="134.69044" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000080;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       x="18.124876"
+       y="76.556747"
+       id="text149"><tspan
+         sodipodi:role="line"
+         id="tspan149"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#000080;stroke-width:0.265"
+         x="18.124876"
+         y="76.556747">Transiciones condicionales</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000080;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       x="111.83466"
+       y="76.556747"
+       id="text151"><tspan
+         sodipodi:role="line"
+         id="tspan151"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#000080;stroke-width:0.265"
+         x="111.83466"
+         y="76.556747">Generación del </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#000080;stroke-width:0.265"
+         x="111.83466"
+         y="83.171333"
+         id="tspan37">cambio de estado</tspan></text>
+    <path
+       id="path77-9-9"
+       style="display:inline;fill:#0066ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 18.495293,93.896279 h 10.32337 l 4.140978,3.77321 -4.140978,3.773151 h -10.32337 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-computer-2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.63214px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="20.646873"
+       y="99.623848"
+       id="text77-7"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-computer-2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="20.646873"
+         y="99.623848"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
+         id="tspan77-7">E0</tspan></text>
+    <path
+       id="path6-4"
+       style="display:inline;fill:#0066ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 18.495293,104.49406 h 10.32337 l 4.140978,3.77321 -4.140978,3.77315 h -10.32337 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-computer-2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.63214px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="20.646873"
+       y="110.22164"
+       id="text6-3"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-computer-2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="20.646873"
+         y="110.22164"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
+         id="tspan6-0">E1</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 32.959644,97.669459 h 8.681654"
+       id="path20"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:#ffe6d5;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       id="path21"
+       d="m 48.455074,111.58482 h -8.763866 c 0,0 2.92132,-4.00131 2.99263,-8.84496 0.0715,-4.843291 -3.06345,-8.493491 -3.06345,-8.493491 l 8.887556,-0.037 c 4.471332,0.18322 10.002482,5.02688 11.845942,8.811821 -3.13862,6.34971 -8.872232,8.44608 -11.898832,8.56372 z" />
+    <path
+       id="path22"
+       d="M 41.470848,108.26724 H 32.959644"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:nodetypes="cc" />
+    <text
+       id="text22"
+       line-height="125%"
+       x="43.71059"
+       y="106.46851"
+       font-style="normal"
+       font-size="17.5px"
+       xml:space="preserve"
+       font-weight="normal"
+       style="font-style:normal;font-weight:normal;font-size:6.3109px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;stroke-width:0.264583"
+       transform="scale(1.0116616,0.98847283)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;stroke-width:0.264583"
+         id="tspan22"
+         x="43.71059"
+         y="106.46851"
+         font-variant="normal"
+         font-stretch="normal"
+         font-style="normal"
+         font-weight="bold">OR</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 32.959639,118.87075 h 27.129667 l -10e-7,-5.25178"
+       id="path14"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path15"
+       style="display:inline;fill:#0066ff;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 18.495291,115.09757 h 10.32337 l 4.140978,3.77321 -4.140978,3.77315 h -10.32337 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-computer-2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.63214px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="20.646873"
+       y="120.82514"
+       id="text15"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-computer-2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="20.646873"
+         y="120.82514"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
+         id="tspan15">E2</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 60.353886,103.02119 h 8.681651"
+       id="path25"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:#ffe6d5;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       id="path26"
+       d="m 75.849317,116.93655 h -8.76387 c 0,0 2.92132,-4.00131 2.99263,-8.84496 0.0715,-4.84329 -3.06345,-8.493491 -3.06345,-8.493491 l 8.88756,-0.037 c 4.47133,0.18322 10.002484,5.026881 11.845944,8.811821 -3.13862,6.34971 -8.872234,8.44608 -11.898834,8.56372 z" />
+    <path
+       id="path27"
+       d="M 68.865087,113.61897 H 60.089306"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:nodetypes="cc" />
+    <text
+       id="text27"
+       line-height="125%"
+       x="70.789047"
+       y="111.88264"
+       font-style="normal"
+       font-size="17.5px"
+       xml:space="preserve"
+       font-weight="normal"
+       style="font-style:normal;font-weight:normal;font-size:6.3109px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;stroke-width:0.264583"
+       transform="scale(1.0116616,0.98847283)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;stroke-width:0.264583"
+         id="tspan27"
+         x="70.789047"
+         y="111.88264"
+         font-variant="normal"
+         font-stretch="normal"
+         font-style="normal"
+         font-weight="bold">OR</tspan></text>
+    <path
+       style="fill:#ff0000;stroke-width:0.529167"
+       d="m 60.089305,118.87075 v -5.25178"
+       id="path29" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 32.959637,129.43488 H 87.748131 V 118.71084"
+       id="path30"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g31"
+       transform="translate(-16.510399,28.321269)">
+      <path
+         id="path31"
+         style="display:inline;fill:#008000;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 35.005691,97.379809 h 10.366625 l 4.09772,3.733801 -4.09772,3.73374 H 35.005691 Z"
+         sodipodi:nodetypes="cccccc"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-computer-2.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.85193px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="35.993099"
+         y="102.63939"
+         id="text31"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-computer-2.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           x="35.993099"
+           y="102.63939"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
+           id="tspan31">time</tspan></text>
+    </g>
+    <path
+       style="display:inline;fill:#ffe6d5;stroke:#000000;stroke-width:0.529167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       id="path32"
+       d="m 103.66068,121.70542 h -8.987219 v -17.18029 h 8.987219 c 0,0 8.15811,0.79643 8.15811,8.49019 0,7.6933 -8.15811,8.6901 -8.15811,8.6901 z" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 111.75752,112.87936 H 123.1874"
+       id="path33"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 87.748131,118.71084 h 6.90399"
+       id="path34" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 87.748131,108.37292 h 6.90399"
+       id="path35"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.1137px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="95.554436"
+       y="115.31355"
+       id="text35"
+       transform="scale(1.0050227,0.99500241)"><tspan
+         sodipodi:role="line"
+         id="tspan35"
+         x="95.554436"
+         y="115.31355"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.38787px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264582px">AND</tspan></text>
+    <path
+       id="path36"
+       style="display:inline;fill:#eeaaff;stroke:#000000;stroke-width:0.529166;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 140.98264,109.15048 h -13.70209 l -4.09315,3.72888 4.09315,3.72882 h 13.70209 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-computer-2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.56653px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529166;stroke-dasharray:none"
+       x="126.52084"
+       y="114.32364"
+       id="text36"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Arq-computadores-01/wiki/S05/nanoRISC-v-computer-2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="scale(1.0001027,0.99989732)"><tspan
+         sodipodi:role="line"
+         x="126.52084"
+         y="114.32364"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.529166;stroke-dasharray:none"
+         id="tspan36">Next</tspan></text>
+  </g>
+</svg>
