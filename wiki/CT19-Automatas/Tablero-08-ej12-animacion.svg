@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="117.86505mm"
+   height="81.560341mm"
+   viewBox="0 0 117.86505 81.56034"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (9e3d6414e7, 2024-01-14, custom)"
+   sodipodi:docname="Tablero-08-ej12-animacion.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.3915123"
+     inkscape:cx="186.12843"
+     inkscape:cy="208.40635"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer9"
+     showguides="true" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Back"
+     transform="translate(-49.712925,56.895679)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect8"
+       width="117.86505"
+       height="81.560341"
+       x="49.712925"
+       y="-56.895679" />
+  </g>
+  <g
+     inkscape:label="Diagrama"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-49.712925,56.895679)">
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="path1"
+       cx="68.343506"
+       cy="-18.89547"
+       r="11.648316" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="circle2"
+       cx="107.75745"
+       cy="-18.89547"
+       r="11.648316" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="m 77.883398,-25.714402 c 0,0 3.555185,-4.916534 9.401438,-4.868998 5.846254,0.04753 9.716334,3.25774 9.716334,3.25774"
+       id="path2"
+       sodipodi:nodetypes="czc"
+       inkscape:transform-center-x="-9.6778165"
+       inkscape:transform-center-y="-3.6077393" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       x="65"
+       y="-17.061907"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         style="fill:#000000;stroke-width:0.265"
+         x="65"
+         y="-17.061907">E0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       x="104.97321"
+       y="-17.061907"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="fill:#000000;stroke-width:0.265"
+         x="104.97321"
+         y="-17.061907">E1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       x="84.226135"
+       y="-32.661858"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="fill:#008000;stroke-width:0.265"
+         x="84.226135"
+         y="-32.661858">time</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="m 141.88037,-8.4704778 c 0,0 -14.31508,14.658636 -34.14229,14.5241861 C 87.910862,5.9192584 75.73161,-7.7684961 75.73161,-7.7684961"
+       id="path3"
+       sodipodi:nodetypes="czc"
+       inkscape:transform-center-x="33.074378"
+       inkscape:transform-center-y="3.5646131" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       x="103.15781"
+       y="11.614593"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="fill:#008000;stroke-width:0.265"
+         x="103.15781"
+         y="11.614593">time</tspan></text>
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="circle1"
+       cx="147.17139"
+       cy="-18.89547"
+       r="11.648316" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       x="144.38715"
+       y="-17.022219"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="fill:#000000;stroke-width:0.265"
+         x="144.38715"
+         y="-17.022219">E2</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="m 117.20125,-25.714402 c 0,0 3.55519,-4.916534 9.40144,-4.868998 5.84626,0.04753 9.71634,3.25774 9.71634,3.25774"
+       id="path12"
+       sodipodi:nodetypes="czc"
+       inkscape:transform-center-x="-9.6778165"
+       inkscape:transform-center-y="-3.6077393" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#008000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       x="123.54399"
+       y="-32.661858"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         style="fill:#008000;stroke-width:0.265"
+         x="123.54399"
+         y="-32.661858">time</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="E0"
+     style="display:inline">
+    <circle
+       style="display:inline;fill:#ff0000;stroke-width:0.529167"
+       id="path13-8-5-3"
+       cx="18.630581"
+       cy="38.00021"
+       r="6.0091324" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="E1"
+     style="display:inline">
+    <circle
+       style="display:inline;fill:#ff0000;stroke-width:0.529167"
+       id="path13-8-5-3-3"
+       cx="58.044521"
+       cy="38.00021"
+       r="6.0091324" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="E2"
+     style="display:inline">
+    <circle
+       style="display:inline;fill:#ff0000;stroke-width:0.529167"
+       id="path13-8-5-3-3-0"
+       cx="97.674599"
+       cy="38.00021"
+       r="6.0091324" />
+  </g>
+</svg>
