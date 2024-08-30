@@ -206,7 +206,7 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="t1"
-     style="display:inline">
+     style="display:none">
     <circle
        style="display:inline;fill:#ff0000;stroke-width:0.529167"
        id="path13-8-5-3-3-0"
@@ -422,7 +422,7 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="t9"
-     style="display:none">
+     style="display:inline">
     <circle
        style="display:inline;fill:#ff0000;stroke-width:0.529167"
        id="path13-8-5-3-3-0-8-1-6-5-9-3-5-4"
