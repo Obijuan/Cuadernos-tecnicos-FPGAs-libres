@@ -401,8 +401,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Back"
-     transform="translate(-43.269829,124.3019)"
-     sodipodi:insensitive="true">
+     transform="translate(-43.269829,124.3019)">
     <rect
        style="fill:#ffffff;stroke:none;stroke-width:0.529168;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
        id="rect8"
@@ -488,7 +487,7 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="t1"
-     style="display:inline">
+     style="display:none">
     <circle
        style="display:inline;fill:#ff0000;stroke-width:0.529167"
        id="path13-8-5-3-3-0"
@@ -1340,7 +1339,7 @@
      inkscape:groupmode="layer"
      id="layer22"
      inkscape:label="t13"
-     style="display:none">
+     style="display:inline">
     <circle
        style="display:inline;fill:#ff0000;stroke-width:0.529167"
        id="path13-8-5-3-3-0-7-6-1-8-0-6-1-9-6-9-9-4"
