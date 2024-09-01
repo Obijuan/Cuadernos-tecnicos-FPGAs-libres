@@ -31,7 +31,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer37"
      showguides="true"
      showgrid="false" />
   <defs
@@ -384,7 +384,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="t5"
-     style="display:inline"
+     style="display:none"
      transform="translate(2.0361328e-7,1.0400391e-5)">
     <circle
        style="display:inline;fill:#ff0000;stroke-width:0.529167"
@@ -424,17 +424,6 @@
        style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.529166;stroke-linecap:round;stroke-dasharray:none"
        d="m 81.531171,33.766521 -10e-7,9.052002"
        id="path13-5-6-0-4" />
-    <text
-       xml:space="preserve"
-       style="font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#008000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
-       x="75.782791"
-       y="44.526669"
-       id="text26-5-9-4-1-6"><tspan
-         sodipodi:role="line"
-         id="tspan26-3-3-9-2-7"
-         style="fill:#008000;stroke-width:0.265"
-         x="75.782791"
-         y="44.526669">0</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -642,7 +631,7 @@
      inkscape:groupmode="layer"
      id="layer37"
      inkscape:label="t12"
-     style="display:none">
+     style="display:inline">
     <circle
        style="display:inline;fill:#ff0000;stroke-width:0.529167"
        id="path13-8-5-3-3-0-8-1-6-5-9-3-5-4-3-0-1"
