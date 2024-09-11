@@ -151,7 +151,7 @@
           "id": "4b9a46a5-bbb9-446e-b860-06ae2f954b09",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 2: Display 1x4. Escritura en memoria de video\n\nMostrar el patrón `1101` en un display de 1x4 píxeles, a través  \nde la memoria de vídeo",
+            "info": "# Ejemplo 2: Display 1x4. Escritura en memoria de video\n\nMostrar el patrón `1101` en un display de 1x4 píxeles, a través  \nde la memoria de vídeo, al apretar el pulsador",
             "readonly": true
           },
           "position": {
