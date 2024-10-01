@@ -10624,8 +10624,7 @@
             {
               "source": {
                 "block": "d835377d-8214-48b3-bd0b-5b0841f9094e",
-                "port": "out",
-                "size": 4
+                "port": "out"
               },
               "target": {
                 "block": "e5e4127f-db81-424c-ba85-15c8959f73ff",
@@ -10660,8 +10659,7 @@
               },
               "target": {
                 "block": "281d4c12-f2c6-4ea5-8ba3-8d9fddb8dd11",
-                "port": "in",
-                "size": 4
+                "port": "in"
               },
               "size": 4
             },
@@ -10682,8 +10680,7 @@
               },
               "target": {
                 "block": "985ae6c8-3e1e-49dd-83e4-9722b8741657",
-                "port": "1b621e37-f1b1-46a7-8450-5500bb513afb",
-                "size": 4
+                "port": "1b621e37-f1b1-46a7-8450-5500bb513afb"
               },
               "size": 4
             },
@@ -10710,8 +10707,7 @@
             {
               "source": {
                 "block": "860f3ae2-426f-4eea-b74d-668cca7c1377",
-                "port": "281d4c12-f2c6-4ea5-8ba3-8d9fddb8dd11",
-                "size": 4
+                "port": "281d4c12-f2c6-4ea5-8ba3-8d9fddb8dd11"
               },
               "target": {
                 "block": "8339c124-046e-4472-8e65-30d4a0111531",
