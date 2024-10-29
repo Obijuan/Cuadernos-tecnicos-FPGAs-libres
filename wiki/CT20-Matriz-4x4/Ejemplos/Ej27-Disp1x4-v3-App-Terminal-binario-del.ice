@@ -1234,11 +1234,11 @@
           }
         },
         {
-          "id": "5bccb8a2-bb6a-4599-8cf2-ade038261a26",
+          "id": "ffd18ebb-c147-46bd-a970-b7936085a55b",
           "type": "basic.outputLabel",
           "data": {
-            "name": "key_del",
-            "blockColor": "springgreen",
+            "name": "Del_ok",
+            "blockColor": "red",
             "virtual": true,
             "pins": [
               {
@@ -2752,16 +2752,6 @@
         },
         {
           "source": {
-            "block": "5bccb8a2-bb6a-4599-8cf2-ade038261a26",
-            "port": "outlabel"
-          },
-          "target": {
-            "block": "7beb8197-3ffd-4031-b8f4-0f6c97601aa1",
-            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
-          }
-        },
-        {
-          "source": {
             "block": "57bc21fb-0071-4509-995a-1e6bf45f14c2",
             "port": "out"
           },
@@ -2948,6 +2938,16 @@
           },
           "target": {
             "block": "50a4b3b9-83f0-4642-b10a-96afae0b6608",
+            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
+          }
+        },
+        {
+          "source": {
+            "block": "ffd18ebb-c147-46bd-a970-b7936085a55b",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "7beb8197-3ffd-4031-b8f4-0f6c97601aa1",
             "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
           }
         }
