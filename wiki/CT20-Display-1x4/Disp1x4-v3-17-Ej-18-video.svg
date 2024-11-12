@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="175.24294mm"
+   height="85.578827mm"
+   viewBox="0 0 175.24294 85.578826"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4-beta3 (01c8a1c, 2024-08-28)"
+   sodipodi:docname="Disp1x4-v3-17-Ej-18-video.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="1.1786902"
+     inkscape:cx="334.26934"
+     inkscape:cy="214.22084"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Back"
+     style="display:inline"
+     transform="translate(3.6175103,-13.46452)">
+    <rect
+       style="fill:#f9f9f9;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect16"
+       width="175.24294"
+       height="85.578827"
+       x="-3.6175103"
+       y="13.46452" />
+    <rect
+       style="fill:#f9f9f9;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect15"
+       width="169.27444"
+       height="79.472183"
+       x="-0.63326657"
+       y="16.517845" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(3.6175103,-13.46452)">
+    <path
+       style="fill:#2a7fff;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264583, 2.11665;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 64.251152,39.776702 V 75.491184"
+       id="path32"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#2a7fff;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264583, 2.11665;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 113.39984,39.792759 V 77.672165"
+       id="path3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#2a7fff;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264583, 2.11665;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 88.921653,39.787896 V 76.822544"
+       id="path2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#2a7fff;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ConcaveTriangle);marker-end:url(#ConcaveTriangle)"
+       d="M 41.993291,29.893785 H 135.47425"
+       id="path58"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none"
+       d="m 29.943729,64.914003 h 9.829241 73.62687 V 49.54242 h 24.66434"
+       id="path7"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.92522px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.339645;stroke-linecap:round"
+       x="51.974854"
+       y="72.426682"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000080;stroke:none;stroke-width:0.339645"
+         x="51.974854"
+         y="72.426682">Pixel0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.92522px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.339645;stroke-linecap:round"
+       x="90.202286"
+       y="27.555691"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000080;stroke:none;stroke-width:0.339645"
+         x="90.880714"
+         y="27.555691">Frame </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10.5994px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-dasharray:2.11667, 6.35002"
+       x="49.346382"
+       y="60.761745"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="fill:#000000;stroke:none;stroke-width:1.05833"
+         x="49.346382"
+         y="60.761745">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10.5994px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-dasharray:2.11667, 6.35002"
+       x="73.113815"
+       y="60.761745"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="fill:#000000;stroke:none;stroke-width:1.05833"
+         x="73.113815"
+         y="60.761745">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10.5994px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-dasharray:2.11667, 6.35002"
+       x="97.573502"
+       y="60.761745"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="fill:#000000;stroke:none;stroke-width:1.05833"
+         x="97.573502"
+         y="60.761745">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10.5994px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-dasharray:2.11667, 6.35002"
+       x="122.9562"
+       y="60.761745"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="fill:#000000;stroke:none;stroke-width:1.05833"
+         x="122.9562"
+         y="60.761745">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.92522px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.339645;stroke-linecap:round"
+       x="75.973045"
+       y="72.450378"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000080;stroke:none;stroke-width:0.339645"
+         x="75.973045"
+         y="72.450378">Pixel1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.92522px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.339645;stroke-linecap:round"
+       x="101.35574"
+       y="72.450378"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000080;stroke:none;stroke-width:0.339645"
+         x="101.35574"
+         y="72.450378">Pixel2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.92522px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.339645;stroke-linecap:round"
+       x="125.39062"
+       y="72.450378"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000080;stroke:none;stroke-width:0.339645"
+         x="125.39062"
+         y="72.450378">Pixel3</tspan></text>
+    <path
+       style="fill:#2a7fff;stroke:#0000ff;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.529165, 1.05833;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 138.09689,23.943518 V 75.141324"
+       id="path16"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#2a7fff;stroke:#0000ff;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.529165, 1.05833;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 39.762356,23.943518 V 75.141324"
+       id="path19"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.92522px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.339645;stroke-linecap:round"
+       x="18.031574"
+       y="57.43045"
+       id="text20"><tspan
+         sodipodi:role="line"
+         id="tspan20"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#000000;stroke:none;stroke-width:0.339645"
+         x="18.031574"
+         y="57.43045">Señal de</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#000000;stroke:none;stroke-width:0.339645"
+         x="18.031574"
+         y="64.836975"
+         id="tspan21">Video</tspan></text>
+    <g
+       id="g1"
+       transform="matrix(1.4537751,0,0,1.4537751,-96.910812,-6.109864)"
+       style="stroke-width:0.687864">
+      <circle
+         style="fill:#000000;stroke:none;stroke-width:0.727987;stroke-linejoin:round;stroke-dasharray:1.45598, 4.36794"
+         id="circle14"
+         cx="172.53271"
+         cy="45.998592"
+         r="1.3491702" />
+      <circle
+         style="fill:#000000;stroke:none;stroke-width:0.727987;stroke-linejoin:round;stroke-dasharray:1.45598, 4.36794"
+         id="circle15"
+         cx="177.21616"
+         cy="45.998592"
+         r="1.3491702" />
+      <circle
+         style="fill:#000000;stroke:none;stroke-width:0.727987;stroke-linejoin:round;stroke-dasharray:1.45598, 4.36794"
+         id="circle1"
+         cx="167.84927"
+         cy="45.998592"
+         r="1.3491702" />
+    </g>
+  </g>
+</svg>
