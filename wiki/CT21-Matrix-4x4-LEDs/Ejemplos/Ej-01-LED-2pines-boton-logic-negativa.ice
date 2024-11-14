@@ -73,16 +73,16 @@
           "id": "9b88d22f-f66f-4235-b85a-392643e0abe4",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 1: Encendiendo un LED con 2 pines (Lógica negativa)",
+            "info": "# Ejemplo 1: Encendiendo un LED con 2 pines (Lógica negativa)\n\nEncendiendo un LED conectados a 2 pines de la FPGA. El pin positivo está  \nsiempre habilitado, y al negativo se le conecta un pulsador,  \nque permite encenderlo y apagarlo (con lógica negativa)",
             "readonly": true
           },
           "position": {
             "x": 504,
-            "y": 152
+            "y": 72
           },
           "size": {
-            "width": 888,
-            "height": 72
+            "width": 880,
+            "height": 112
           }
         },
         {
