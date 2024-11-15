@@ -101,11 +101,11 @@
           "id": "57d8de66-03e4-47c1-b977-874e6df9478b",
           "type": "basic.info",
           "data": {
-            "info": "Encender LED  \n(Lógica negativa)",
+            "info": "Encender LED  \n(Lógica positiva)",
             "readonly": true
           },
           "position": {
-            "x": 720,
+            "x": 744,
             "y": 416
           },
           "size": {
