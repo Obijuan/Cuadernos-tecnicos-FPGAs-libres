@@ -25,15 +25,21 @@
      inkscape:document-units="mm"
      showguides="true"
      inkscape:zoom="1.1786902"
-     inkscape:cx="359.29712"
-     inkscape:cy="180.28486"
+     inkscape:cx="380.93131"
+     inkscape:cy="168.40727"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     showgrid="false" />
+     showgrid="false">
+    <sodipodi:guide
+       position="80.624349,65.140492"
+       orientation="0,-1"
+       id="guide5"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <defs
      id="defs1">
     <marker
@@ -86,17 +92,17 @@
      transform="translate(3.6175103,-13.46452)">
     <path
        style="fill:#2a7fff;stroke:#000000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264582, 2.11666;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 144.49561,31.608701 v 55.16363"
+       d="M 144.49561,35.355176 V 86.772331"
        id="path42"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#2a7fff;stroke:#000000;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264584, 2.11666;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 110.6962,31.607988 V 86.640037"
+       d="M 110.6962,35.478187 V 86.649319"
        id="path41"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#2a7fff;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264583, 2.11665;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 43.06692,31.563731 V 87.741519"
+       d="M 43.06692,35.364203 V 87.741519"
        id="path32"
        sodipodi:nodetypes="cc" />
     <path
@@ -106,7 +112,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#2a7fff;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264583, 2.11665;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 76.87455,31.722173 V 86.808886"
+       d="m 76.87455,35.487466 v 51.32678"
        id="path3"
        sodipodi:nodetypes="cc" />
     <path
@@ -647,5 +653,69 @@
        d="M 93.687217,49.119361 H 161.50359"
        id="path66"
        sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#2a7fff;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ConcaveTriangle);marker-end:url(#ConcaveTriangle)"
+       d="M 27.699614,32.846629 H 58.344546"
+       id="path1"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.07575px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.339645;stroke-linecap:round"
+       x="42.96862"
+       y="31.64917"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000080;stroke:none;stroke-width:0.339645"
+         x="42.96862"
+         y="31.64917">Línea 0</tspan></text>
+    <path
+       style="fill:#2a7fff;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ConcaveTriangle);marker-end:url(#ConcaveTriangle)"
+       d="M 61.678292,32.846629 H 92.323224"
+       id="path5"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.07575px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.339645;stroke-linecap:round"
+       x="76.789024"
+       y="31.64917"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000080;stroke:none;stroke-width:0.339645"
+         x="76.789024"
+         y="31.64917">Línea 1</tspan></text>
+    <path
+       style="fill:#2a7fff;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ConcaveTriangle);marker-end:url(#ConcaveTriangle)"
+       d="m 95.5103,32.846629 h 30.64493"
+       id="path6"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.07575px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.339645;stroke-linecap:round"
+       x="110.7793"
+       y="31.64917"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000080;stroke:none;stroke-width:0.339645"
+         x="110.7793"
+         y="31.64917">Línea 0</tspan></text>
+    <path
+       style="fill:#2a7fff;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ConcaveTriangle);marker-end:url(#ConcaveTriangle)"
+       d="m 129.48898,32.846629 h 30.64493"
+       id="path9"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.07575px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.339645;stroke-linecap:round"
+       x="144.59972"
+       y="31.64917"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000080;stroke:none;stroke-width:0.339645"
+         x="144.59972"
+         y="31.64917">Línea 1</tspan></text>
   </g>
 </svg>
