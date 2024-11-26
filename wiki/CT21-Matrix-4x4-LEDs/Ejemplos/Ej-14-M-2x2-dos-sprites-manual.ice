@@ -403,12 +403,12 @@
           "id": "9b88d22f-f66f-4235-b85a-392643e0abe4",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 14: Matriz 2x2: Animación manual de 2 sprites  \n\nEn el display 2x2 se muestran estos dos sprites:\n\n🔴⚫  ⚫🔴\n⚫🔴  🔴⚫\n\nSe cambia de uno a otro mediante el pulsador `SW1`",
+            "info": "# Ejemplo 14: Matriz 2x2: Animación manual de 2 sprites  \n\nEn el display 2x2 se muestran estos dos sprites:\n\n```\nSprite 0  Sprite 1\n🔴⚫      ⚫🔴  \n⚫🔴      🔴⚫  \n```\n\nSe cambia de uno a otro mediante el pulsador `SW1`",
             "readonly": true
           },
           "position": {
             "x": -1016,
-            "y": -408
+            "y": -464
           },
           "size": {
             "width": 752,
