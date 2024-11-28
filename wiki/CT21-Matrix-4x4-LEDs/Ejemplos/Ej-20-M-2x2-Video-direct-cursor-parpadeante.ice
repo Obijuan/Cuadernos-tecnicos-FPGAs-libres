@@ -459,7 +459,7 @@
           "id": "92f0aaf3-c950-4de0-bedc-53df7197c029",
           "type": "basic.constant",
           "data": {
-            "name": "",
+            "name": "Parpadeo_Hz",
             "value": "2",
             "local": false
           },
