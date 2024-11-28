@@ -472,7 +472,7 @@
           "id": "9b88d22f-f66f-4235-b85a-392643e0abe4",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 19: Matriz 2x2: Cursor movido con teclas\n\nCon el pulsador `SW1` el cursor se mueve horizontalmente, hacia la derecha (vuelve a la izquierda al salirse por la derecha)  \nCon el pulsador `SW2` el cursor se mueve verticalmente, hacia abajo (vuelve a la fila 0 al salirse por abajo)  ",
+            "info": "# Ejemplo 20: Matriz 2x2: Cursor parpadeante movido con teclas\n\nCon el pulsador `SW1` el cursor se mueve horizontalmente, hacia la derecha (vuelve a la izquierda al salirse por la derecha)  \nCon el pulsador `SW2` el cursor se mueve verticalmente, hacia abajo (vuelve a la fila 0 al salirse por abajo)  ",
             "readonly": true
           },
           "position": {
