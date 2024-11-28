@@ -3,8 +3,8 @@
 
 <svg
    width="237.22083mm"
-   height="253.19633mm"
-   viewBox="0 0 237.22081 253.19634"
+   height="233.30025mm"
+   viewBox="0 0 237.22081 233.30025"
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (e7c3feb, 2024-10-09)"
@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.42554439"
-     inkscape:cx="653.28085"
-     inkscape:cy="454.71167"
+     inkscape:zoom="0.30090533"
+     inkscape:cx="329.00714"
+     inkscape:cy="187.7667"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showguides="true"
      showgrid="false" />
   <defs
@@ -83,7 +83,7 @@
        style="fill:#ffffff;stroke:none;stroke-width:0.341941;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="rect23"
        width="237.22083"
-       height="253.19633"
+       height="233.30025"
        x="-24.394915"
        y="-272.78369"
        rx="0"
@@ -92,7 +92,7 @@
        style="fill:#e6e6e6;stroke:#000000;stroke-width:0.34045;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        id="rect22"
        width="229.41989"
-       height="247.21263"
+       height="227.31654"
        x="-20.494446"
        y="-269.79184"
        rx="4.8672109"
@@ -289,8 +289,8 @@
        id="path28"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.987369;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="M 124.92058,-261.85098 V -63.670096 H 55.164725"
+       style="fill:none;stroke:#000000;stroke-width:0.987366;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 124.92058,-261.85098 V -75.080726 H 106.98105"
        id="path29"
        sodipodi:nodetypes="ccc" />
     <circle
@@ -372,22 +372,22 @@
     <path
        id="path42"
        style="fill:#b3b3b3;stroke:#000000;stroke-width:0.422962;stroke-linecap:round;stroke-linejoin:round"
-       d="M -2.2939922,-69.214496 H 13.207638 l 6.200973,5.5444 -6.200973,5.5444 H -2.2939922 Z"
+       d="m 58.513634,-80.554825 h 15.50163 l 6.200972,5.5444 -6.200972,5.5444 h -15.50163 z"
        sodipodi:nodetypes="cccccc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.06956px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#000000;stroke-width:0.422962;stroke-linecap:round;stroke-linejoin:round"
-       x="-0.28130239"
-       y="-60.94714"
+       x="60.781715"
+       y="-72.240044"
        id="text42"
        transform="scale(0.99581756,1.0042)"><tspan
          sodipodi:role="line"
          id="tspan42"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#000000;stroke-width:0.422962"
-         x="-0.28130239"
-         y="-60.94714">Col1</tspan></text>
+         x="60.781715"
+         y="-72.240044">Col1</tspan></text>
     <path
-       d="m 34.040804,-73.183546 16.481966,9.47275 -16.481966,9.473238 z"
+       d="m 86.055516,-84.523875 16.481974,9.47275 -16.481974,9.473238 z"
        id="path43"
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#000000;stroke-width:0.814627;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
@@ -395,8 +395,8 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <ellipse
-       cx="52.787956"
-       cy="-63.740395"
+       cx="104.80267"
+       cy="-75.080727"
        id="ellipse43"
        style="fill:none;stroke:#000000;stroke-width:0.814627;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        rx="2.17838"
@@ -407,8 +407,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:1.22193px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.101828px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="35.375988"
-       y="-61.868889"
+       x="87.635208"
+       y="-73.156158"
        id="text43"
        transform="scale(0.99532129,1.0047007)"
        inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Logic_gates/png/not.png"
@@ -416,12 +416,12 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan43"
-         x="35.375988"
-         y="-61.868889"
+         x="87.635208"
+         y="-73.156158"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.05832px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.101828px">Not</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.84592;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="M 34.040804,-63.670096 H 19.408611"
+       d="m 86.055516,-75.010425 h -5.83928"
        id="path44"
        sodipodi:nodetypes="cc" />
     <text
@@ -523,8 +523,8 @@
          x="147.66008"
          y="-228.43396">(2,0)</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.987375;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="M 173.90335,-261.85098 V -41.478667 H 54.965253"
+       style="fill:none;stroke:#000000;stroke-width:0.987374;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 173.90335,-261.85098 V -59.627887 H 157.50362"
        id="path17"
        sodipodi:nodetypes="ccc" />
     <circle
@@ -752,22 +752,22 @@
     <path
        id="path70"
        style="fill:#b3b3b3;stroke:#000000;stroke-width:0.422962;stroke-linecap:round;stroke-linejoin:round"
-       d="M -2.2939922,-47.023068 H 13.207638 l 6.200973,5.5444 -6.200973,5.5444 H -2.2939922 Z"
+       d="m 108.37674,-65.101989 h 15.50163 l 6.20097,5.5444 -6.20097,5.5444 h -15.50163 z"
        sodipodi:nodetypes="cccccc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.06956px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#000000;stroke-width:0.422962;stroke-linecap:round;stroke-linejoin:round"
-       x="-0.28130239"
-       y="-38.848526"
+       x="110.85425"
+       y="-56.851833"
        id="text70"
        transform="scale(0.99581756,1.0042)"><tspan
          sodipodi:role="line"
          id="tspan70"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#000000;stroke-width:0.422962"
-         x="-0.28130239"
-         y="-38.848526">Col2</tspan></text>
+         x="110.85425"
+         y="-56.851833">Col2</tspan></text>
     <path
-       d="m 34.040804,-50.992118 16.481966,9.47275 -16.481966,9.473238 z"
+       d="m 136.57809,-69.071039 16.48197,9.47275 -16.48197,9.473238 z"
        id="path71"
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#000000;stroke-width:0.814627;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
@@ -775,8 +775,8 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <ellipse
-       cx="52.787956"
-       cy="-41.548965"
+       cx="155.32524"
+       cy="-59.627888"
        id="ellipse71"
        style="fill:none;stroke:#000000;stroke-width:0.814627;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        rx="2.17838"
@@ -787,8 +787,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:1.22193px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.101828px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="35.375988"
-       y="-39.781288"
+       x="138.39528"
+       y="-57.775623"
        id="text71"
        transform="scale(0.99532129,1.0047007)"
        inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Logic_gates/png/not.png"
@@ -796,12 +796,12 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan71"
-         x="35.375988"
-         y="-39.781288"
+         x="138.39528"
+         y="-57.775623"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.05832px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.101828px">Not</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.84592;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="M 34.040804,-41.478668 H 19.408611"
+       d="m 136.57809,-59.557589 h -6.49875"
        id="path72"
        sodipodi:nodetypes="cc" />
   </g>
