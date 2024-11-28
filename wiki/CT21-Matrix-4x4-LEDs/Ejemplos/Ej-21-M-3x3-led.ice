@@ -257,7 +257,7 @@
           "id": "98dbd1c3-b828-4bde-812f-1b96899e7051",
           "type": "basic.info",
           "data": {
-            "info": "## Display 2x2",
+            "info": "## Display 3x3",
             "readonly": true
           },
           "position": {
@@ -342,8 +342,7 @@
         {
           "source": {
             "block": "31c689ff-925d-4e41-993f-d84b8cd2231b",
-            "port": "50004d4c-3153-4049-88f7-bad5e748383b",
-            "size": 3
+            "port": "50004d4c-3153-4049-88f7-bad5e748383b"
           },
           "target": {
             "block": "9087473d-d19a-4a4d-bc1d-ac9604c9abf8",
@@ -358,16 +357,14 @@
           },
           "target": {
             "block": "f0b7ded8-36c7-4e69-9e5f-4f75062e1a63",
-            "port": "in",
-            "size": 3
+            "port": "in"
           },
           "size": 3
         },
         {
           "source": {
             "block": "2c05091c-6e07-45ec-a906-c4f46b555591",
-            "port": "50004d4c-3153-4049-88f7-bad5e748383b",
-            "size": 3
+            "port": "50004d4c-3153-4049-88f7-bad5e748383b"
           },
           "target": {
             "block": "6b5d04a7-af2e-42fc-b60b-f83a91a78012",
@@ -382,8 +379,7 @@
           },
           "target": {
             "block": "34741126-d60d-4396-98a8-6ef19c916a27",
-            "port": "4acc0292-a290-4b2f-823b-b89a223c8a11",
-            "size": 3
+            "port": "4acc0292-a290-4b2f-823b-b89a223c8a11"
           },
           "size": 3
         },
