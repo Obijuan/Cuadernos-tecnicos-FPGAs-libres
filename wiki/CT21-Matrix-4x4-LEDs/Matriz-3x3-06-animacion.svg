@@ -39,8 +39,7 @@
      id="layer2"
      inkscape:label="Back"
      transform="translate(-112.88074,-40.713478)"
-     style="display:inline"
-     sodipodi:insensitive="true"><rect
+     style="display:inline"><rect
        style="fill:#ffffff;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
        id="rect17"
        width="98.063812"
@@ -201,8 +200,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-166.77882,-36.346747)"
-     style="display:inline"
-     sodipodi:insensitive="true"><g
+     style="display:none"><g
        id="g1"
        transform="translate(45.879403,-25.578428)"><g
          id="g77"
@@ -267,9 +265,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="LED-1-0"
-     style="display:inline"
-     transform="translate(-87.2229,0.97506691)"
-     sodipodi:insensitive="true"><g
+     style="display:none"
+     transform="translate(-87.2229,0.97506691)"><g
        id="g2"
        transform="translate(-15.363422,-62.90023)"
        style="display:inline"><g
@@ -335,9 +332,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="LED-2-0"
-     style="display:inline"
-     transform="translate(-87.2229,0.97506691)"
-     sodipodi:insensitive="true"><g
+     style="display:none"
+     transform="translate(-87.2229,0.97506691)"><g
        id="g2-8"
        transform="translate(3.0620485,-62.90023)"
        style="display:inline"><g
@@ -403,9 +399,8 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="LED-0_1"
-     style="display:inline"
-     transform="translate(-87.2229,0.97506691)"
-     sodipodi:insensitive="true"><g
+     style="display:none"
+     transform="translate(-87.2229,0.97506691)"><g
        id="g2-8-8"
        transform="translate(-33.247735,-44.485671)"
        style="display:inline"><g
@@ -471,8 +466,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="LED-1_1"
-     style="display:inline"
-     sodipodi:insensitive="true"><g
+     style="display:none"><g
        id="g2-8-8-7"
        transform="translate(-102.58632,-43.624588)"
        style="display:inline"><g
@@ -538,8 +532,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="LED-2_1"
-     style="display:inline"
-     sodipodi:insensitive="true"><g
+     style="display:none"><g
        id="g2-8-8-7-3"
        transform="translate(-84.160836,-43.510581)"
        style="display:inline"><g
@@ -605,7 +598,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="LED-0_2"
-     sodipodi:insensitive="true"><g
+     style="display:none"><g
        id="g2-8-8-7-3-1"
        transform="translate(-120.52582,-24.868053)"
        style="display:inline"><g
@@ -671,7 +664,7 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="LED-1_2"
-     sodipodi:insensitive="true"><g
+     style="display:none"><g
        id="g2-8-8-7-3-1-5"
        transform="translate(-102.5863,-24.794812)"
        style="display:inline"><g
@@ -737,7 +730,7 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="LED-1_3"
-     sodipodi:insensitive="true"><g
+     style="display:inline"><g
        id="g2-8-8-7-3-1-5-3"
        transform="translate(-83.9751,-24.868018)"
        style="display:inline"><g
