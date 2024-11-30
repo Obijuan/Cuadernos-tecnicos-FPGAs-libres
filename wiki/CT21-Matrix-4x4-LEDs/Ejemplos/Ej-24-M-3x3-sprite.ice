@@ -257,16 +257,16 @@
           "id": "9b88d22f-f66f-4235-b85a-392643e0abe4",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 24: Matriz 3x3: Dibujo de un sprite 3x3 desde ROM\n\n",
+            "info": "# Ejemplo 24: Matriz 3x3: Dibujo de un sprite 3x3 desde ROM\n\nEste es el **sprite** que se dibuja a partir de los bits de la ROM:  \n\n```\nROM   Pantalla\n010   ⚫🔴⚫\n111 ➡️ 🔴🔴🔴\n010   ⚫🔴⚫\n```\n",
             "readonly": true
           },
           "position": {
-            "x": -352,
-            "y": -136
+            "x": -360,
+            "y": -232
           },
           "size": {
-            "width": 1072,
-            "height": 56
+            "width": 1064,
+            "height": 184
           }
         },
         {
