@@ -315,7 +315,7 @@
           },
           "size": {
             "width": 240,
-            "height": 288
+            "height": 296
           }
         },
         {
