@@ -301,17 +301,17 @@
           }
         },
         {
-          "id": "2de8acc7-3398-4d1c-bb00-f449b9a6ff71",
+          "id": "a5a7a857-61b0-411e-91f8-54cdcba959ce",
           "type": "basic.memory",
           "data": {
-            "name": "SPINNER",
-            "list": "000 // Sprite 0\n100\n000\n0   //--------\n010 // Sprite 1\n000\n000\n0   //----------\n000 // Sprite 2\n001\n000 \n0   //----------\n000 // Sprite 3\n000\n010\n0",
+            "name": "MOLINO",
+            "list": "000 // Sprite 0\n111\n000\n0   //--------\n100 // Sprite 1\n010\n001\n0   //----------\n010 // Sprite 2\n010\n010 \n0   //----------\n001 // Sprite 3\n010\n100\n0",
             "local": false,
             "format": 10
           },
           "position": {
             "x": -824,
-            "y": 224
+            "y": 232
           },
           "size": {
             "width": 240,
@@ -322,7 +322,7 @@
           "id": "9b88d22f-f66f-4235-b85a-392643e0abe4",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 28: Matriz 3x3: Animación de 4 sprites: Rotación de un LED \n\nImplementación de un spinner que rota un LED en sentido horario\n",
+            "info": "# Ejemplo 28: Matriz 3x3: Animación de 4 sprites: Rotación de una barra \n\nImplementación de un spinner que rota una barra en sentido horario\n",
             "readonly": true
           },
           "position": {
@@ -430,8 +430,8 @@
             "readonly": true
           },
           "position": {
-            "x": -536,
-            "y": 544
+            "x": -544,
+            "y": 552
           },
           "size": {
             "width": 128,
@@ -538,7 +538,7 @@
           "id": "511904ed-9247-4ea1-bdb5-6dc5a25278f5",
           "type": "basic.info",
           "data": {
-            "info": "```\nSprite 0    Sprite 1   Sprite 2   Sprite 3\n⚫⚫⚫     ⚫🔴⚫     ⚫⚫⚫     ⚫⚫⚫\n🔴⚫⚫     ⚫⚫⚫     ⚫⚫🔴     ⚫⚫⚫\n⚫⚫⚫     ⚫⚫⚫     ⚫⚫⚫     ⚫🔴⚫\n```\n",
+            "info": "```\nSprite 0  Sprite 1  Sprite 2 Sprite 3\n⚫⚫⚫   🔴⚫⚫   ⚫🔴⚫   ⚫⚫🔴\n🔴🔴🔴   ⚫🔴⚫   ⚫🔴⚫   ⚫🔴⚫\n⚫⚫⚫   ⚫⚫🔴   ⚫🔴⚫   🔴⚫⚫\n```\n",
             "readonly": true
           },
           "position": {
@@ -725,16 +725,6 @@
         },
         {
           "source": {
-            "block": "2de8acc7-3398-4d1c-bb00-f449b9a6ff71",
-            "port": "memory-out"
-          },
-          "target": {
-            "block": "2d89c30d-5cfb-4bd3-a54f-124f2dddf2db",
-            "port": "1c66e5f8-c17c-4912-93b5-2954c092d6eb"
-          }
-        },
-        {
-          "source": {
             "block": "c22180dd-0b33-4980-b007-61a0cfb401c6",
             "port": "outlabel"
           },
@@ -780,6 +770,16 @@
             "port": "inlabel"
           },
           "size": 2
+        },
+        {
+          "source": {
+            "block": "a5a7a857-61b0-411e-91f8-54cdcba959ce",
+            "port": "memory-out"
+          },
+          "target": {
+            "block": "2d89c30d-5cfb-4bd3-a54f-124f2dddf2db",
+            "port": "1c66e5f8-c17c-4912-93b5-2954c092d6eb"
+          }
         }
       ]
     }
