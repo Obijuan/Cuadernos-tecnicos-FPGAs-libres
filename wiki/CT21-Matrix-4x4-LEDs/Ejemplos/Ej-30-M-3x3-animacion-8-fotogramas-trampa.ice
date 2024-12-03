@@ -340,7 +340,7 @@
           "id": "9b88d22f-f66f-4235-b85a-392643e0abe4",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 30: Matriz 3x3: Animación de x sprites: Rotación de una barra \n\nImplementación de una animación de 8 fotogramas, a partir de 3 sprites de la trampa\n",
+            "info": "# Ejemplo 30: Matriz 3x3: Animación de 8 sprites: Trampa \n\nImplementación de una animación de 8 fotogramas, a partir de 3 sprites de la trampa\n",
             "readonly": true
           },
           "position": {
@@ -678,6 +678,22 @@
           "size": {
             "width": 288,
             "height": 112
+          }
+        },
+        {
+          "id": "e65dd24f-86c7-4084-9e50-e41853f8c61b",
+          "type": "basic.info",
+          "data": {
+            "info": "ROM 3x2",
+            "readonly": true
+          },
+          "position": {
+            "x": -640,
+            "y": 240
+          },
+          "size": {
+            "width": 96,
+            "height": 32
           }
         }
       ],
