@@ -102,7 +102,7 @@
           "type": "basic.info",
           "data": {
             "info": "```\nSprite 0  Sprite 1  Sprite 2  Sprite 3\n🔴🔴🔴   ⚫⚫⚫    ⚫⚫⚫   ⚫⚫⚫\n⚫🔴⚫   🔴🔴🔴    ⚫⚫⚫   🔴🔴🔴\n⚫🔴⚫   ⚫🔴⚫    🔴🔴🔴   ⚫🔴⚫\n```",
-            "readonly": true
+            "readonly": false
           },
           "position": {
             "x": 1160,
