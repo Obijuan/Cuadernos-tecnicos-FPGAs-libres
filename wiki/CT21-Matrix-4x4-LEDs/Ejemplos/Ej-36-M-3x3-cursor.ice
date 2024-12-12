@@ -777,7 +777,7 @@
           "type": "basic.constant",
           "data": {
             "name": "Y",
-            "value": "'b010",
+            "value": "'b100",
             "local": false
           },
           "position": {
