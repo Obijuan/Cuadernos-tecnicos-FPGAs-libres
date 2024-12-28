@@ -291,7 +291,7 @@
           "id": "67677fd2-394d-45c1-90fa-c9bd7f71f3c0",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 46: Matriz 4x4: Animación de 10 fotogramas: Trampa\n\nanimación de 10 fotogramas y 4 sprites\n\n",
+            "info": "# Ejemplo 46: Matriz 4x4: Animación de 10 fotogramas: Trampa\n\nAnimación de 10 fotogramas y 4 sprites\n\n",
             "readonly": true
           },
           "position": {
