@@ -990,7 +990,7 @@
           "id": "f448def0-ee3d-4b52-950f-82a14ff4f410",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 52: Matriz 4x4: Pantalla gráfica virtual \n\nMoverse por una pantalla gráfica virtual de 16x8  \nSe representa un mini-laberinto por el que movemos la cámara (4x4)",
+            "info": "# Ejemplo 52: Matriz 4x4: Pantalla gráfica virtual \n\nMoverse por una pantalla gráfica virtual de 12x8  \nSe representa un mini-laberinto por el que movemos la cámara (4x4)  \nUtilizando 4 pulsadores desplazamos la cámara por el laberinto",
             "readonly": true
           },
           "position": {
@@ -999,7 +999,7 @@
           },
           "size": {
             "width": 1248,
-            "height": 80
+            "height": 112
           }
         },
         {
