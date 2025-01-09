@@ -41,7 +41,7 @@
           "id": "1a224649-0097-4700-81c8-5356ff17cff0",
           "type": "basic.inputLabel",
           "data": {
-            "name": "right",
+            "name": "shift",
             "blockColor": "springgreen",
             "virtual": true,
             "pins": [
@@ -224,7 +224,7 @@
           "id": "764b76be-3d16-4da7-ad3e-92358f7a4d56",
           "type": "basic.outputLabel",
           "data": {
-            "name": "right",
+            "name": "shift",
             "blockColor": "springgreen",
             "virtual": true,
             "pins": [
@@ -352,7 +352,7 @@
           "type": "basic.constant",
           "data": {
             "name": "MOD",
-            "value": "28",
+            "value": "29",
             "local": false
           },
           "position": {
@@ -713,6 +713,22 @@
           "size": {
             "width": 576,
             "height": 136
+          }
+        },
+        {
+          "id": "ecae2f2b-2e12-4d5a-94ae-3c1f08c5511a",
+          "type": "basic.info",
+          "data": {
+            "info": "Velocidad del  \ndesplazamiento",
+            "readonly": true
+          },
+          "position": {
+            "x": -264,
+            "y": 288
+          },
+          "size": {
+            "width": 200,
+            "height": 48
           }
         }
       ],
