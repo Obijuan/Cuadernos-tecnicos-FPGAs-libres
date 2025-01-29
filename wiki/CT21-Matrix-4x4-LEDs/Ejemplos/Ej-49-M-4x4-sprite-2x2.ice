@@ -10889,7 +10889,8 @@
             {
               "source": {
                 "block": "ad017cac-42bb-4341-b2e2-2d611349a952",
-                "port": "out"
+                "port": "out",
+                "size": 2
               },
               "target": {
                 "block": "8a521203-c4ba-4ed4-91d8-fd85d5c04e2e",
@@ -10900,7 +10901,8 @@
             {
               "source": {
                 "block": "80315e12-6d68-4a53-8078-d0c863f79a3a",
-                "port": "out"
+                "port": "out",
+                "size": 2
               },
               "target": {
                 "block": "2f073936-380c-4f99-8e63-b68bfb66fe8d",
@@ -10911,7 +10913,8 @@
             {
               "source": {
                 "block": "b0a4af0a-738c-4d9b-881c-55f745e67813",
-                "port": "out"
+                "port": "out",
+                "size": 2
               },
               "target": {
                 "block": "237b1ec3-b2d4-41d0-8f4b-930c9949ca7b",
@@ -10922,7 +10925,8 @@
             {
               "source": {
                 "block": "edd14b38-159d-48dc-907e-da71bbd3e4c2",
-                "port": "out"
+                "port": "out",
+                "size": 2
               },
               "target": {
                 "block": "d100f2c2-9926-492a-a7a0-a050dfa86f1a",
@@ -10937,7 +10941,8 @@
               },
               "target": {
                 "block": "d3ebba90-1ba3-4a64-88b1-38f24ea2603b",
-                "port": "cafb11f4-8366-4ea4-96dc-09421b1ab171"
+                "port": "cafb11f4-8366-4ea4-96dc-09421b1ab171",
+                "size": 2
               },
               "size": 2
             },
@@ -10948,7 +10953,8 @@
               },
               "target": {
                 "block": "d3ebba90-1ba3-4a64-88b1-38f24ea2603b",
-                "port": "4e04cf57-df6a-4731-8426-5d45850cbc29"
+                "port": "4e04cf57-df6a-4731-8426-5d45850cbc29",
+                "size": 2
               },
               "size": 2
             },
@@ -10959,7 +10965,8 @@
               },
               "target": {
                 "block": "775dd070-02c2-4c24-9ebf-f88f63de8c34",
-                "port": "5e178803-3b15-4a9f-a784-a729479a892c"
+                "port": "5e178803-3b15-4a9f-a784-a729479a892c",
+                "size": 2
               },
               "vertices": [
                 {
@@ -10976,7 +10983,8 @@
               },
               "target": {
                 "block": "7b65d33c-aee9-41b0-9594-7f448c4f0db6",
-                "port": "4e04cf57-df6a-4731-8426-5d45850cbc29"
+                "port": "4e04cf57-df6a-4731-8426-5d45850cbc29",
+                "size": 2
               },
               "size": 2
             },
@@ -10987,7 +10995,8 @@
               },
               "target": {
                 "block": "ad07aaa1-16ee-4f62-ab46-d43b09058084",
-                "port": "cafb11f4-8366-4ea4-96dc-09421b1ab171"
+                "port": "cafb11f4-8366-4ea4-96dc-09421b1ab171",
+                "size": 2
               },
               "size": 2
             },
@@ -10998,7 +11007,8 @@
               },
               "target": {
                 "block": "ad07aaa1-16ee-4f62-ab46-d43b09058084",
-                "port": "4e04cf57-df6a-4731-8426-5d45850cbc29"
+                "port": "4e04cf57-df6a-4731-8426-5d45850cbc29",
+                "size": 2
               },
               "size": 2
             },
@@ -11009,7 +11019,8 @@
               },
               "target": {
                 "block": "34aa8c50-7e22-4853-924d-d14ce2741834",
-                "port": "5e178803-3b15-4a9f-a784-a729479a892c"
+                "port": "5e178803-3b15-4a9f-a784-a729479a892c",
+                "size": 2
               },
               "vertices": [
                 {
@@ -11026,7 +11037,8 @@
               },
               "target": {
                 "block": "34f2c7d9-ddff-4545-892d-f6b1f16bf650",
-                "port": "4e04cf57-df6a-4731-8426-5d45850cbc29"
+                "port": "4e04cf57-df6a-4731-8426-5d45850cbc29",
+                "size": 2
               },
               "size": 2
             },
