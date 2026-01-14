@@ -1,0 +1,119 @@
+Peculiarities of the assembler for the GUS-16 V6 CPU
+====================================================
+
+The generic format of a line of source code is:
+
+label: mnemonic/directive operand,operand... ;(comments)
+label= expression ; (comments)
+
+The label may or may not be present. The label name cannot begin with a numerical digit and must be ended with either a colon ':' or equally '='. In the first case, the label is assigned the address of the current instruction, while in the second the result of evaluating the expression that follows is assigned.
+The operands can be registers ('R0' to 'R7') or evaluable expressions for literal operands. In the case of relative jumps, the direction of the instruction is automatically subtracted to obtain a signed offset.
+
+Examples:
+
+        ORG    0x20
+label1: LDA     <const16 ; label1 becomes 0x20
+
+label2= 0x14             ; label2 becomes 0x14
+
+Note that the second operand of the LDI instruction in the example is an expression. In particular it is the least significant byte (<) of the value of the 'const16' label that must be defined somewhere else in the program.
+
+When evaluating labels, mnemonics, records, and expressions, differences between upper and lower case are not considered. This is only relevant for ASCII constants and strings. So for example 'A' is worth 0x41 while 'a' is worth 0x61.
+
+DIRECTIVES
+==========
+These are the supported directives:
+
+    INCLUDE "file" Includes the indicated file into the source code.
+
+    ORG <expression> Sets the address counter to the indicated value.
+
+    WORD <expression> Directly generates a word in the code with the indicated value
+
+EXPRESSIONS
+===========
+Expressions include numerical constants, predefined variables, labels, and their possible combinations through arithmetic and/or logical operations.
+
+Numerical constants:
+
+	65      Constant expressed in decimal base
+	0x41    The same constant in hexadecimal base
+	'A'     ASCII code value of the uppercase letter A.
+
+Predefined variables:
+
+    .       (dot) It is the current value of the address counter.
+            Usage example: "JMP . ; never ending loop"
+
+Unary operators:
+They are the first character of the expression:
+
+	-value 	The sign of expression "value" is changed (two's complement).
+	~value 	The bits of the expression "value" are inverted (one's complement)
+	<value 	The 8 least significant bits of the expression "value". Equivalent to (value&0xff)
+	>value 	The 8 most significant bits of the value expression. Equivalent to (value>>8)
+
+Binary operators:
+
+	a+b 	The sum of the expressions a and b
+	a-b 	The subtraction of a and b
+	a*b 	The product of a and b
+	a/b 	The integer division of a by b
+	a%b 	The remainder (module) of the integer division of a by b
+	a&b 	The logical AND of the bits of a and b
+	a|b 	The logical OR of the bits of a and b
+	a^b 	The exclusive-OR (XOR) function of the bits of a and b
+	a>>b 	a shifted b bits to the right. Zeros are shifted into the MSB bits.
+	a<<b 	a shifted b bits to the left. Zeros are shifted into the LSB bits.
+
+Parenthesis:
+They allow to specify the order of operations in complex expressions. Below are some examples:
+
+	index= 	(label2-label1)/2
+
+	pos= 	base+(resvd+index)*2
+
+	divider= 	(FCLK/16+BAUD/2)/BAUD-1
+
+	TST 	(1<<RX_AVIL)
+
+	ANDA 	(~((1<<ENAB)|(1<<PWON)))&0xf
+
+	org 	(.+0x000f)&0xfff0 	; align to multiple of 16
+
+Expressions are evaluated using 32-bit integer arithmetic, which usually prevents overflows in intermediate results, but this is not checked.
+
+Output file
+===========
+
+The output file contains a sequence of memory segments listed as 16-bit hexadecimal values. Each segment begins with an address marker of the type "@abcd" which is followed by a listing of the segment data.
+
+Example with two segments, one with a single word at address 0x0000 and another with 5 words at address 0x0200:
+	@0000
+	F200
+	@0200
+	6F02
+	F002
+	FFFE
+	0081
+	6887
+
+This type of files can be read in Verilog language using:
+	$readmemh
+
+Command line options
+====================
+
+The assembler command line is:
+
+bac01asm [options] sourcefile.asm
+
+There are the following options to indicate on the command line:
+
+-o outputfile.hex Indicates the name of the output file. Default is "out.hex"
+
+-l listfile.lst   Indicates the name of the list file. Default is "out.lst"
+
+-s statfile.lst   Indicates the name of the instruction statistics file.
+                  By default this file is not generated.
+
