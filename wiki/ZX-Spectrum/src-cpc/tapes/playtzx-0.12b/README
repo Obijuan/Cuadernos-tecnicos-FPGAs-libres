@@ -1,0 +1,76 @@
+PlayTZX for Linux
+-----------------
+
+This is a version 0.12b of PlayTZX for Linux. It is mostly just Tomaz
+Kac's PlayTZX source code with Linux audio things. It has been updated
+with version 0.59b from Tomaz Kac by Fredrick Meunier.
+
+If you haven't already noticed, this Readme is VERY bad, I will have to
+write better one some day. :)
+
+Compiling
+---------
+
+Makefile is pretty straightforward. And it works in my case. :)
+It should compile with (x86?) Linux-systems with Open Sound System things,
+which is some kind of standard in Linux.
+
+Usage
+-----
+
+If you run playtzx without arguments you will see this help:
+
+ZXTape Utilities - Play TZX , TZX to VOC Converter and TZX Info v0.56b
+
+Usage: PLAYTZX [switches] FILE.TZX [OUTPUT.VOC]
+
+       Switches:  -voc      Create a .VOC file instead of SB output
+		  -au       Create a .au file instead of /dev/audio output
+		  -freq n   Set sampling frequency to n Hz
+		  -info     Show extensive Info on TZX file
+		  -one      Show One line of Info per block (condensed form)
+		  -x        eXpand the Groups in one line mode
+		  -b    n   Start replay/conversion  at block n
+		  -e    n   End replay/conversion after block n
+		  -p        Wait after each page of Info
+
+I hope most of those are quite clear. -p is not very clever option and it will
+be removed. -au option does work. I decided to add the -au feature because 
+every UNIX-machine has a .au-file player (eg. "cat file.au > /dev/audio"). 
+Note however that this way the sound you hear might be wrong. It seems that
+/dev/audio thinks that .au file is sampled at 8kHz even though it isn't AND
+even though the .au file header says that it is sampled at some other sample
+rate. But converting .au file created by playtzx with sox to .wav-format
+and playing it with some wav-player makes the right kind of noise. I think
+this .au-file playing feature is quite useless but because it was easy to
+add, I did it... (but finding out why it does not work when sample rate is
+not 8kHz was not easy...)
+
+.voc file output is straight from Tomaz original code. The only way I have 
+been able to test it is to make a .voc-file, convert it to .au with sox and 
+then play it. And it sounds strange... :(
+
+Future
+------
+
+There is no future ;-) 
+
+I am moving in January 1998 and I will not have my PC anymore. And because
+developing Linux applications with a Sinclair ZX Spectrum is a bit difficult
+(at least with the rubber key 48k version ;-), I hope somebody else might
+be able to fix any bugs that are found in playtzx.
+
+I hope to be able to buy a new PC and start from scratch with a new TZX-player
+for Linux. I have already some plans... It would have command line and X
+interface and some interesting features...
+
+Feedback
+--------
+
+Any feedback on this PlayTZX for Linux is welcome. My email address is
+turtiain@iki.fi
+
+And you can get this PlayTZX on http://www.iki.fi/turtiain/playtzx.html
+
+
+

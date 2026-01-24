@@ -1,0 +1,14 @@
+aclocal.m4
+config.h.in
+configure
+stamp-h.in
+Makefile.in
+.deps
+Makefile
+config.cache
+config.h
+config.log
+config.status
+playtzx
+stamp-h
+.DS_Store

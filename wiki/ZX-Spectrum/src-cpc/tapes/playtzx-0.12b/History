@@ -1,0 +1,14 @@
+30.10.1997
+ - Released 0.1beta
+
+30.10.1997
+ - Removed all the unused PC-things...
+
+12.1.1998
+ - Removed (or actually #ifdeffed) those hid things (machines.h), executable
+   size cut down by more than 100kb!
+ - -au option DOES work also with sample rates != 8000. It seems that
+   Linux /dev/audio does not care about the sample rate information in .au-file
+   header... Take one .au file created by playtzx, convert it with sox to
+   .wav, play this with xanim and voila... Looking for better .au player :)
+ - Released 0.11
